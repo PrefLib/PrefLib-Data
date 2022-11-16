@@ -1,4 +1,4 @@
-Name: Electorial Reform Society (ERS) Data
+Name: Electoral Reform Society (ERS) Data
 
 Abbreviation: ers
 
@@ -8,11 +8,11 @@ Series Number: 00007
 
 Publication Date: 2013-08-17
 
-Description: <p>This dataset contains the results of 86 separate elections of various elections held by non-profit orginizations, trade unions, and professional orginizations.  They were originally dontated by <a href="https://sites.google.com/site/nicolaustideman/">Nicolaus Tideman</a> who secured NSF funding to have the ballots tabulated.  The ballots are from elections held under various voting rules requiring incomplete strict orders.  The tabulated results were initially collected by the Electoral Reform Society in the UK in order to support the adoption of STV and other range voting methods.</p> <p>The files contain vote records with a maximum of 29 candidates and as few as 3; the number of voters ranges from 9 to 3419.  The <b>toc</b> files have all unranked candidates tied, at the end of the order.  Additionally, some of these are complete sets of ballots from the given elections and some are random samples from the set of all ballots.</p>
+Description: <p>This dataset contains the results of 86 separate elections of various elections held by non-profit organizations, trade unions, and professional organizations.  They were originally donated by <a href="https://sites.google.com/site/nicolaustideman/">Nicolaus Tideman</a> who secured NSF funding to have the ballots tabulated.  The ballots are from elections held under various voting rules requiring incomplete strict orders.  The tabulated results were initially collected by the Electoral Reform Society in the UK in order to support the adoption of STV and other range voting methods.</p> <p>The files contain vote records with a maximum of 29 candidates and as few as 3; the number of voters ranges from 9 to 3419.  The <b>toc</b> files have all unranked candidates tied, at the end of the order.  Additionally, some of these are complete sets of ballots from the given elections and some are random samples from the set of all ballots.</p>
 
 Required Citations: 
 
-Selected Studies: N. Tideman and F. Plassmann. <em>Modeling the outcomes of vote-casting in actual elections</em>. In: Dan Felsenthal and Mose Machover (eds.) Electoral sytems: Paradoxes, assumptions, and procedures, 2012. | N. Tideman and F. Plassmann. <em>Which Voting Rule is Most Likely to Choose the Best Option?</em> Public Choice, 2013. | N. Tideman and F. Plassmann. <em>How frequently do different voting rules encounter voting paradoxes in three-candidate elections?</em> Social Choice and Welfare, 2013.
+Selected Studies: N. Tideman and F. Plassmann. <em>Modeling the outcomes of vote-casting in actual elections</em>. In: Dan Felsenthal and Mose Machover (eds.) Electoral systems: Paradoxes, assumptions, and procedures, 2012. | N. Tideman and F. Plassmann. <em>Which Voting Rule is Most Likely to Choose the Best Option?</em> Public Choice, 2013. | N. Tideman and F. Plassmann. <em>How frequently do different voting rules encounter voting paradoxes in three-candidate elections?</em> Social Choice and Welfare, 2013.
 
 file_name, modification_type, relates_to, title, description, publication_date
 00007-00000001.soi, original, , ERS Set 1, , 2013-08-17
