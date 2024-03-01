@@ -1,0 +1,22 @@
+Name: Sushi Data
+
+Abbreviation: sushi
+
+Tags: Election
+
+Series Number: 00014
+
+Publication Date: 2014-07-09
+
+Description: <p>This dataset contains the results of a series of surveys conducted by <a href="http://www.kamishima.net/sushi/">Toshihiro Kamishima</a> asking 5000 individuals for their preferences about various kinds of sushi.  There are three different datasets that were elicited in different ways:<p> <ul><li> <b>Element Series 00000001</b> contains 10 complete strict rank orders of 10 different kinds of sushi.</li> <li> <b>Element Series 00000002</b> contains individual's strict rank ordering of 100 different kinds of sushi (candidates). </li> <li> <b>Element Series 00000003</b> contains individual's scoring of sushi items on a scale of 0-4, with repeats allowed.</li> </ul> <p> This dataset contains 14 files in total including soc, soi, toi, and toc files.<br><br> <b>Note that the dataset was incorrectly converted, it has been fixed as of Jan 2016, please re-download.</b></p> <p> Due to licence issues we require that you go through Toshihiro Kamishima website to obtain the datafiles and observe the following licence terms: <ul><li> We involve Toshihiro Kamishima, his colleagues, and their employers. You involve the user of this data and his/her colleagues, and their employers. We are NOT liable for any damages or losses, arising out of or related to your use or inability to use this data set. You can use this data set for any research purpose. You must not redistribute without our permission. We would like you to acknowledge the use of these program codes or data sets in publications by citing one of our related publications, if you could.</li></ul></p>
+
+Required Citations: 
+
+Selected Studies: T. Kamishima. <em>Nantonac Collaborative Filtering: Recommendation Based on Order Responses</em>. Proceedings of the 9th International Conference on Knowledge Discovery and Data Mining (KDD), 2003. | T. Kamishima, H. Kazawa, and S. Akaho. <em>A Survey and Empirical Comparison of Object Ranking Methods</em>. In J. Furnkranz and E. Hullermeier (eds.), Preference Learning, 2010.
+
+file_name, modification_type, relates_to, title, description, publication_date
+00014-00000001.soc, original, , Sushi 10 Rank, , 2014-07-09
+00014-00000002.soi, original, , Sushi 100 Rank, , 2014-07-09
+00014-00000002.toc, imbued, 00014-00000002.soi, Sushi 100 Rank, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00014-00000003.toc, imbued, 00014-00000003.toi, Sushi 100 Score, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00014-00000003.toi, original, , Sushi 100 Score, , 2014-07-09

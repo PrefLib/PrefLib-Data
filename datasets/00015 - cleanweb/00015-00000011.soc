@@ -1,0 +1,79 @@
+# FILE NAME: 00015-00000011.soc
+# TITLE: websearch big National+parks complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 63
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.nps.gov/
+# ALTERNATIVE NAME 2: http://www.pc.gc.ca/
+# ALTERNATIVE NAME 3: http://www.nationalparks.org/
+# ALTERNATIVE NAME 4: http://en.wikipedia.org/
+# ALTERNATIVE NAME 5: http://www.sanparks.org/
+# ALTERNATIVE NAME 6: http://gorp.away.com/
+# ALTERNATIVE NAME 7: http://www.npca.org/
+# ALTERNATIVE NAME 8: http://www.utah.com/
+# ALTERNATIVE NAME 9: http://www.us-parks.com/
+# ALTERNATIVE NAME 10: http://www.areaparks.com/
+# ALTERNATIVE NAME 11: http://www.coolworks.com/
+# ALTERNATIVE NAME 12: http://www.tanzaniaparks.com/
+# ALTERNATIVE NAME 13: http://www.costarica-nationalparks.com/
+# ALTERNATIVE NAME 14: http://www.fodors.com/
+# ALTERNATIVE NAME 15: http://www.indianwildlifeportal.com/
+# ALTERNATIVE NAME 16: http://memory.loc.gov/
+# ALTERNATIVE NAME 17: http://www.weather.com/
+# ALTERNATIVE NAME 18: http://3dparks.wr.usgs.gov/
+# ALTERNATIVE NAME 19: http://www.krugerpark.co.za/
+# ALTERNATIVE NAME 20: http://wikitravel.org/
+# ALTERNATIVE NAME 21: http://www.nationalparkstraveler.com/
+# ALTERNATIVE NAME 22: http://www.americansouthwest.net/
+# ALTERNATIVE NAME 23: http://www.terragalleria.com/
+# ALTERNATIVE NAME 24: http://www.parksconservancy.org/
+# ALTERNATIVE NAME 25: http://www.nationalparkreservations.com/
+# ALTERNATIVE NAME 26: http://recovery.doi.gov/
+# ALTERNATIVE NAME 27: http://www.zionnational-park.com/
+# ALTERNATIVE NAME 28: http://usparks.about.com/
+# ALTERNATIVE NAME 29: http://www.trails.com/
+# ALTERNATIVE NAME 30: http://travel.nationalgeographic.com/
+# ALTERNATIVE NAME 31: http://www.sierraclub.org/
+# ALTERNATIVE NAME 32: http://www.leonardsworlds.com/
+# ALTERNATIVE NAME 33: http://www.pbs.org/
+# ALTERNATIVE NAME 34: http://www.amazon.com/
+# ALTERNATIVE NAME 35: http://www.chicagotribune.com/
+# ALTERNATIVE NAME 36: http://www.krugerpark-direct.com/
+# ALTERNATIVE NAME 37: http://www.eparks.com/
+# ALTERNATIVE NAME 38: http://www.canadianrockies.net/
+# ALTERNATIVE NAME 39: http://www.visitshenandoah.com/
+# ALTERNATIVE NAME 40: http://www.nature.nps.gov/
+# ALTERNATIVE NAME 41: http://www.travelwest.net/
+# ALTERNATIVE NAME 42: http://adventure.howstuffworks.com/
+# ALTERNATIVE NAME 43: http://www.parkquarters.com/
+# ALTERNATIVE NAME 44: http://www.latimes.com/
+# ALTERNATIVE NAME 45: http://www.msnbc.msn.com/
+# ALTERNATIVE NAME 46: http://www.shoppbs.org/
+# ALTERNATIVE NAME 47: http://www.yellowstone.net/
+# ALTERNATIVE NAME 48: http://www.usatoday.com/
+# ALTERNATIVE NAME 49: http://www.alaskatravel.com/
+# ALTERNATIVE NAME 50: http://www.visitsequoia.com/
+# ALTERNATIVE NAME 51: http://www.huffingtonpost.com/
+# ALTERNATIVE NAME 52: http://travel.yahoo.com/
+# ALTERNATIVE NAME 53: http://www.boston.com/
+# ALTERNATIVE NAME 54: http://video.pbs.org/
+# ALTERNATIVE NAME 55: http://www.us-national-parks.net/
+# ALTERNATIVE NAME 56: http://planning.nps.gov/
+# ALTERNATIVE NAME 57: http://www.nytimes.com/
+# ALTERNATIVE NAME 58: http://planetgreen.discovery.com/
+# ALTERNATIVE NAME 59: http://latimesblogs.latimes.com/
+# ALTERNATIVE NAME 60: http://travel.nytimes.com/
+# ALTERNATIVE NAME 61: http://www.wind.cave.national-park.com/
+# ALTERNATIVE NAME 62: http://www.flickr.com/
+# ALTERNATIVE NAME 63: http://www.gates.of.the.arctic.national-park.com/
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+1: 1,3,4,29,28,10,13,30,18,6,20,33,22,14,49,8,11,25,9,52,2,17,59,54,27,50,19,23,55,7,39,40,43,41,47,5,16,56,34,61,15,60,63,21,58,32,37,35,26,51,24,31,57,36,48,38,45,53,62,12,42,46,44
+1: 1,4,3,5,55,6,8,33,9,2,11,35,7,30,12,18,10,24,39,14,21,15,29,52,60,34,22,25,32,46,42,59,49,37,48,38,63,28,19,16,45,58,36,57,20,27,62,23,51,41,44,13,47,26,61,43,17,31,40,53,50,56,54
+1: 1,4,6,3,5,55,8,33,9,52,2,7,11,35,30,12,18,10,24,39,14,21,15,29,60,34,25,32,46,42,49,37,48,63,28,19,16,45,58,36,20,27,62,38,59,23,57,22,51,41,44,13,47,26,61,43,17,31,40,53,50,56,54

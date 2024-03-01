@@ -1,0 +1,109 @@
+# FILE NAME: 00015-00000038.soc
+# TITLE: websearch big sushi complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 93
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.sushifaq.com/
+# ALTERNATIVE NAME 2: http://www.sushilinks.com/
+# ALTERNATIVE NAME 3: http://www.japan-guide.com/
+# ALTERNATIVE NAME 4: http://www.rain.org/
+# ALTERNATIVE NAME 5: http://www.bento.com/
+# ALTERNATIVE NAME 6: http://www.kookisushi.com/
+# ALTERNATIVE NAME 7: http://www.sushisecrets.com/
+# ALTERNATIVE NAME 8: http://en.wikibooks.org/
+# ALTERNATIVE NAME 9: http://sushiref.com/
+# ALTERNATIVE NAME 10: http://www.amazon.com/
+# ALTERNATIVE NAME 11: http://sushiday.com/
+# ALTERNATIVE NAME 12: http://www.blowfishsushi.com/
+# ALTERNATIVE NAME 13: http://www.rasushi.com/
+# ALTERNATIVE NAME 14: http://en.wikipedia.org/
+# ALTERNATIVE NAME 15: http://ease.com/
+# ALTERNATIVE NAME 16: http://www.hapasushi.com/
+# ALTERNATIVE NAME 17: http://recipes.howstuffworks.com/
+# ALTERNATIVE NAME 18: http://www.garden-gifts.com/
+# ALTERNATIVE NAME 19: http://sushifan.com/
+# ALTERNATIVE NAME 20: http://www.sushizushi.com/
+# ALTERNATIVE NAME 21: http://www.sushiyasuda.com/
+# ALTERNATIVE NAME 22: http://www.sushiroku.com/
+# ALTERNATIVE NAME 23: http://rgmjapan.tripod.com/
+# ALTERNATIVE NAME 24: http://www.sushi-academy.com/
+# ALTERNATIVE NAME 25: http://www.sustainablesushi.net/
+# ALTERNATIVE NAME 26: http://www.monstersushi.com/
+# ALTERNATIVE NAME 27: http://www.tonosushi.com/
+# ALTERNATIVE NAME 28: http://sushinow.com/
+# ALTERNATIVE NAME 29: http://www.ehow.com/
+# ALTERNATIVE NAME 30: http://www.coastsushibar.com/
+# ALTERNATIVE NAME 31: http://www.sakaesushi.com/
+# ALTERNATIVE NAME 32: http://www.sushilandusa.com/
+# ALTERNATIVE NAME 33: http://www.mfsushibar.com/
+# ALTERNATIVE NAME 34: http://www.sumosushinewport.com/
+# ALTERNATIVE NAME 35: http://www.sushihouseint.com/
+# ALTERNATIVE NAME 36: http://www.namasushibar.com/
+# ALTERNATIVE NAME 37: http://www.austinsushi.com/
+# ALTERNATIVE NAME 38: http://www.thesushibar.com/
+# ALTERNATIVE NAME 39: http://sushicup.com/
+# ALTERNATIVE NAME 40: http://www.ototosushi.com/
+# ALTERNATIVE NAME 41: http://www.dksushi.com/
+# ALTERNATIVE NAME 42: http://www.sushionshea.com/
+# ALTERNATIVE NAME 43: http://www.sushitomi.com/
+# ALTERNATIVE NAME 44: http://www.sushimonsters.com/
+# ALTERNATIVE NAME 45: http://www.topix.com/
+# ALTERNATIVE NAME 46: http://www.osakasushi.com/
+# ALTERNATIVE NAME 47: http://www.offersushi.com/
+# ALTERNATIVE NAME 48: http://www.sushibrokersaz.com/
+# ALTERNATIVE NAME 49: http://www.takamisushi.com/
+# ALTERNATIVE NAME 50: http://www.sushizenmillcreek.com/
+# ALTERNATIVE NAME 51: http://www.sushiencyclopedia.com/
+# ALTERNATIVE NAME 52: http://www.happysumosushi.com/
+# ALTERNATIVE NAME 53: http://www.sushikingmd.com/
+# ALTERNATIVE NAME 54: http://www.kabutosushi.com/
+# ALTERNATIVE NAME 55: http://www.oyamasushi.com/
+# ALTERNATIVE NAME 56: http://www.facebook.com/
+# ALTERNATIVE NAME 57: http://commons.wikimedia.org/
+# ALTERNATIVE NAME 58: http://www.snopes.com/
+# ALTERNATIVE NAME 59: http://www.sushiaxiom.net/
+# ALTERNATIVE NAME 60: http://entertainment.signonsandiego.com/
+# ALTERNATIVE NAME 61: http://www.japonsushi.com/
+# ALTERNATIVE NAME 62: http://www.catalinaop.com/
+# ALTERNATIVE NAME 63: http://www.sushimagic.com/
+# ALTERNATIVE NAME 64: http://www.sushichart.com/
+# ALTERNATIVE NAME 65: http://www.banzaisushi.com/
+# ALTERNATIVE NAME 66: http://www.sushithaicary.com/
+# ALTERNATIVE NAME 67: http://www.theppk.com/
+# ALTERNATIVE NAME 68: http://www.sushifoods.com/
+# ALTERNATIVE NAME 69: http://nymag.com/
+# ALTERNATIVE NAME 70: http://web-japan.org/
+# ALTERNATIVE NAME 71: http://unisushi.net/
+# ALTERNATIVE NAME 72: http://www.oishistl.com/
+# ALTERNATIVE NAME 73: http://local.yahoo.com/
+# ALTERNATIVE NAME 74: http://www.sushirock.com/
+# ALTERNATIVE NAME 75: http://www.mahalo.com/
+# ALTERNATIVE NAME 76: http://www.kikkasushi.com/
+# ALTERNATIVE NAME 77: http://www.thenibble.com/
+# ALTERNATIVE NAME 78: http://www.eluna.com/
+# ALTERNATIVE NAME 79: http://www.international-gourmet.net/
+# ALTERNATIVE NAME 80: http://www.calorieking.com/
+# ALTERNATIVE NAME 81: http://www.mediterrasian.com/
+# ALTERNATIVE NAME 82: http://www.foodnetwork.com/
+# ALTERNATIVE NAME 83: http://www.origamirestaurant.com/
+# ALTERNATIVE NAME 84: http://www.ookasushi.com/
+# ALTERNATIVE NAME 85: http://www.kamehachi.com/
+# ALTERNATIVE NAME 86: http://www.sushirollrecipe.com/
+# ALTERNATIVE NAME 87: http://midtownlunch.com/
+# ALTERNATIVE NAME 88: http://www.quansrockinsushi.com/
+# ALTERNATIVE NAME 89: http://www.grubhub.com/
+# ALTERNATIVE NAME 90: http://www.frenzysushi.com/
+# ALTERNATIVE NAME 91: http://www.wikihow.com/
+# ALTERNATIVE NAME 92: http://www.flickr.com/
+# ALTERNATIVE NAME 93: http://www.5min.com/
+1: 14,1,3,2,82,39,8,19,28,75,20,7,17,58,13,56,63,29,22,11,15,27,9,12,81,66,50,57,48,21,68,47,36,89,42,53,10,73,61,69,91,41,40,78,35,55,88,92,33,16,5,51,46,4,70,79,52,24,77,93,34,60,26,18,44,76,37,67,38,65,54,23,80,71,31,43,59,45,64,83,86,62,49,6,32,72,84,85,30,74,90,87,25
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93
+1: 14,1,17,4,8,10,11,39,15,24,3,23,56,20,9,57,2,12,45,29,19,38,58,7,82,26,91,75,18,92,44,62,49,42,79,21,80,5,89,50,63,47,28,48,81,64,13,6,68,60,35,36,25,22,51,66,55,85,93,52,31,76,74,27,33,67,73,59,41,32,77,53,78,30,65,87,88,69,37,40,61,34,71,70,43,84,86,16,46,54,90,72,83
+1: 14,1,3,73,2,82,8,19,28,75,7,17,20,58,13,56,63,11,29,22,15,27,9,12,66,50,57,48,21,68,47,36,42,89,53,10,61,69,91,41,40,78,35,55,88,92,33,16,5,51,46,4,70,79,52,24,77,93,34,60,44,45,39,26,18,76,37,67,38,65,54,23,80,71,31,43,81,59,64,83,86,62,49,6,32,72,84,85,30,74,90,87,25

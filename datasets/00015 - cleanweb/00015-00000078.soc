@@ -1,0 +1,27 @@
+# FILE NAME: 00015-00000078.soc
+# TITLE: websearch small vintage+cars complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 12
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: http://en.wikipedia.org/wiki/Vintage_car
+# ALTERNATIVE NAME 2: http://penangtalk.com/nmvccr/
+# ALTERNATIVE NAME 3: http://www.vtr.org/
+# ALTERNATIVE NAME 4: http://www.truthorfiction.com/rumors/b/barn-of-cars.htm
+# ALTERNATIVE NAME 5: http://www.buyoldcars.com/
+# ALTERNATIVE NAME 6: http://www.dmv.org/how-to-guides/vintage-cars.php
+# ALTERNATIVE NAME 7: http://www.railwaypreservation.com/vintagetrolley/vintagetrolley.htm
+# ALTERNATIVE NAME 8: http://www.allposters.com/-st/Cars-Vintage-Art-Posters_c6633_.htm
+# ALTERNATIVE NAME 9: http://www.metropartsmarket.com/
+# ALTERNATIVE NAME 10: http://www.matthewsauctions.com/page.php?id=29
+# ALTERNATIVE NAME 11: http://www.virhistory.com/cars/cars.html
+# ALTERNATIVE NAME 12: http://www.hymanltd.com/classic_cars_dealership.htm
+2: 1,6,2,9,3,4,10,7,8,5,12,11
+1: 1,2,3,4,5,6,7,8,9,10,11,12
+1: 1,4,6,11,7,2,8,5,10,3,12,9

@@ -1,0 +1,87 @@
+# FILE NAME: 00015-00000010.soc
+# TITLE: websearch big Lipari complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 71
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.liparifoods.com/
+# ALTERNATIVE NAME 2: http://www.bestofsicily.com/
+# ALTERNATIVE NAME 3: http://www.wordtravels.com/
+# ALTERNATIVE NAME 4: http://www.world66.com/
+# ALTERNATIVE NAME 5: http://www.volcano.si.edu/
+# ALTERNATIVE NAME 6: http://www.lonelyplanet.com/
+# ALTERNATIVE NAME 7: http://wikitravel.org/
+# ALTERNATIVE NAME 8: http://www.linkedin.com/
+# ALTERNATIVE NAME 9: http://www.expedia.com/
+# ALTERNATIVE NAME 10: http://en.wikipedia.org/
+# ALTERNATIVE NAME 11: http://www.imdb.com/
+# ALTERNATIVE NAME 12: http://www.informatik.uni-trier.de/
+# ALTERNATIVE NAME 13: http://www.volcanolive.com/
+# ALTERNATIVE NAME 14: http://volcano.oregonstate.edu/
+# ALTERNATIVE NAME 15: http://www.answers.com/
+# ALTERNATIVE NAME 16: http://www.travelpod.com/
+# ALTERNATIVE NAME 17: http://www.ysu.edu/
+# ALTERNATIVE NAME 18: http://www.facebook.com/
+# ALTERNATIVE NAME 19: http://www.kayak.com/
+# ALTERNATIVE NAME 20: http://commons.wikimedia.org/
+# ALTERNATIVE NAME 21: http://www.flickr.com/
+# ALTERNATIVE NAME 22: http://www.epa.gov/
+# ALTERNATIVE NAME 23: http://www.fodors.com/
+# ALTERNATIVE NAME 24: http://www.floridayacht.com/
+# ALTERNATIVE NAME 25: http://www.drlipari.com/
+# ALTERNATIVE NAME 26: http://citeseer.ist.psu.edu/
+# ALTERNATIVE NAME 27: http://www.youtube.com/
+# ALTERNATIVE NAME 28: http://www.bradblog.com/
+# ALTERNATIVE NAME 29: http://www.smalleleganthotels.com/
+# ALTERNATIVE NAME 30: http://www.infoplease.com/
+# ALTERNATIVE NAME 31: http://www.hotelamarea.com/
+# ALTERNATIVE NAME 32: http://www.booking.com/
+# ALTERNATIVE NAME 33: http://www.tripadvisor.com/
+# ALTERNATIVE NAME 34: http://www.ahotelinitaly.com/
+# ALTERNATIVE NAME 35: http://www.hotelscombined.com/
+# ALTERNATIVE NAME 36: http://www.legacy.com/
+# ALTERNATIVE NAME 37: http://www.mindat.org/
+# ALTERNATIVE NAME 38: http://www.catholic-hierarchy.org/
+# ALTERNATIVE NAME 39: http://www.maisonlipari.ca/
+# ALTERNATIVE NAME 40: http://www.antonnews.com/
+# ALTERNATIVE NAME 41: http://encarta.msn.com/
+# ALTERNATIVE NAME 42: http://hotels.lonelyplanet.com/
+# ALTERNATIVE NAME 43: http://italy-travel.suite101.com/
+# ALTERNATIVE NAME 44: http://www.virtualtourist.com/
+# ALTERNATIVE NAME 45: http://www.amazon.com/
+# ALTERNATIVE NAME 46: http://www.planetware.com/
+# ALTERNATIVE NAME 47: http://timesofindia.indiatimes.com/
+# ALTERNATIVE NAME 48: http://www.myspace.com/
+# ALTERNATIVE NAME 49: http://www.volcanodiscovery.com/
+# ALTERNATIVE NAME 50: http://www.emmeti.it/
+# ALTERNATIVE NAME 51: http://www.jobsabroad.com/
+# ALTERNATIVE NAME 52: http://costperformance.org/
+# ALTERNATIVE NAME 53: http://weather.weatherbug.com/
+# ALTERNATIVE NAME 54: http://www.placesonline.com/
+# ALTERNATIVE NAME 55: http://www.globosapiens.net/
+# ALTERNATIVE NAME 56: http://travela.priceline.com/
+# ALTERNATIVE NAME 57: http://www.ultimateitaly.com/
+# ALTERNATIVE NAME 58: http://www.aeroyacht.com/
+# ALTERNATIVE NAME 59: http://www.dopplr.com/
+# ALTERNATIVE NAME 60: http://www.travelandtransitions.com/
+# ALTERNATIVE NAME 61: http://www.stewwebb.com/
+# ALTERNATIVE NAME 62: http://articles.latimes.com/
+# ALTERNATIVE NAME 63: http://www.wanderlustsha.com/
+# ALTERNATIVE NAME 64: http://www.frommers.com/
+# ALTERNATIVE NAME 65: http://www.questia.com/
+# ALTERNATIVE NAME 66: http://www.italianvisits.com/
+# ALTERNATIVE NAME 67: http://travel.latimes.com/
+# ALTERNATIVE NAME 68: http://www.thefreedictionary.com/
+# ALTERNATIVE NAME 69: http://travel.yahoo.com/
+# ALTERNATIVE NAME 70: http://www.travelblog.org/
+# ALTERNATIVE NAME 71: http://www.wheresthepaper.org/
+1: 10,1,7,2,20,33,13,3,57,27,4,66,61,55,18,11,68,34,48,22,19,70,6,16,9,64,25,24,58,46,50,42,31,8,41,35,40,65,29,62,15,21,32,12,17,5,45,60,14,30,38,54,67,36,28,47,43,59,52,39,69,63,26,37,51,56,53,71,44,49,23
+1: 10,7,2,1,9,33,35,6,54,4,64,46,16,57,3,34,59,20,44,69,23,13,5,15,42,49,56,60,31,67,19,18,55,58,62,29,53,36,27,8,65,68,38,39,28,40,22,48,45,21,63,24,12,70,47,14,25,71,43,41,17,11,61,26,37,32,52,66,30,50,51
+1: 10,7,2,1,32,9,35,33,6,54,4,64,46,16,19,69,57,59,3,34,20,44,23,13,66,5,15,42,49,56,60,31,67,18,55,50,58,41,62,29,53,36,27,8,65,68,17,38,39,28,40,22,48,70,21,63,24,12,47,14,25,45,71,43,11,61,26,37,52,30,51
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71

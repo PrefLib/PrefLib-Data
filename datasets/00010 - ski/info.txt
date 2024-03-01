@@ -1,0 +1,21 @@
+Name: Skiing Competitions
+
+Abbreviation: ski
+
+Tags: Election,Sport
+
+Series Number: 00010
+
+Publication Date: 2014-07-09
+
+Description: <p>This dataset contains the Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have created a toc datafile where all candidates are tied, at the end of rankings.</p> <p>Note that this dataset used to contain the Formula 1 data. A larger set of the F1 data is now available in the <a href="dataset/00052">00052</a> and <a href="dataset/00053">00053</a> datasets.</p>
+
+Required Citations: 
+
+Selected Studies: R. Bredereck. <em>Fixed-Parameter Algorithms for Computing Kemeny scores - Theory and Practice</em>. Thesis, Department of Mathematics and Computer Science, University of Jena, 2009. | N. Betzler, R. Bredereck, and R. Niedermeier. <em>Partial Kernelization for Rank Aggregation: Theory and Experiments</em>. Proc. 5th International Symposium on Parameterized and Exact Computation (IPEC), 2010.
+
+file_name, modification_type, relates_to, title, description, publication_date
+00010-00000001.soi, original, , CrossCountry Skiing, , 2014-07-09
+00010-00000001.toc, imbued, 00010-00000001.soi, CrossCountry Skiing, Obtained from the soi by adding the unranked alternatives at the bottom, 2014-07-09
+00010-00000002.soi, original, , Ski Jumping, , 2014-07-09
+00010-00000002.toc, imbued, 00010-00000002.soi, Ski Jumping, Obtained from the soi by adding the unranked alternatives at the bottom, 2014-07-09

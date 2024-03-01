@@ -1,0 +1,23 @@
+Name: Aspen Election Data
+
+Abbreviation: aspen
+
+Tags: Election,Politics,STV
+
+Series Number: 00016
+
+Publication Date: 2014-07-09
+
+Description: <p>The 2009 Aspen Data contains the results from the mayoral and city council elections held in Aspen, CO in 2009. The data contains two different elections with about 2,500 votes each over 5 and 11 candidates.  </p><p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00016-00000001.dat, original, 00016-00000001.toi, Aspen City Council 2009, Includes the invalid ballots, 2014-07-09
+00016-00000001.toc, imbued, 00016-00000001.toi, Aspen City Council 2009, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00016-00000001.toi, original, , Aspen City Council 2009, , 2014-07-09
+00016-00000002.dat, original, 00016-00000002.toi, Aspen Mayor 2009, Includes the invalid ballots, 2014-07-09
+00016-00000002.toc, imbued, 00016-00000002.toi, Aspen Mayor 2009, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00016-00000002.toi, original, , Aspen Mayor 2009, , 2014-07-09

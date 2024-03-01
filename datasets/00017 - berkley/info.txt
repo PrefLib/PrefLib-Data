@@ -1,0 +1,20 @@
+Name: Berkley Election Data
+
+Abbreviation: berkley
+
+Tags: Election,Politics,STV
+
+Series Number: 00017
+
+Publication Date: 2014-07-09
+
+Description: <p>The 2010 Berkley Data contains the results from a city council election (District 7) in Berkley, CA. The set contains about 4,000 votes over 4 candidates.</p><p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00017-00000001.dat, original, 00017-00000001.toi, 2010 Berkeley City Council - District 7, Includes the invalid ballots, 2014-07-09
+00017-00000001.toc, imbued, 00017-00000001.toi, 2010 Berkeley City Council - District 7, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00017-00000001.toi, original, , 2010 Berkeley City Council - District 7, , 2014-07-09

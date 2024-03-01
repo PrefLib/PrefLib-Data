@@ -1,0 +1,68 @@
+# FILE NAME: 00015-00000066.soc
+# TITLE: websearch small gardening complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 52
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.bbc.co.uk/gardening/
+# ALTERNATIVE NAME 2: http://gardening.about.com/
+# ALTERNATIVE NAME 3: http://www.garden.org/
+# ALTERNATIVE NAME 4: http://www.gardenguides.com/
+# ALTERNATIVE NAME 5: http://www.bhg.com/gardening/
+# ALTERNATIVE NAME 6: http://www.burpee.com/
+# ALTERNATIVE NAME 7: http://www.gardenweb.com/vl/
+# ALTERNATIVE NAME 8: http://www.hgtv.com/landscaping/index.html
+# ALTERNATIVE NAME 9: http://www.marthastewart.com/gardening
+# ALTERNATIVE NAME 10: http://www.telegraph.co.uk/gardening/
+# ALTERNATIVE NAME 11: http://www.mygarden.net.au/
+# ALTERNATIVE NAME 12: http://www.helpfulgardener.com/
+# ALTERNATIVE NAME 13: http://davesgarden.com/
+# ALTERNATIVE NAME 14: http://www.weekendgardener.net/
+# ALTERNATIVE NAME 15: http://www.kidsgardening.com/
+# ALTERNATIVE NAME 16: http://www.backyardgardener.com/
+# ALTERNATIVE NAME 17: http://extension.oregonstate.edu/gardening/
+# ALTERNATIVE NAME 18: http://www.gardening.cornell.edu/
+# ALTERNATIVE NAME 19: http://www.gardeningbc.com/
+# ALTERNATIVE NAME 20: http://www.icangarden.com/
+# ALTERNATIVE NAME 21: http://www.guerrillagardening.org/
+# ALTERNATIVE NAME 22: http://www.weather.com/activities/homeandgarden/garden/
+# ALTERNATIVE NAME 23: http://www.gardenersnet.com/
+# ALTERNATIVE NAME 24: http://www.squarefootgardening.com/
+# ALTERNATIVE NAME 25: http://www.gardenersgardening.com/
+# ALTERNATIVE NAME 26: http://www.ontariogardening.com/
+# ALTERNATIVE NAME 27: http://www.denverpost.com/grow
+# ALTERNATIVE NAME 28: http://www.ehow.com/gardening/
+# ALTERNATIVE NAME 29: http://www.farmersalmanac.com/home_garden/gardening
+# ALTERNATIVE NAME 30: http://www.theeagle.com/gardening/
+# ALTERNATIVE NAME 31: http://www.abc.net.au/gardening/factsheets/
+# ALTERNATIVE NAME 32: http://www.directgardening.com/
+# ALTERNATIVE NAME 33: http://www.dmoz.org/Home/Gardening/
+# ALTERNATIVE NAME 34: http://www.blisstree.com/topic/gardening/
+# ALTERNATIVE NAME 35: http://www.doityourself.com/scat/gardeningandoutdoor
+# ALTERNATIVE NAME 36: http://www.chron.com/houstongardening/
+# ALTERNATIVE NAME 37: http://www.forbes.com/bow/b2c/category.jhtml?id=106
+# ALTERNATIVE NAME 38: http://www.webindia123.com/garden/index.htm
+# ALTERNATIVE NAME 39: http://www.gardeningknowhow.com/
+# ALTERNATIVE NAME 40: http://www.mobot.org/gardeninghelp/plantinfo.shtml
+# ALTERNATIVE NAME 41: http://www.gardening-guides.com/
+# ALTERNATIVE NAME 42: http://gardening.mytimesdispatch.com/
+# ALTERNATIVE NAME 43: http://www.providentliving.org/content/list/0
+# ALTERNATIVE NAME 44: http://www.walterreeves.com/
+# ALTERNATIVE NAME 45: http://www.ajchomefinder.com/gardening/
+# ALTERNATIVE NAME 46: http://www.gardeningcd.com/
+# ALTERNATIVE NAME 47: http://www.adn.com/life/gardening/
+# ALTERNATIVE NAME 48: http://www.seattlepi.com/nwgardens/
+# ALTERNATIVE NAME 49: http://www.maximumyield.com/
+# ALTERNATIVE NAME 50: http://www.weekendgardener.net/blog.htm
+# ALTERNATIVE NAME 51: http://simple.wikipedia.org/wiki/Gardening
+# ALTERNATIVE NAME 52: http://gizmodo.com/tag/gardening/
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+1: 2,3,4,8,5,7,12,14,26,28,40,16,41,15,36,47,22,9,39,11,13,19,42,48,18,29,32,1,50,25,51,6,33,35,30,43,17,23,31,24,37,44,21,10,38,20,45,27,46,34,49,52
+1: 2,5,3,1,9,31,4,8,10,14,33,15,11,47,13,28,18,41,25,7,19,36,12,24,51,39,23,27,38,48,16,21,6,40,26,43,29,30,50,45,20,22,37,42,32,17,35,34,52,49,46,44
+1: 2,5,3,1,9,4,10,31,8,14,33,15,11,47,13,28,18,41,25,7,19,36,51,24,12,39,27,23,16,38,48,21,6,40,26,43,29,50,45,30,22,20,37,42,32,17,35,34,52,49,46,44

@@ -1,0 +1,42 @@
+# FILE NAME: 00015-00000050.soc
+# TITLE: websearch small San+Francisco complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 26
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.sanfrancisco.com/
+# ALTERNATIVE NAME 2: http://cbs5.com/
+# ALTERNATIVE NAME 3: http://www.sfcvb.org/
+# ALTERNATIVE NAME 4: http://www.runsfm.com/
+# ALTERNATIVE NAME 5: http://sanfrancisco.about.com/
+# ALTERNATIVE NAME 6: http://www.city-data.com/city/San-Francisco-California.html
+# ALTERNATIVE NAME 7: http://sfbay.craigslist.org/sfc/
+# ALTERNATIVE NAME 8: http://www.hotelscombined.com/City/San_Francisco.htm
+# ALTERNATIVE NAME 9: http://www.sfguide.com/
+# ALTERNATIVE NAME 10: http://travel.latimes.com/destinations/san-francisco
+# ALTERNATIVE NAME 11: http://www.travelandleisure.com/guides/san-francisco/
+# ALTERNATIVE NAME 12: http://www.viator.com/San-Francisco/d651-ttd
+# ALTERNATIVE NAME 13: http://www.sanfranciscosightseeing.com/
+# ALTERNATIVE NAME 14: http://www.sanfranciscolimo.com/
+# ALTERNATIVE NAME 15: http://sanfrancisco.areaconnect.com/
+# ALTERNATIVE NAME 16: http://www.buysanfranciscotours.com/
+# ALTERNATIVE NAME 17: http://www.trulia.com/CA/San_Francisco/
+# ALTERNATIVE NAME 18: http://san.francisco.diningguide.com/
+# ALTERNATIVE NAME 19: http://www.sanfranciscomerchants.com/
+# ALTERNATIVE NAME 20: http://sanfrancisco.sae.edu/
+# ALTERNATIVE NAME 21: http://san.francisco.hotelguide.net/
+# ALTERNATIVE NAME 22: http://www.hostelbookers.com/hostels/usa/san-francisco/
+# ALTERNATIVE NAME 23: http://www.sanfrancisco.worldweb.com/
+# ALTERNATIVE NAME 24: http://www.hostels.com/us.ca.sf.html
+# ALTERNATIVE NAME 25: http://www.hostelz.com/hostels/USA/California/San-Francisco
+# ALTERNATIVE NAME 26: http://www.kimptonhotels.com/hotels/hotels-sanfrancisco.aspx
+1: 1,5,10,15,3,19,12,25,6,23,13,24,18,16,11,21,20,14,7,17,22,9,8,26,4,2
+1: 1,23,16,14,5,20,19,7,25,10,21,11,12,6,24,26,17,4,9,15,8,3,18,13,22,2
+1: 1,23,16,14,5,20,19,7,21,25,9,10,6,11,12,17,24,26,4,15,8,3,18,13,22,2
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26

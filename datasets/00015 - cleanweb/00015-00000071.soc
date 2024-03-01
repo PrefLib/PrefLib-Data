@@ -1,0 +1,32 @@
+# FILE NAME: 00015-00000071.soc
+# TITLE: websearch small parallel+architecture complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 17
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: http://www.amazon.com/Parallel-Computer-Architecture-Hardware-Software/dp/1558603433
+# ALTERNATIVE NAME 2: http://tracebase.nmsu.edu/
+# ALTERNATIVE NAME 3: http://www.gelighting.com/apo/products/industrial/power_quality/14.htm
+# ALTERNATIVE NAME 4: http://www.nvidia.com/object/GPU_Computing.html
+# ALTERNATIVE NAME 5: http://www.intel.com/education/highered/Multicore/Multicore.htm
+# ALTERNATIVE NAME 6: http://www.embedded-computing.com/articles/fischer_and_szydlowski/
+# ALTERNATIVE NAME 7: http://www.brpreiss.com/page14.html
+# ALTERNATIVE NAME 8: http://www.geindustrial.com/cwc/Dispatcher?REQUEST=PRODUCTS&pnlid=8&id=lanprorpa
+# ALTERNATIVE NAME 9: http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-459.html
+# ALTERNATIVE NAME 10: http://www.gigascale.org/pubs/454.html
+# ALTERNATIVE NAME 11: http://www.upsbackup.co.za/products_rpa.html
+# ALTERNATIVE NAME 12: http://www.xerox.com/innovation/news-stories/parallel-printer/enus.html
+# ALTERNATIVE NAME 13: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471467405.html
+# ALTERNATIVE NAME 14: http://www.paloaltonetworks.com/technology/platform.html
+# ALTERNATIVE NAME 15: http://www.gamedev.net/community/forums/topic.asp?topic_id=525951
+# ALTERNATIVE NAME 16: http://www.nersc.gov/projects/SDSA/reports/uploaded/Shalf_SciDAC2007_JPCS_final.pdf
+# ALTERNATIVE NAME 17: http://www.xerox.com/go/xrx/template/inv_rel_newsroom.jsp?app=Newsroom&ed_name=NR_2006Oct13_TIPP&format=article&view=newsrelease&Xcntry=USA&Xlang=en_US
+2: 1,3,11,14,7,4,8,10,12,5,16,17,9,2,15,13,6
+1: 1,4,15,10,3,11,14,6,17,8,9,7,16,5,13,12,2
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17

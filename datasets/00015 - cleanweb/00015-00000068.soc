@@ -1,0 +1,48 @@
+# FILE NAME: 00015-00000068.soc
+# TITLE: websearch small java complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 32
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.java.com/
+# ALTERNATIVE NAME 2: http://java.sun.com/
+# ALTERNATIVE NAME 3: http://en.wikipedia.org/wiki/Java
+# ALTERNATIVE NAME 4: http://www.java.net/
+# ALTERNATIVE NAME 5: http://developers.sun.com/downloads/
+# ALTERNATIVE NAME 6: http://developer.apple.com/java/
+# ALTERNATIVE NAME 7: http://www.developer.com/java/
+# ALTERNATIVE NAME 8: http://www.javaworld.com/
+# ALTERNATIVE NAME 9: http://www.microsoft.com/mscorp/java/default.mspx
+# ALTERNATIVE NAME 10: http://oreilly.com/java/
+# ALTERNATIVE NAME 11: http://www.javaranch.com/
+# ALTERNATIVE NAME 12: http://gcc.gnu.org/java/
+# ALTERNATIVE NAME 13: http://www.oracle.com/technology/tech/java/index.html
+# ALTERNATIVE NAME 14: http://onjava.com/
+# ALTERNATIVE NAME 15: http://java.dzone.com/
+# ALTERNATIVE NAME 16: http://openjdk.java.net/
+# ALTERNATIVE NAME 17: http://jcp.org/
+# ALTERNATIVE NAME 18: http://www.cetus-links.org/oo_java.html
+# ALTERNATIVE NAME 19: http://java.sys-con.com/
+# ALTERNATIVE NAME 20: http://www.google.com/finance?q=NASDAQ:JAVA
+# ALTERNATIVE NAME 21: http://wikitravel.org/en/Java
+# ALTERNATIVE NAME 22: http://www.programmingtutorials.com/java.aspx
+# ALTERNATIVE NAME 23: http://www.tutorialized.com/tutorials/Java/1
+# ALTERNATIVE NAME 24: http://javaposse.com/
+# ALTERNATIVE NAME 25: http://www.javacoffeebreak.com/
+# ALTERNATIVE NAME 26: http://www.javacity.com/
+# ALTERNATIVE NAME 27: http://www.javapassion.com/
+# ALTERNATIVE NAME 28: http://www.anfyteam.com/java/
+# ALTERNATIVE NAME 29: http://kb.mozillazine.org/Java
+# ALTERNATIVE NAME 30: http://www.javadavescoffee.com/
+# ALTERNATIVE NAME 31: http://java.meetup.com/
+# ALTERNATIVE NAME 32: http://www.cnet.com/topic/java.html
+1: 1,2,3,17,4,11,6,10,8,29,19,25,14,21,31,16,5,13,7,23,32,9,24,22,15,30,27,12,20,18,28,26
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+1: 1,2,4,3,19,14,15,9,8,17,11,31,6,26,21,18,5,25,12,10,27,24,7,32,29,20,13,16,28,30,23,22
+1: 1,2,4,3,15,19,14,17,9,8,11,31,6,7,26,21,18,5,12,25,10,27,24,29,20,32,13,16,28,30,23,22

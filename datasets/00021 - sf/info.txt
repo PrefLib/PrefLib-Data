@@ -1,0 +1,59 @@
+Name: San Francisco Election Data
+
+Abbreviation: sf
+
+Tags: Election,Politics,STV
+
+Series Number: 00021
+
+Publication Date: 2014-07-09
+
+Description: <p>The San Francsico data contains the results from several elections, including board of supervisors, district attorny, and mayoral elections, held in San Francisco, CA between 2008 and 2012. The set contains 14 distinct elections with between 4 and 25 canddiates and 18,000 and 195,000 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00021-00000001.dat, original, 00021-00000001.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000001.toc, imbued, 00021-00000001.toi, 2008 San Francisco Board of Supervisors - District 1, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000001.toi, original, , 2008 San Francisco Board of Supervisors - District 1, , 2014-07-09
+00021-00000002.dat, original, 00021-00000002.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000002.toc, imbued, 00021-00000002.toi, 2008 San Francisco Board of Supervisors - District 11, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000002.toi, original, , 2008 San Francisco Board of Supervisors - District 11, , 2014-07-09
+00021-00000003.dat, original, 00021-00000003.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000003.toc, imbued, 00021-00000003.toi, 2008 San Francisco - Board of Supervisors District 3, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000003.toi, original, , 2008 San Francisco - Board of Supervisors District 3, , 2014-07-09
+00021-00000004.dat, original, 00021-00000004.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000004.toc, imbued, 00021-00000004.toi, 2008 San Francisco Board of Supervisors - District 4, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000004.toi, original, , 2008 San Francisco Board of Supervisors - District 4, , 2014-07-09
+00021-00000005.dat, original, 00021-00000005.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000005.toc, imbued, 00021-00000005.toi, 2008 San Francisco Board of Supervisors - District 9, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000005.toi, original, , 2008 San Francisco Board of Supervisors - District 9, , 2014-07-09
+00021-00000006.dat, original, 00021-00000006.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000006.toc, imbued, 00021-00000006.toi, 2010 San Francisco Board of Supervisors - District 10, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000006.toi, original, , 2010 San Francisco Board of Supervisors - District 10, , 2014-07-09
+00021-00000007.dat, original, 00021-00000007.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000007.toc, imbued, 00021-00000007.toi, 2010 San Francisco Board of Supervisors - District 2, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000007.toi, original, , 2010 San Francisco Board of Supervisors - District 2, , 2014-07-09
+00021-00000008.dat, original, 00021-00000008.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000008.toc, imbued, 00021-00000008.toi, 2010 San Francisco Board of Supervisors - District 6, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000008.toi, original, , 2010 San Francisco Board of Supervisors - District 6, , 2014-07-09
+00021-00000009.dat, original, 00021-00000009.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000009.toc, imbued, 00021-00000009.toi, 2010 San Francisco Board of Supervisors - District 8, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000009.toi, original, , 2010 San Francisco Board of Supervisors - District 8, , 2014-07-09
+00021-00000010.dat, original, 00021-00000010.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000010.toc, imbued, 00021-00000010.toi, 2011 San Francisco District Attorney, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000010.toi, original, , 2011 San Francisco District Attorney, , 2014-07-09
+00021-00000011.dat, original, 00021-00000011.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000011.toc, imbued, 00021-00000011.toi, 2011 San Francisco Mayor, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000011.toi, original, , 2011 San Francisco Mayor, , 2014-07-09
+00021-00000012.dat, original, 00021-00000012.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000012.toc, imbued, 00021-00000012.toi, 2011 San Francisco Sheriff, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000012.toi, original, , 2011 San Francisco Sheriff, , 2014-07-09
+00021-00000013.dat, original, 00021-00000013.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000013.toc, imbued, 00021-00000013.toi, 2012 San Francisco Board of Supervisors - District 5, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000013.toi, original, , 2012 San Francisco Board of Supervisors - District 5, , 2014-07-09
+00021-00000014.dat, original, 00021-00000014.toi, 2008 San Francisco Board of Supervisors - District 1, Includes the invalid ballots, 2014-07-09
+00021-00000014.toc, imbued, 00021-00000014.toi, San Francisco Board of Supervisors - District 7, Obtained from the toi by adding the unranked alternatives at the bottom, 2014-07-09
+00021-00000014.toi, original, , San Francisco Board of Supervisors - District 7, , 2014-07-09

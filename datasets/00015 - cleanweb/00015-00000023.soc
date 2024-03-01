@@ -1,0 +1,158 @@
+# FILE NAME: 00015-00000023.soc
+# TITLE: websearch big cheese complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 142
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: http://www.ilovecheese.com/
+# ALTERNATIVE NAME 2: http://live.gnome.org/
+# ALTERNATIVE NAME 3: http://www.murrayscheese.com/
+# ALTERNATIVE NAME 4: http://www.artisanalcheese.com/
+# ALTERNATIVE NAME 5: http://www.cheese.slowfood.com/
+# ALTERNATIVE NAME 6: http://en.wikipedia.org/
+# ALTERNATIVE NAME 7: http://www.slashfood.com/
+# ALTERNATIVE NAME 8: http://www.cheesesociety.org/
+# ALTERNATIVE NAME 9: http://www.chuckecheese.com/
+# ALTERNATIVE NAME 10: http://www.cabotcheese.coop/
+# ALTERNATIVE NAME 11: http://www.reluctantgourmet.com/
+# ALTERNATIVE NAME 12: http://www.topix.com/
+# ALTERNATIVE NAME 13: http://www.wisconsincheesemart.com/
+# ALTERNATIVE NAME 14: http://www.cheesemaking.com/
+# ALTERNATIVE NAME 15: http://www.foodsci.uoguelph.ca/
+# ALTERNATIVE NAME 16: http://biology.clc.uc.edu/
+# ALTERNATIVE NAME 17: http://www.begacheese.com.au/
+# ALTERNATIVE NAME 18: http://www.tillamookcheese.com/
+# ALTERNATIVE NAME 19: http://www.answers.com/
+# ALTERNATIVE NAME 20: http://www.cheesereporter.com/
+# ALTERNATIVE NAME 21: http://www.wischeesemakersassn.org/
+# ALTERNATIVE NAME 22: http://www.tienda.com/
+# ALTERNATIVE NAME 23: http://www.beechershandmadecheese.com/
+# ALTERNATIVE NAME 24: http://www.vtcheese.com/
+# ALTERNATIVE NAME 25: http://cheese.about.com/
+# ALTERNATIVE NAME 26: http://www.carrvalleycheese.com/
+# ALTERNATIVE NAME 27: http://www.cheesefromspain.com/
+# ALTERNATIVE NAME 28: http://www.greece.org/
+# ALTERNATIVE NAME 29: http://www.marinfrenchcheese.com/
+# ALTERNATIVE NAME 30: http://www.amazon.com/
+# ALTERNATIVE NAME 31: http://www.hilmarcheese.com/
+# ALTERNATIVE NAME 32: http://cheesebyhand.com/
+# ALTERNATIVE NAME 33: http://www.cowgirlcreamery.com/
+# ALTERNATIVE NAME 34: http://www.eatwisconsincheese.com/
+# ALTERNATIVE NAME 35: http://www.winchestercheese.com/
+# ALTERNATIVE NAME 36: http://www.vellacheese.com/
+# ALTERNATIVE NAME 37: http://www.specialcheese.com/
+# ALTERNATIVE NAME 38: http://www.thecheeseambassador.com/
+# ALTERNATIVE NAME 39: http://www.cheese.ca/
+# ALTERNATIVE NAME 40: http://www.foodsubs.com/
+# ALTERNATIVE NAME 41: http://www.sorrentocheese.com/
+# ALTERNATIVE NAME 42: http://www.nyfarmcheese.org/
+# ALTERNATIVE NAME 43: http://www.heinis.com/
+# ALTERNATIVE NAME 44: http://www.saxelbycheese.com/
+# ALTERNATIVE NAME 45: http://www.widmerscheese.com/
+# ALTERNATIVE NAME 46: http://www.springhillcheese.com/
+# ALTERNATIVE NAME 47: http://www.cadycheese.com/
+# ALTERNATIVE NAME 48: http://www.coldbacon.com/
+# ALTERNATIVE NAME 49: http://smithscountrycheese.com/
+# ALTERNATIVE NAME 50: http://www.moonstruckcheese.com/
+# ALTERNATIVE NAME 51: http://www.thecheeseimpresario.com/
+# ALTERNATIVE NAME 52: http://www.cheeseschoolsf.com/
+# ALTERNATIVE NAME 53: http://cheeseunderground.blogspot.com/
+# ALTERNATIVE NAME 54: http://www.cheesedays.com/
+# ALTERNATIVE NAME 55: http://sierranevadacheese.com/
+# ALTERNATIVE NAME 56: http://www.walnutcreekcheese.com/
+# ALTERNATIVE NAME 57: http://www.houseofwisconsincheese.com/
+# ALTERNATIVE NAME 58: http://www.villagecheese.com/
+# ALTERNATIVE NAME 59: http://www.urbandictionary.com/
+# ALTERNATIVE NAME 60: http://pnwcheese.typepad.com/
+# ALTERNATIVE NAME 61: http://www.frankenmuthcheesehaus.com/
+# ALTERNATIVE NAME 62: http://www.dcicheeseco.com/
+# ALTERNATIVE NAME 63: http://www.cheesemonthclub.com/
+# ALTERNATIVE NAME 64: http://www.artisancheesemarketing.com/
+# ALTERNATIVE NAME 65: http://www.wholefoodsmarket.com/
+# ALTERNATIVE NAME 66: http://www.goldenagecheese.com/
+# ALTERNATIVE NAME 67: http://curdnerds.com/
+# ALTERNATIVE NAME 68: http://www.andrulischeese.com/
+# ALTERNATIVE NAME 69: http://www.southwestcheese.com/
+# ALTERNATIVE NAME 70: http://www.cheesesoffrance.com/
+# ALTERNATIVE NAME 71: http://www.paolicheese.com/
+# ALTERNATIVE NAME 72: http://www.ballardcheese.com/
+# ALTERNATIVE NAME 73: http://en.wiktionary.org/
+# ALTERNATIVE NAME 74: http://www.foodnetwork.com/
+# ALTERNATIVE NAME 75: http://www.henningscheese.com/
+# ALTERNATIVE NAME 76: http://www.iledefrancecheese.com/
+# ALTERNATIVE NAME 77: http://www.realfarmsteadcheese.com/
+# ALTERNATIVE NAME 78: http://www.stevescheese.biz/
+# ALTERNATIVE NAME 79: http://www.vrg.org/
+# ALTERNATIVE NAME 80: http://cheeseboardcollective.coop/
+# ALTERNATIVE NAME 81: http://www.presidentcheese.com/
+# ALTERNATIVE NAME 82: http://www.mullinscheese.net/
+# ALTERNATIVE NAME 83: http://www.chow.com/
+# ALTERNATIVE NAME 84: http://allrecipes.com/
+# ALTERNATIVE NAME 85: http://www.gourmetsleuth.com/
+# ALTERNATIVE NAME 86: http://www.igourmet.com/
+# ALTERNATIVE NAME 87: http://www.cubacheese.com/
+# ALTERNATIVE NAME 88: http://www.stinkycheese.com/
+# ALTERNATIVE NAME 89: http://thecheesestorehoboken.com/
+# ALTERNATIVE NAME 90: http://www.alouettecheese.com/
+# ALTERNATIVE NAME 91: http://www.naturalcheese.net/
+# ALTERNATIVE NAME 92: http://www.straightdope.com/
+# ALTERNATIVE NAME 93: http://www.101cookbooks.com/
+# ALTERNATIVE NAME 94: http://www.arenacheese.com/
+# ALTERNATIVE NAME 95: http://www.wvcheeseco.com/
+# ALTERNATIVE NAME 96: http://www.marthastewart.com/
+# ALTERNATIVE NAME 97: http://www.schurmanscheese.com/
+# ALTERNATIVE NAME 98: http://www.nationaldairycouncil.org/
+# ALTERNATIVE NAME 99: http://www.tastecheese.com/
+# ALTERNATIVE NAME 100: http://www.mccadam.coop/
+# ALTERNATIVE NAME 101: http://www.myspace.com/
+# ALTERNATIVE NAME 102: http://www.mass.gov/
+# ALTERNATIVE NAME 103: http://www.leeners.com/
+# ALTERNATIVE NAME 104: http://rockcheese.com/
+# ALTERNATIVE NAME 105: http://www.gilecheese.com/
+# ALTERNATIVE NAME 106: http://www.haystackgoatcheese.com/
+# ALTERNATIVE NAME 107: http://www.simonscheese.com/
+# ALTERNATIVE NAME 108: http://www.formaticum.com/
+# ALTERNATIVE NAME 109: http://www.livecheese.com/
+# ALTERNATIVE NAME 110: http://www.eatcurds.com/
+# ALTERNATIVE NAME 111: http://www.recipezaar.com/
+# ALTERNATIVE NAME 112: http://www.npr.org/
+# ALTERNATIVE NAME 113: http://www.baricelli.com/
+# ALTERNATIVE NAME 114: http://www.macaroniandcheeseandcheese.com/
+# ALTERNATIVE NAME 115: http://recipes.howstuffworks.com/
+# ALTERNATIVE NAME 116: http://www.dmoz.org/
+# ALTERNATIVE NAME 117: http://www.redwoodhill.com/
+# ALTERNATIVE NAME 118: http://www.travelwisconsin.com/
+# ALTERNATIVE NAME 119: http://www.livescience.com/
+# ALTERNATIVE NAME 120: http://www.wisegeek.com/
+# ALTERNATIVE NAME 121: http://www.selectcheeses.com/
+# ALTERNATIVE NAME 122: http://en.wikibooks.org/
+# ALTERNATIVE NAME 123: http://www.bellwethercheese.com/
+# ALTERNATIVE NAME 124: http://whatscookingamerica.net/
+# ALTERNATIVE NAME 125: http://www.tofutti.com/
+# ALTERNATIVE NAME 126: http://www.nutritiondata.com/
+# ALTERNATIVE NAME 127: http://www.ellsworthcheesecurds.com/
+# ALTERNATIVE NAME 128: http://www.nabiscoworld.com/
+# ALTERNATIVE NAME 129: http://www.harleyfarms.com/
+# ALTERNATIVE NAME 130: http://www.wikihow.com/
+# ALTERNATIVE NAME 131: http://www.chevre.com/
+# ALTERNATIVE NAME 132: http://www.buycheese.com/
+# ALTERNATIVE NAME 133: http://www.sargentocheese.com/
+# ALTERNATIVE NAME 134: http://home.att.net/
+# ALTERNATIVE NAME 135: http://www.whfoods.com/
+# ALTERNATIVE NAME 136: http://www.kraftfoods.com/
+# ALTERNATIVE NAME 137: http://www.dannon.com/
+# ALTERNATIVE NAME 138: http://www.goodcooking.com/
+# ALTERNATIVE NAME 139: http://blog.artisanalcheese.com/
+# ALTERNATIVE NAME 140: http://cheese.alltop.com/
+# ALTERNATIVE NAME 141: http://www.flickr.com/
+# ALTERNATIVE NAME 142: http://www.forkandbottle.com/
+1: 6,1,73,19,25,16,4,3,7,134,65,53,103,30,140,34,12,2,40,15,11,112,86,22,75,13,5,21,20,57,38,85,14,60,110,41,59,87,115,9,32,84,18,71,28,131,48,102,116,95,107,10,98,130,101,94,45,24,8,83,33,82,47,67,70,43,126,74,61,135,17,92,69,39,42,46,125,119,127,111,114,64,129,90,123,62,37,54,124,133,120,81,104,79,49,117,80,142,138,50,118,137,132,91,68,56,36,108,35,63,113,89,76,109,26,97,128,77,99,139,29,88,105,23,100,72,106,96,27,55,78,31,122,141,136,52,121,58,51,66,93,44
+1: 6,1,19,3,74,25,86,4,98,13,102,30,65,34,7,20,116,5,91,10,40,73,45,18,136,76,35,122,54,23,75,48,97,72,130,47,39,24,11,115,8,52,43,32,2,59,119,26,71,140,84,83,22,15,85,134,62,125,133,33,99,68,109,14,63,29,16,56,70,89,103,81,27,37,124,58,107,42,120,9,28,96,118,80,111,31,127,49,64,21,123,105,46,129,88,60,94,78,55,117,100,121,131,41,53,138,132,104,66,51,57,61,69,142,12,38,44,112,90,110,135,36,113,101,95,93,17,77,114,128,106,126,108,79,50,92,87,137,82,67,141,139
+1: 6,1,19,3,25,86,4,98,102,65,13,34,7,30,116,20,10,5,91,40,73,45,35,76,74,18,122,54,23,75,48,97,72,130,47,39,24,11,115,8,52,43,32,2,59,119,26,83,71,140,22,15,85,134,62,125,133,33,99,68,109,84,14,63,29,16,56,70,89,103,81,27,37,124,58,107,120,9,42,28,96,136,118,80,31,49,127,138,64,21,123,105,46,129,88,94,12,78,55,117,100,121,111,131,41,53,60,132,104,66,51,57,61,69,142,38,112,90,110,135,36,113,101,44,95,17,77,114,128,106,126,108,79,93,50,92,87,137,141,82,67,139
+1: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142

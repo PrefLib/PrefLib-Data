@@ -1,0 +1,25 @@
+# FILE NAME: 00015-00000048.soc
+# TITLE: websearch small National+parks complete
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2014-07-09
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 10
+# NUMBER VOTERS: 4
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: http://gorp.away.com/gorp/resource/us_national_park/main.htm
+# ALTERNATIVE NAME 2: http://www.utah.com/nationalparks/
+# ALTERNATIVE NAME 3: http://www.us-parks.com/
+# ALTERNATIVE NAME 4: http://www.areaparks.com/
+# ALTERNATIVE NAME 5: http://www.coolworks.com/national-park-jobs/
+# ALTERNATIVE NAME 6: http://www.fodors.com/trip-ideas/national-parks/
+# ALTERNATIVE NAME 7: http://www.trails.com/national-parks.aspx
+# ALTERNATIVE NAME 8: http://travel.nationalgeographic.com/places/parks/index.html
+# ALTERNATIVE NAME 9: http://www.pbs.org/nationalparks/about/
+# ALTERNATIVE NAME 10: http://www.gates.of.the.arctic.national-park.com/
+2: 1,2,3,9,5,8,4,6,7,10
+1: 7,4,8,1,9,6,2,5,3,10
+1: 1,2,3,4,5,6,7,8,9,10
