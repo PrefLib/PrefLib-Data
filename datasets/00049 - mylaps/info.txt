@@ -1,0 +1,1161 @@
+Name: Multilaps Competitions
+
+Abbreviation: mylaps
+
+Tags: Election
+
+Series Number: 00049
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains elections generated from multi-lap sports competitions.</p> <p>The underlying mylaps data contains the completion time of athletes in each lap of a multi-lap competition (specifically, speed skating and cycling competitions) crawled from <a href="https://results.sporthive.com">results.sporthive.com</a>. For each race, we created an election in which the athletes are the candidates and each vote corresponds to one lap and ranks the athletes by their completion time.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00049-00000001.soi, original, , 100, , 2022-09-25
+00049-00000001.soc, induced, 00049-00000001.soi, 100, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000002.soi, original, , 101, , 2022-09-25
+00049-00000002.soc, induced, 00049-00000002.soi, 101, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000003.soi, original, , 102, , 2022-09-25
+00049-00000003.soc, induced, 00049-00000003.soi, 102, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000004.soi, original, , 103, , 2022-09-25
+00049-00000004.soc, induced, 00049-00000004.soi, 103, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000005.soi, original, , 104, , 2022-09-25
+00049-00000005.soc, induced, 00049-00000005.soi, 104, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000006.soi, original, , 105, , 2022-09-25
+00049-00000006.soc, induced, 00049-00000006.soi, 105, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000007.soi, original, , 106, , 2022-09-25
+00049-00000007.soc, induced, 00049-00000007.soi, 106, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000008.soi, original, , 107, , 2022-09-25
+00049-00000008.soc, induced, 00049-00000008.soi, 107, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000009.soi, original, , 108, , 2022-09-25
+00049-00000009.soc, induced, 00049-00000009.soi, 108, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000010.soi, original, , 109, , 2022-09-25
+00049-00000010.soc, induced, 00049-00000010.soi, 109, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000011.soi, original, , 10, , 2022-09-25
+00049-00000011.soc, induced, 00049-00000011.soi, 10, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000012.soc, original, , 110, , 2022-09-25
+00049-00000013.soc, original, , 111, , 2022-09-25
+00049-00000014.soi, original, , 112, , 2022-09-25
+00049-00000014.soc, induced, 00049-00000014.soi, 112, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000015.soi, original, , 113, , 2022-09-25
+00049-00000015.soc, induced, 00049-00000015.soi, 113, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000016.soi, original, , 114, , 2022-09-25
+00049-00000016.soc, induced, 00049-00000016.soi, 114, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000017.soi, original, , 115, , 2022-09-25
+00049-00000017.soc, induced, 00049-00000017.soi, 115, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000018.soi, original, , 116, , 2022-09-25
+00049-00000018.soc, induced, 00049-00000018.soi, 116, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000019.soi, original, , 117, , 2022-09-25
+00049-00000019.soc, induced, 00049-00000019.soi, 117, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000020.soi, original, , 118, , 2022-09-25
+00049-00000020.soc, induced, 00049-00000020.soi, 118, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000021.soi, original, , 119, , 2022-09-25
+00049-00000021.soc, induced, 00049-00000021.soi, 119, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000022.soi, original, , 11, , 2022-09-25
+00049-00000022.soc, induced, 00049-00000022.soi, 11, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000023.soc, original, , 120, , 2022-09-25
+00049-00000024.soi, original, , 121, , 2022-09-25
+00049-00000024.soc, induced, 00049-00000024.soi, 121, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000025.soi, original, , 122, , 2022-09-25
+00049-00000025.soc, induced, 00049-00000025.soi, 122, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000026.soi, original, , 123, , 2022-09-25
+00049-00000026.soc, induced, 00049-00000026.soi, 123, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000027.soc, original, , 124, , 2022-09-25
+00049-00000028.soi, original, , 125, , 2022-09-25
+00049-00000028.soc, induced, 00049-00000028.soi, 125, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000029.soi, original, , 126, , 2022-09-25
+00049-00000029.soc, induced, 00049-00000029.soi, 126, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000030.soi, original, , 127, , 2022-09-25
+00049-00000030.soc, induced, 00049-00000030.soi, 127, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000031.soi, original, , 128, , 2022-09-25
+00049-00000031.soc, induced, 00049-00000031.soi, 128, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000032.soi, original, , 129, , 2022-09-25
+00049-00000032.soc, induced, 00049-00000032.soi, 129, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000033.soi, original, , 12, , 2022-09-25
+00049-00000033.soc, induced, 00049-00000033.soi, 12, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000034.soi, original, , 130, , 2022-09-25
+00049-00000034.soc, induced, 00049-00000034.soi, 130, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000035.soi, original, , 131, , 2022-09-25
+00049-00000035.soc, induced, 00049-00000035.soi, 131, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000036.soi, original, , 132, , 2022-09-25
+00049-00000036.soc, induced, 00049-00000036.soi, 132, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000037.soc, original, , 133, , 2022-09-25
+00049-00000038.soi, original, , 134, , 2022-09-25
+00049-00000038.soc, induced, 00049-00000038.soi, 134, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000039.soc, original, , 135, , 2022-09-25
+00049-00000040.soi, original, , 136, , 2022-09-25
+00049-00000040.soc, induced, 00049-00000040.soi, 136, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000041.soi, original, , 137, , 2022-09-25
+00049-00000041.soc, induced, 00049-00000041.soi, 137, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000042.soi, original, , 138, , 2022-09-25
+00049-00000042.soc, induced, 00049-00000042.soi, 138, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000043.soi, original, , 139, , 2022-09-25
+00049-00000043.soc, induced, 00049-00000043.soi, 139, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000044.soi, original, , 13, , 2022-09-25
+00049-00000044.soc, induced, 00049-00000044.soi, 13, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000045.soi, original, , 140, , 2022-09-25
+00049-00000045.soc, induced, 00049-00000045.soi, 140, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000046.soi, original, , 141, , 2022-09-25
+00049-00000046.soc, induced, 00049-00000046.soi, 141, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000047.soi, original, , 142, , 2022-09-25
+00049-00000047.soc, induced, 00049-00000047.soi, 142, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000048.soi, original, , 143, , 2022-09-25
+00049-00000048.soc, induced, 00049-00000048.soi, 143, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000049.soi, original, , 144, , 2022-09-25
+00049-00000049.soc, induced, 00049-00000049.soi, 144, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000050.soi, original, , 145, , 2022-09-25
+00049-00000050.soc, induced, 00049-00000050.soi, 145, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000051.soi, original, , 146, , 2022-09-25
+00049-00000051.soc, induced, 00049-00000051.soi, 146, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000052.soi, original, , 147, , 2022-09-25
+00049-00000052.soc, induced, 00049-00000052.soi, 147, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000053.soi, original, , 148, , 2022-09-25
+00049-00000053.soc, induced, 00049-00000053.soi, 148, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000054.soc, original, , 149, , 2022-09-25
+00049-00000055.soi, original, , 14, , 2022-09-25
+00049-00000055.soc, induced, 00049-00000055.soi, 14, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000056.soi, original, , 150, , 2022-09-25
+00049-00000056.soc, induced, 00049-00000056.soi, 150, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000057.soi, original, , 151, , 2022-09-25
+00049-00000057.soc, induced, 00049-00000057.soi, 151, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000058.soi, original, , 152, , 2022-09-25
+00049-00000058.soc, induced, 00049-00000058.soi, 152, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000059.soc, original, , 153, , 2022-09-25
+00049-00000060.soi, original, , 154, , 2022-09-25
+00049-00000060.soc, induced, 00049-00000060.soi, 154, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000061.soi, original, , 155, , 2022-09-25
+00049-00000061.soc, induced, 00049-00000061.soi, 155, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000062.soi, original, , 156, , 2022-09-25
+00049-00000062.soc, induced, 00049-00000062.soi, 156, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000063.soi, original, , 157, , 2022-09-25
+00049-00000063.soc, induced, 00049-00000063.soi, 157, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000064.soi, original, , 158, , 2022-09-25
+00049-00000064.soc, induced, 00049-00000064.soi, 158, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000065.soi, original, , 159, , 2022-09-25
+00049-00000065.soc, induced, 00049-00000065.soi, 159, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000066.soi, original, , 15, , 2022-09-25
+00049-00000066.soc, induced, 00049-00000066.soi, 15, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000067.soi, original, , 160, , 2022-09-25
+00049-00000068.soi, original, , 161, , 2022-09-25
+00049-00000068.soc, induced, 00049-00000068.soi, 161, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000069.soi, original, , 162, , 2022-09-25
+00049-00000069.soc, induced, 00049-00000069.soi, 162, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000070.soi, original, , 163, , 2022-09-25
+00049-00000070.soc, induced, 00049-00000070.soi, 163, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000071.soi, original, , 164, , 2022-09-25
+00049-00000071.soc, induced, 00049-00000071.soi, 164, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000072.soi, original, , 165, , 2022-09-25
+00049-00000072.soc, induced, 00049-00000072.soi, 165, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000073.soi, original, , 166, , 2022-09-25
+00049-00000073.soc, induced, 00049-00000073.soi, 166, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000074.soi, original, , 167, , 2022-09-25
+00049-00000074.soc, induced, 00049-00000074.soi, 167, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000075.soi, original, , 168, , 2022-09-25
+00049-00000075.soc, induced, 00049-00000075.soi, 168, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000076.soc, original, , 169, , 2022-09-25
+00049-00000077.soi, original, , 16, , 2022-09-25
+00049-00000077.soc, induced, 00049-00000077.soi, 16, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000078.soi, original, , 170, , 2022-09-25
+00049-00000078.soc, induced, 00049-00000078.soi, 170, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000079.soi, original, , 171, , 2022-09-25
+00049-00000079.soc, induced, 00049-00000079.soi, 171, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000080.soi, original, , 172, , 2022-09-25
+00049-00000081.soi, original, , 173, , 2022-09-25
+00049-00000081.soc, induced, 00049-00000081.soi, 173, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000082.soi, original, , 174, , 2022-09-25
+00049-00000082.soc, induced, 00049-00000082.soi, 174, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000083.soi, original, , 175, , 2022-09-25
+00049-00000083.soc, induced, 00049-00000083.soi, 175, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000084.soi, original, , 176, , 2022-09-25
+00049-00000084.soc, induced, 00049-00000084.soi, 176, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000085.soi, original, , 177, , 2022-09-25
+00049-00000085.soc, induced, 00049-00000085.soi, 177, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000086.soi, original, , 178, , 2022-09-25
+00049-00000086.soc, induced, 00049-00000086.soi, 178, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000087.soi, original, , 179, , 2022-09-25
+00049-00000087.soc, induced, 00049-00000087.soi, 179, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000088.soi, original, , 17, , 2022-09-25
+00049-00000088.soc, induced, 00049-00000088.soi, 17, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000089.soc, original, , 180, , 2022-09-25
+00049-00000090.soc, original, , 181, , 2022-09-25
+00049-00000091.soi, original, , 182, , 2022-09-25
+00049-00000091.soc, induced, 00049-00000091.soi, 182, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000092.soi, original, , 183, , 2022-09-25
+00049-00000092.soc, induced, 00049-00000092.soi, 183, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000093.soi, original, , 184, , 2022-09-25
+00049-00000093.soc, induced, 00049-00000093.soi, 184, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000094.soi, original, , 185, , 2022-09-25
+00049-00000094.soc, induced, 00049-00000094.soi, 185, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000095.soi, original, , 186, , 2022-09-25
+00049-00000095.soc, induced, 00049-00000095.soi, 186, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000096.soi, original, , 187, , 2022-09-25
+00049-00000096.soc, induced, 00049-00000096.soi, 187, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000097.soi, original, , 188, , 2022-09-25
+00049-00000097.soc, induced, 00049-00000097.soi, 188, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000098.soi, original, , 189, , 2022-09-25
+00049-00000098.soc, induced, 00049-00000098.soi, 189, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000099.soi, original, , 18, , 2022-09-25
+00049-00000099.soc, induced, 00049-00000099.soi, 18, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000100.soi, original, , 190, , 2022-09-25
+00049-00000100.soc, induced, 00049-00000100.soi, 190, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000101.soi, original, , 191, , 2022-09-25
+00049-00000101.soc, induced, 00049-00000101.soi, 191, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000102.soi, original, , 192, , 2022-09-25
+00049-00000102.soc, induced, 00049-00000102.soi, 192, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000103.soc, original, , 193, , 2022-09-25
+00049-00000104.soi, original, , 194, , 2022-09-25
+00049-00000104.soc, induced, 00049-00000104.soi, 194, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000105.soi, original, , 195, , 2022-09-25
+00049-00000105.soc, induced, 00049-00000105.soi, 195, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000106.soi, original, , 196, , 2022-09-25
+00049-00000106.soc, induced, 00049-00000106.soi, 196, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000107.soi, original, , 197, , 2022-09-25
+00049-00000107.soc, induced, 00049-00000107.soi, 197, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000108.soi, original, , 198, , 2022-09-25
+00049-00000108.soc, induced, 00049-00000108.soi, 198, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000109.soi, original, , 199, , 2022-09-25
+00049-00000109.soc, induced, 00049-00000109.soi, 199, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000110.soi, original, , 19, , 2022-09-25
+00049-00000110.soc, induced, 00049-00000110.soi, 19, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000111.soi, original, , 1, , 2022-09-25
+00049-00000111.soc, induced, 00049-00000111.soi, 1, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000112.soi, original, , 200, , 2022-09-25
+00049-00000112.soc, induced, 00049-00000112.soi, 200, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000113.soi, original, , 201, , 2022-09-25
+00049-00000113.soc, induced, 00049-00000113.soi, 201, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000114.soi, original, , 202, , 2022-09-25
+00049-00000114.soc, induced, 00049-00000114.soi, 202, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000115.soi, original, , 203, , 2022-09-25
+00049-00000115.soc, induced, 00049-00000115.soi, 203, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000116.soi, original, , 204, , 2022-09-25
+00049-00000116.soc, induced, 00049-00000116.soi, 204, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000117.soi, original, , 205, , 2022-09-25
+00049-00000117.soc, induced, 00049-00000117.soi, 205, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000118.soc, original, , 206, , 2022-09-25
+00049-00000119.soi, original, , 207, , 2022-09-25
+00049-00000119.soc, induced, 00049-00000119.soi, 207, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000120.soi, original, , 208, , 2022-09-25
+00049-00000120.soc, induced, 00049-00000120.soi, 208, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000121.soi, original, , 209, , 2022-09-25
+00049-00000121.soc, induced, 00049-00000121.soi, 209, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000122.soi, original, , 20, , 2022-09-25
+00049-00000122.soc, induced, 00049-00000122.soi, 20, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000123.soi, original, , 210, , 2022-09-25
+00049-00000124.soc, original, , 211, , 2022-09-25
+00049-00000125.soi, original, , 212, , 2022-09-25
+00049-00000125.soc, induced, 00049-00000125.soi, 212, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000126.soi, original, , 213, , 2022-09-25
+00049-00000126.soc, induced, 00049-00000126.soi, 213, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000127.soi, original, , 214, , 2022-09-25
+00049-00000127.soc, induced, 00049-00000127.soi, 214, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000128.soi, original, , 215, , 2022-09-25
+00049-00000128.soc, induced, 00049-00000128.soi, 215, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000129.soi, original, , 216, , 2022-09-25
+00049-00000129.soc, induced, 00049-00000129.soi, 216, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000130.soi, original, , 217, , 2022-09-25
+00049-00000130.soc, induced, 00049-00000130.soi, 217, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000131.soi, original, , 218, , 2022-09-25
+00049-00000131.soc, induced, 00049-00000131.soi, 218, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000132.soi, original, , 219, , 2022-09-25
+00049-00000132.soc, induced, 00049-00000132.soi, 219, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000133.soi, original, , 21, , 2022-09-25
+00049-00000133.soc, induced, 00049-00000133.soi, 21, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000134.soi, original, , 220, , 2022-09-25
+00049-00000134.soc, induced, 00049-00000134.soi, 220, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000135.soi, original, , 221, , 2022-09-25
+00049-00000135.soc, induced, 00049-00000135.soi, 221, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000136.soi, original, , 222, , 2022-09-25
+00049-00000136.soc, induced, 00049-00000136.soi, 222, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000137.soi, original, , 223, , 2022-09-25
+00049-00000137.soc, induced, 00049-00000137.soi, 223, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000138.soi, original, , 224, , 2022-09-25
+00049-00000138.soc, induced, 00049-00000138.soi, 224, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000139.soi, original, , 225, , 2022-09-25
+00049-00000139.soc, induced, 00049-00000139.soi, 225, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000140.soi, original, , 226, , 2022-09-25
+00049-00000140.soc, induced, 00049-00000140.soi, 226, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000141.soi, original, , 227, , 2022-09-25
+00049-00000141.soc, induced, 00049-00000141.soi, 227, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000142.soi, original, , 228, , 2022-09-25
+00049-00000142.soc, induced, 00049-00000142.soi, 228, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000143.soi, original, , 229, , 2022-09-25
+00049-00000143.soc, induced, 00049-00000143.soi, 229, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000144.soi, original, , 22, , 2022-09-25
+00049-00000144.soc, induced, 00049-00000144.soi, 22, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000145.soi, original, , 230, , 2022-09-25
+00049-00000145.soc, induced, 00049-00000145.soi, 230, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000146.soi, original, , 231, , 2022-09-25
+00049-00000146.soc, induced, 00049-00000146.soi, 231, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000147.soi, original, , 232, , 2022-09-25
+00049-00000147.soc, induced, 00049-00000147.soi, 232, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000148.soi, original, , 233, , 2022-09-25
+00049-00000148.soc, induced, 00049-00000148.soi, 233, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000149.soi, original, , 234, , 2022-09-25
+00049-00000149.soc, induced, 00049-00000149.soi, 234, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000150.soi, original, , 235, , 2022-09-25
+00049-00000150.soc, induced, 00049-00000150.soi, 235, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000151.soi, original, , 236, , 2022-09-25
+00049-00000151.soc, induced, 00049-00000151.soi, 236, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000152.soi, original, , 237, , 2022-09-25
+00049-00000152.soc, induced, 00049-00000152.soi, 237, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000153.soc, original, , 238, , 2022-09-25
+00049-00000154.soi, original, , 239, , 2022-09-25
+00049-00000154.soc, induced, 00049-00000154.soi, 239, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000155.soi, original, , 23, , 2022-09-25
+00049-00000155.soc, induced, 00049-00000155.soi, 23, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000156.soc, original, , 240, , 2022-09-25
+00049-00000157.soc, original, , 241, , 2022-09-25
+00049-00000158.soc, original, , 242, , 2022-09-25
+00049-00000159.soi, original, , 243, , 2022-09-25
+00049-00000159.soc, induced, 00049-00000159.soi, 243, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000160.soi, original, , 244, , 2022-09-25
+00049-00000160.soc, induced, 00049-00000160.soi, 244, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000161.soc, original, , 245, , 2022-09-25
+00049-00000162.soi, original, , 246, , 2022-09-25
+00049-00000162.soc, induced, 00049-00000162.soi, 246, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000163.soi, original, , 247, , 2022-09-25
+00049-00000163.soc, induced, 00049-00000163.soi, 247, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000164.soi, original, , 248, , 2022-09-25
+00049-00000164.soc, induced, 00049-00000164.soi, 248, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000165.soi, original, , 249, , 2022-09-25
+00049-00000165.soc, induced, 00049-00000165.soi, 249, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000166.soc, original, , 24, , 2022-09-25
+00049-00000167.soi, original, , 250, , 2022-09-25
+00049-00000167.soc, induced, 00049-00000167.soi, 250, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000168.soc, original, , 251, , 2022-09-25
+00049-00000169.soi, original, , 252, , 2022-09-25
+00049-00000169.soc, induced, 00049-00000169.soi, 252, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000170.soi, original, , 253, , 2022-09-25
+00049-00000170.soc, induced, 00049-00000170.soi, 253, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000171.soi, original, , 254, , 2022-09-25
+00049-00000171.soc, induced, 00049-00000171.soi, 254, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000172.soc, original, , 255, , 2022-09-25
+00049-00000173.soc, original, , 256, , 2022-09-25
+00049-00000174.soi, original, , 257, , 2022-09-25
+00049-00000174.soc, induced, 00049-00000174.soi, 257, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000175.soi, original, , 258, , 2022-09-25
+00049-00000175.soc, induced, 00049-00000175.soi, 258, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000176.soi, original, , 259, , 2022-09-25
+00049-00000176.soc, induced, 00049-00000176.soi, 259, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000177.soi, original, , 25, , 2022-09-25
+00049-00000177.soc, induced, 00049-00000177.soi, 25, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000178.soc, original, , 260, , 2022-09-25
+00049-00000179.soi, original, , 261, , 2022-09-25
+00049-00000179.soc, induced, 00049-00000179.soi, 261, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000180.soi, original, , 262, , 2022-09-25
+00049-00000180.soc, induced, 00049-00000180.soi, 262, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000181.soi, original, , 263, , 2022-09-25
+00049-00000181.soc, induced, 00049-00000181.soi, 263, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000182.soi, original, , 264, , 2022-09-25
+00049-00000182.soc, induced, 00049-00000182.soi, 264, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000183.soi, original, , 265, , 2022-09-25
+00049-00000183.soc, induced, 00049-00000183.soi, 265, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000184.soi, original, , 266, , 2022-09-25
+00049-00000184.soc, induced, 00049-00000184.soi, 266, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000185.soi, original, , 267, , 2022-09-25
+00049-00000185.soc, induced, 00049-00000185.soi, 267, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000186.soi, original, , 268, , 2022-09-25
+00049-00000186.soc, induced, 00049-00000186.soi, 268, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000187.soc, original, , 269, , 2022-09-25
+00049-00000188.soi, original, , 26, , 2022-09-25
+00049-00000188.soc, induced, 00049-00000188.soi, 26, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000189.soi, original, , 270, , 2022-09-25
+00049-00000189.soc, induced, 00049-00000189.soi, 270, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000190.soi, original, , 271, , 2022-09-25
+00049-00000190.soc, induced, 00049-00000190.soi, 271, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000191.soi, original, , 272, , 2022-09-25
+00049-00000191.soc, induced, 00049-00000191.soi, 272, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000192.soi, original, , 273, , 2022-09-25
+00049-00000192.soc, induced, 00049-00000192.soi, 273, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000193.soi, original, , 274, , 2022-09-25
+00049-00000193.soc, induced, 00049-00000193.soi, 274, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000194.soi, original, , 275, , 2022-09-25
+00049-00000194.soc, induced, 00049-00000194.soi, 275, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000195.soi, original, , 276, , 2022-09-25
+00049-00000195.soc, induced, 00049-00000195.soi, 276, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000196.soi, original, , 277, , 2022-09-25
+00049-00000196.soc, induced, 00049-00000196.soi, 277, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000197.soi, original, , 278, , 2022-09-25
+00049-00000197.soc, induced, 00049-00000197.soi, 278, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000198.soi, original, , 279, , 2022-09-25
+00049-00000198.soc, induced, 00049-00000198.soi, 279, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000199.soi, original, , 27, , 2022-09-25
+00049-00000200.soi, original, , 280, , 2022-09-25
+00049-00000200.soc, induced, 00049-00000200.soi, 280, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000201.soi, original, , 281, , 2022-09-25
+00049-00000201.soc, induced, 00049-00000201.soi, 281, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000202.soi, original, , 282, , 2022-09-25
+00049-00000202.soc, induced, 00049-00000202.soi, 282, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000203.soi, original, , 283, , 2022-09-25
+00049-00000203.soc, induced, 00049-00000203.soi, 283, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000204.soi, original, , 284, , 2022-09-25
+00049-00000204.soc, induced, 00049-00000204.soi, 284, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000205.soi, original, , 285, , 2022-09-25
+00049-00000205.soc, induced, 00049-00000205.soi, 285, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000206.soi, original, , 286, , 2022-09-25
+00049-00000206.soc, induced, 00049-00000206.soi, 286, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000207.soi, original, , 287, , 2022-09-25
+00049-00000207.soc, induced, 00049-00000207.soi, 287, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000208.soi, original, , 288, , 2022-09-25
+00049-00000208.soc, induced, 00049-00000208.soi, 288, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000209.soc, original, , 289, , 2022-09-25
+00049-00000210.soi, original, , 28, , 2022-09-25
+00049-00000210.soc, induced, 00049-00000210.soi, 28, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000211.soc, original, , 290, , 2022-09-25
+00049-00000212.soi, original, , 291, , 2022-09-25
+00049-00000212.soc, induced, 00049-00000212.soi, 291, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000213.soi, original, , 292, , 2022-09-25
+00049-00000213.soc, induced, 00049-00000213.soi, 292, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000214.soi, original, , 293, , 2022-09-25
+00049-00000214.soc, induced, 00049-00000214.soi, 293, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000215.soi, original, , 294, , 2022-09-25
+00049-00000215.soc, induced, 00049-00000215.soi, 294, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000216.soi, original, , 295, , 2022-09-25
+00049-00000216.soc, induced, 00049-00000216.soi, 295, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000217.soi, original, , 296, , 2022-09-25
+00049-00000217.soc, induced, 00049-00000217.soi, 296, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000218.soi, original, , 297, , 2022-09-25
+00049-00000218.soc, induced, 00049-00000218.soi, 297, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000219.soc, original, , 298, , 2022-09-25
+00049-00000220.soi, original, , 299, , 2022-09-25
+00049-00000220.soc, induced, 00049-00000220.soi, 299, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000221.soi, original, , 29, , 2022-09-25
+00049-00000221.soc, induced, 00049-00000221.soi, 29, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000222.soi, original, , 2, , 2022-09-25
+00049-00000222.soc, induced, 00049-00000222.soi, 2, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000223.soi, original, , 300, , 2022-09-25
+00049-00000223.soc, induced, 00049-00000223.soi, 300, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000224.soi, original, , 301, , 2022-09-25
+00049-00000224.soc, induced, 00049-00000224.soi, 301, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000225.soc, original, , 302, , 2022-09-25
+00049-00000226.soi, original, , 303, , 2022-09-25
+00049-00000226.soc, induced, 00049-00000226.soi, 303, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000227.soi, original, , 304, , 2022-09-25
+00049-00000227.soc, induced, 00049-00000227.soi, 304, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000228.soi, original, , 305, , 2022-09-25
+00049-00000228.soc, induced, 00049-00000228.soi, 305, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000229.soi, original, , 306, , 2022-09-25
+00049-00000229.soc, induced, 00049-00000229.soi, 306, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000230.soi, original, , 307, , 2022-09-25
+00049-00000230.soc, induced, 00049-00000230.soi, 307, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000231.soi, original, , 308, , 2022-09-25
+00049-00000231.soc, induced, 00049-00000231.soi, 308, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000232.soi, original, , 309, , 2022-09-25
+00049-00000232.soc, induced, 00049-00000232.soi, 309, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000233.soi, original, , 30, , 2022-09-25
+00049-00000233.soc, induced, 00049-00000233.soi, 30, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000234.soi, original, , 310, , 2022-09-25
+00049-00000234.soc, induced, 00049-00000234.soi, 310, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000235.soc, original, , 311, , 2022-09-25
+00049-00000236.soi, original, , 312, , 2022-09-25
+00049-00000236.soc, induced, 00049-00000236.soi, 312, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000237.soi, original, , 313, , 2022-09-25
+00049-00000237.soc, induced, 00049-00000237.soi, 313, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000238.soi, original, , 314, , 2022-09-25
+00049-00000238.soc, induced, 00049-00000238.soi, 314, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000239.soi, original, , 315, , 2022-09-25
+00049-00000239.soc, induced, 00049-00000239.soi, 315, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000240.soi, original, , 316, , 2022-09-25
+00049-00000240.soc, induced, 00049-00000240.soi, 316, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000241.soi, original, , 317, , 2022-09-25
+00049-00000241.soc, induced, 00049-00000241.soi, 317, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000242.soc, original, , 318, , 2022-09-25
+00049-00000243.soi, original, , 319, , 2022-09-25
+00049-00000243.soc, induced, 00049-00000243.soi, 319, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000244.soi, original, , 31, , 2022-09-25
+00049-00000244.soc, induced, 00049-00000244.soi, 31, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000245.soc, original, , 320, , 2022-09-25
+00049-00000246.soi, original, , 321, , 2022-09-25
+00049-00000246.soc, induced, 00049-00000246.soi, 321, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000247.soi, original, , 322, , 2022-09-25
+00049-00000247.soc, induced, 00049-00000247.soi, 322, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000248.soi, original, , 323, , 2022-09-25
+00049-00000248.soc, induced, 00049-00000248.soi, 323, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000249.soi, original, , 324, , 2022-09-25
+00049-00000249.soc, induced, 00049-00000249.soi, 324, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000250.soi, original, , 325, , 2022-09-25
+00049-00000250.soc, induced, 00049-00000250.soi, 325, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000251.soi, original, , 326, , 2022-09-25
+00049-00000251.soc, induced, 00049-00000251.soi, 326, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000252.soi, original, , 327, , 2022-09-25
+00049-00000252.soc, induced, 00049-00000252.soi, 327, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000253.soc, original, , 328, , 2022-09-25
+00049-00000254.soi, original, , 329, , 2022-09-25
+00049-00000254.soc, induced, 00049-00000254.soi, 329, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000255.soi, original, , 32, , 2022-09-25
+00049-00000255.soc, induced, 00049-00000255.soi, 32, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000256.soi, original, , 330, , 2022-09-25
+00049-00000256.soc, induced, 00049-00000256.soi, 330, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000257.soi, original, , 331, , 2022-09-25
+00049-00000257.soc, induced, 00049-00000257.soi, 331, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000258.soi, original, , 332, , 2022-09-25
+00049-00000258.soc, induced, 00049-00000258.soi, 332, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000259.soi, original, , 333, , 2022-09-25
+00049-00000259.soc, induced, 00049-00000259.soi, 333, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000260.soi, original, , 334, , 2022-09-25
+00049-00000260.soc, induced, 00049-00000260.soi, 334, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000261.soi, original, , 335, , 2022-09-25
+00049-00000261.soc, induced, 00049-00000261.soi, 335, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000262.soi, original, , 336, , 2022-09-25
+00049-00000262.soc, induced, 00049-00000262.soi, 336, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000263.soi, original, , 337, , 2022-09-25
+00049-00000263.soc, induced, 00049-00000263.soi, 337, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000264.soi, original, , 338, , 2022-09-25
+00049-00000264.soc, induced, 00049-00000264.soi, 338, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000265.soi, original, , 339, , 2022-09-25
+00049-00000265.soc, induced, 00049-00000265.soi, 339, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000266.soi, original, , 33, , 2022-09-25
+00049-00000266.soc, induced, 00049-00000266.soi, 33, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000267.soi, original, , 340, , 2022-09-25
+00049-00000267.soc, induced, 00049-00000267.soi, 340, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000268.soi, original, , 341, , 2022-09-25
+00049-00000268.soc, induced, 00049-00000268.soi, 341, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000269.soi, original, , 342, , 2022-09-25
+00049-00000269.soc, induced, 00049-00000269.soi, 342, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000270.soi, original, , 343, , 2022-09-25
+00049-00000270.soc, induced, 00049-00000270.soi, 343, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000271.soi, original, , 344, , 2022-09-25
+00049-00000272.soc, original, , 345, , 2022-09-25
+00049-00000273.soc, original, , 346, , 2022-09-25
+00049-00000274.soi, original, , 347, , 2022-09-25
+00049-00000274.soc, induced, 00049-00000274.soi, 347, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000275.soi, original, , 348, , 2022-09-25
+00049-00000275.soc, induced, 00049-00000275.soi, 348, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000276.soi, original, , 349, , 2022-09-25
+00049-00000277.soi, original, , 34, , 2022-09-25
+00049-00000277.soc, induced, 00049-00000277.soi, 34, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000278.soc, original, , 350, , 2022-09-25
+00049-00000279.soi, original, , 351, , 2022-09-25
+00049-00000279.soc, induced, 00049-00000279.soi, 351, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000280.soi, original, , 352, , 2022-09-25
+00049-00000280.soc, induced, 00049-00000280.soi, 352, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000281.soi, original, , 353, , 2022-09-25
+00049-00000281.soc, induced, 00049-00000281.soi, 353, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000282.soi, original, , 354, , 2022-09-25
+00049-00000282.soc, induced, 00049-00000282.soi, 354, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000283.soi, original, , 355, , 2022-09-25
+00049-00000283.soc, induced, 00049-00000283.soi, 355, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000284.soi, original, , 356, , 2022-09-25
+00049-00000284.soc, induced, 00049-00000284.soi, 356, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000285.soi, original, , 357, , 2022-09-25
+00049-00000285.soc, induced, 00049-00000285.soi, 357, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000286.soi, original, , 358, , 2022-09-25
+00049-00000286.soc, induced, 00049-00000286.soi, 358, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000287.soi, original, , 359, , 2022-09-25
+00049-00000287.soc, induced, 00049-00000287.soi, 359, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000288.soc, original, , 35, , 2022-09-25
+00049-00000289.soi, original, , 360, , 2022-09-25
+00049-00000289.soc, induced, 00049-00000289.soi, 360, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000290.soi, original, , 361, , 2022-09-25
+00049-00000290.soc, induced, 00049-00000290.soi, 361, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000291.soc, original, , 362, , 2022-09-25
+00049-00000292.soi, original, , 363, , 2022-09-25
+00049-00000292.soc, induced, 00049-00000292.soi, 363, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000293.soi, original, , 364, , 2022-09-25
+00049-00000293.soc, induced, 00049-00000293.soi, 364, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000294.soi, original, , 365, , 2022-09-25
+00049-00000294.soc, induced, 00049-00000294.soi, 365, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000295.soc, original, , 366, , 2022-09-25
+00049-00000296.soi, original, , 367, , 2022-09-25
+00049-00000296.soc, induced, 00049-00000296.soi, 367, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000297.soi, original, , 368, , 2022-09-25
+00049-00000297.soc, induced, 00049-00000297.soi, 368, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000298.soi, original, , 369, , 2022-09-25
+00049-00000298.soc, induced, 00049-00000298.soi, 369, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000299.soi, original, , 36, , 2022-09-25
+00049-00000300.soi, original, , 370, , 2022-09-25
+00049-00000300.soc, induced, 00049-00000300.soi, 370, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000301.soi, original, , 371, , 2022-09-25
+00049-00000301.soc, induced, 00049-00000301.soi, 371, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000302.soi, original, , 372, , 2022-09-25
+00049-00000302.soc, induced, 00049-00000302.soi, 372, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000303.soi, original, , 373, , 2022-09-25
+00049-00000303.soc, induced, 00049-00000303.soi, 373, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000304.soc, original, , 374, , 2022-09-25
+00049-00000305.soi, original, , 375, , 2022-09-25
+00049-00000305.soc, induced, 00049-00000305.soi, 375, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000306.soi, original, , 376, , 2022-09-25
+00049-00000306.soc, induced, 00049-00000306.soi, 376, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000307.soi, original, , 377, , 2022-09-25
+00049-00000307.soc, induced, 00049-00000307.soi, 377, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000308.soi, original, , 378, , 2022-09-25
+00049-00000308.soc, induced, 00049-00000308.soi, 378, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000309.soi, original, , 379, , 2022-09-25
+00049-00000309.soc, induced, 00049-00000309.soi, 379, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000310.soi, original, , 37, , 2022-09-25
+00049-00000310.soc, induced, 00049-00000310.soi, 37, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000311.soi, original, , 380, , 2022-09-25
+00049-00000311.soc, induced, 00049-00000311.soi, 380, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000312.soi, original, , 381, , 2022-09-25
+00049-00000312.soc, induced, 00049-00000312.soi, 381, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000313.soc, original, , 382, , 2022-09-25
+00049-00000314.soi, original, , 383, , 2022-09-25
+00049-00000314.soc, induced, 00049-00000314.soi, 383, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000315.soi, original, , 384, , 2022-09-25
+00049-00000315.soc, induced, 00049-00000315.soi, 384, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000316.soi, original, , 385, , 2022-09-25
+00049-00000316.soc, induced, 00049-00000316.soi, 385, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000317.soi, original, , 386, , 2022-09-25
+00049-00000317.soc, induced, 00049-00000317.soi, 386, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000318.soi, original, , 387, , 2022-09-25
+00049-00000318.soc, induced, 00049-00000318.soi, 387, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000319.soi, original, , 388, , 2022-09-25
+00049-00000319.soc, induced, 00049-00000319.soi, 388, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000320.soi, original, , 389, , 2022-09-25
+00049-00000320.soc, induced, 00049-00000320.soi, 389, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000321.soc, original, , 38, , 2022-09-25
+00049-00000322.soc, original, , 390, , 2022-09-25
+00049-00000323.soi, original, , 391, , 2022-09-25
+00049-00000323.soc, induced, 00049-00000323.soi, 391, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000324.soi, original, , 392, , 2022-09-25
+00049-00000324.soc, induced, 00049-00000324.soi, 392, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000325.soc, original, , 393, , 2022-09-25
+00049-00000326.soi, original, , 394, , 2022-09-25
+00049-00000326.soc, induced, 00049-00000326.soi, 394, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000327.soi, original, , 395, , 2022-09-25
+00049-00000327.soc, induced, 00049-00000327.soi, 395, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000328.soi, original, , 396, , 2022-09-25
+00049-00000328.soc, induced, 00049-00000328.soi, 396, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000329.soi, original, , 397, , 2022-09-25
+00049-00000329.soc, induced, 00049-00000329.soi, 397, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000330.soi, original, , 398, , 2022-09-25
+00049-00000330.soc, induced, 00049-00000330.soi, 398, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000331.soi, original, , 399, , 2022-09-25
+00049-00000331.soc, induced, 00049-00000331.soi, 399, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000332.soc, original, , 39, , 2022-09-25
+00049-00000333.soc, original, , 3, , 2022-09-25
+00049-00000334.soi, original, , 400, , 2022-09-25
+00049-00000334.soc, induced, 00049-00000334.soi, 400, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000335.soi, original, , 401, , 2022-09-25
+00049-00000335.soc, induced, 00049-00000335.soi, 401, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000336.soi, original, , 402, , 2022-09-25
+00049-00000336.soc, induced, 00049-00000336.soi, 402, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000337.soi, original, , 403, , 2022-09-25
+00049-00000337.soc, induced, 00049-00000337.soi, 403, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000338.soc, original, , 404, , 2022-09-25
+00049-00000339.soi, original, , 405, , 2022-09-25
+00049-00000339.soc, induced, 00049-00000339.soi, 405, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000340.soi, original, , 406, , 2022-09-25
+00049-00000340.soc, induced, 00049-00000340.soi, 406, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000341.soi, original, , 407, , 2022-09-25
+00049-00000341.soc, induced, 00049-00000341.soi, 407, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000342.soi, original, , 408, , 2022-09-25
+00049-00000342.soc, induced, 00049-00000342.soi, 408, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000343.soc, original, , 409, , 2022-09-25
+00049-00000344.soi, original, , 40, , 2022-09-25
+00049-00000344.soc, induced, 00049-00000344.soi, 40, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000345.soc, original, , 410, , 2022-09-25
+00049-00000346.soi, original, , 411, , 2022-09-25
+00049-00000346.soc, induced, 00049-00000346.soi, 411, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000347.soi, original, , 412, , 2022-09-25
+00049-00000347.soc, induced, 00049-00000347.soi, 412, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000348.soc, original, , 413, , 2022-09-25
+00049-00000349.soi, original, , 414, , 2022-09-25
+00049-00000349.soc, induced, 00049-00000349.soi, 414, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000350.soi, original, , 415, , 2022-09-25
+00049-00000351.soi, original, , 416, , 2022-09-25
+00049-00000351.soc, induced, 00049-00000351.soi, 416, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000352.soi, original, , 417, , 2022-09-25
+00049-00000352.soc, induced, 00049-00000352.soi, 417, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000353.soi, original, , 418, , 2022-09-25
+00049-00000353.soc, induced, 00049-00000353.soi, 418, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000354.soi, original, , 419, , 2022-09-25
+00049-00000354.soc, induced, 00049-00000354.soi, 419, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000355.soi, original, , 41, , 2022-09-25
+00049-00000355.soc, induced, 00049-00000355.soi, 41, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000356.soi, original, , 420, , 2022-09-25
+00049-00000356.soc, induced, 00049-00000356.soi, 420, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000357.soi, original, , 421, , 2022-09-25
+00049-00000357.soc, induced, 00049-00000357.soi, 421, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000358.soc, original, , 422, , 2022-09-25
+00049-00000359.soi, original, , 423, , 2022-09-25
+00049-00000359.soc, induced, 00049-00000359.soi, 423, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000360.soi, original, , 424, , 2022-09-25
+00049-00000360.soc, induced, 00049-00000360.soi, 424, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000361.soi, original, , 425, , 2022-09-25
+00049-00000361.soc, induced, 00049-00000361.soi, 425, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000362.soi, original, , 426, , 2022-09-25
+00049-00000363.soi, original, , 427, , 2022-09-25
+00049-00000363.soc, induced, 00049-00000363.soi, 427, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000364.soi, original, , 428, , 2022-09-25
+00049-00000364.soc, induced, 00049-00000364.soi, 428, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000365.soi, original, , 429, , 2022-09-25
+00049-00000365.soc, induced, 00049-00000365.soi, 429, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000366.soc, original, , 42, , 2022-09-25
+00049-00000367.soc, original, , 430, , 2022-09-25
+00049-00000368.soi, original, , 431, , 2022-09-25
+00049-00000368.soc, induced, 00049-00000368.soi, 431, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000369.soi, original, , 432, , 2022-09-25
+00049-00000369.soc, induced, 00049-00000369.soi, 432, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000370.soi, original, , 433, , 2022-09-25
+00049-00000370.soc, induced, 00049-00000370.soi, 433, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000371.soi, original, , 434, , 2022-09-25
+00049-00000371.soc, induced, 00049-00000371.soi, 434, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000372.soi, original, , 435, , 2022-09-25
+00049-00000372.soc, induced, 00049-00000372.soi, 435, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000373.soi, original, , 436, , 2022-09-25
+00049-00000373.soc, induced, 00049-00000373.soi, 436, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000374.soi, original, , 437, , 2022-09-25
+00049-00000374.soc, induced, 00049-00000374.soi, 437, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000375.soi, original, , 438, , 2022-09-25
+00049-00000375.soc, induced, 00049-00000375.soi, 438, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000376.soi, original, , 439, , 2022-09-25
+00049-00000376.soc, induced, 00049-00000376.soi, 439, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000377.soi, original, , 43, , 2022-09-25
+00049-00000377.soc, induced, 00049-00000377.soi, 43, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000378.soi, original, , 440, , 2022-09-25
+00049-00000378.soc, induced, 00049-00000378.soi, 440, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000379.soc, original, , 441, , 2022-09-25
+00049-00000380.soi, original, , 442, , 2022-09-25
+00049-00000381.soi, original, , 443, , 2022-09-25
+00049-00000381.soc, induced, 00049-00000381.soi, 443, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000382.soi, original, , 444, , 2022-09-25
+00049-00000382.soc, induced, 00049-00000382.soi, 444, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000383.soi, original, , 445, , 2022-09-25
+00049-00000383.soc, induced, 00049-00000383.soi, 445, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000384.soi, original, , 446, , 2022-09-25
+00049-00000384.soc, induced, 00049-00000384.soi, 446, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000385.soi, original, , 447, , 2022-09-25
+00049-00000385.soc, induced, 00049-00000385.soi, 447, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000386.soi, original, , 448, , 2022-09-25
+00049-00000386.soc, induced, 00049-00000386.soi, 448, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000387.soi, original, , 449, , 2022-09-25
+00049-00000387.soc, induced, 00049-00000387.soi, 449, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000388.soi, original, , 44, , 2022-09-25
+00049-00000388.soc, induced, 00049-00000388.soi, 44, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000389.soi, original, , 450, , 2022-09-25
+00049-00000389.soc, induced, 00049-00000389.soi, 450, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000390.soc, original, , 451, , 2022-09-25
+00049-00000391.soc, original, , 452, , 2022-09-25
+00049-00000392.soi, original, , 453, , 2022-09-25
+00049-00000392.soc, induced, 00049-00000392.soi, 453, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000393.soi, original, , 454, , 2022-09-25
+00049-00000393.soc, induced, 00049-00000393.soi, 454, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000394.soi, original, , 455, , 2022-09-25
+00049-00000394.soc, induced, 00049-00000394.soi, 455, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000395.soc, original, , 456, , 2022-09-25
+00049-00000396.soi, original, , 457, , 2022-09-25
+00049-00000397.soi, original, , 458, , 2022-09-25
+00049-00000397.soc, induced, 00049-00000397.soi, 458, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000398.soi, original, , 459, , 2022-09-25
+00049-00000398.soc, induced, 00049-00000398.soi, 459, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000399.soi, original, , 45, , 2022-09-25
+00049-00000399.soc, induced, 00049-00000399.soi, 45, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000400.soc, original, , 460, , 2022-09-25
+00049-00000401.soi, original, , 461, , 2022-09-25
+00049-00000401.soc, induced, 00049-00000401.soi, 461, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000402.soi, original, , 462, , 2022-09-25
+00049-00000402.soc, induced, 00049-00000402.soi, 462, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000403.soi, original, , 463, , 2022-09-25
+00049-00000403.soc, induced, 00049-00000403.soi, 463, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000404.soi, original, , 464, , 2022-09-25
+00049-00000404.soc, induced, 00049-00000404.soi, 464, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000405.soi, original, , 465, , 2022-09-25
+00049-00000405.soc, induced, 00049-00000405.soi, 465, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000406.soc, original, , 466, , 2022-09-25
+00049-00000407.soi, original, , 467, , 2022-09-25
+00049-00000407.soc, induced, 00049-00000407.soi, 467, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000408.soc, original, , 468, , 2022-09-25
+00049-00000409.soi, original, , 469, , 2022-09-25
+00049-00000409.soc, induced, 00049-00000409.soi, 469, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000410.soc, original, , 46, , 2022-09-25
+00049-00000411.soi, original, , 470, , 2022-09-25
+00049-00000411.soc, induced, 00049-00000411.soi, 470, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000412.soi, original, , 471, , 2022-09-25
+00049-00000412.soc, induced, 00049-00000412.soi, 471, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000413.soi, original, , 472, , 2022-09-25
+00049-00000413.soc, induced, 00049-00000413.soi, 472, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000414.soi, original, , 473, , 2022-09-25
+00049-00000414.soc, induced, 00049-00000414.soi, 473, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000415.soi, original, , 474, , 2022-09-25
+00049-00000415.soc, induced, 00049-00000415.soi, 474, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000416.soc, original, , 475, , 2022-09-25
+00049-00000417.soi, original, , 476, , 2022-09-25
+00049-00000417.soc, induced, 00049-00000417.soi, 476, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000418.soi, original, , 477, , 2022-09-25
+00049-00000418.soc, induced, 00049-00000418.soi, 477, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000419.soi, original, , 478, , 2022-09-25
+00049-00000419.soc, induced, 00049-00000419.soi, 478, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000420.soi, original, , 479, , 2022-09-25
+00049-00000420.soc, induced, 00049-00000420.soi, 479, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000421.soc, original, , 47, , 2022-09-25
+00049-00000422.soi, original, , 480, , 2022-09-25
+00049-00000423.soi, original, , 481, , 2022-09-25
+00049-00000423.soc, induced, 00049-00000423.soi, 481, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000424.soc, original, , 482, , 2022-09-25
+00049-00000425.soi, original, , 483, , 2022-09-25
+00049-00000425.soc, induced, 00049-00000425.soi, 483, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000426.soi, original, , 484, , 2022-09-25
+00049-00000426.soc, induced, 00049-00000426.soi, 484, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000427.soi, original, , 485, , 2022-09-25
+00049-00000427.soc, induced, 00049-00000427.soi, 485, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000428.soi, original, , 486, , 2022-09-25
+00049-00000428.soc, induced, 00049-00000428.soi, 486, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000429.soi, original, , 487, , 2022-09-25
+00049-00000429.soc, induced, 00049-00000429.soi, 487, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000430.soi, original, , 488, , 2022-09-25
+00049-00000430.soc, induced, 00049-00000430.soi, 488, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000431.soi, original, , 489, , 2022-09-25
+00049-00000431.soc, induced, 00049-00000431.soi, 489, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000432.soi, original, , 48, , 2022-09-25
+00049-00000432.soc, induced, 00049-00000432.soi, 48, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000433.soi, original, , 490, , 2022-09-25
+00049-00000433.soc, induced, 00049-00000433.soi, 490, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000434.soi, original, , 491, , 2022-09-25
+00049-00000434.soc, induced, 00049-00000434.soi, 491, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000435.soc, original, , 492, , 2022-09-25
+00049-00000436.soi, original, , 493, , 2022-09-25
+00049-00000436.soc, induced, 00049-00000436.soi, 493, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000437.soi, original, , 494, , 2022-09-25
+00049-00000437.soc, induced, 00049-00000437.soi, 494, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000438.soc, original, , 495, , 2022-09-25
+00049-00000439.soi, original, , 496, , 2022-09-25
+00049-00000439.soc, induced, 00049-00000439.soi, 496, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000440.soc, original, , 497, , 2022-09-25
+00049-00000441.soi, original, , 498, , 2022-09-25
+00049-00000441.soc, induced, 00049-00000441.soi, 498, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000442.soi, original, , 499, , 2022-09-25
+00049-00000442.soc, induced, 00049-00000442.soi, 499, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000443.soi, original, , 49, , 2022-09-25
+00049-00000443.soc, induced, 00049-00000443.soi, 49, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000444.soc, original, , 4, , 2022-09-25
+00049-00000445.soc, original, , 500, , 2022-09-25
+00049-00000446.soi, original, , 501, , 2022-09-25
+00049-00000447.soi, original, , 502, , 2022-09-25
+00049-00000447.soc, induced, 00049-00000447.soi, 502, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000448.soi, original, , 503, , 2022-09-25
+00049-00000448.soc, induced, 00049-00000448.soi, 503, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000449.soi, original, , 504, , 2022-09-25
+00049-00000449.soc, induced, 00049-00000449.soi, 504, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000450.soi, original, , 505, , 2022-09-25
+00049-00000450.soc, induced, 00049-00000450.soi, 505, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000451.soi, original, , 506, , 2022-09-25
+00049-00000451.soc, induced, 00049-00000451.soi, 506, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000452.soi, original, , 507, , 2022-09-25
+00049-00000452.soc, induced, 00049-00000452.soi, 507, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000453.soi, original, , 508, , 2022-09-25
+00049-00000453.soc, induced, 00049-00000453.soi, 508, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000454.soi, original, , 509, , 2022-09-25
+00049-00000454.soc, induced, 00049-00000454.soi, 509, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000455.soi, original, , 50, , 2022-09-25
+00049-00000455.soc, induced, 00049-00000455.soi, 50, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000456.soc, original, , 510, , 2022-09-25
+00049-00000457.soi, original, , 511, , 2022-09-25
+00049-00000457.soc, induced, 00049-00000457.soi, 511, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000458.soi, original, , 512, , 2022-09-25
+00049-00000458.soc, induced, 00049-00000458.soi, 512, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000459.soi, original, , 513, , 2022-09-25
+00049-00000459.soc, induced, 00049-00000459.soi, 513, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000460.soi, original, , 514, , 2022-09-25
+00049-00000460.soc, induced, 00049-00000460.soi, 514, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000461.soi, original, , 515, , 2022-09-25
+00049-00000461.soc, induced, 00049-00000461.soi, 515, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000462.soi, original, , 516, , 2022-09-25
+00049-00000462.soc, induced, 00049-00000462.soi, 516, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000463.soi, original, , 517, , 2022-09-25
+00049-00000463.soc, induced, 00049-00000463.soi, 517, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000464.soi, original, , 518, , 2022-09-25
+00049-00000464.soc, induced, 00049-00000464.soi, 518, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000465.soc, original, , 519, , 2022-09-25
+00049-00000466.soi, original, , 51, , 2022-09-25
+00049-00000466.soc, induced, 00049-00000466.soi, 51, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000467.soc, original, , 520, , 2022-09-25
+00049-00000468.soi, original, , 521, , 2022-09-25
+00049-00000468.soc, induced, 00049-00000468.soi, 521, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000469.soi, original, , 522, , 2022-09-25
+00049-00000469.soc, induced, 00049-00000469.soi, 522, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000470.soi, original, , 523, , 2022-09-25
+00049-00000470.soc, induced, 00049-00000470.soi, 523, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000471.soi, original, , 524, , 2022-09-25
+00049-00000471.soc, induced, 00049-00000471.soi, 524, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000472.soi, original, , 525, , 2022-09-25
+00049-00000472.soc, induced, 00049-00000472.soi, 525, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000473.soi, original, , 526, , 2022-09-25
+00049-00000473.soc, induced, 00049-00000473.soi, 526, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000474.soi, original, , 527, , 2022-09-25
+00049-00000474.soc, induced, 00049-00000474.soi, 527, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000475.soi, original, , 528, , 2022-09-25
+00049-00000475.soc, induced, 00049-00000475.soi, 528, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000476.soc, original, , 529, , 2022-09-25
+00049-00000477.soi, original, , 52, , 2022-09-25
+00049-00000477.soc, induced, 00049-00000477.soi, 52, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000478.soi, original, , 530, , 2022-09-25
+00049-00000478.soc, induced, 00049-00000478.soi, 530, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000479.soc, original, , 531, , 2022-09-25
+00049-00000480.soi, original, , 532, , 2022-09-25
+00049-00000480.soc, induced, 00049-00000480.soi, 532, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000481.soi, original, , 533, , 2022-09-25
+00049-00000481.soc, induced, 00049-00000481.soi, 533, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000482.soi, original, , 534, , 2022-09-25
+00049-00000482.soc, induced, 00049-00000482.soi, 534, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000483.soc, original, , 535, , 2022-09-25
+00049-00000484.soi, original, , 536, , 2022-09-25
+00049-00000484.soc, induced, 00049-00000484.soi, 536, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000485.soc, original, , 537, , 2022-09-25
+00049-00000486.soc, original, , 538, , 2022-09-25
+00049-00000487.soi, original, , 539, , 2022-09-25
+00049-00000487.soc, induced, 00049-00000487.soi, 539, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000488.soi, original, , 53, , 2022-09-25
+00049-00000488.soc, induced, 00049-00000488.soi, 53, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000489.soi, original, , 540, , 2022-09-25
+00049-00000489.soc, induced, 00049-00000489.soi, 540, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000490.soi, original, , 541, , 2022-09-25
+00049-00000490.soc, induced, 00049-00000490.soi, 541, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000491.soi, original, , 542, , 2022-09-25
+00049-00000491.soc, induced, 00049-00000491.soi, 542, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000492.soi, original, , 543, , 2022-09-25
+00049-00000492.soc, induced, 00049-00000492.soi, 543, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000493.soi, original, , 544, , 2022-09-25
+00049-00000493.soc, induced, 00049-00000493.soi, 544, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000494.soi, original, , 545, , 2022-09-25
+00049-00000494.soc, induced, 00049-00000494.soi, 545, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000495.soi, original, , 546, , 2022-09-25
+00049-00000495.soc, induced, 00049-00000495.soi, 546, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000496.soi, original, , 547, , 2022-09-25
+00049-00000496.soc, induced, 00049-00000496.soi, 547, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000497.soc, original, , 548, , 2022-09-25
+00049-00000498.soi, original, , 549, , 2022-09-25
+00049-00000498.soc, induced, 00049-00000498.soi, 549, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000499.soi, original, , 54, , 2022-09-25
+00049-00000499.soc, induced, 00049-00000499.soi, 54, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000500.soi, original, , 550, , 2022-09-25
+00049-00000500.soc, induced, 00049-00000500.soi, 550, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000501.soi, original, , 551, , 2022-09-25
+00049-00000501.soc, induced, 00049-00000501.soi, 551, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000502.soi, original, , 552, , 2022-09-25
+00049-00000502.soc, induced, 00049-00000502.soi, 552, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000503.soi, original, , 553, , 2022-09-25
+00049-00000504.soi, original, , 554, , 2022-09-25
+00049-00000504.soc, induced, 00049-00000504.soi, 554, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000505.soi, original, , 555, , 2022-09-25
+00049-00000505.soc, induced, 00049-00000505.soi, 555, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000506.soi, original, , 556, , 2022-09-25
+00049-00000506.soc, induced, 00049-00000506.soi, 556, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000507.soi, original, , 557, , 2022-09-25
+00049-00000508.soc, original, , 558, , 2022-09-25
+00049-00000509.soc, original, , 559, , 2022-09-25
+00049-00000510.soi, original, , 55, , 2022-09-25
+00049-00000511.soc, original, , 560, , 2022-09-25
+00049-00000512.soc, original, , 561, , 2022-09-25
+00049-00000513.soi, original, , 562, , 2022-09-25
+00049-00000513.soc, induced, 00049-00000513.soi, 562, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000514.soi, original, , 563, , 2022-09-25
+00049-00000514.soc, induced, 00049-00000514.soi, 563, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000515.soi, original, , 564, , 2022-09-25
+00049-00000515.soc, induced, 00049-00000515.soi, 564, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000516.soi, original, , 565, , 2022-09-25
+00049-00000516.soc, induced, 00049-00000516.soi, 565, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000517.soc, original, , 566, , 2022-09-25
+00049-00000518.soi, original, , 567, , 2022-09-25
+00049-00000518.soc, induced, 00049-00000518.soi, 567, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000519.soc, original, , 568, , 2022-09-25
+00049-00000520.soi, original, , 569, , 2022-09-25
+00049-00000520.soc, induced, 00049-00000520.soi, 569, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000521.soc, original, , 56, , 2022-09-25
+00049-00000522.soi, original, , 570, , 2022-09-25
+00049-00000522.soc, induced, 00049-00000522.soi, 570, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000523.soi, original, , 571, , 2022-09-25
+00049-00000523.soc, induced, 00049-00000523.soi, 571, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000524.soi, original, , 572, , 2022-09-25
+00049-00000524.soc, induced, 00049-00000524.soi, 572, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000525.soi, original, , 573, , 2022-09-25
+00049-00000525.soc, induced, 00049-00000525.soi, 573, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000526.soi, original, , 574, , 2022-09-25
+00049-00000526.soc, induced, 00049-00000526.soi, 574, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000527.soi, original, , 575, , 2022-09-25
+00049-00000527.soc, induced, 00049-00000527.soi, 575, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000528.soi, original, , 576, , 2022-09-25
+00049-00000528.soc, induced, 00049-00000528.soi, 576, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000529.soi, original, , 577, , 2022-09-25
+00049-00000529.soc, induced, 00049-00000529.soi, 577, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000530.soi, original, , 578, , 2022-09-25
+00049-00000530.soc, induced, 00049-00000530.soi, 578, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000531.soi, original, , 579, , 2022-09-25
+00049-00000531.soc, induced, 00049-00000531.soi, 579, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000532.soi, original, , 57, , 2022-09-25
+00049-00000532.soc, induced, 00049-00000532.soi, 57, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000533.soi, original, , 580, , 2022-09-25
+00049-00000533.soc, induced, 00049-00000533.soi, 580, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000534.soi, original, , 581, , 2022-09-25
+00049-00000534.soc, induced, 00049-00000534.soi, 581, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000535.soi, original, , 582, , 2022-09-25
+00049-00000535.soc, induced, 00049-00000535.soi, 582, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000536.soi, original, , 583, , 2022-09-25
+00049-00000537.soi, original, , 584, , 2022-09-25
+00049-00000537.soc, induced, 00049-00000537.soi, 584, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000538.soc, original, , 585, , 2022-09-25
+00049-00000539.soi, original, , 586, , 2022-09-25
+00049-00000539.soc, induced, 00049-00000539.soi, 586, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000540.soi, original, , 587, , 2022-09-25
+00049-00000540.soc, induced, 00049-00000540.soi, 587, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000541.soi, original, , 588, , 2022-09-25
+00049-00000541.soc, induced, 00049-00000541.soi, 588, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000542.soi, original, , 589, , 2022-09-25
+00049-00000542.soc, induced, 00049-00000542.soi, 589, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000543.soc, original, , 58, , 2022-09-25
+00049-00000544.soi, original, , 590, , 2022-09-25
+00049-00000545.soc, original, , 591, , 2022-09-25
+00049-00000546.soi, original, , 592, , 2022-09-25
+00049-00000546.soc, induced, 00049-00000546.soi, 592, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000547.soc, original, , 593, , 2022-09-25
+00049-00000548.soi, original, , 594, , 2022-09-25
+00049-00000548.soc, induced, 00049-00000548.soi, 594, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000549.soi, original, , 595, , 2022-09-25
+00049-00000550.soi, original, , 596, , 2022-09-25
+00049-00000550.soc, induced, 00049-00000550.soi, 596, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000551.soc, original, , 597, , 2022-09-25
+00049-00000552.soi, original, , 598, , 2022-09-25
+00049-00000552.soc, induced, 00049-00000552.soi, 598, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000553.soi, original, , 599, , 2022-09-25
+00049-00000553.soc, induced, 00049-00000553.soi, 599, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000554.soi, original, , 59, , 2022-09-25
+00049-00000554.soc, induced, 00049-00000554.soi, 59, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000555.soi, original, , 5, , 2022-09-25
+00049-00000555.soc, induced, 00049-00000555.soi, 5, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000556.soi, original, , 600, , 2022-09-25
+00049-00000557.soc, original, , 601, , 2022-09-25
+00049-00000558.soi, original, , 602, , 2022-09-25
+00049-00000558.soc, induced, 00049-00000558.soi, 602, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000559.soi, original, , 603, , 2022-09-25
+00049-00000559.soc, induced, 00049-00000559.soi, 603, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000560.soi, original, , 604, , 2022-09-25
+00049-00000560.soc, induced, 00049-00000560.soi, 604, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000561.soi, original, , 605, , 2022-09-25
+00049-00000561.soc, induced, 00049-00000561.soi, 605, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000562.soi, original, , 606, , 2022-09-25
+00049-00000562.soc, induced, 00049-00000562.soi, 606, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000563.soi, original, , 607, , 2022-09-25
+00049-00000563.soc, induced, 00049-00000563.soi, 607, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000564.soc, original, , 608, , 2022-09-25
+00049-00000565.soi, original, , 609, , 2022-09-25
+00049-00000565.soc, induced, 00049-00000565.soi, 609, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000566.soi, original, , 60, , 2022-09-25
+00049-00000566.soc, induced, 00049-00000566.soi, 60, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000567.soi, original, , 610, , 2022-09-25
+00049-00000567.soc, induced, 00049-00000567.soi, 610, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000568.soi, original, , 611, , 2022-09-25
+00049-00000568.soc, induced, 00049-00000568.soi, 611, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000569.soi, original, , 612, , 2022-09-25
+00049-00000569.soc, induced, 00049-00000569.soi, 612, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000570.soi, original, , 613, , 2022-09-25
+00049-00000570.soc, induced, 00049-00000570.soi, 613, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000571.soi, original, , 614, , 2022-09-25
+00049-00000571.soc, induced, 00049-00000571.soi, 614, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000572.soi, original, , 615, , 2022-09-25
+00049-00000572.soc, induced, 00049-00000572.soi, 615, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000573.soi, original, , 616, , 2022-09-25
+00049-00000573.soc, induced, 00049-00000573.soi, 616, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000574.soc, original, , 617, , 2022-09-25
+00049-00000575.soc, original, , 618, , 2022-09-25
+00049-00000576.soi, original, , 619, , 2022-09-25
+00049-00000577.soi, original, , 61, , 2022-09-25
+00049-00000577.soc, induced, 00049-00000577.soi, 61, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000578.soi, original, , 620, , 2022-09-25
+00049-00000578.soc, induced, 00049-00000578.soi, 620, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000579.soi, original, , 621, , 2022-09-25
+00049-00000579.soc, induced, 00049-00000579.soi, 621, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000580.soi, original, , 622, , 2022-09-25
+00049-00000580.soc, induced, 00049-00000580.soi, 622, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000581.soc, original, , 623, , 2022-09-25
+00049-00000582.soi, original, , 624, , 2022-09-25
+00049-00000582.soc, induced, 00049-00000582.soi, 624, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000583.soi, original, , 625, , 2022-09-25
+00049-00000584.soc, original, , 626, , 2022-09-25
+00049-00000585.soi, original, , 627, , 2022-09-25
+00049-00000585.soc, induced, 00049-00000585.soi, 627, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000586.soi, original, , 628, , 2022-09-25
+00049-00000586.soc, induced, 00049-00000586.soi, 628, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000587.soi, original, , 629, , 2022-09-25
+00049-00000587.soc, induced, 00049-00000587.soi, 629, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000588.soi, original, , 62, , 2022-09-25
+00049-00000588.soc, induced, 00049-00000588.soi, 62, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000589.soi, original, , 630, , 2022-09-25
+00049-00000590.soi, original, , 631, , 2022-09-25
+00049-00000591.soi, original, , 632, , 2022-09-25
+00049-00000591.soc, induced, 00049-00000591.soi, 632, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000592.soi, original, , 633, , 2022-09-25
+00049-00000592.soc, induced, 00049-00000592.soi, 633, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000593.soi, original, , 634, , 2022-09-25
+00049-00000593.soc, induced, 00049-00000593.soi, 634, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000594.soi, original, , 635, , 2022-09-25
+00049-00000594.soc, induced, 00049-00000594.soi, 635, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000595.soi, original, , 63, , 2022-09-25
+00049-00000595.soc, induced, 00049-00000595.soi, 63, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000596.soi, original, , 64, , 2022-09-25
+00049-00000596.soc, induced, 00049-00000596.soi, 64, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000597.soi, original, , 65, , 2022-09-25
+00049-00000597.soc, induced, 00049-00000597.soi, 65, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000598.soi, original, , 66, , 2022-09-25
+00049-00000598.soc, induced, 00049-00000598.soi, 66, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000599.soi, original, , 67, , 2022-09-25
+00049-00000599.soc, induced, 00049-00000599.soi, 67, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000600.soi, original, , 68, , 2022-09-25
+00049-00000600.soc, induced, 00049-00000600.soi, 68, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000601.soi, original, , 69, , 2022-09-25
+00049-00000601.soc, induced, 00049-00000601.soi, 69, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000602.soi, original, , 6, , 2022-09-25
+00049-00000602.soc, induced, 00049-00000602.soi, 6, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000603.soi, original, , 70, , 2022-09-25
+00049-00000603.soc, induced, 00049-00000603.soi, 70, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000604.soi, original, , 71, , 2022-09-25
+00049-00000604.soc, induced, 00049-00000604.soi, 71, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000605.soi, original, , 72, , 2022-09-25
+00049-00000605.soc, induced, 00049-00000605.soi, 72, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000606.soi, original, , 73, , 2022-09-25
+00049-00000606.soc, induced, 00049-00000606.soi, 73, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000607.soi, original, , 74, , 2022-09-25
+00049-00000607.soc, induced, 00049-00000607.soi, 74, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000608.soi, original, , 75, , 2022-09-25
+00049-00000608.soc, induced, 00049-00000608.soi, 75, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000609.soi, original, , 76, , 2022-09-25
+00049-00000609.soc, induced, 00049-00000609.soi, 76, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000610.soi, original, , 77, , 2022-09-25
+00049-00000610.soc, induced, 00049-00000610.soi, 77, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000611.soc, original, , 78, , 2022-09-25
+00049-00000612.soi, original, , 79, , 2022-09-25
+00049-00000612.soc, induced, 00049-00000612.soi, 79, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000613.soi, original, , 7, , 2022-09-25
+00049-00000613.soc, induced, 00049-00000613.soi, 7, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000614.soi, original, , 80, , 2022-09-25
+00049-00000614.soc, induced, 00049-00000614.soi, 80, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000615.soc, original, , 81, , 2022-09-25
+00049-00000616.soi, original, , 82, , 2022-09-25
+00049-00000616.soc, induced, 00049-00000616.soi, 82, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000617.soi, original, , 83, , 2022-09-25
+00049-00000617.soc, induced, 00049-00000617.soi, 83, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000618.soi, original, , 84, , 2022-09-25
+00049-00000618.soc, induced, 00049-00000618.soi, 84, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000619.soi, original, , 85, , 2022-09-25
+00049-00000619.soc, induced, 00049-00000619.soi, 85, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000620.soi, original, , 86, , 2022-09-25
+00049-00000620.soc, induced, 00049-00000620.soi, 86, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000621.soi, original, , 87, , 2022-09-25
+00049-00000622.soi, original, , 88, , 2022-09-25
+00049-00000622.soc, induced, 00049-00000622.soi, 88, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000623.soi, original, , 89, , 2022-09-25
+00049-00000623.soc, induced, 00049-00000623.soi, 89, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000624.soc, original, , 8, , 2022-09-25
+00049-00000625.soi, original, , 90, , 2022-09-25
+00049-00000625.soc, induced, 00049-00000625.soi, 90, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000626.soi, original, , 91, , 2022-09-25
+00049-00000626.soc, induced, 00049-00000626.soi, 91, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000627.soi, original, , 92, , 2022-09-25
+00049-00000627.soc, induced, 00049-00000627.soi, 92, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000628.soi, original, , 93, , 2022-09-25
+00049-00000628.soc, induced, 00049-00000628.soi, 93, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000629.soi, original, , 94, , 2022-09-25
+00049-00000629.soc, induced, 00049-00000629.soi, 94, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000630.soi, original, , 95, , 2022-09-25
+00049-00000630.soc, induced, 00049-00000630.soi, 95, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000631.soi, original, , 96, , 2022-09-25
+00049-00000631.soc, induced, 00049-00000631.soi, 96, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000632.soi, original, , 97, , 2022-09-25
+00049-00000632.soc, induced, 00049-00000632.soi, 97, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000633.soi, original, , 98, , 2022-09-25
+00049-00000633.soc, induced, 00049-00000633.soi, 98, Complete preferences extracted from the soi file, 2022-09-25
+00049-00000634.soc, original, , 99, , 2022-09-25
+00049-00000635.soc, original, , 9, , 2022-09-25
