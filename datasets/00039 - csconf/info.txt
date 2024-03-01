@@ -1,0 +1,20 @@
+Name: Computer Science Conference Bidding Data
+
+Abbreviation: csconf
+
+Tags: Matching
+
+Series Number: 00039
+
+Publication Date: 2017-04-13
+
+Description: <p>This dataset contains the bidding data from 3 Computer Science Conferences.  This contains the bids of all reviewers (aside a small number of opt-outs) over a subset of papers at the conference.</p> <p>The bidding language for these conferences is <b>yes/maybe/conflict</b>.  In order to make these more useful for PreLib users, we have converted them to incomplete partial orders of the form <b>{yes} > {maybe} > {no response}</b>.  The papers for which a reviewer had a conflict have been removed from their preference list.  All reviewers had different preference orderings, hence each file contains as many entries as reviewers.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00039-00000001.toi, original, , AI Conference 1, , 2017-04-13
+00039-00000002.toi, original, , AI Conference 2, , 2017-04-13
+00039-00000003.toi, original, , AI Conference 3, , 2017-04-13
