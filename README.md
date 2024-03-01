@@ -13,9 +13,6 @@ folder can be zipped and directly imported in PrefLib. See the
 The format for the files changed in September 2022. Since this can cause problems for application
 developed prior to that date, we still provide the old files in the folder `datasets_old_format`.
 
-Note that we use git lfs for the large data file (.dat extension). Check the 
-[git lfs documentation](https://git-lfs.github.com) for more details.
-
 Format Specification
 ====================
 
