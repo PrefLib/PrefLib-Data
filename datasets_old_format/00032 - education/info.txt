@@ -1,0 +1,27 @@
+Name: Education Surveys in Informatics (Cujae)
+
+Abbreviation: education
+
+Tags: Election
+
+Series Number: 00032
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains the results of surveying students and professors in the Faculty of Informatics, <a href="http://cujae.edu.cu/">Instituto Superior Politécnico José Antonio Echeverría (Cujae, Havana, Cuba)</a> about their preferences on courses and the most important aspects affecting their performance as students and professionals. Answers include ties and missing elements. These surveys, conducted in 2015, include criteria about different numbers of aspects (6 to 32 candidates) and 13 courses.</p><p>This dataset was donated by <a href="https://www.researchgate.net/profile/Alejandro_Rosete-Suarez">Alejandro Rosete Suárez</a> and <a href="https://www.researchgate.net/profile/Milton_Garcia-Borroto">Milton García Borroto</a> and may be augmented with new surveys in the future.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00032-00000001.soi, original, , Professors: Most Important Aspects of Failure, , 2021-06-22
+00032-00000002.soc, original, , Students: Most Important Aspects of Failure, , 2021-06-22
+00032-00000003.soi, original, , Combined: Most Important Aspects of Failure, , 2021-06-22
+00032-00000004.toc, imbued, 00032-00000004.toi, Professors: Most Important Courses, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00032-00000004.toi, original, , Professors: Most Important Courses, , 2021-06-22
+00032-00000005.soi, original, , Professors: Least Important Courses, , 2021-06-22
+00032-00000006.toc, imbued, 00032-00000006.toi, Professors: Most Important Qualities for Success, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00032-00000006.toi, original, , Professors: Most Important Qualities for Success, , 2021-06-22
+00032-00000007.toc, imbued, , Professors: Most Important Qualities for Success, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00032-00000007.toi, original, 00032-00000007.toi, Professors: Most Important Qualities for Success, , 2021-06-22

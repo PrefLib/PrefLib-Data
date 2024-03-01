@@ -1,0 +1,28 @@
+13
+1,Physics 
+2,Financial Economic Management 
+3,Databases (Advanced topics) 
+4,Operations Research 
+5,Computer Architecture 
+6,Linear Algebra 
+7,Introduction to Artificial Intelligence 
+8,Simulation 
+9,Elective topics 
+10,Foundations of Computing 
+11,Professional Seminar 
+12,Software Engineering 3 
+13,Organizational Management 
+14,14,13
+2,1,2
+1,3,2,13
+1,1,6,9
+1,1,8,2
+1,2,8,4
+1,9
+1,4,3,5
+1,1,5,10
+1,1,5
+1,4,3,6
+1,7,11,4
+1,1,3,10
+1,7,12,6

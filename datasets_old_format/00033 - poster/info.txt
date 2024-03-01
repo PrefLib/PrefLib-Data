@@ -1,0 +1,21 @@
+Name: San Sebastian Poster Competition
+
+Abbreviation: poster
+
+Tags: Election
+
+Series Number: 00033
+
+Publication Date: 2021-06-22
+
+Description: <p>Approval Ballots from the San Sebastian Poster Competition held during <a href="http://www.illc.uva.nl/COST-IC1205/Events/Action-Summer-Schools/San-Sebastian-2016/">The Summer School on Computational Social Choice</a> organized by COST Action IC1205 at the Miramar Palace in San Sebastian in July 2016.  This set has two elections of approval ballots with 17 alternatives and about 60 voters each.  The data on this page was donated by <a href="https://staff.science.uva.nl/u.endriss/">Ulle Endriss</a>.</p><p>Two elections were held, using approval voting. In the first election the alternatives were posters A1-A17; in the second election the alternatives were posters B1-B17. There were 67 eligible voters (56 summer school participants, including the 34 poster presenters, as well as 7 lecturers and 4 organizers). Of these, 65 voters participated in the first election and 60 voters participated in the second election (1 voter did not vote in either election). The elections were conducted using the <a href="http://whale3.noiraudes.net/">Whale3</a> system of Sylvain Bouveret.  Most of the posters are available at the summer school website.</p><p> The original data file (00033-00000001.dat) includes one column per poster. Each of the two sets of posters is ordered by the number of approvals received. Each row corresponds to a voter. The voters are ordered by the number of approvals they have given across both elections, except that the 7 voters who only participated in one of the two elections are listed last.  The other files are converted into standard PrefLib format where all approved alternatives are considered a tied equivalence class.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00033-00000001.dat, original, , San_Sebastian_All_Approvals, , 2021-06-22
+00033-00000002.toc, original, , San_Sebastian_Group_1, , 2021-06-22
+00033-00000003.dat, original, 00033-00000003.toc, San_Sebastian_Group_2, Includes the complete approval ballots, 2021-06-22
+00033-00000003.toc, original, , San_Sebastian_Group_2, , 2021-06-22

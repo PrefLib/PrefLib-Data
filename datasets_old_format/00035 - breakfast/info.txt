@@ -1,0 +1,23 @@
+Name: Breakfast Items
+
+Abbreviation: breakfast
+
+Tags: Election
+
+Series Number: 00035
+
+Publication Date: 2022-09-09
+
+Description: <p>This dataset was collected by Green and Rao (1972), and is a standard example in the literature on multidimensional unfolding (which is about embedding preferences in Euclidean space). They obtained strict preference rankings over a collection of 15 sweet breakfast items (such as toast, muffins, donuts) from "a group of 42 respondents, 21 Wharton MBA students and their wives. The questionnaire was self-administered separately by husband and wife. All subjects independently filled out the same questionnaire and received compensation for their efforts."</p><p>Green and Rao asked for these preferences in 6 different situations: "Overall preferences", "When I'm having a breakfast consisting of juice, bacon and eggs, and beverage", "When I'm having a breakfast consisting of juice, cold cereal, and beverage", "When I'm having a breakfast consisting of juice, pancakes, sausage, and beverage", "Breakfast, with beverage only", "At snack time, with beverage only". The rankings for each of these situations are provided in separate data patches. The ordering of respondents is the same across data patches; rankings in odd positions (1st, 3rd, ...) come from the MBA students, the ranking in the following line from that student's wife.</p><p>This dataset was digitized by <a href="https://dominik-peters.de">Dominik Peters</a> from the listings provided in the appendix of the <a href="https://archive.org/details/appliedmultidime0000unse/">1972 book</a>.</p>
+
+Required Citations: Applied Multidimensional Scaling: A Comparison of Approaches and Algorithms; Paul E. Green, Vithala R. Rao; Holt, Rinehart and Winston; 1972
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00035-00000001.soc, original, , Overall preference, , 2022-09-09
+00035-00000002.soc, original, , 'Juice, bacon and eggs, beverage', , 2022-09-09
+00035-00000003.soc, original, , 'Juice, cold cereal, beverage', , 2022-09-09
+00035-00000004.soc, original, , 'Juice, pancakes, sausage, beverage', , 2022-09-09
+00035-00000005.soc, original, , 'Breakfast, with beverage only', , 2022-09-09
+00035-00000006.soc, original, , 'At snack time, with beverage only', , 2022-09-09

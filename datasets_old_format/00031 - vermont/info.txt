@@ -1,0 +1,32 @@
+Name: Vermont District Races
+
+Abbreviation: vermont
+
+Tags: Election
+
+Series Number: 00031
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains votes for 15 different races for various public offices held in Vermont in 2014.  This data was collected and donated by <a href="https://www.researchgate.net/profile/Jeremy_Hansen2">Jeremy A Hansen</a>.  There are 3 to 6 candidates and 532 to 1960 voters in these data files.  Not all races were competitive so not every race is reported for every district.</p>
+
+Required Citations: Ballot-Level Observations About Vermont's 2014 General Election; Jeremy A. Hansen; New England Journal of Political Science 8 (2): 185—217; 2016
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00031-00000001.toc, original, , East Montpelier Vermont Assistant Judge, , 2021-06-22
+00031-00000002.toc, original, , East Montpelier Vermont Senate, , 2021-06-22
+00031-00000003.toc, original, , Fayston Vermont Assistant Judge, , 2021-06-22
+00031-00000004.toc, original, , Fayston Vermont House, , 2021-06-22
+00031-00000005.toc, original, , Fayston Vermont Senate, , 2021-06-22
+00031-00000006.toc, original, , Manchester Vermont Assistant Judge, , 2021-06-22
+00031-00000007.toc, original, , Manchester Vermont House, , 2021-06-22
+00031-00000008.toc, original, , Manchester Vermont Senate, , 2021-06-22
+00031-00000009.toc, original, , St Johnsbury Vermont Assistant Judge, , 2021-06-22
+00031-00000010.toc, original, , St Johnsbury Vermont House, , 2021-06-22
+00031-00000011.toc, original, , St Johnsbury Vermont Senate, , 2021-06-22
+00031-00000012.toc, original, , Westminster Vermont Assistant Judge, , 2021-06-22
+00031-00000013.toc, original, , Westminster Vermont Senate, , 2021-06-22
+00031-00000014.toc, original, , Wolcott Vermont House, , 2021-06-22
+00031-00000015.toc, original, , Wolcott Vermont Senate, , 2021-06-22

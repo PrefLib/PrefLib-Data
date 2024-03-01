@@ -1,0 +1,19 @@
+Name: Cities Survey
+
+Abbreviation: cities
+
+Tags: Election
+
+Series Number: 00034
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains noisy input from two surveys, one about cost of living and one about population, of 392 individuals over 36 alternatives for cost of living and 48 alternatives for population. Each individual provided a ranking of six given cities in terms of cost of living and a ranking of six countries in terms of population.</p>  <p>The data were collected among participants of the 3rd PatrasIQ research and technology exhibition, in Patras, Greece in April 2016. We received input from 392 volunteers; each of them was given a random bundle of six cities (from a pool of 36) and a random bundle of six countries (from a pool of 48), and was asked to give a strict ranking of the given cities and countries in terms of his/her estimation about their cost of living indices and population (in decreasing order), respectively.</p> <p> In the cost of living treatment each city appears in at least 57 and at most 70 bundles/votes. The alternative ids define a ground truth, i.e., a strict ranking of all 36 cities according to cost of living index data retrieved from numbeo.com in April 2016.  In the population treatment Each country appears in at least 47 and at most 52 bundles/votes. The alternative ids define a ground truth, i.e., a strict ranking of all 48 countries according to population data retrieved from wikipedia.org in April 2016.</p> <p>The data on this page has been donated by <a href="https://www.ceid.upatras.gr/webpages/faculty/caragian/">Iannis Caragiannis</a></p>
+
+Required Citations: Optimizing positional scoring rules for rank aggregation; Ioannis Caragiannis, Xenophon Chatzigeorgiou, George A. Krimpas, and Alexandros A. Voudouris;  In Proceedings of the 31st AAAI Conference on Artificial Intelligence; 2017
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00034-00000001.soi, original, , Cost of Living, , 2021-06-22
+00034-00000002.soi, original, , Population, , 2021-06-22

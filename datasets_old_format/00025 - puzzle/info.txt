@@ -1,0 +1,21 @@
+Name: Mechanical Turk Puzzle
+
+Abbreviation: puzzle
+
+Tags: Election
+
+Series Number: 00025
+
+Publication Date: 2021-06-22
+
+Description: <p>The Mechanical Turk Dots datasets come from <a href="http://www.andrewmao.net/">Andrew Mao</a> and were collected using Mechanical Turk.  These data sets each contain elections with 793-797 voters over 4 candidates.</p> <p> Each of the candidates correspond to an instance of the sliding puzzle game presented to a user on Mechanical Turk, who is asked to rank the items from those in a position closest to solution (first) to those requiring the most moves to complete (last).  Thus, for all of these data sets there is a ground truth ranking which corresponds to the candidate names in sorted order.  In the Puzzle task, each task contains elements requiring d, d+3, d+6, and d+9 moves to complete, where d = {5, 7, 9, 11}.  This allows for more noise to be introduced to various iterations of the task.  For each i, 40 sets of puzzles were placed on Mechanical Turk and were ranked by 20 users.  As per the data owners request these 160 individual trails have been aggregated into a single file for each i.  The individual trial runs are available upon request.</p>
+
+Required Citations: Better Human Computation Through Principled Voting; Andrew Mao, Ariel D. Procaccia, and Yiling Chen;  In the Twenty-Seventh Conference on Artificial Intelligence (AAAI); 2013
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00025-00000001.soc, original, , all_11_14_17_20, , 2021-06-22
+00025-00000002.soc, original, , all_5_8_11_14, , 2021-06-22
+00025-00000003.soc, original, , all_7_10_13_16, , 2021-06-22
+00025-00000004.soc, original, , all_9_12_15_18, , 2021-06-22

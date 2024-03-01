@@ -1,0 +1,19 @@
+Name: AAMAS Bidding Data
+
+Abbreviation: aamas
+
+Tags: Matching
+
+Series Number: 00037
+
+Publication Date: 2013-08-17
+
+Description: <p>This dataset contains the bids of reviewers over papers from the 2015 and 2016 Autonomous Agents and Multiagent Systems Conference</a>.  Inclusion in these data sets were explicitly opt-in; 2015 contains 9,817 bids of 201 reviewers over 613 papers; this represents about 40% of the actual 22,360 bids of 281 reviewers over 670 papers.  The 2016 data contains 161 out of 393 reviewers with bids over 442 out of 550 papers.</p> <p>The bidding language for these conferences is <b>yes/maybe/no/conflict</b>.  In order to make these more useful for PreLib users, we have converted them to incomplete partial orders of the form <b>{yes} > {maybe} > {no response} > {no}</b>.  The papers for which a reviewer had a conflict have been removed from their preference list.  All reviewers had different preference orderings, hence each file contains as many entries as reviewers.  We are deeply grateful to the IFAAMAS board and <a href="http://www.inf.pucrs.br/r.bordini/Rafael_Bordini/Welcome.html">Rafael Bordini</a>, <a href="https://www.cs.ox.ac.uk/people/edith.elkind/">Edith Elkind</a>, <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/t/thangarajah-associate-professor-john">John Thangarajah</a>, and <a href="https://www.liverpool.ac.uk/computer-science/staff/david-shield/">David Shield</a> for approving, coordinating, and providing this dataset.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00037-00000001.toi, original, , AAMAS 2015, , 2013-08-17
+00037-00000002.toi, original, , AAMAS 2016, , 2013-08-17

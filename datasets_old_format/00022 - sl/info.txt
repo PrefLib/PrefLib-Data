@@ -1,0 +1,26 @@
+Name: San Leandro Election Data
+
+Abbreviation: sl
+
+Tags: Election
+
+Series Number: 00022
+
+Publication Date: 2021-06-22
+
+Description: <p>The San Leandro data contains the results from several elections, including mayor and city council elections, held in San Leandro, CA between 2010 and 2012. The set contains 3 distinct elections with between 4 and 7 canddiates and about 25,000 voters each.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00022-00000001.dat, original, 00022-00000001.toc, 2010 San Leandro Mayor, Includes the invalid ballots, 2021-06-22
+00022-00000001.toc, imbued, 00022-00000001.toi, 2010 San Leandro Mayor, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00022-00000001.toi, original, , 2010 San Leandro Mayor, , 2021-06-22
+00022-00000002.dat, original, 00022-00000002.toc, 2012 San Leandro City Council - District 2, Includes the invalid ballots, 2021-06-22
+00022-00000002.toc, imbued, 00022-00000002.toi, 2012 San Leandro City Council - District 2, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00022-00000002.toi, original, , 2012 San Leandro City Council - District 2, , 2021-06-22
+00022-00000003.dat, original, 00022-00000003.toc, 2012 San Leandro City Council - District 4, Includes the invalid ballots, 2021-06-22
+00022-00000003.toc, imbued, 00022-00000003.toi, 2012 San Leandro City Council - District 4, Obtained from the toi by adding the unranked alternatives at the bottom, 2021-06-22
+00022-00000003.toi, original, , 2012 San Leandro City Council - District 4, , 2021-06-22

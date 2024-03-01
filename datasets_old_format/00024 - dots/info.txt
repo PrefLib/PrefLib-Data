@@ -1,0 +1,21 @@
+Name: Mechanical Turk Dots
+
+Abbreviation: dots
+
+Tags: Election
+
+Series Number: 00024
+
+Publication Date: 2021-06-22
+
+Description: <p>The Mechanical Turk Dots datasets come from <a href="http://www.andrewmao.net/">Andrew Mao</a> and were collected using Mechanical Turk.  These data sets each contain elections with 794-800 voters over 4 candidates.</p> <p> Each of the candidates correspond to random dots presented to a user on Mechanical Turk, who is asked to rank the items from those containing the least dots (first) to those containing the most dots (last).  Thus, for all of these data sets there is a ground truth ranking which corresponds to the candidate names in sorted order.  In the Dots task, each task contains elements with 200, 200+i, 200+2i, and 200+3i dots, where i = {3, 5, 7, 9}.  This allows for more noise to be introduced to various iterations of the task.  For each i, 40 sets of puzzles were placed on Mechanical Turk and were ranked by 20 users.  As per the data owners request these 160 individual trails have been aggregated into a single file for each i.  The individual trial runs are available upon request.</p>
+
+Required Citations: Better Human Computation Through Principled Voting; Andrew Mao, Ariel D. Procaccia, and Yiling Chen;  In the Twenty-Seventh Conference on Artificial Intelligence (AAAI); 2013
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00024-00000001.soc, original, , all_200x3, , 2021-06-22
+00024-00000002.soc, original, , all_200x5, , 2021-06-22
+00024-00000003.soc, original, , all_200x7, , 2021-06-22
+00024-00000004.soc, original, , all_200x9, , 2021-06-22

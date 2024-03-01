@@ -1,0 +1,49 @@
+32
+1,Teamwork 
+2,Independence 
+3,Self Learning 
+4,Analytical capacity 
+5,Programming skills 
+6,English skill 
+7,Abstraction 
+8,Motivation 
+9,Modeling 
+10,Analogy 
+11,Conceptualization 
+12,Proactivity 
+13,Research skills 
+14,Information search 
+15,Basic knowledge 
+16,Individual work 
+17,Interpretation 
+18,Curiosity 
+19,Integral development 
+20,Sacrifice 
+21,Logical reasoning 
+22,Spontaneity 
+23,Concreteness 
+24,Adaptation 
+25,Focus on application 
+26,Modesty 
+27,Use of update knowledge 
+28,Communications skills 
+29,Assimilation 
+30,Knowledge development 
+31,Comprehension 
+32,Responsibility 
+15,15,15
+1,13,1,4
+1,11,15,26
+1,2,21,6
+1,9,17,28
+1,6,{3,16},27
+1,3,8
+1,2,22,{29,30,31}
+1,12,18,8
+1,{7,9,10},14,{3,24,25}
+1,1,4,5
+1,3,20,1
+1,{2,3},23,7
+1,4,1,32
+1,5,19
+1,7,1,29
