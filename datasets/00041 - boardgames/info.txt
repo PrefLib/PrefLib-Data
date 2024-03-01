@@ -1,0 +1,19 @@
+Name: Boardgames Geek Ranking
+
+Abbreviation: boardgames
+
+Tags: Election
+
+Series Number: 00041
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains an election generated from board game charts.</p> <p>The underlying board games data (<a href="https://kaggle.com/mseinstein/bgg_top2000">kaggle.com/mseinstein/bgg_top2000</a>) contains a weekly ranking of the 2000 most popular board games on boardgamegeek.com between October 2018 and December 2021. We created a single election where each game is a candidate and each vote corresponds to the ranking of the games in one week.</p> <p>The patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00041-00000001.soi, original, , Alltime, , 2022-09-25
+00041-00000001.soc, induced, 00041-00000001.soi, Alltime, Complete preferences extracted from the soi file, 2022-09-25

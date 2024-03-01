@@ -1,0 +1,75 @@
+Name: Tennis Ranking
+
+Abbreviation: tennis
+
+Tags: Election
+
+Series Number: 00045
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains elections generated from tennis world rankings. The underlying tennis data (<a href="https://kaggle.com/mimoopoo/atp-tennis-rankings-1990-to-2019">kaggle.com/mimoopoo/atp-tennis-rankings-1990-to-2019</a>) contains weekly rankings of the top 100 male tennis players published by the ATP between January 1990 and September 2019. For each year, we created an election where each player is a candidate and each vote corresponds to the ranking of the players in one week.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>Other sports world rankings have been used to create the table tennis world rankings and boxing world rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00045-00000001.soi, original, , 1990, , 2022-09-25
+00045-00000001.soc, induced, 00045-00000001.soi, 1990, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000002.soi, original, , 1991, , 2022-09-25
+00045-00000002.soc, induced, 00045-00000002.soi, 1991, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000003.soi, original, , 1992, , 2022-09-25
+00045-00000003.soc, induced, 00045-00000003.soi, 1992, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000004.soi, original, , 1993, , 2022-09-25
+00045-00000004.soc, induced, 00045-00000004.soi, 1993, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000005.soi, original, , 1994, , 2022-09-25
+00045-00000005.soc, induced, 00045-00000005.soi, 1994, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000006.soi, original, , 1995, , 2022-09-25
+00045-00000006.soc, induced, 00045-00000006.soi, 1995, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000007.soi, original, , 1996, , 2022-09-25
+00045-00000007.soc, induced, 00045-00000007.soi, 1996, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000008.soi, original, , 1997, , 2022-09-25
+00045-00000008.soc, induced, 00045-00000008.soi, 1997, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000009.soi, original, , 1998, , 2022-09-25
+00045-00000009.soc, induced, 00045-00000009.soi, 1998, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000010.soi, original, , 1999, , 2022-09-25
+00045-00000010.soc, induced, 00045-00000010.soi, 1999, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000011.soi, original, , 2000, , 2022-09-25
+00045-00000011.soc, induced, 00045-00000011.soi, 2000, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000012.soi, original, , 2001, , 2022-09-25
+00045-00000012.soc, induced, 00045-00000012.soi, 2001, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000013.soi, original, , 2002, , 2022-09-25
+00045-00000013.soc, induced, 00045-00000013.soi, 2002, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000014.soi, original, , 2003, , 2022-09-25
+00045-00000014.soc, induced, 00045-00000014.soi, 2003, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000015.soi, original, , 2004, , 2022-09-25
+00045-00000015.soc, induced, 00045-00000015.soi, 2004, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000016.soi, original, , 2005, , 2022-09-25
+00045-00000016.soc, induced, 00045-00000016.soi, 2005, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000017.soi, original, , 2006, , 2022-09-25
+00045-00000017.soc, induced, 00045-00000017.soi, 2006, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000018.soi, original, , 2007, , 2022-09-25
+00045-00000018.soc, induced, 00045-00000018.soi, 2007, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000019.soi, original, , 2008, , 2022-09-25
+00045-00000019.soc, induced, 00045-00000019.soi, 2008, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000020.soi, original, , 2009, , 2022-09-25
+00045-00000020.soc, induced, 00045-00000020.soi, 2009, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000021.soi, original, , 2010, , 2022-09-25
+00045-00000021.soc, induced, 00045-00000021.soi, 2010, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000022.soi, original, , 2011, , 2022-09-25
+00045-00000022.soc, induced, 00045-00000022.soi, 2011, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000023.soi, original, , 2012, , 2022-09-25
+00045-00000023.soc, induced, 00045-00000023.soi, 2012, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000024.soi, original, , 2013, , 2022-09-25
+00045-00000024.soc, induced, 00045-00000024.soi, 2013, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000025.soi, original, , 2014, , 2022-09-25
+00045-00000025.soc, induced, 00045-00000025.soi, 2014, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000026.soi, original, , 2015, , 2022-09-25
+00045-00000026.soc, induced, 00045-00000026.soi, 2015, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000027.soi, original, , 2016, , 2022-09-25
+00045-00000027.soc, induced, 00045-00000027.soi, 2016, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000028.soi, original, , 2017, , 2022-09-25
+00045-00000028.soc, induced, 00045-00000028.soi, 2017, Complete preferences extracted from the soi file, 2022-09-25
+00045-00000029.soi, original, , 2018, , 2022-09-25
+00045-00000029.soc, induced, 00045-00000029.soi, 2018, Complete preferences extracted from the soi file, 2022-09-25

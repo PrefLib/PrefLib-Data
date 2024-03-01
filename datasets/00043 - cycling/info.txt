@@ -1,0 +1,336 @@
+Name: Cycling Races
+
+Abbreviation: cycling
+
+Tags: Election
+
+Series Number: 00043
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains elections generated from road bicycle racing competitions. It consists of two parts.</p> <p><b>Tour de France.</b> For each edition of the Tour de France between 1903 and 2021, the underlying Tour de France data (<a href="https://procyclingstats.com">procyclingstats.com</a>) contains the completion times of all riders for each stage. For each edition, we created an election in which the riders are the candidates and each vote corresponds to a stage and ranks the riders by their completion time.</p> <p><b>Giro d'Italia.</b> For each edition of the Giro d'Italia between 1910 and 2020, the underlying data Giro d'Italia data (<a href="https://procyclingstats.com">procyclingstats.com</a>) contains the completion times of all riders for each stage of the edition. For each edition, we created an election in which the riders are the candidates and each vote corresponds to a stage and ranks the riders by their completion time.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete. The name of each patch starts either with gdi (Giro d'Italia) or tdf (Tour de France), followed by the respective year.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00043-00000001.soi, original, , Gdi-1910, , 2022-09-25
+00043-00000002.soi, original, , Gdi-1911, , 2022-09-25
+00043-00000003.soi, original, , Gdi-1912, , 2022-09-25
+00043-00000004.soi, original, , Gdi-1913, , 2022-09-25
+00043-00000005.soi, original, , Gdi-1914, , 2022-09-25
+00043-00000006.soi, original, , Gdi-1919, , 2022-09-25
+00043-00000007.soi, original, , Gdi-1920, , 2022-09-25
+00043-00000008.soi, original, , Gdi-1921, , 2022-09-25
+00043-00000009.soi, original, , Gdi-1922, , 2022-09-25
+00043-00000010.soi, original, , Gdi-1923, , 2022-09-25
+00043-00000011.soi, original, , Gdi-1924, , 2022-09-25
+00043-00000012.soi, original, , Gdi-1925, , 2022-09-25
+00043-00000013.soi, original, , Gdi-1926, , 2022-09-25
+00043-00000014.soi, original, , Gdi-1927, , 2022-09-25
+00043-00000015.soi, original, , Gdi-1928, , 2022-09-25
+00043-00000016.soi, original, , Gdi-1929, , 2022-09-25
+00043-00000017.soi, original, , Gdi-1933, , 2022-09-25
+00043-00000018.soi, original, , Gdi-1934, , 2022-09-25
+00043-00000019.soi, original, , Gdi-1935, , 2022-09-25
+00043-00000020.soi, original, , Gdi-1936, , 2022-09-25
+00043-00000021.soi, original, , Gdi-1937, , 2022-09-25
+00043-00000022.soi, original, , Gdi-1938, , 2022-09-25
+00043-00000023.soi, original, , Gdi-1939, , 2022-09-25
+00043-00000024.soi, original, , Gdi-1940, , 2022-09-25
+00043-00000025.soi, original, , Gdi-1946, , 2022-09-25
+00043-00000026.soi, original, , Gdi-1947, , 2022-09-25
+00043-00000027.soi, original, , Gdi-1948, , 2022-09-25
+00043-00000028.soi, original, , Gdi-1949, , 2022-09-25
+00043-00000029.soi, original, , Gdi-1950, , 2022-09-25
+00043-00000030.soi, original, , Gdi-1951, , 2022-09-25
+00043-00000031.soi, original, , Gdi-1952, , 2022-09-25
+00043-00000032.soi, original, , Gdi-1953, , 2022-09-25
+00043-00000033.soi, original, , Gdi-1954, , 2022-09-25
+00043-00000034.soi, original, , Gdi-1955, , 2022-09-25
+00043-00000035.soi, original, , Gdi-1956, , 2022-09-25
+00043-00000036.soi, original, , Gdi-1957, , 2022-09-25
+00043-00000037.soi, original, , Gdi-1958, , 2022-09-25
+00043-00000038.soi, original, , Gdi-1959, , 2022-09-25
+00043-00000039.soi, original, , Gdi-1960, , 2022-09-25
+00043-00000040.soi, original, , Gdi-1961, , 2022-09-25
+00043-00000041.soi, original, , Gdi-1962, , 2022-09-25
+00043-00000042.soi, original, , Gdi-1963, , 2022-09-25
+00043-00000043.soi, original, , Gdi-1964, , 2022-09-25
+00043-00000044.soi, original, , Gdi-1965, , 2022-09-25
+00043-00000045.soi, original, , Gdi-1966, , 2022-09-25
+00043-00000045.soc, induced, 00043-00000045.soi, Gdi-1966, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000046.soi, original, , Gdi-1967, , 2022-09-25
+00043-00000047.soi, original, , Gdi-1968, , 2022-09-25
+00043-00000048.soi, original, , Gdi-1969, , 2022-09-25
+00043-00000049.soi, original, , Gdi-1970, , 2022-09-25
+00043-00000050.soi, original, , Gdi-1971, , 2022-09-25
+00043-00000051.soi, original, , Gdi-1972, , 2022-09-25
+00043-00000052.soi, original, , Gdi-1973, , 2022-09-25
+00043-00000053.soi, original, , Gdi-1974, , 2022-09-25
+00043-00000054.soi, original, , Gdi-1975, , 2022-09-25
+00043-00000055.soi, original, , Gdi-1976, , 2022-09-25
+00043-00000056.soi, original, , Gdi-1977, , 2022-09-25
+00043-00000057.soi, original, , Gdi-1978, , 2022-09-25
+00043-00000058.soi, original, , Gdi-1979, , 2022-09-25
+00043-00000059.soi, original, , Gdi-1980, , 2022-09-25
+00043-00000060.soi, original, , Gdi-1981, , 2022-09-25
+00043-00000061.soi, original, , Gdi-1982, , 2022-09-25
+00043-00000062.soi, original, , Gdi-1983, , 2022-09-25
+00043-00000063.soi, original, , Gdi-1984, , 2022-09-25
+00043-00000064.soi, original, , Gdi-1985, , 2022-09-25
+00043-00000065.soi, original, , Gdi-1986, , 2022-09-25
+00043-00000066.soi, original, , Gdi-1987, , 2022-09-25
+00043-00000067.soi, original, , Gdi-1988, , 2022-09-25
+00043-00000068.soi, original, , Gdi-1989, , 2022-09-25
+00043-00000069.soi, original, , Gdi-1990, , 2022-09-25
+00043-00000070.soi, original, , Gdi-1991, , 2022-09-25
+00043-00000071.soi, original, , Gdi-1992, , 2022-09-25
+00043-00000072.soi, original, , Gdi-1993, , 2022-09-25
+00043-00000073.soi, original, , Gdi-1994, , 2022-09-25
+00043-00000074.soi, original, , Gdi-1995, , 2022-09-25
+00043-00000075.soi, original, , Gdi-1996, , 2022-09-25
+00043-00000075.soc, induced, 00043-00000075.soi, Gdi-1996, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000076.soi, original, , Gdi-1997, , 2022-09-25
+00043-00000076.soc, induced, 00043-00000076.soi, Gdi-1997, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000077.soi, original, , Gdi-1998, , 2022-09-25
+00043-00000077.soc, induced, 00043-00000077.soi, Gdi-1998, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000078.soi, original, , Gdi-1999, , 2022-09-25
+00043-00000078.soc, induced, 00043-00000078.soi, Gdi-1999, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000079.soi, original, , Gdi-2000, , 2022-09-25
+00043-00000079.soc, induced, 00043-00000079.soi, Gdi-2000, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000080.soi, original, , Gdi-2001, , 2022-09-25
+00043-00000080.soc, induced, 00043-00000080.soi, Gdi-2001, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000081.soi, original, , Gdi-2002, , 2022-09-25
+00043-00000081.soc, induced, 00043-00000081.soi, Gdi-2002, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000082.soi, original, , Gdi-2003, , 2022-09-25
+00043-00000082.soc, induced, 00043-00000082.soi, Gdi-2003, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000083.soi, original, , Gdi-2004, , 2022-09-25
+00043-00000083.soc, induced, 00043-00000083.soi, Gdi-2004, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000084.soi, original, , Gdi-2005, , 2022-09-25
+00043-00000084.soc, induced, 00043-00000084.soi, Gdi-2005, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000085.soi, original, , Gdi-2006, , 2022-09-25
+00043-00000085.soc, induced, 00043-00000085.soi, Gdi-2006, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000086.soi, original, , Gdi-2007, , 2022-09-25
+00043-00000086.soc, induced, 00043-00000086.soi, Gdi-2007, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000087.soi, original, , Gdi-2008, , 2022-09-25
+00043-00000087.soc, induced, 00043-00000087.soi, Gdi-2008, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000088.soi, original, , Gdi-2009, , 2022-09-25
+00043-00000088.soc, induced, 00043-00000088.soi, Gdi-2009, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000089.soi, original, , Gdi-2010, , 2022-09-25
+00043-00000089.soc, induced, 00043-00000089.soi, Gdi-2010, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000090.soi, original, , Gdi-2011, , 2022-09-25
+00043-00000090.soc, induced, 00043-00000090.soi, Gdi-2011, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000091.soi, original, , Gdi-2012, , 2022-09-25
+00043-00000091.soc, induced, 00043-00000091.soi, Gdi-2012, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000092.soi, original, , Gdi-2013, , 2022-09-25
+00043-00000092.soc, induced, 00043-00000092.soi, Gdi-2013, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000093.soi, original, , Gdi-2014, , 2022-09-25
+00043-00000093.soc, induced, 00043-00000093.soi, Gdi-2014, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000094.soi, original, , Gdi-2015, , 2022-09-25
+00043-00000094.soc, induced, 00043-00000094.soi, Gdi-2015, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000095.soi, original, , Gdi-2016, , 2022-09-25
+00043-00000095.soc, induced, 00043-00000095.soi, Gdi-2016, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000096.soi, original, , Gdi-2017, , 2022-09-25
+00043-00000096.soc, induced, 00043-00000096.soi, Gdi-2017, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000097.soi, original, , Gdi-2018, , 2022-09-25
+00043-00000097.soc, induced, 00043-00000097.soi, Gdi-2018, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000098.soi, original, , Gdi-2019, , 2022-09-25
+00043-00000098.soc, induced, 00043-00000098.soi, Gdi-2019, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000099.soi, original, , Gdi-2020, , 2022-09-25
+00043-00000099.soc, induced, 00043-00000099.soi, Gdi-2020, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000100.soi, original, , Tdf-1910, , 2022-09-25
+00043-00000100.soc, induced, 00043-00000100.soi, Tdf-1910, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000101.soi, original, , Tdf-1911, , 2022-09-25
+00043-00000101.soc, induced, 00043-00000101.soi, Tdf-1911, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000102.soi, original, , Tdf-1912, , 2022-09-25
+00043-00000102.soc, induced, 00043-00000102.soi, Tdf-1912, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000103.soi, original, , Tdf-1913, , 2022-09-25
+00043-00000103.soc, induced, 00043-00000103.soi, Tdf-1913, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000104.soi, original, , Tdf-1914, , 2022-09-25
+00043-00000104.soc, induced, 00043-00000104.soi, Tdf-1914, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000105.soi, original, , Tdf-1919, , 2022-09-25
+00043-00000105.soc, induced, 00043-00000105.soi, Tdf-1919, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000106.soi, original, , Tdf-1920, , 2022-09-25
+00043-00000106.soc, induced, 00043-00000106.soi, Tdf-1920, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000107.soi, original, , Tdf-1921, , 2022-09-25
+00043-00000107.soc, induced, 00043-00000107.soi, Tdf-1921, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000108.soi, original, , Tdf-1922, , 2022-09-25
+00043-00000108.soc, induced, 00043-00000108.soi, Tdf-1922, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000109.soi, original, , Tdf-1923, , 2022-09-25
+00043-00000109.soc, induced, 00043-00000109.soi, Tdf-1923, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000110.soi, original, , Tdf-1924, , 2022-09-25
+00043-00000110.soc, induced, 00043-00000110.soi, Tdf-1924, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000111.soi, original, , Tdf-1925, , 2022-09-25
+00043-00000111.soc, induced, 00043-00000111.soi, Tdf-1925, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000112.soi, original, , Tdf-1926, , 2022-09-25
+00043-00000112.soc, induced, 00043-00000112.soi, Tdf-1926, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000113.soi, original, , Tdf-1927, , 2022-09-25
+00043-00000113.soc, induced, 00043-00000113.soi, Tdf-1927, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000114.soi, original, , Tdf-1928, , 2022-09-25
+00043-00000114.soc, induced, 00043-00000114.soi, Tdf-1928, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000115.soi, original, , Tdf-1929, , 2022-09-25
+00043-00000115.soc, induced, 00043-00000115.soi, Tdf-1929, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000116.soi, original, , Tdf-1933, , 2022-09-25
+00043-00000116.soc, induced, 00043-00000116.soi, Tdf-1933, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000117.soi, original, , Tdf-1934, , 2022-09-25
+00043-00000117.soc, induced, 00043-00000117.soi, Tdf-1934, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000118.soi, original, , Tdf-1935, , 2022-09-25
+00043-00000118.soc, induced, 00043-00000118.soi, Tdf-1935, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000119.soi, original, , Tdf-1936, , 2022-09-25
+00043-00000119.soc, induced, 00043-00000119.soi, Tdf-1936, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000120.soi, original, , Tdf-1937, , 2022-09-25
+00043-00000120.soc, induced, 00043-00000120.soi, Tdf-1937, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000121.soi, original, , Tdf-1938, , 2022-09-25
+00043-00000121.soc, induced, 00043-00000121.soi, Tdf-1938, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000122.soi, original, , Tdf-1939, , 2022-09-25
+00043-00000122.soc, induced, 00043-00000122.soi, Tdf-1939, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000123.soi, original, , Tdf-1947, , 2022-09-25
+00043-00000123.soc, induced, 00043-00000123.soi, Tdf-1947, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000124.soi, original, , Tdf-1948, , 2022-09-25
+00043-00000124.soc, induced, 00043-00000124.soi, Tdf-1948, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000125.soi, original, , Tdf-1949, , 2022-09-25
+00043-00000125.soc, induced, 00043-00000125.soi, Tdf-1949, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000126.soi, original, , Tdf-1950, , 2022-09-25
+00043-00000126.soc, induced, 00043-00000126.soi, Tdf-1950, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000127.soi, original, , Tdf-1951, , 2022-09-25
+00043-00000127.soc, induced, 00043-00000127.soi, Tdf-1951, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000128.soi, original, , Tdf-1952, , 2022-09-25
+00043-00000128.soc, induced, 00043-00000128.soi, Tdf-1952, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000129.soi, original, , Tdf-1953, , 2022-09-25
+00043-00000129.soc, induced, 00043-00000129.soi, Tdf-1953, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000130.soi, original, , Tdf-1954, , 2022-09-25
+00043-00000130.soc, induced, 00043-00000130.soi, Tdf-1954, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000131.soi, original, , Tdf-1955, , 2022-09-25
+00043-00000131.soc, induced, 00043-00000131.soi, Tdf-1955, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000132.soi, original, , Tdf-1956, , 2022-09-25
+00043-00000132.soc, induced, 00043-00000132.soi, Tdf-1956, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000133.soi, original, , Tdf-1957, , 2022-09-25
+00043-00000133.soc, induced, 00043-00000133.soi, Tdf-1957, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000134.soi, original, , Tdf-1958, , 2022-09-25
+00043-00000134.soc, induced, 00043-00000134.soi, Tdf-1958, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000135.soi, original, , Tdf-1959, , 2022-09-25
+00043-00000135.soc, induced, 00043-00000135.soi, Tdf-1959, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000136.soi, original, , Tdf-1960, , 2022-09-25
+00043-00000136.soc, induced, 00043-00000136.soi, Tdf-1960, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000137.soi, original, , Tdf-1961, , 2022-09-25
+00043-00000137.soc, induced, 00043-00000137.soi, Tdf-1961, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000138.soi, original, , Tdf-1962, , 2022-09-25
+00043-00000138.soc, induced, 00043-00000138.soi, Tdf-1962, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000139.soi, original, , Tdf-1963, , 2022-09-25
+00043-00000139.soc, induced, 00043-00000139.soi, Tdf-1963, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000140.soi, original, , Tdf-1964, , 2022-09-25
+00043-00000140.soc, induced, 00043-00000140.soi, Tdf-1964, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000141.soi, original, , Tdf-1965, , 2022-09-25
+00043-00000141.soc, induced, 00043-00000141.soi, Tdf-1965, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000142.soi, original, , Tdf-1966, , 2022-09-25
+00043-00000142.soc, induced, 00043-00000142.soi, Tdf-1966, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000143.soi, original, , Tdf-1967, , 2022-09-25
+00043-00000143.soc, induced, 00043-00000143.soi, Tdf-1967, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000144.soi, original, , Tdf-1968, , 2022-09-25
+00043-00000144.soc, induced, 00043-00000144.soi, Tdf-1968, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000145.soi, original, , Tdf-1969, , 2022-09-25
+00043-00000145.soc, induced, 00043-00000145.soi, Tdf-1969, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000146.soi, original, , Tdf-1970, , 2022-09-25
+00043-00000146.soc, induced, 00043-00000146.soi, Tdf-1970, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000147.soi, original, , Tdf-1971, , 2022-09-25
+00043-00000147.soc, induced, 00043-00000147.soi, Tdf-1971, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000148.soi, original, , Tdf-1972, , 2022-09-25
+00043-00000148.soc, induced, 00043-00000148.soi, Tdf-1972, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000149.soi, original, , Tdf-1973, , 2022-09-25
+00043-00000149.soc, induced, 00043-00000149.soi, Tdf-1973, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000150.soi, original, , Tdf-1974, , 2022-09-25
+00043-00000150.soc, induced, 00043-00000150.soi, Tdf-1974, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000151.soi, original, , Tdf-1975, , 2022-09-25
+00043-00000151.soc, induced, 00043-00000151.soi, Tdf-1975, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000152.soi, original, , Tdf-1976, , 2022-09-25
+00043-00000152.soc, induced, 00043-00000152.soi, Tdf-1976, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000153.soi, original, , Tdf-1977, , 2022-09-25
+00043-00000153.soc, induced, 00043-00000153.soi, Tdf-1977, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000154.soi, original, , Tdf-1978, , 2022-09-25
+00043-00000154.soc, induced, 00043-00000154.soi, Tdf-1978, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000155.soi, original, , Tdf-1979, , 2022-09-25
+00043-00000155.soc, induced, 00043-00000155.soi, Tdf-1979, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000156.soi, original, , Tdf-1980, , 2022-09-25
+00043-00000156.soc, induced, 00043-00000156.soi, Tdf-1980, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000157.soi, original, , Tdf-1981, , 2022-09-25
+00043-00000157.soc, induced, 00043-00000157.soi, Tdf-1981, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000158.soi, original, , Tdf-1982, , 2022-09-25
+00043-00000158.soc, induced, 00043-00000158.soi, Tdf-1982, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000159.soi, original, , Tdf-1983, , 2022-09-25
+00043-00000159.soc, induced, 00043-00000159.soi, Tdf-1983, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000160.soi, original, , Tdf-1984, , 2022-09-25
+00043-00000160.soc, induced, 00043-00000160.soi, Tdf-1984, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000161.soi, original, , Tdf-1985, , 2022-09-25
+00043-00000161.soc, induced, 00043-00000161.soi, Tdf-1985, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000162.soi, original, , Tdf-1986, , 2022-09-25
+00043-00000162.soc, induced, 00043-00000162.soi, Tdf-1986, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000163.soi, original, , Tdf-1987, , 2022-09-25
+00043-00000163.soc, induced, 00043-00000163.soi, Tdf-1987, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000164.soi, original, , Tdf-1988, , 2022-09-25
+00043-00000164.soc, induced, 00043-00000164.soi, Tdf-1988, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000165.soi, original, , Tdf-1989, , 2022-09-25
+00043-00000165.soc, induced, 00043-00000165.soi, Tdf-1989, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000166.soi, original, , Tdf-1990, , 2022-09-25
+00043-00000166.soc, induced, 00043-00000166.soi, Tdf-1990, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000167.soi, original, , Tdf-1991, , 2022-09-25
+00043-00000167.soc, induced, 00043-00000167.soi, Tdf-1991, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000168.soi, original, , Tdf-1992, , 2022-09-25
+00043-00000168.soc, induced, 00043-00000168.soi, Tdf-1992, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000169.soi, original, , Tdf-1993, , 2022-09-25
+00043-00000169.soc, induced, 00043-00000169.soi, Tdf-1993, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000170.soi, original, , Tdf-1994, , 2022-09-25
+00043-00000170.soc, induced, 00043-00000170.soi, Tdf-1994, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000171.soi, original, , Tdf-1995, , 2022-09-25
+00043-00000171.soc, induced, 00043-00000171.soi, Tdf-1995, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000172.soi, original, , Tdf-1996, , 2022-09-25
+00043-00000172.soc, induced, 00043-00000172.soi, Tdf-1996, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000173.soi, original, , Tdf-1997, , 2022-09-25
+00043-00000173.soc, induced, 00043-00000173.soi, Tdf-1997, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000174.soi, original, , Tdf-1998, , 2022-09-25
+00043-00000174.soc, induced, 00043-00000174.soi, Tdf-1998, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000175.soi, original, , Tdf-1999, , 2022-09-25
+00043-00000175.soc, induced, 00043-00000175.soi, Tdf-1999, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000176.soi, original, , Tdf-2000, , 2022-09-25
+00043-00000176.soc, induced, 00043-00000176.soi, Tdf-2000, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000177.soi, original, , Tdf-2001, , 2022-09-25
+00043-00000177.soc, induced, 00043-00000177.soi, Tdf-2001, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000178.soi, original, , Tdf-2002, , 2022-09-25
+00043-00000178.soc, induced, 00043-00000178.soi, Tdf-2002, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000179.soi, original, , Tdf-2003, , 2022-09-25
+00043-00000179.soc, induced, 00043-00000179.soi, Tdf-2003, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000180.soi, original, , Tdf-2004, , 2022-09-25
+00043-00000180.soc, induced, 00043-00000180.soi, Tdf-2004, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000181.soi, original, , Tdf-2005, , 2022-09-25
+00043-00000181.soc, induced, 00043-00000181.soi, Tdf-2005, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000182.soi, original, , Tdf-2006, , 2022-09-25
+00043-00000182.soc, induced, 00043-00000182.soi, Tdf-2006, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000183.soi, original, , Tdf-2007, , 2022-09-25
+00043-00000183.soc, induced, 00043-00000183.soi, Tdf-2007, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000184.soi, original, , Tdf-2008, , 2022-09-25
+00043-00000184.soc, induced, 00043-00000184.soi, Tdf-2008, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000185.soi, original, , Tdf-2009, , 2022-09-25
+00043-00000185.soc, induced, 00043-00000185.soi, Tdf-2009, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000186.soi, original, , Tdf-2010, , 2022-09-25
+00043-00000186.soc, induced, 00043-00000186.soi, Tdf-2010, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000187.soi, original, , Tdf-2011, , 2022-09-25
+00043-00000187.soc, induced, 00043-00000187.soi, Tdf-2011, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000188.soi, original, , Tdf-2012, , 2022-09-25
+00043-00000188.soc, induced, 00043-00000188.soi, Tdf-2012, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000189.soi, original, , Tdf-2013, , 2022-09-25
+00043-00000189.soc, induced, 00043-00000189.soi, Tdf-2013, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000190.soi, original, , Tdf-2014, , 2022-09-25
+00043-00000190.soc, induced, 00043-00000190.soi, Tdf-2014, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000191.soi, original, , Tdf-2015, , 2022-09-25
+00043-00000191.soc, induced, 00043-00000191.soi, Tdf-2015, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000192.soi, original, , Tdf-2016, , 2022-09-25
+00043-00000192.soc, induced, 00043-00000192.soi, Tdf-2016, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000193.soi, original, , Tdf-2017, , 2022-09-25
+00043-00000193.soc, induced, 00043-00000193.soi, Tdf-2017, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000194.soi, original, , Tdf-2018, , 2022-09-25
+00043-00000194.soc, induced, 00043-00000194.soi, Tdf-2018, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000195.soi, original, , Tdf-2019, , 2022-09-25
+00043-00000195.soc, induced, 00043-00000195.soi, Tdf-2019, Complete preferences extracted from the soi file, 2022-09-25
+00043-00000196.soi, original, , Tdf-2020, , 2022-09-25
+00043-00000196.soc, induced, 00043-00000196.soi, Tdf-2020, Complete preferences extracted from the soi file, 2022-09-25
