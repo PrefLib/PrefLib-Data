@@ -8,7 +8,7 @@ Series Number: 00040
 
 Publication Date: 2013-08-17
 
-Description: <p>This dataset contains 675,069 reviews of 1,851 hotels across the world scraped from <a href="www.tripadvisor.com">Trip Advisor</a>.  The data was scraped and donated by <a href="https://www.cs.virginia.edu/~hw5x/">Hongning Wang</a>.</p> <p>One file contains the numerical aspect ratings provided by the users, along with other information about the hotel.  The second file contains the text of the users review.  These reviews have been slightly modified, all excess spaces and tabs have been removed and all commas have bene changed to semi-colons.</p> <p>Both files are zipped due to their size.  Both files are encoded in the <b>dat</b> format and the first line of each file explains the fields within the file.  Some of the usernames are encoded in Unicode so please be careful when parsing the files!</p>
+Description: <p>This dataset contains 675,069 reviews of 1,851 hotels across the world scraped from <a href="www.tripadvisor.com">Trip Advisor</a>.  The data was scraped and donated by <a href="https://www.cs.virginia.edu/~hw5x/">Hongning Wang</a>.</p> <p>One file contains the numerical aspect ratings provided by the users, along with other information about the hotel.  The other files contains the text of the users review (split into 3 files).  These reviews have been slightly modified, all excess spaces and tabs have been removed and all commas have been changed to semi-colons.</p> <p>Both files are encoded in the <b>dat</b> format but are actually CSV files. The first line of each file explains the fields within the file.  Some of the usernames are encoded in Unicode so please be careful when parsing the files!</p>
 
 Required Citations: 
 
@@ -16,4 +16,6 @@ Selected Studies: Hongning Wang, Yue Lu and Chengxiang Zhai. <em>Latent Aspect R
 
 file_name, modification_type, relates_to, title, description, publication_date
 00040-00000001.dat, original, , Ratings, , 2013-08-17
-00040-00000002.dat, original, , Review Texts, , 2013-08-17
+00040-00000002.dat, original, , Review Texts, First Part , 2013-08-17
+00040-00000003.dat, original, , Review Texts, Second Part , 2013-08-17
+00040-00000004.dat, original, , Review Texts, Third Part , 2013-08-17
