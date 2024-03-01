@@ -1,0 +1,1009 @@
+Name: Polkadot Network
+
+Abbreviation: polkadot
+
+Tags: Election
+
+Series Number: 00060
+
+Publication Date: 26/02/2024
+
+Description:
+
+Required Citations: Niclas Boehmer, Markus Brill, Alfonso Cevallos, Jonas Gehrlein, Luis Sánchez-Fernández, and Ulrike Schmidt-Kraepelin. <em>Approval-Based Committee Voting in Practice: A Case Study of (Over-)Representation in the Polkadot Blockchain</em>. AAAI, 2024.
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00060-00000001.cat, original, , Session 2429, , 26/02/2024
+00060-00000001.dat, original, 00060-00000001.cat, Session 2429 - Weights, The weights of the ballots described in the file 00060-00000001.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000002.cat, original, , Session 2435, , 26/02/2024
+00060-00000002.dat, original, 00060-00000002.cat, Session 2435 - Weights, The weights of the ballots described in the file 00060-00000002.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000003.cat, original, , Session 2441, , 26/02/2024
+00060-00000003.dat, original, 00060-00000003.cat, Session 2441 - Weights, The weights of the ballots described in the file 00060-00000003.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000004.cat, original, , Session 2447, , 26/02/2024
+00060-00000004.dat, original, 00060-00000004.cat, Session 2447 - Weights, The weights of the ballots described in the file 00060-00000004.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000005.cat, original, , Session 2453, , 26/02/2024
+00060-00000005.dat, original, 00060-00000005.cat, Session 2453 - Weights, The weights of the ballots described in the file 00060-00000005.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000006.cat, original, , Session 2459, , 26/02/2024
+00060-00000006.dat, original, 00060-00000006.cat, Session 2459 - Weights, The weights of the ballots described in the file 00060-00000006.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000007.cat, original, , Session 2465, , 26/02/2024
+00060-00000007.dat, original, 00060-00000007.cat, Session 2465 - Weights, The weights of the ballots described in the file 00060-00000007.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000008.cat, original, , Session 2471, , 26/02/2024
+00060-00000008.dat, original, 00060-00000008.cat, Session 2471 - Weights, The weights of the ballots described in the file 00060-00000008.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000009.cat, original, , Session 2477, , 26/02/2024
+00060-00000009.dat, original, 00060-00000009.cat, Session 2477 - Weights, The weights of the ballots described in the file 00060-00000009.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000010.cat, original, , Session 2483, , 26/02/2024
+00060-00000010.dat, original, 00060-00000010.cat, Session 2483 - Weights, The weights of the ballots described in the file 00060-00000010.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000011.cat, original, , Session 2489, , 26/02/2024
+00060-00000011.dat, original, 00060-00000011.cat, Session 2489 - Weights, The weights of the ballots described in the file 00060-00000011.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000012.cat, original, , Session 2495, , 26/02/2024
+00060-00000012.dat, original, 00060-00000012.cat, Session 2495 - Weights, The weights of the ballots described in the file 00060-00000012.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000013.cat, original, , Session 2501, , 26/02/2024
+00060-00000013.dat, original, 00060-00000013.cat, Session 2501 - Weights, The weights of the ballots described in the file 00060-00000013.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000014.cat, original, , Session 2507, , 26/02/2024
+00060-00000014.dat, original, 00060-00000014.cat, Session 2507 - Weights, The weights of the ballots described in the file 00060-00000014.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000015.cat, original, , Session 2513, , 26/02/2024
+00060-00000015.dat, original, 00060-00000015.cat, Session 2513 - Weights, The weights of the ballots described in the file 00060-00000015.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000016.cat, original, , Session 2519, , 26/02/2024
+00060-00000016.dat, original, 00060-00000016.cat, Session 2519 - Weights, The weights of the ballots described in the file 00060-00000016.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000017.cat, original, , Session 2525, , 26/02/2024
+00060-00000017.dat, original, 00060-00000017.cat, Session 2525 - Weights, The weights of the ballots described in the file 00060-00000017.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000018.cat, original, , Session 2531, , 26/02/2024
+00060-00000018.dat, original, 00060-00000018.cat, Session 2531 - Weights, The weights of the ballots described in the file 00060-00000018.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000019.cat, original, , Session 2537, , 26/02/2024
+00060-00000019.dat, original, 00060-00000019.cat, Session 2537 - Weights, The weights of the ballots described in the file 00060-00000019.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000020.cat, original, , Session 2543, , 26/02/2024
+00060-00000020.dat, original, 00060-00000020.cat, Session 2543 - Weights, The weights of the ballots described in the file 00060-00000020.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000021.cat, original, , Session 2549, , 26/02/2024
+00060-00000021.dat, original, 00060-00000021.cat, Session 2549 - Weights, The weights of the ballots described in the file 00060-00000021.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000022.cat, original, , Session 2555, , 26/02/2024
+00060-00000022.dat, original, 00060-00000022.cat, Session 2555 - Weights, The weights of the ballots described in the file 00060-00000022.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000023.cat, original, , Session 2561, , 26/02/2024
+00060-00000023.dat, original, 00060-00000023.cat, Session 2561 - Weights, The weights of the ballots described in the file 00060-00000023.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000024.cat, original, , Session 2567, , 26/02/2024
+00060-00000024.dat, original, 00060-00000024.cat, Session 2567 - Weights, The weights of the ballots described in the file 00060-00000024.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000025.cat, original, , Session 2573, , 26/02/2024
+00060-00000025.dat, original, 00060-00000025.cat, Session 2573 - Weights, The weights of the ballots described in the file 00060-00000025.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000026.cat, original, , Session 2579, , 26/02/2024
+00060-00000026.dat, original, 00060-00000026.cat, Session 2579 - Weights, The weights of the ballots described in the file 00060-00000026.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000027.cat, original, , Session 2585, , 26/02/2024
+00060-00000027.dat, original, 00060-00000027.cat, Session 2585 - Weights, The weights of the ballots described in the file 00060-00000027.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000028.cat, original, , Session 2591, , 26/02/2024
+00060-00000028.dat, original, 00060-00000028.cat, Session 2591 - Weights, The weights of the ballots described in the file 00060-00000028.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000029.cat, original, , Session 2597, , 26/02/2024
+00060-00000029.dat, original, 00060-00000029.cat, Session 2597 - Weights, The weights of the ballots described in the file 00060-00000029.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000030.cat, original, , Session 2603, , 26/02/2024
+00060-00000030.dat, original, 00060-00000030.cat, Session 2603 - Weights, The weights of the ballots described in the file 00060-00000030.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000031.cat, original, , Session 2609, , 26/02/2024
+00060-00000031.dat, original, 00060-00000031.cat, Session 2609 - Weights, The weights of the ballots described in the file 00060-00000031.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000032.cat, original, , Session 2615, , 26/02/2024
+00060-00000032.dat, original, 00060-00000032.cat, Session 2615 - Weights, The weights of the ballots described in the file 00060-00000032.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000033.cat, original, , Session 2621, , 26/02/2024
+00060-00000033.dat, original, 00060-00000033.cat, Session 2621 - Weights, The weights of the ballots described in the file 00060-00000033.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000034.cat, original, , Session 2627, , 26/02/2024
+00060-00000034.dat, original, 00060-00000034.cat, Session 2627 - Weights, The weights of the ballots described in the file 00060-00000034.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000035.cat, original, , Session 2633, , 26/02/2024
+00060-00000035.dat, original, 00060-00000035.cat, Session 2633 - Weights, The weights of the ballots described in the file 00060-00000035.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000036.cat, original, , Session 2639, , 26/02/2024
+00060-00000036.dat, original, 00060-00000036.cat, Session 2639 - Weights, The weights of the ballots described in the file 00060-00000036.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000037.cat, original, , Session 2645, , 26/02/2024
+00060-00000037.dat, original, 00060-00000037.cat, Session 2645 - Weights, The weights of the ballots described in the file 00060-00000037.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000038.cat, original, , Session 2651, , 26/02/2024
+00060-00000038.dat, original, 00060-00000038.cat, Session 2651 - Weights, The weights of the ballots described in the file 00060-00000038.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000039.cat, original, , Session 2663, , 26/02/2024
+00060-00000039.dat, original, 00060-00000039.cat, Session 2663 - Weights, The weights of the ballots described in the file 00060-00000039.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000040.cat, original, , Session 2669, , 26/02/2024
+00060-00000040.dat, original, 00060-00000040.cat, Session 2669 - Weights, The weights of the ballots described in the file 00060-00000040.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000041.cat, original, , Session 2675, , 26/02/2024
+00060-00000041.dat, original, 00060-00000041.cat, Session 2675 - Weights, The weights of the ballots described in the file 00060-00000041.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000042.cat, original, , Session 2681, , 26/02/2024
+00060-00000042.dat, original, 00060-00000042.cat, Session 2681 - Weights, The weights of the ballots described in the file 00060-00000042.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000043.cat, original, , Session 2687, , 26/02/2024
+00060-00000043.dat, original, 00060-00000043.cat, Session 2687 - Weights, The weights of the ballots described in the file 00060-00000043.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000044.cat, original, , Session 2693, , 26/02/2024
+00060-00000044.dat, original, 00060-00000044.cat, Session 2693 - Weights, The weights of the ballots described in the file 00060-00000044.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000045.cat, original, , Session 2699, , 26/02/2024
+00060-00000045.dat, original, 00060-00000045.cat, Session 2699 - Weights, The weights of the ballots described in the file 00060-00000045.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000046.cat, original, , Session 2717, , 26/02/2024
+00060-00000046.dat, original, 00060-00000046.cat, Session 2717 - Weights, The weights of the ballots described in the file 00060-00000046.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000047.cat, original, , Session 2723, , 26/02/2024
+00060-00000047.dat, original, 00060-00000047.cat, Session 2723 - Weights, The weights of the ballots described in the file 00060-00000047.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000048.cat, original, , Session 2729, , 26/02/2024
+00060-00000048.dat, original, 00060-00000048.cat, Session 2729 - Weights, The weights of the ballots described in the file 00060-00000048.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000049.cat, original, , Session 2735, , 26/02/2024
+00060-00000049.dat, original, 00060-00000049.cat, Session 2735 - Weights, The weights of the ballots described in the file 00060-00000049.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000050.cat, original, , Session 2741, , 26/02/2024
+00060-00000050.dat, original, 00060-00000050.cat, Session 2741 - Weights, The weights of the ballots described in the file 00060-00000050.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000051.cat, original, , Session 2747, , 26/02/2024
+00060-00000051.dat, original, 00060-00000051.cat, Session 2747 - Weights, The weights of the ballots described in the file 00060-00000051.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000052.cat, original, , Session 2753, , 26/02/2024
+00060-00000052.dat, original, 00060-00000052.cat, Session 2753 - Weights, The weights of the ballots described in the file 00060-00000052.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000053.cat, original, , Session 2759, , 26/02/2024
+00060-00000053.dat, original, 00060-00000053.cat, Session 2759 - Weights, The weights of the ballots described in the file 00060-00000053.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000054.cat, original, , Session 2765, , 26/02/2024
+00060-00000054.dat, original, 00060-00000054.cat, Session 2765 - Weights, The weights of the ballots described in the file 00060-00000054.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000055.cat, original, , Session 2771, , 26/02/2024
+00060-00000055.dat, original, 00060-00000055.cat, Session 2771 - Weights, The weights of the ballots described in the file 00060-00000055.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000056.cat, original, , Session 2777, , 26/02/2024
+00060-00000056.dat, original, 00060-00000056.cat, Session 2777 - Weights, The weights of the ballots described in the file 00060-00000056.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000057.cat, original, , Session 2783, , 26/02/2024
+00060-00000057.dat, original, 00060-00000057.cat, Session 2783 - Weights, The weights of the ballots described in the file 00060-00000057.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000058.cat, original, , Session 2789, , 26/02/2024
+00060-00000058.dat, original, 00060-00000058.cat, Session 2789 - Weights, The weights of the ballots described in the file 00060-00000058.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000059.cat, original, , Session 2795, , 26/02/2024
+00060-00000059.dat, original, 00060-00000059.cat, Session 2795 - Weights, The weights of the ballots described in the file 00060-00000059.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000060.cat, original, , Session 2801, , 26/02/2024
+00060-00000060.dat, original, 00060-00000060.cat, Session 2801 - Weights, The weights of the ballots described in the file 00060-00000060.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000061.cat, original, , Session 2807, , 26/02/2024
+00060-00000061.dat, original, 00060-00000061.cat, Session 2807 - Weights, The weights of the ballots described in the file 00060-00000061.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000062.cat, original, , Session 2813, , 26/02/2024
+00060-00000062.dat, original, 00060-00000062.cat, Session 2813 - Weights, The weights of the ballots described in the file 00060-00000062.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000063.cat, original, , Session 2819, , 26/02/2024
+00060-00000063.dat, original, 00060-00000063.cat, Session 2819 - Weights, The weights of the ballots described in the file 00060-00000063.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000064.cat, original, , Session 2825, , 26/02/2024
+00060-00000064.dat, original, 00060-00000064.cat, Session 2825 - Weights, The weights of the ballots described in the file 00060-00000064.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000065.cat, original, , Session 2831, , 26/02/2024
+00060-00000065.dat, original, 00060-00000065.cat, Session 2831 - Weights, The weights of the ballots described in the file 00060-00000065.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000066.cat, original, , Session 2837, , 26/02/2024
+00060-00000066.dat, original, 00060-00000066.cat, Session 2837 - Weights, The weights of the ballots described in the file 00060-00000066.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000067.cat, original, , Session 2843, , 26/02/2024
+00060-00000067.dat, original, 00060-00000067.cat, Session 2843 - Weights, The weights of the ballots described in the file 00060-00000067.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000068.cat, original, , Session 2849, , 26/02/2024
+00060-00000068.dat, original, 00060-00000068.cat, Session 2849 - Weights, The weights of the ballots described in the file 00060-00000068.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000069.cat, original, , Session 2855, , 26/02/2024
+00060-00000069.dat, original, 00060-00000069.cat, Session 2855 - Weights, The weights of the ballots described in the file 00060-00000069.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000070.cat, original, , Session 2861, , 26/02/2024
+00060-00000070.dat, original, 00060-00000070.cat, Session 2861 - Weights, The weights of the ballots described in the file 00060-00000070.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000071.cat, original, , Session 2867, , 26/02/2024
+00060-00000071.dat, original, 00060-00000071.cat, Session 2867 - Weights, The weights of the ballots described in the file 00060-00000071.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000072.cat, original, , Session 2873, , 26/02/2024
+00060-00000072.dat, original, 00060-00000072.cat, Session 2873 - Weights, The weights of the ballots described in the file 00060-00000072.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000073.cat, original, , Session 2879, , 26/02/2024
+00060-00000073.dat, original, 00060-00000073.cat, Session 2879 - Weights, The weights of the ballots described in the file 00060-00000073.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000074.cat, original, , Session 2885, , 26/02/2024
+00060-00000074.dat, original, 00060-00000074.cat, Session 2885 - Weights, The weights of the ballots described in the file 00060-00000074.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000075.cat, original, , Session 2891, , 26/02/2024
+00060-00000075.dat, original, 00060-00000075.cat, Session 2891 - Weights, The weights of the ballots described in the file 00060-00000075.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000076.cat, original, , Session 2897, , 26/02/2024
+00060-00000076.dat, original, 00060-00000076.cat, Session 2897 - Weights, The weights of the ballots described in the file 00060-00000076.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000077.cat, original, , Session 2903, , 26/02/2024
+00060-00000077.dat, original, 00060-00000077.cat, Session 2903 - Weights, The weights of the ballots described in the file 00060-00000077.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000078.cat, original, , Session 2909, , 26/02/2024
+00060-00000078.dat, original, 00060-00000078.cat, Session 2909 - Weights, The weights of the ballots described in the file 00060-00000078.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000079.cat, original, , Session 2915, , 26/02/2024
+00060-00000079.dat, original, 00060-00000079.cat, Session 2915 - Weights, The weights of the ballots described in the file 00060-00000079.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000080.cat, original, , Session 2921, , 26/02/2024
+00060-00000080.dat, original, 00060-00000080.cat, Session 2921 - Weights, The weights of the ballots described in the file 00060-00000080.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000081.cat, original, , Session 2927, , 26/02/2024
+00060-00000081.dat, original, 00060-00000081.cat, Session 2927 - Weights, The weights of the ballots described in the file 00060-00000081.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000082.cat, original, , Session 2933, , 26/02/2024
+00060-00000082.dat, original, 00060-00000082.cat, Session 2933 - Weights, The weights of the ballots described in the file 00060-00000082.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000083.cat, original, , Session 2939, , 26/02/2024
+00060-00000083.dat, original, 00060-00000083.cat, Session 2939 - Weights, The weights of the ballots described in the file 00060-00000083.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000084.cat, original, , Session 2945, , 26/02/2024
+00060-00000084.dat, original, 00060-00000084.cat, Session 2945 - Weights, The weights of the ballots described in the file 00060-00000084.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000085.cat, original, , Session 2951, , 26/02/2024
+00060-00000085.dat, original, 00060-00000085.cat, Session 2951 - Weights, The weights of the ballots described in the file 00060-00000085.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000086.cat, original, , Session 2957, , 26/02/2024
+00060-00000086.dat, original, 00060-00000086.cat, Session 2957 - Weights, The weights of the ballots described in the file 00060-00000086.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000087.cat, original, , Session 2963, , 26/02/2024
+00060-00000087.dat, original, 00060-00000087.cat, Session 2963 - Weights, The weights of the ballots described in the file 00060-00000087.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000088.cat, original, , Session 2969, , 26/02/2024
+00060-00000088.dat, original, 00060-00000088.cat, Session 2969 - Weights, The weights of the ballots described in the file 00060-00000088.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000089.cat, original, , Session 2975, , 26/02/2024
+00060-00000089.dat, original, 00060-00000089.cat, Session 2975 - Weights, The weights of the ballots described in the file 00060-00000089.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000090.cat, original, , Session 2981, , 26/02/2024
+00060-00000090.dat, original, 00060-00000090.cat, Session 2981 - Weights, The weights of the ballots described in the file 00060-00000090.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000091.cat, original, , Session 2987, , 26/02/2024
+00060-00000091.dat, original, 00060-00000091.cat, Session 2987 - Weights, The weights of the ballots described in the file 00060-00000091.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000092.cat, original, , Session 2993, , 26/02/2024
+00060-00000092.dat, original, 00060-00000092.cat, Session 2993 - Weights, The weights of the ballots described in the file 00060-00000092.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000093.cat, original, , Session 2999, , 26/02/2024
+00060-00000093.dat, original, 00060-00000093.cat, Session 2999 - Weights, The weights of the ballots described in the file 00060-00000093.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000094.cat, original, , Session 3005, , 26/02/2024
+00060-00000094.dat, original, 00060-00000094.cat, Session 3005 - Weights, The weights of the ballots described in the file 00060-00000094.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000095.cat, original, , Session 3011, , 26/02/2024
+00060-00000095.dat, original, 00060-00000095.cat, Session 3011 - Weights, The weights of the ballots described in the file 00060-00000095.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000096.cat, original, , Session 3023, , 26/02/2024
+00060-00000096.dat, original, 00060-00000096.cat, Session 3023 - Weights, The weights of the ballots described in the file 00060-00000096.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000097.cat, original, , Session 3113, , 26/02/2024
+00060-00000097.dat, original, 00060-00000097.cat, Session 3113 - Weights, The weights of the ballots described in the file 00060-00000097.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000098.cat, original, , Session 3119, , 26/02/2024
+00060-00000098.dat, original, 00060-00000098.cat, Session 3119 - Weights, The weights of the ballots described in the file 00060-00000098.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000099.cat, original, , Session 3125, , 26/02/2024
+00060-00000099.dat, original, 00060-00000099.cat, Session 3125 - Weights, The weights of the ballots described in the file 00060-00000099.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000100.cat, original, , Session 3131, , 26/02/2024
+00060-00000100.dat, original, 00060-00000100.cat, Session 3131 - Weights, The weights of the ballots described in the file 00060-00000100.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000101.cat, original, , Session 3137, , 26/02/2024
+00060-00000101.dat, original, 00060-00000101.cat, Session 3137 - Weights, The weights of the ballots described in the file 00060-00000101.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000102.cat, original, , Session 3143, , 26/02/2024
+00060-00000102.dat, original, 00060-00000102.cat, Session 3143 - Weights, The weights of the ballots described in the file 00060-00000102.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000103.cat, original, , Session 3149, , 26/02/2024
+00060-00000103.dat, original, 00060-00000103.cat, Session 3149 - Weights, The weights of the ballots described in the file 00060-00000103.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000104.cat, original, , Session 3155, , 26/02/2024
+00060-00000104.dat, original, 00060-00000104.cat, Session 3155 - Weights, The weights of the ballots described in the file 00060-00000104.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000105.cat, original, , Session 3161, , 26/02/2024
+00060-00000105.dat, original, 00060-00000105.cat, Session 3161 - Weights, The weights of the ballots described in the file 00060-00000105.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000106.cat, original, , Session 3167, , 26/02/2024
+00060-00000106.dat, original, 00060-00000106.cat, Session 3167 - Weights, The weights of the ballots described in the file 00060-00000106.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000107.cat, original, , Session 3173, , 26/02/2024
+00060-00000107.dat, original, 00060-00000107.cat, Session 3173 - Weights, The weights of the ballots described in the file 00060-00000107.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000108.cat, original, , Session 3179, , 26/02/2024
+00060-00000108.dat, original, 00060-00000108.cat, Session 3179 - Weights, The weights of the ballots described in the file 00060-00000108.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000109.cat, original, , Session 3185, , 26/02/2024
+00060-00000109.dat, original, 00060-00000109.cat, Session 3185 - Weights, The weights of the ballots described in the file 00060-00000109.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000110.cat, original, , Session 3191, , 26/02/2024
+00060-00000110.dat, original, 00060-00000110.cat, Session 3191 - Weights, The weights of the ballots described in the file 00060-00000110.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000111.cat, original, , Session 3203, , 26/02/2024
+00060-00000111.dat, original, 00060-00000111.cat, Session 3203 - Weights, The weights of the ballots described in the file 00060-00000111.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000112.cat, original, , Session 3209, , 26/02/2024
+00060-00000112.dat, original, 00060-00000112.cat, Session 3209 - Weights, The weights of the ballots described in the file 00060-00000112.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000113.cat, original, , Session 3215, , 26/02/2024
+00060-00000113.dat, original, 00060-00000113.cat, Session 3215 - Weights, The weights of the ballots described in the file 00060-00000113.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000114.cat, original, , Session 3221, , 26/02/2024
+00060-00000114.dat, original, 00060-00000114.cat, Session 3221 - Weights, The weights of the ballots described in the file 00060-00000114.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000115.cat, original, , Session 3227, , 26/02/2024
+00060-00000115.dat, original, 00060-00000115.cat, Session 3227 - Weights, The weights of the ballots described in the file 00060-00000115.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000116.cat, original, , Session 3233, , 26/02/2024
+00060-00000116.dat, original, 00060-00000116.cat, Session 3233 - Weights, The weights of the ballots described in the file 00060-00000116.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000117.cat, original, , Session 3239, , 26/02/2024
+00060-00000117.dat, original, 00060-00000117.cat, Session 3239 - Weights, The weights of the ballots described in the file 00060-00000117.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000118.cat, original, , Session 3245, , 26/02/2024
+00060-00000118.dat, original, 00060-00000118.cat, Session 3245 - Weights, The weights of the ballots described in the file 00060-00000118.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000119.cat, original, , Session 3251, , 26/02/2024
+00060-00000119.dat, original, 00060-00000119.cat, Session 3251 - Weights, The weights of the ballots described in the file 00060-00000119.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000120.cat, original, , Session 3257, , 26/02/2024
+00060-00000120.dat, original, 00060-00000120.cat, Session 3257 - Weights, The weights of the ballots described in the file 00060-00000120.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000121.cat, original, , Session 3263, , 26/02/2024
+00060-00000121.dat, original, 00060-00000121.cat, Session 3263 - Weights, The weights of the ballots described in the file 00060-00000121.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000122.cat, original, , Session 3269, , 26/02/2024
+00060-00000122.dat, original, 00060-00000122.cat, Session 3269 - Weights, The weights of the ballots described in the file 00060-00000122.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000123.cat, original, , Session 3275, , 26/02/2024
+00060-00000123.dat, original, 00060-00000123.cat, Session 3275 - Weights, The weights of the ballots described in the file 00060-00000123.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000124.cat, original, , Session 3281, , 26/02/2024
+00060-00000124.dat, original, 00060-00000124.cat, Session 3281 - Weights, The weights of the ballots described in the file 00060-00000124.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000125.cat, original, , Session 3287, , 26/02/2024
+00060-00000125.dat, original, 00060-00000125.cat, Session 3287 - Weights, The weights of the ballots described in the file 00060-00000125.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000126.cat, original, , Session 3293, , 26/02/2024
+00060-00000126.dat, original, 00060-00000126.cat, Session 3293 - Weights, The weights of the ballots described in the file 00060-00000126.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000127.cat, original, , Session 3299, , 26/02/2024
+00060-00000127.dat, original, 00060-00000127.cat, Session 3299 - Weights, The weights of the ballots described in the file 00060-00000127.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000128.cat, original, , Session 3305, , 26/02/2024
+00060-00000128.dat, original, 00060-00000128.cat, Session 3305 - Weights, The weights of the ballots described in the file 00060-00000128.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000129.cat, original, , Session 3311, , 26/02/2024
+00060-00000129.dat, original, 00060-00000129.cat, Session 3311 - Weights, The weights of the ballots described in the file 00060-00000129.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000130.cat, original, , Session 3317, , 26/02/2024
+00060-00000130.dat, original, 00060-00000130.cat, Session 3317 - Weights, The weights of the ballots described in the file 00060-00000130.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000131.cat, original, , Session 3323, , 26/02/2024
+00060-00000131.dat, original, 00060-00000131.cat, Session 3323 - Weights, The weights of the ballots described in the file 00060-00000131.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000132.cat, original, , Session 3329, , 26/02/2024
+00060-00000132.dat, original, 00060-00000132.cat, Session 3329 - Weights, The weights of the ballots described in the file 00060-00000132.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000133.cat, original, , Session 3335, , 26/02/2024
+00060-00000133.dat, original, 00060-00000133.cat, Session 3335 - Weights, The weights of the ballots described in the file 00060-00000133.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000134.cat, original, , Session 3341, , 26/02/2024
+00060-00000134.dat, original, 00060-00000134.cat, Session 3341 - Weights, The weights of the ballots described in the file 00060-00000134.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000135.cat, original, , Session 3347, , 26/02/2024
+00060-00000135.dat, original, 00060-00000135.cat, Session 3347 - Weights, The weights of the ballots described in the file 00060-00000135.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000136.cat, original, , Session 3353, , 26/02/2024
+00060-00000136.dat, original, 00060-00000136.cat, Session 3353 - Weights, The weights of the ballots described in the file 00060-00000136.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000137.cat, original, , Session 3359, , 26/02/2024
+00060-00000137.dat, original, 00060-00000137.cat, Session 3359 - Weights, The weights of the ballots described in the file 00060-00000137.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000138.cat, original, , Session 3365, , 26/02/2024
+00060-00000138.dat, original, 00060-00000138.cat, Session 3365 - Weights, The weights of the ballots described in the file 00060-00000138.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000139.cat, original, , Session 3371, , 26/02/2024
+00060-00000139.dat, original, 00060-00000139.cat, Session 3371 - Weights, The weights of the ballots described in the file 00060-00000139.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000140.cat, original, , Session 3377, , 26/02/2024
+00060-00000140.dat, original, 00060-00000140.cat, Session 3377 - Weights, The weights of the ballots described in the file 00060-00000140.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000141.cat, original, , Session 3383, , 26/02/2024
+00060-00000141.dat, original, 00060-00000141.cat, Session 3383 - Weights, The weights of the ballots described in the file 00060-00000141.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000142.cat, original, , Session 3389, , 26/02/2024
+00060-00000142.dat, original, 00060-00000142.cat, Session 3389 - Weights, The weights of the ballots described in the file 00060-00000142.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000143.cat, original, , Session 3395, , 26/02/2024
+00060-00000143.dat, original, 00060-00000143.cat, Session 3395 - Weights, The weights of the ballots described in the file 00060-00000143.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000144.cat, original, , Session 3401, , 26/02/2024
+00060-00000144.dat, original, 00060-00000144.cat, Session 3401 - Weights, The weights of the ballots described in the file 00060-00000144.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000145.cat, original, , Session 3407, , 26/02/2024
+00060-00000145.dat, original, 00060-00000145.cat, Session 3407 - Weights, The weights of the ballots described in the file 00060-00000145.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000146.cat, original, , Session 3413, , 26/02/2024
+00060-00000146.dat, original, 00060-00000146.cat, Session 3413 - Weights, The weights of the ballots described in the file 00060-00000146.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000147.cat, original, , Session 3419, , 26/02/2024
+00060-00000147.dat, original, 00060-00000147.cat, Session 3419 - Weights, The weights of the ballots described in the file 00060-00000147.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000148.cat, original, , Session 3425, , 26/02/2024
+00060-00000148.dat, original, 00060-00000148.cat, Session 3425 - Weights, The weights of the ballots described in the file 00060-00000148.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000149.cat, original, , Session 3431, , 26/02/2024
+00060-00000149.dat, original, 00060-00000149.cat, Session 3431 - Weights, The weights of the ballots described in the file 00060-00000149.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000150.cat, original, , Session 3437, , 26/02/2024
+00060-00000150.dat, original, 00060-00000150.cat, Session 3437 - Weights, The weights of the ballots described in the file 00060-00000150.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000151.cat, original, , Session 3443, , 26/02/2024
+00060-00000151.dat, original, 00060-00000151.cat, Session 3443 - Weights, The weights of the ballots described in the file 00060-00000151.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000152.cat, original, , Session 3449, , 26/02/2024
+00060-00000152.dat, original, 00060-00000152.cat, Session 3449 - Weights, The weights of the ballots described in the file 00060-00000152.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000153.cat, original, , Session 3455, , 26/02/2024
+00060-00000153.dat, original, 00060-00000153.cat, Session 3455 - Weights, The weights of the ballots described in the file 00060-00000153.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000154.cat, original, , Session 3461, , 26/02/2024
+00060-00000154.dat, original, 00060-00000154.cat, Session 3461 - Weights, The weights of the ballots described in the file 00060-00000154.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000155.cat, original, , Session 3467, , 26/02/2024
+00060-00000155.dat, original, 00060-00000155.cat, Session 3467 - Weights, The weights of the ballots described in the file 00060-00000155.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000156.cat, original, , Session 3473, , 26/02/2024
+00060-00000156.dat, original, 00060-00000156.cat, Session 3473 - Weights, The weights of the ballots described in the file 00060-00000156.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000157.cat, original, , Session 3479, , 26/02/2024
+00060-00000157.dat, original, 00060-00000157.cat, Session 3479 - Weights, The weights of the ballots described in the file 00060-00000157.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000158.cat, original, , Session 3485, , 26/02/2024
+00060-00000158.dat, original, 00060-00000158.cat, Session 3485 - Weights, The weights of the ballots described in the file 00060-00000158.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000159.cat, original, , Session 3491, , 26/02/2024
+00060-00000159.dat, original, 00060-00000159.cat, Session 3491 - Weights, The weights of the ballots described in the file 00060-00000159.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000160.cat, original, , Session 3497, , 26/02/2024
+00060-00000160.dat, original, 00060-00000160.cat, Session 3497 - Weights, The weights of the ballots described in the file 00060-00000160.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000161.cat, original, , Session 3503, , 26/02/2024
+00060-00000161.dat, original, 00060-00000161.cat, Session 3503 - Weights, The weights of the ballots described in the file 00060-00000161.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000162.cat, original, , Session 3509, , 26/02/2024
+00060-00000162.dat, original, 00060-00000162.cat, Session 3509 - Weights, The weights of the ballots described in the file 00060-00000162.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000163.cat, original, , Session 3515, , 26/02/2024
+00060-00000163.dat, original, 00060-00000163.cat, Session 3515 - Weights, The weights of the ballots described in the file 00060-00000163.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000164.cat, original, , Session 3521, , 26/02/2024
+00060-00000164.dat, original, 00060-00000164.cat, Session 3521 - Weights, The weights of the ballots described in the file 00060-00000164.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000165.cat, original, , Session 3527, , 26/02/2024
+00060-00000165.dat, original, 00060-00000165.cat, Session 3527 - Weights, The weights of the ballots described in the file 00060-00000165.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000166.cat, original, , Session 3533, , 26/02/2024
+00060-00000166.dat, original, 00060-00000166.cat, Session 3533 - Weights, The weights of the ballots described in the file 00060-00000166.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000167.cat, original, , Session 3754, , 26/02/2024
+00060-00000167.dat, original, 00060-00000167.cat, Session 3754 - Weights, The weights of the ballots described in the file 00060-00000167.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000168.cat, original, , Session 3760, , 26/02/2024
+00060-00000168.dat, original, 00060-00000168.cat, Session 3760 - Weights, The weights of the ballots described in the file 00060-00000168.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000169.cat, original, , Session 3766, , 26/02/2024
+00060-00000169.dat, original, 00060-00000169.cat, Session 3766 - Weights, The weights of the ballots described in the file 00060-00000169.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000170.cat, original, , Session 3772, , 26/02/2024
+00060-00000170.dat, original, 00060-00000170.cat, Session 3772 - Weights, The weights of the ballots described in the file 00060-00000170.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000171.cat, original, , Session 3784, , 26/02/2024
+00060-00000171.dat, original, 00060-00000171.cat, Session 3784 - Weights, The weights of the ballots described in the file 00060-00000171.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000172.cat, original, , Session 3820, , 26/02/2024
+00060-00000172.dat, original, 00060-00000172.cat, Session 3820 - Weights, The weights of the ballots described in the file 00060-00000172.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000173.cat, original, , Session 3826, , 26/02/2024
+00060-00000173.dat, original, 00060-00000173.cat, Session 3826 - Weights, The weights of the ballots described in the file 00060-00000173.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000174.cat, original, , Session 3844, , 26/02/2024
+00060-00000174.dat, original, 00060-00000174.cat, Session 3844 - Weights, The weights of the ballots described in the file 00060-00000174.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000175.cat, original, , Session 3850, , 26/02/2024
+00060-00000175.dat, original, 00060-00000175.cat, Session 3850 - Weights, The weights of the ballots described in the file 00060-00000175.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000176.cat, original, , Session 3856, , 26/02/2024
+00060-00000176.dat, original, 00060-00000176.cat, Session 3856 - Weights, The weights of the ballots described in the file 00060-00000176.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000177.cat, original, , Session 3862, , 26/02/2024
+00060-00000177.dat, original, 00060-00000177.cat, Session 3862 - Weights, The weights of the ballots described in the file 00060-00000177.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000178.cat, original, , Session 3868, , 26/02/2024
+00060-00000178.dat, original, 00060-00000178.cat, Session 3868 - Weights, The weights of the ballots described in the file 00060-00000178.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000179.cat, original, , Session 3874, , 26/02/2024
+00060-00000179.dat, original, 00060-00000179.cat, Session 3874 - Weights, The weights of the ballots described in the file 00060-00000179.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000180.cat, original, , Session 3880, , 26/02/2024
+00060-00000180.dat, original, 00060-00000180.cat, Session 3880 - Weights, The weights of the ballots described in the file 00060-00000180.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000181.cat, original, , Session 3904, , 26/02/2024
+00060-00000181.dat, original, 00060-00000181.cat, Session 3904 - Weights, The weights of the ballots described in the file 00060-00000181.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000182.cat, original, , Session 3910, , 26/02/2024
+00060-00000182.dat, original, 00060-00000182.cat, Session 3910 - Weights, The weights of the ballots described in the file 00060-00000182.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000183.cat, original, , Session 3916, , 26/02/2024
+00060-00000183.dat, original, 00060-00000183.cat, Session 3916 - Weights, The weights of the ballots described in the file 00060-00000183.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000184.cat, original, , Session 3922, , 26/02/2024
+00060-00000184.dat, original, 00060-00000184.cat, Session 3922 - Weights, The weights of the ballots described in the file 00060-00000184.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000185.cat, original, , Session 3928, , 26/02/2024
+00060-00000185.dat, original, 00060-00000185.cat, Session 3928 - Weights, The weights of the ballots described in the file 00060-00000185.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000186.cat, original, , Session 3934, , 26/02/2024
+00060-00000186.dat, original, 00060-00000186.cat, Session 3934 - Weights, The weights of the ballots described in the file 00060-00000186.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000187.cat, original, , Session 3940, , 26/02/2024
+00060-00000187.dat, original, 00060-00000187.cat, Session 3940 - Weights, The weights of the ballots described in the file 00060-00000187.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000188.cat, original, , Session 3946, , 26/02/2024
+00060-00000188.dat, original, 00060-00000188.cat, Session 3946 - Weights, The weights of the ballots described in the file 00060-00000188.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000189.cat, original, , Session 3952, , 26/02/2024
+00060-00000189.dat, original, 00060-00000189.cat, Session 3952 - Weights, The weights of the ballots described in the file 00060-00000189.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000190.cat, original, , Session 3964, , 26/02/2024
+00060-00000190.dat, original, 00060-00000190.cat, Session 3964 - Weights, The weights of the ballots described in the file 00060-00000190.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000191.cat, original, , Session 3970, , 26/02/2024
+00060-00000191.dat, original, 00060-00000191.cat, Session 3970 - Weights, The weights of the ballots described in the file 00060-00000191.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000192.cat, original, , Session 3988, , 26/02/2024
+00060-00000192.dat, original, 00060-00000192.cat, Session 3988 - Weights, The weights of the ballots described in the file 00060-00000192.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000193.cat, original, , Session 4000, , 26/02/2024
+00060-00000193.dat, original, 00060-00000193.cat, Session 4000 - Weights, The weights of the ballots described in the file 00060-00000193.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000194.cat, original, , Session 4006, , 26/02/2024
+00060-00000194.dat, original, 00060-00000194.cat, Session 4006 - Weights, The weights of the ballots described in the file 00060-00000194.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000195.cat, original, , Session 4012, , 26/02/2024
+00060-00000195.dat, original, 00060-00000195.cat, Session 4012 - Weights, The weights of the ballots described in the file 00060-00000195.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000196.cat, original, , Session 4018, , 26/02/2024
+00060-00000196.dat, original, 00060-00000196.cat, Session 4018 - Weights, The weights of the ballots described in the file 00060-00000196.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000197.cat, original, , Session 4030, , 26/02/2024
+00060-00000197.dat, original, 00060-00000197.cat, Session 4030 - Weights, The weights of the ballots described in the file 00060-00000197.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000198.cat, original, , Session 4036, , 26/02/2024
+00060-00000198.dat, original, 00060-00000198.cat, Session 4036 - Weights, The weights of the ballots described in the file 00060-00000198.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000199.cat, original, , Session 4042, , 26/02/2024
+00060-00000199.dat, original, 00060-00000199.cat, Session 4042 - Weights, The weights of the ballots described in the file 00060-00000199.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000200.cat, original, , Session 4048, , 26/02/2024
+00060-00000200.dat, original, 00060-00000200.cat, Session 4048 - Weights, The weights of the ballots described in the file 00060-00000200.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000201.cat, original, , Session 4054, , 26/02/2024
+00060-00000201.dat, original, 00060-00000201.cat, Session 4054 - Weights, The weights of the ballots described in the file 00060-00000201.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000202.cat, original, , Session 4066, , 26/02/2024
+00060-00000202.dat, original, 00060-00000202.cat, Session 4066 - Weights, The weights of the ballots described in the file 00060-00000202.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000203.cat, original, , Session 4072, , 26/02/2024
+00060-00000203.dat, original, 00060-00000203.cat, Session 4072 - Weights, The weights of the ballots described in the file 00060-00000203.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000204.cat, original, , Session 4078, , 26/02/2024
+00060-00000204.dat, original, 00060-00000204.cat, Session 4078 - Weights, The weights of the ballots described in the file 00060-00000204.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000205.cat, original, , Session 4084, , 26/02/2024
+00060-00000205.dat, original, 00060-00000205.cat, Session 4084 - Weights, The weights of the ballots described in the file 00060-00000205.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000206.cat, original, , Session 4090, , 26/02/2024
+00060-00000206.dat, original, 00060-00000206.cat, Session 4090 - Weights, The weights of the ballots described in the file 00060-00000206.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000207.cat, original, , Session 4096, , 26/02/2024
+00060-00000207.dat, original, 00060-00000207.cat, Session 4096 - Weights, The weights of the ballots described in the file 00060-00000207.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000208.cat, original, , Session 4102, , 26/02/2024
+00060-00000208.dat, original, 00060-00000208.cat, Session 4102 - Weights, The weights of the ballots described in the file 00060-00000208.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000209.cat, original, , Session 4108, , 26/02/2024
+00060-00000209.dat, original, 00060-00000209.cat, Session 4108 - Weights, The weights of the ballots described in the file 00060-00000209.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000210.cat, original, , Session 4114, , 26/02/2024
+00060-00000210.dat, original, 00060-00000210.cat, Session 4114 - Weights, The weights of the ballots described in the file 00060-00000210.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000211.cat, original, , Session 4120, , 26/02/2024
+00060-00000211.dat, original, 00060-00000211.cat, Session 4120 - Weights, The weights of the ballots described in the file 00060-00000211.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000212.cat, original, , Session 4126, , 26/02/2024
+00060-00000212.dat, original, 00060-00000212.cat, Session 4126 - Weights, The weights of the ballots described in the file 00060-00000212.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000213.cat, original, , Session 4132, , 26/02/2024
+00060-00000213.dat, original, 00060-00000213.cat, Session 4132 - Weights, The weights of the ballots described in the file 00060-00000213.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000214.cat, original, , Session 4138, , 26/02/2024
+00060-00000214.dat, original, 00060-00000214.cat, Session 4138 - Weights, The weights of the ballots described in the file 00060-00000214.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000215.cat, original, , Session 4144, , 26/02/2024
+00060-00000215.dat, original, 00060-00000215.cat, Session 4144 - Weights, The weights of the ballots described in the file 00060-00000215.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000216.cat, original, , Session 4150, , 26/02/2024
+00060-00000216.dat, original, 00060-00000216.cat, Session 4150 - Weights, The weights of the ballots described in the file 00060-00000216.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000217.cat, original, , Session 4174, , 26/02/2024
+00060-00000217.dat, original, 00060-00000217.cat, Session 4174 - Weights, The weights of the ballots described in the file 00060-00000217.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000218.cat, original, , Session 4186, , 26/02/2024
+00060-00000218.dat, original, 00060-00000218.cat, Session 4186 - Weights, The weights of the ballots described in the file 00060-00000218.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000219.cat, original, , Session 4204, , 26/02/2024
+00060-00000219.dat, original, 00060-00000219.cat, Session 4204 - Weights, The weights of the ballots described in the file 00060-00000219.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000220.cat, original, , Session 4282, , 26/02/2024
+00060-00000220.dat, original, 00060-00000220.cat, Session 4282 - Weights, The weights of the ballots described in the file 00060-00000220.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000221.cat, original, , Session 4342, , 26/02/2024
+00060-00000221.dat, original, 00060-00000221.cat, Session 4342 - Weights, The weights of the ballots described in the file 00060-00000221.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000222.cat, original, , Session 4348, , 26/02/2024
+00060-00000222.dat, original, 00060-00000222.cat, Session 4348 - Weights, The weights of the ballots described in the file 00060-00000222.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000223.cat, original, , Session 4360, , 26/02/2024
+00060-00000223.dat, original, 00060-00000223.cat, Session 4360 - Weights, The weights of the ballots described in the file 00060-00000223.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000224.cat, original, , Session 4432, , 26/02/2024
+00060-00000224.dat, original, 00060-00000224.cat, Session 4432 - Weights, The weights of the ballots described in the file 00060-00000224.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000225.cat, original, , Session 4438, , 26/02/2024
+00060-00000225.dat, original, 00060-00000225.cat, Session 4438 - Weights, The weights of the ballots described in the file 00060-00000225.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000226.cat, original, , Session 4444, , 26/02/2024
+00060-00000226.dat, original, 00060-00000226.cat, Session 4444 - Weights, The weights of the ballots described in the file 00060-00000226.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000227.cat, original, , Session 4450, , 26/02/2024
+00060-00000227.dat, original, 00060-00000227.cat, Session 4450 - Weights, The weights of the ballots described in the file 00060-00000227.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000228.cat, original, , Session 4456, , 26/02/2024
+00060-00000228.dat, original, 00060-00000228.cat, Session 4456 - Weights, The weights of the ballots described in the file 00060-00000228.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000229.cat, original, , Session 4462, , 26/02/2024
+00060-00000229.dat, original, 00060-00000229.cat, Session 4462 - Weights, The weights of the ballots described in the file 00060-00000229.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000230.cat, original, , Session 4468, , 26/02/2024
+00060-00000230.dat, original, 00060-00000230.cat, Session 4468 - Weights, The weights of the ballots described in the file 00060-00000230.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000231.cat, original, , Session 4474, , 26/02/2024
+00060-00000231.dat, original, 00060-00000231.cat, Session 4474 - Weights, The weights of the ballots described in the file 00060-00000231.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000232.cat, original, , Session 4480, , 26/02/2024
+00060-00000232.dat, original, 00060-00000232.cat, Session 4480 - Weights, The weights of the ballots described in the file 00060-00000232.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000233.cat, original, , Session 4486, , 26/02/2024
+00060-00000233.dat, original, 00060-00000233.cat, Session 4486 - Weights, The weights of the ballots described in the file 00060-00000233.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000234.cat, original, , Session 4492, , 26/02/2024
+00060-00000234.dat, original, 00060-00000234.cat, Session 4492 - Weights, The weights of the ballots described in the file 00060-00000234.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000235.cat, original, , Session 4498, , 26/02/2024
+00060-00000235.dat, original, 00060-00000235.cat, Session 4498 - Weights, The weights of the ballots described in the file 00060-00000235.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000236.cat, original, , Session 4504, , 26/02/2024
+00060-00000236.dat, original, 00060-00000236.cat, Session 4504 - Weights, The weights of the ballots described in the file 00060-00000236.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000237.cat, original, , Session 4510, , 26/02/2024
+00060-00000237.dat, original, 00060-00000237.cat, Session 4510 - Weights, The weights of the ballots described in the file 00060-00000237.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000238.cat, original, , Session 4516, , 26/02/2024
+00060-00000238.dat, original, 00060-00000238.cat, Session 4516 - Weights, The weights of the ballots described in the file 00060-00000238.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000239.cat, original, , Session 4522, , 26/02/2024
+00060-00000239.dat, original, 00060-00000239.cat, Session 4522 - Weights, The weights of the ballots described in the file 00060-00000239.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000240.cat, original, , Session 4528, , 26/02/2024
+00060-00000240.dat, original, 00060-00000240.cat, Session 4528 - Weights, The weights of the ballots described in the file 00060-00000240.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000241.cat, original, , Session 4534, , 26/02/2024
+00060-00000241.dat, original, 00060-00000241.cat, Session 4534 - Weights, The weights of the ballots described in the file 00060-00000241.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000242.cat, original, , Session 4540, , 26/02/2024
+00060-00000242.dat, original, 00060-00000242.cat, Session 4540 - Weights, The weights of the ballots described in the file 00060-00000242.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000243.cat, original, , Session 4546, , 26/02/2024
+00060-00000243.dat, original, 00060-00000243.cat, Session 4546 - Weights, The weights of the ballots described in the file 00060-00000243.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000244.cat, original, , Session 4552, , 26/02/2024
+00060-00000244.dat, original, 00060-00000244.cat, Session 4552 - Weights, The weights of the ballots described in the file 00060-00000244.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000245.cat, original, , Session 4558, , 26/02/2024
+00060-00000245.dat, original, 00060-00000245.cat, Session 4558 - Weights, The weights of the ballots described in the file 00060-00000245.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000246.cat, original, , Session 4576, , 26/02/2024
+00060-00000246.dat, original, 00060-00000246.cat, Session 4576 - Weights, The weights of the ballots described in the file 00060-00000246.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000247.cat, original, , Session 4582, , 26/02/2024
+00060-00000247.dat, original, 00060-00000247.cat, Session 4582 - Weights, The weights of the ballots described in the file 00060-00000247.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000248.cat, original, , Session 4588, , 26/02/2024
+00060-00000248.dat, original, 00060-00000248.cat, Session 4588 - Weights, The weights of the ballots described in the file 00060-00000248.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000249.cat, original, , Session 4594, , 26/02/2024
+00060-00000249.dat, original, 00060-00000249.cat, Session 4594 - Weights, The weights of the ballots described in the file 00060-00000249.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000250.cat, original, , Session 4600, , 26/02/2024
+00060-00000250.dat, original, 00060-00000250.cat, Session 4600 - Weights, The weights of the ballots described in the file 00060-00000250.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000251.cat, original, , Session 4606, , 26/02/2024
+00060-00000251.dat, original, 00060-00000251.cat, Session 4606 - Weights, The weights of the ballots described in the file 00060-00000251.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000252.cat, original, , Session 4612, , 26/02/2024
+00060-00000252.dat, original, 00060-00000252.cat, Session 4612 - Weights, The weights of the ballots described in the file 00060-00000252.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000253.cat, original, , Session 4618, , 26/02/2024
+00060-00000253.dat, original, 00060-00000253.cat, Session 4618 - Weights, The weights of the ballots described in the file 00060-00000253.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000254.cat, original, , Session 4624, , 26/02/2024
+00060-00000254.dat, original, 00060-00000254.cat, Session 4624 - Weights, The weights of the ballots described in the file 00060-00000254.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000255.cat, original, , Session 4630, , 26/02/2024
+00060-00000255.dat, original, 00060-00000255.cat, Session 4630 - Weights, The weights of the ballots described in the file 00060-00000255.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000256.cat, original, , Session 4636, , 26/02/2024
+00060-00000256.dat, original, 00060-00000256.cat, Session 4636 - Weights, The weights of the ballots described in the file 00060-00000256.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000257.cat, original, , Session 4642, , 26/02/2024
+00060-00000257.dat, original, 00060-00000257.cat, Session 4642 - Weights, The weights of the ballots described in the file 00060-00000257.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000258.cat, original, , Session 4648, , 26/02/2024
+00060-00000258.dat, original, 00060-00000258.cat, Session 4648 - Weights, The weights of the ballots described in the file 00060-00000258.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000259.cat, original, , Session 4654, , 26/02/2024
+00060-00000259.dat, original, 00060-00000259.cat, Session 4654 - Weights, The weights of the ballots described in the file 00060-00000259.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000260.cat, original, , Session 4660, , 26/02/2024
+00060-00000260.dat, original, 00060-00000260.cat, Session 4660 - Weights, The weights of the ballots described in the file 00060-00000260.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000261.cat, original, , Session 4666, , 26/02/2024
+00060-00000261.dat, original, 00060-00000261.cat, Session 4666 - Weights, The weights of the ballots described in the file 00060-00000261.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000262.cat, original, , Session 4672, , 26/02/2024
+00060-00000262.dat, original, 00060-00000262.cat, Session 4672 - Weights, The weights of the ballots described in the file 00060-00000262.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000263.cat, original, , Session 4678, , 26/02/2024
+00060-00000263.dat, original, 00060-00000263.cat, Session 4678 - Weights, The weights of the ballots described in the file 00060-00000263.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000264.cat, original, , Session 4684, , 26/02/2024
+00060-00000264.dat, original, 00060-00000264.cat, Session 4684 - Weights, The weights of the ballots described in the file 00060-00000264.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000265.cat, original, , Session 4690, , 26/02/2024
+00060-00000265.dat, original, 00060-00000265.cat, Session 4690 - Weights, The weights of the ballots described in the file 00060-00000265.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000266.cat, original, , Session 4696, , 26/02/2024
+00060-00000266.dat, original, 00060-00000266.cat, Session 4696 - Weights, The weights of the ballots described in the file 00060-00000266.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000267.cat, original, , Session 4702, , 26/02/2024
+00060-00000267.dat, original, 00060-00000267.cat, Session 4702 - Weights, The weights of the ballots described in the file 00060-00000267.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000268.cat, original, , Session 4708, , 26/02/2024
+00060-00000268.dat, original, 00060-00000268.cat, Session 4708 - Weights, The weights of the ballots described in the file 00060-00000268.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000269.cat, original, , Session 4714, , 26/02/2024
+00060-00000269.dat, original, 00060-00000269.cat, Session 4714 - Weights, The weights of the ballots described in the file 00060-00000269.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000270.cat, original, , Session 4720, , 26/02/2024
+00060-00000270.dat, original, 00060-00000270.cat, Session 4720 - Weights, The weights of the ballots described in the file 00060-00000270.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000271.cat, original, , Session 4726, , 26/02/2024
+00060-00000271.dat, original, 00060-00000271.cat, Session 4726 - Weights, The weights of the ballots described in the file 00060-00000271.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000272.cat, original, , Session 4732, , 26/02/2024
+00060-00000272.dat, original, 00060-00000272.cat, Session 4732 - Weights, The weights of the ballots described in the file 00060-00000272.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000273.cat, original, , Session 4738, , 26/02/2024
+00060-00000273.dat, original, 00060-00000273.cat, Session 4738 - Weights, The weights of the ballots described in the file 00060-00000273.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000274.cat, original, , Session 4744, , 26/02/2024
+00060-00000274.dat, original, 00060-00000274.cat, Session 4744 - Weights, The weights of the ballots described in the file 00060-00000274.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000275.cat, original, , Session 4750, , 26/02/2024
+00060-00000275.dat, original, 00060-00000275.cat, Session 4750 - Weights, The weights of the ballots described in the file 00060-00000275.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000276.cat, original, , Session 4756, , 26/02/2024
+00060-00000276.dat, original, 00060-00000276.cat, Session 4756 - Weights, The weights of the ballots described in the file 00060-00000276.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000277.cat, original, , Session 4762, , 26/02/2024
+00060-00000277.dat, original, 00060-00000277.cat, Session 4762 - Weights, The weights of the ballots described in the file 00060-00000277.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000278.cat, original, , Session 4768, , 26/02/2024
+00060-00000278.dat, original, 00060-00000278.cat, Session 4768 - Weights, The weights of the ballots described in the file 00060-00000278.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000279.cat, original, , Session 4774, , 26/02/2024
+00060-00000279.dat, original, 00060-00000279.cat, Session 4774 - Weights, The weights of the ballots described in the file 00060-00000279.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000280.cat, original, , Session 4780, , 26/02/2024
+00060-00000280.dat, original, 00060-00000280.cat, Session 4780 - Weights, The weights of the ballots described in the file 00060-00000280.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000281.cat, original, , Session 4786, , 26/02/2024
+00060-00000281.dat, original, 00060-00000281.cat, Session 4786 - Weights, The weights of the ballots described in the file 00060-00000281.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000282.cat, original, , Session 4792, , 26/02/2024
+00060-00000282.dat, original, 00060-00000282.cat, Session 4792 - Weights, The weights of the ballots described in the file 00060-00000282.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000283.cat, original, , Session 4798, , 26/02/2024
+00060-00000283.dat, original, 00060-00000283.cat, Session 4798 - Weights, The weights of the ballots described in the file 00060-00000283.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000284.cat, original, , Session 4804, , 26/02/2024
+00060-00000284.dat, original, 00060-00000284.cat, Session 4804 - Weights, The weights of the ballots described in the file 00060-00000284.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000285.cat, original, , Session 4810, , 26/02/2024
+00060-00000285.dat, original, 00060-00000285.cat, Session 4810 - Weights, The weights of the ballots described in the file 00060-00000285.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000286.cat, original, , Session 4816, , 26/02/2024
+00060-00000286.dat, original, 00060-00000286.cat, Session 4816 - Weights, The weights of the ballots described in the file 00060-00000286.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000287.cat, original, , Session 4822, , 26/02/2024
+00060-00000287.dat, original, 00060-00000287.cat, Session 4822 - Weights, The weights of the ballots described in the file 00060-00000287.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000288.cat, original, , Session 4828, , 26/02/2024
+00060-00000288.dat, original, 00060-00000288.cat, Session 4828 - Weights, The weights of the ballots described in the file 00060-00000288.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000289.cat, original, , Session 4840, , 26/02/2024
+00060-00000289.dat, original, 00060-00000289.cat, Session 4840 - Weights, The weights of the ballots described in the file 00060-00000289.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000290.cat, original, , Session 4846, , 26/02/2024
+00060-00000290.dat, original, 00060-00000290.cat, Session 4846 - Weights, The weights of the ballots described in the file 00060-00000290.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000291.cat, original, , Session 4852, , 26/02/2024
+00060-00000291.dat, original, 00060-00000291.cat, Session 4852 - Weights, The weights of the ballots described in the file 00060-00000291.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000292.cat, original, , Session 4858, , 26/02/2024
+00060-00000292.dat, original, 00060-00000292.cat, Session 4858 - Weights, The weights of the ballots described in the file 00060-00000292.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000293.cat, original, , Session 4876, , 26/02/2024
+00060-00000293.dat, original, 00060-00000293.cat, Session 4876 - Weights, The weights of the ballots described in the file 00060-00000293.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000294.cat, original, , Session 4888, , 26/02/2024
+00060-00000294.dat, original, 00060-00000294.cat, Session 4888 - Weights, The weights of the ballots described in the file 00060-00000294.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000295.cat, original, , Session 4900, , 26/02/2024
+00060-00000295.dat, original, 00060-00000295.cat, Session 4900 - Weights, The weights of the ballots described in the file 00060-00000295.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000296.cat, original, , Session 4912, , 26/02/2024
+00060-00000296.dat, original, 00060-00000296.cat, Session 4912 - Weights, The weights of the ballots described in the file 00060-00000296.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000297.cat, original, , Session 4924, , 26/02/2024
+00060-00000297.dat, original, 00060-00000297.cat, Session 4924 - Weights, The weights of the ballots described in the file 00060-00000297.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000298.cat, original, , Session 4930, , 26/02/2024
+00060-00000298.dat, original, 00060-00000298.cat, Session 4930 - Weights, The weights of the ballots described in the file 00060-00000298.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000299.cat, original, , Session 4936, , 26/02/2024
+00060-00000299.dat, original, 00060-00000299.cat, Session 4936 - Weights, The weights of the ballots described in the file 00060-00000299.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000300.cat, original, , Session 4942, , 26/02/2024
+00060-00000300.dat, original, 00060-00000300.cat, Session 4942 - Weights, The weights of the ballots described in the file 00060-00000300.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000301.cat, original, , Session 4948, , 26/02/2024
+00060-00000301.dat, original, 00060-00000301.cat, Session 4948 - Weights, The weights of the ballots described in the file 00060-00000301.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000302.cat, original, , Session 4954, , 26/02/2024
+00060-00000302.dat, original, 00060-00000302.cat, Session 4954 - Weights, The weights of the ballots described in the file 00060-00000302.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000303.cat, original, , Session 4960, , 26/02/2024
+00060-00000303.dat, original, 00060-00000303.cat, Session 4960 - Weights, The weights of the ballots described in the file 00060-00000303.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000304.cat, original, , Session 4966, , 26/02/2024
+00060-00000304.dat, original, 00060-00000304.cat, Session 4966 - Weights, The weights of the ballots described in the file 00060-00000304.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000305.cat, original, , Session 4972, , 26/02/2024
+00060-00000305.dat, original, 00060-00000305.cat, Session 4972 - Weights, The weights of the ballots described in the file 00060-00000305.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000306.cat, original, , Session 4978, , 26/02/2024
+00060-00000306.dat, original, 00060-00000306.cat, Session 4978 - Weights, The weights of the ballots described in the file 00060-00000306.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000307.cat, original, , Session 4984, , 26/02/2024
+00060-00000307.dat, original, 00060-00000307.cat, Session 4984 - Weights, The weights of the ballots described in the file 00060-00000307.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000308.cat, original, , Session 4990, , 26/02/2024
+00060-00000308.dat, original, 00060-00000308.cat, Session 4990 - Weights, The weights of the ballots described in the file 00060-00000308.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000309.cat, original, , Session 4996, , 26/02/2024
+00060-00000309.dat, original, 00060-00000309.cat, Session 4996 - Weights, The weights of the ballots described in the file 00060-00000309.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000310.cat, original, , Session 5002, , 26/02/2024
+00060-00000310.dat, original, 00060-00000310.cat, Session 5002 - Weights, The weights of the ballots described in the file 00060-00000310.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000311.cat, original, , Session 5008, , 26/02/2024
+00060-00000311.dat, original, 00060-00000311.cat, Session 5008 - Weights, The weights of the ballots described in the file 00060-00000311.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000312.cat, original, , Session 5014, , 26/02/2024
+00060-00000312.dat, original, 00060-00000312.cat, Session 5014 - Weights, The weights of the ballots described in the file 00060-00000312.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000313.cat, original, , Session 5020, , 26/02/2024
+00060-00000313.dat, original, 00060-00000313.cat, Session 5020 - Weights, The weights of the ballots described in the file 00060-00000313.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000314.cat, original, , Session 5026, , 26/02/2024
+00060-00000314.dat, original, 00060-00000314.cat, Session 5026 - Weights, The weights of the ballots described in the file 00060-00000314.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000315.cat, original, , Session 5032, , 26/02/2024
+00060-00000315.dat, original, 00060-00000315.cat, Session 5032 - Weights, The weights of the ballots described in the file 00060-00000315.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000316.cat, original, , Session 5038, , 26/02/2024
+00060-00000316.dat, original, 00060-00000316.cat, Session 5038 - Weights, The weights of the ballots described in the file 00060-00000316.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000317.cat, original, , Session 5044, , 26/02/2024
+00060-00000317.dat, original, 00060-00000317.cat, Session 5044 - Weights, The weights of the ballots described in the file 00060-00000317.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000318.cat, original, , Session 5050, , 26/02/2024
+00060-00000318.dat, original, 00060-00000318.cat, Session 5050 - Weights, The weights of the ballots described in the file 00060-00000318.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000319.cat, original, , Session 5056, , 26/02/2024
+00060-00000319.dat, original, 00060-00000319.cat, Session 5056 - Weights, The weights of the ballots described in the file 00060-00000319.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000320.cat, original, , Session 5074, , 26/02/2024
+00060-00000320.dat, original, 00060-00000320.cat, Session 5074 - Weights, The weights of the ballots described in the file 00060-00000320.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000321.cat, original, , Session 5080, , 26/02/2024
+00060-00000321.dat, original, 00060-00000321.cat, Session 5080 - Weights, The weights of the ballots described in the file 00060-00000321.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000322.cat, original, , Session 5086, , 26/02/2024
+00060-00000322.dat, original, 00060-00000322.cat, Session 5086 - Weights, The weights of the ballots described in the file 00060-00000322.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000323.cat, original, , Session 5092, , 26/02/2024
+00060-00000323.dat, original, 00060-00000323.cat, Session 5092 - Weights, The weights of the ballots described in the file 00060-00000323.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000324.cat, original, , Session 5104, , 26/02/2024
+00060-00000324.dat, original, 00060-00000324.cat, Session 5104 - Weights, The weights of the ballots described in the file 00060-00000324.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000325.cat, original, , Session 5110, , 26/02/2024
+00060-00000325.dat, original, 00060-00000325.cat, Session 5110 - Weights, The weights of the ballots described in the file 00060-00000325.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000326.cat, original, , Session 5116, , 26/02/2024
+00060-00000326.dat, original, 00060-00000326.cat, Session 5116 - Weights, The weights of the ballots described in the file 00060-00000326.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000327.cat, original, , Session 5122, , 26/02/2024
+00060-00000327.dat, original, 00060-00000327.cat, Session 5122 - Weights, The weights of the ballots described in the file 00060-00000327.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000328.cat, original, , Session 5128, , 26/02/2024
+00060-00000328.dat, original, 00060-00000328.cat, Session 5128 - Weights, The weights of the ballots described in the file 00060-00000328.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000329.cat, original, , Session 5140, , 26/02/2024
+00060-00000329.dat, original, 00060-00000329.cat, Session 5140 - Weights, The weights of the ballots described in the file 00060-00000329.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000330.cat, original, , Session 5170, , 26/02/2024
+00060-00000330.dat, original, 00060-00000330.cat, Session 5170 - Weights, The weights of the ballots described in the file 00060-00000330.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000331.cat, original, , Session 5176, , 26/02/2024
+00060-00000331.dat, original, 00060-00000331.cat, Session 5176 - Weights, The weights of the ballots described in the file 00060-00000331.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000332.cat, original, , Session 5194, , 26/02/2024
+00060-00000332.dat, original, 00060-00000332.cat, Session 5194 - Weights, The weights of the ballots described in the file 00060-00000332.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000333.cat, original, , Session 5200, , 26/02/2024
+00060-00000333.dat, original, 00060-00000333.cat, Session 5200 - Weights, The weights of the ballots described in the file 00060-00000333.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000334.cat, original, , Session 5212, , 26/02/2024
+00060-00000334.dat, original, 00060-00000334.cat, Session 5212 - Weights, The weights of the ballots described in the file 00060-00000334.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000335.cat, original, , Session 5224, , 26/02/2024
+00060-00000335.dat, original, 00060-00000335.cat, Session 5224 - Weights, The weights of the ballots described in the file 00060-00000335.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000336.cat, original, , Session 5230, , 26/02/2024
+00060-00000336.dat, original, 00060-00000336.cat, Session 5230 - Weights, The weights of the ballots described in the file 00060-00000336.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000337.cat, original, , Session 5236, , 26/02/2024
+00060-00000337.dat, original, 00060-00000337.cat, Session 5236 - Weights, The weights of the ballots described in the file 00060-00000337.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000338.cat, original, , Session 5242, , 26/02/2024
+00060-00000338.dat, original, 00060-00000338.cat, Session 5242 - Weights, The weights of the ballots described in the file 00060-00000338.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000339.cat, original, , Session 5254, , 26/02/2024
+00060-00000339.dat, original, 00060-00000339.cat, Session 5254 - Weights, The weights of the ballots described in the file 00060-00000339.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000340.cat, original, , Session 5260, , 26/02/2024
+00060-00000340.dat, original, 00060-00000340.cat, Session 5260 - Weights, The weights of the ballots described in the file 00060-00000340.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000341.cat, original, , Session 5266, , 26/02/2024
+00060-00000341.dat, original, 00060-00000341.cat, Session 5266 - Weights, The weights of the ballots described in the file 00060-00000341.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000342.cat, original, , Session 5272, , 26/02/2024
+00060-00000342.dat, original, 00060-00000342.cat, Session 5272 - Weights, The weights of the ballots described in the file 00060-00000342.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000343.cat, original, , Session 5290, , 26/02/2024
+00060-00000343.dat, original, 00060-00000343.cat, Session 5290 - Weights, The weights of the ballots described in the file 00060-00000343.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000344.cat, original, , Session 5296, , 26/02/2024
+00060-00000344.dat, original, 00060-00000344.cat, Session 5296 - Weights, The weights of the ballots described in the file 00060-00000344.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000345.cat, original, , Session 5302, , 26/02/2024
+00060-00000345.dat, original, 00060-00000345.cat, Session 5302 - Weights, The weights of the ballots described in the file 00060-00000345.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000346.cat, original, , Session 5308, , 26/02/2024
+00060-00000346.dat, original, 00060-00000346.cat, Session 5308 - Weights, The weights of the ballots described in the file 00060-00000346.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000347.cat, original, , Session 5314, , 26/02/2024
+00060-00000347.dat, original, 00060-00000347.cat, Session 5314 - Weights, The weights of the ballots described in the file 00060-00000347.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000348.cat, original, , Session 5326, , 26/02/2024
+00060-00000348.dat, original, 00060-00000348.cat, Session 5326 - Weights, The weights of the ballots described in the file 00060-00000348.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000349.cat, original, , Session 5332, , 26/02/2024
+00060-00000349.dat, original, 00060-00000349.cat, Session 5332 - Weights, The weights of the ballots described in the file 00060-00000349.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000350.cat, original, , Session 5344, , 26/02/2024
+00060-00000350.dat, original, 00060-00000350.cat, Session 5344 - Weights, The weights of the ballots described in the file 00060-00000350.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000351.cat, original, , Session 5350, , 26/02/2024
+00060-00000351.dat, original, 00060-00000351.cat, Session 5350 - Weights, The weights of the ballots described in the file 00060-00000351.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000352.cat, original, , Session 5363, , 26/02/2024
+00060-00000352.dat, original, 00060-00000352.cat, Session 5363 - Weights, The weights of the ballots described in the file 00060-00000352.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000353.cat, original, , Session 5369, , 26/02/2024
+00060-00000353.dat, original, 00060-00000353.cat, Session 5369 - Weights, The weights of the ballots described in the file 00060-00000353.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000354.cat, original, , Session 5375, , 26/02/2024
+00060-00000354.dat, original, 00060-00000354.cat, Session 5375 - Weights, The weights of the ballots described in the file 00060-00000354.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000355.cat, original, , Session 5381, , 26/02/2024
+00060-00000355.dat, original, 00060-00000355.cat, Session 5381 - Weights, The weights of the ballots described in the file 00060-00000355.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000356.cat, original, , Session 5393, , 26/02/2024
+00060-00000356.dat, original, 00060-00000356.cat, Session 5393 - Weights, The weights of the ballots described in the file 00060-00000356.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000357.cat, original, , Session 5399, , 26/02/2024
+00060-00000357.dat, original, 00060-00000357.cat, Session 5399 - Weights, The weights of the ballots described in the file 00060-00000357.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000358.cat, original, , Session 5405, , 26/02/2024
+00060-00000358.dat, original, 00060-00000358.cat, Session 5405 - Weights, The weights of the ballots described in the file 00060-00000358.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000359.cat, original, , Session 5411, , 26/02/2024
+00060-00000359.dat, original, 00060-00000359.cat, Session 5411 - Weights, The weights of the ballots described in the file 00060-00000359.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000360.cat, original, , Session 5416, , 26/02/2024
+00060-00000360.dat, original, 00060-00000360.cat, Session 5416 - Weights, The weights of the ballots described in the file 00060-00000360.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000361.cat, original, , Session 5423, , 26/02/2024
+00060-00000361.dat, original, 00060-00000361.cat, Session 5423 - Weights, The weights of the ballots described in the file 00060-00000361.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000362.cat, original, , Session 5441, , 26/02/2024
+00060-00000362.dat, original, 00060-00000362.cat, Session 5441 - Weights, The weights of the ballots described in the file 00060-00000362.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000363.cat, original, , Session 5453, , 26/02/2024
+00060-00000363.dat, original, 00060-00000363.cat, Session 5453 - Weights, The weights of the ballots described in the file 00060-00000363.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000364.cat, original, , Session 5465, , 26/02/2024
+00060-00000364.dat, original, 00060-00000364.cat, Session 5465 - Weights, The weights of the ballots described in the file 00060-00000364.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000365.cat, original, , Session 5476, , 26/02/2024
+00060-00000365.dat, original, 00060-00000365.cat, Session 5476 - Weights, The weights of the ballots described in the file 00060-00000365.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000366.cat, original, , Session 5489, , 26/02/2024
+00060-00000366.dat, original, 00060-00000366.cat, Session 5489 - Weights, The weights of the ballots described in the file 00060-00000366.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000367.cat, original, , Session 5495, , 26/02/2024
+00060-00000367.dat, original, 00060-00000367.cat, Session 5495 - Weights, The weights of the ballots described in the file 00060-00000367.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000368.cat, original, , Session 5501, , 26/02/2024
+00060-00000368.dat, original, 00060-00000368.cat, Session 5501 - Weights, The weights of the ballots described in the file 00060-00000368.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000369.cat, original, , Session 5513, , 26/02/2024
+00060-00000369.dat, original, 00060-00000369.cat, Session 5513 - Weights, The weights of the ballots described in the file 00060-00000369.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000370.cat, original, , Session 5519, , 26/02/2024
+00060-00000370.dat, original, 00060-00000370.cat, Session 5519 - Weights, The weights of the ballots described in the file 00060-00000370.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000371.cat, original, , Session 5524, , 26/02/2024
+00060-00000371.dat, original, 00060-00000371.cat, Session 5524 - Weights, The weights of the ballots described in the file 00060-00000371.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000372.cat, original, , Session 5543, , 26/02/2024
+00060-00000372.dat, original, 00060-00000372.cat, Session 5543 - Weights, The weights of the ballots described in the file 00060-00000372.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000373.cat, original, , Session 5549, , 26/02/2024
+00060-00000373.dat, original, 00060-00000373.cat, Session 5549 - Weights, The weights of the ballots described in the file 00060-00000373.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000374.cat, original, , Session 5555, , 26/02/2024
+00060-00000374.dat, original, 00060-00000374.cat, Session 5555 - Weights, The weights of the ballots described in the file 00060-00000374.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000375.cat, original, , Session 5561, , 26/02/2024
+00060-00000375.dat, original, 00060-00000375.cat, Session 5561 - Weights, The weights of the ballots described in the file 00060-00000375.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000376.cat, original, , Session 5566, , 26/02/2024
+00060-00000376.dat, original, 00060-00000376.cat, Session 5566 - Weights, The weights of the ballots described in the file 00060-00000376.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000377.cat, original, , Session 5591, , 26/02/2024
+00060-00000377.dat, original, 00060-00000377.cat, Session 5591 - Weights, The weights of the ballots described in the file 00060-00000377.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000378.cat, original, , Session 5597, , 26/02/2024
+00060-00000378.dat, original, 00060-00000378.cat, Session 5597 - Weights, The weights of the ballots described in the file 00060-00000378.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000379.cat, original, , Session 5615, , 26/02/2024
+00060-00000379.dat, original, 00060-00000379.cat, Session 5615 - Weights, The weights of the ballots described in the file 00060-00000379.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000380.cat, original, , Session 5620, , 26/02/2024
+00060-00000380.dat, original, 00060-00000380.cat, Session 5620 - Weights, The weights of the ballots described in the file 00060-00000380.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000381.cat, original, , Session 5627, , 26/02/2024
+00060-00000381.dat, original, 00060-00000381.cat, Session 5627 - Weights, The weights of the ballots described in the file 00060-00000381.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000382.cat, original, , Session 5639, , 26/02/2024
+00060-00000382.dat, original, 00060-00000382.cat, Session 5639 - Weights, The weights of the ballots described in the file 00060-00000382.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000383.cat, original, , Session 5651, , 26/02/2024
+00060-00000383.dat, original, 00060-00000383.cat, Session 5651 - Weights, The weights of the ballots described in the file 00060-00000383.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000384.cat, original, , Session 5657, , 26/02/2024
+00060-00000384.dat, original, 00060-00000384.cat, Session 5657 - Weights, The weights of the ballots described in the file 00060-00000384.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000385.cat, original, , Session 5663, , 26/02/2024
+00060-00000385.dat, original, 00060-00000385.cat, Session 5663 - Weights, The weights of the ballots described in the file 00060-00000385.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000386.cat, original, , Session 5681, , 26/02/2024
+00060-00000386.dat, original, 00060-00000386.cat, Session 5681 - Weights, The weights of the ballots described in the file 00060-00000386.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000387.cat, original, , Session 5687, , 26/02/2024
+00060-00000387.dat, original, 00060-00000387.cat, Session 5687 - Weights, The weights of the ballots described in the file 00060-00000387.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000388.cat, original, , Session 5698, , 26/02/2024
+00060-00000388.dat, original, 00060-00000388.cat, Session 5698 - Weights, The weights of the ballots described in the file 00060-00000388.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000389.cat, original, , Session 5711, , 26/02/2024
+00060-00000389.dat, original, 00060-00000389.cat, Session 5711 - Weights, The weights of the ballots described in the file 00060-00000389.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000390.cat, original, , Session 5723, , 26/02/2024
+00060-00000390.dat, original, 00060-00000390.cat, Session 5723 - Weights, The weights of the ballots described in the file 00060-00000390.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000391.cat, original, , Session 5728, , 26/02/2024
+00060-00000391.dat, original, 00060-00000391.cat, Session 5728 - Weights, The weights of the ballots described in the file 00060-00000391.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000392.cat, original, , Session 5735, , 26/02/2024
+00060-00000392.dat, original, 00060-00000392.cat, Session 5735 - Weights, The weights of the ballots described in the file 00060-00000392.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000393.cat, original, , Session 5747, , 26/02/2024
+00060-00000393.dat, original, 00060-00000393.cat, Session 5747 - Weights, The weights of the ballots described in the file 00060-00000393.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000394.cat, original, , Session 5765, , 26/02/2024
+00060-00000394.dat, original, 00060-00000394.cat, Session 5765 - Weights, The weights of the ballots described in the file 00060-00000394.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000395.cat, original, , Session 5771, , 26/02/2024
+00060-00000395.dat, original, 00060-00000395.cat, Session 5771 - Weights, The weights of the ballots described in the file 00060-00000395.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000396.cat, original, , Session 5783, , 26/02/2024
+00060-00000396.dat, original, 00060-00000396.cat, Session 5783 - Weights, The weights of the ballots described in the file 00060-00000396.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000397.cat, original, , Session 5789, , 26/02/2024
+00060-00000397.dat, original, 00060-00000397.cat, Session 5789 - Weights, The weights of the ballots described in the file 00060-00000397.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000398.cat, original, , Session 5801, , 26/02/2024
+00060-00000398.dat, original, 00060-00000398.cat, Session 5801 - Weights, The weights of the ballots described in the file 00060-00000398.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000399.cat, original, , Session 5813, , 26/02/2024
+00060-00000399.dat, original, 00060-00000399.cat, Session 5813 - Weights, The weights of the ballots described in the file 00060-00000399.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000400.cat, original, , Session 5819, , 26/02/2024
+00060-00000400.dat, original, 00060-00000400.cat, Session 5819 - Weights, The weights of the ballots described in the file 00060-00000400.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000401.cat, original, , Session 5831, , 26/02/2024
+00060-00000401.dat, original, 00060-00000401.cat, Session 5831 - Weights, The weights of the ballots described in the file 00060-00000401.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000402.cat, original, , Session 5837, , 26/02/2024
+00060-00000402.dat, original, 00060-00000402.cat, Session 5837 - Weights, The weights of the ballots described in the file 00060-00000402.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000403.cat, original, , Session 5849, , 26/02/2024
+00060-00000403.dat, original, 00060-00000403.cat, Session 5849 - Weights, The weights of the ballots described in the file 00060-00000403.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000404.cat, original, , Session 5855, , 26/02/2024
+00060-00000404.dat, original, 00060-00000404.cat, Session 5855 - Weights, The weights of the ballots described in the file 00060-00000404.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000405.cat, original, , Session 5867, , 26/02/2024
+00060-00000405.dat, original, 00060-00000405.cat, Session 5867 - Weights, The weights of the ballots described in the file 00060-00000405.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000406.cat, original, , Session 5873, , 26/02/2024
+00060-00000406.dat, original, 00060-00000406.cat, Session 5873 - Weights, The weights of the ballots described in the file 00060-00000406.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000407.cat, original, , Session 5879, , 26/02/2024
+00060-00000407.dat, original, 00060-00000407.cat, Session 5879 - Weights, The weights of the ballots described in the file 00060-00000407.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000408.cat, original, , Session 5981, , 26/02/2024
+00060-00000408.dat, original, 00060-00000408.cat, Session 5981 - Weights, The weights of the ballots described in the file 00060-00000408.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000409.cat, original, , Session 5987, , 26/02/2024
+00060-00000409.dat, original, 00060-00000409.cat, Session 5987 - Weights, The weights of the ballots described in the file 00060-00000409.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000410.cat, original, , Session 5993, , 26/02/2024
+00060-00000410.dat, original, 00060-00000410.cat, Session 5993 - Weights, The weights of the ballots described in the file 00060-00000410.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000411.cat, original, , Session 5999, , 26/02/2024
+00060-00000411.dat, original, 00060-00000411.cat, Session 5999 - Weights, The weights of the ballots described in the file 00060-00000411.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000412.cat, original, , Session 6005, , 26/02/2024
+00060-00000412.dat, original, 00060-00000412.cat, Session 6005 - Weights, The weights of the ballots described in the file 00060-00000412.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000413.cat, original, , Session 6011, , 26/02/2024
+00060-00000413.dat, original, 00060-00000413.cat, Session 6011 - Weights, The weights of the ballots described in the file 00060-00000413.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000414.cat, original, , Session 6017, , 26/02/2024
+00060-00000414.dat, original, 00060-00000414.cat, Session 6017 - Weights, The weights of the ballots described in the file 00060-00000414.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000415.cat, original, , Session 6023, , 26/02/2024
+00060-00000415.dat, original, 00060-00000415.cat, Session 6023 - Weights, The weights of the ballots described in the file 00060-00000415.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000416.cat, original, , Session 6029, , 26/02/2024
+00060-00000416.dat, original, 00060-00000416.cat, Session 6029 - Weights, The weights of the ballots described in the file 00060-00000416.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000417.cat, original, , Session 6035, , 26/02/2024
+00060-00000417.dat, original, 00060-00000417.cat, Session 6035 - Weights, The weights of the ballots described in the file 00060-00000417.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000418.cat, original, , Session 6041, , 26/02/2024
+00060-00000418.dat, original, 00060-00000418.cat, Session 6041 - Weights, The weights of the ballots described in the file 00060-00000418.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000419.cat, original, , Session 6047, , 26/02/2024
+00060-00000419.dat, original, 00060-00000419.cat, Session 6047 - Weights, The weights of the ballots described in the file 00060-00000419.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000420.cat, original, , Session 6053, , 26/02/2024
+00060-00000420.dat, original, 00060-00000420.cat, Session 6053 - Weights, The weights of the ballots described in the file 00060-00000420.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000421.cat, original, , Session 6059, , 26/02/2024
+00060-00000421.dat, original, 00060-00000421.cat, Session 6059 - Weights, The weights of the ballots described in the file 00060-00000421.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000422.cat, original, , Session 6065, , 26/02/2024
+00060-00000422.dat, original, 00060-00000422.cat, Session 6065 - Weights, The weights of the ballots described in the file 00060-00000422.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000423.cat, original, , Session 6071, , 26/02/2024
+00060-00000423.dat, original, 00060-00000423.cat, Session 6071 - Weights, The weights of the ballots described in the file 00060-00000423.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000424.cat, original, , Session 6077, , 26/02/2024
+00060-00000424.dat, original, 00060-00000424.cat, Session 6077 - Weights, The weights of the ballots described in the file 00060-00000424.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000425.cat, original, , Session 6083, , 26/02/2024
+00060-00000425.dat, original, 00060-00000425.cat, Session 6083 - Weights, The weights of the ballots described in the file 00060-00000425.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000426.cat, original, , Session 6089, , 26/02/2024
+00060-00000426.dat, original, 00060-00000426.cat, Session 6089 - Weights, The weights of the ballots described in the file 00060-00000426.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000427.cat, original, , Session 6095, , 26/02/2024
+00060-00000427.dat, original, 00060-00000427.cat, Session 6095 - Weights, The weights of the ballots described in the file 00060-00000427.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000428.cat, original, , Session 6101, , 26/02/2024
+00060-00000428.dat, original, 00060-00000428.cat, Session 6101 - Weights, The weights of the ballots described in the file 00060-00000428.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000429.cat, original, , Session 6107, , 26/02/2024
+00060-00000429.dat, original, 00060-00000429.cat, Session 6107 - Weights, The weights of the ballots described in the file 00060-00000429.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000430.cat, original, , Session 6113, , 26/02/2024
+00060-00000430.dat, original, 00060-00000430.cat, Session 6113 - Weights, The weights of the ballots described in the file 00060-00000430.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000431.cat, original, , Session 6119, , 26/02/2024
+00060-00000431.dat, original, 00060-00000431.cat, Session 6119 - Weights, The weights of the ballots described in the file 00060-00000431.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000432.cat, original, , Session 6125, , 26/02/2024
+00060-00000432.dat, original, 00060-00000432.cat, Session 6125 - Weights, The weights of the ballots described in the file 00060-00000432.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000433.cat, original, , Session 6131, , 26/02/2024
+00060-00000433.dat, original, 00060-00000433.cat, Session 6131 - Weights, The weights of the ballots described in the file 00060-00000433.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000434.cat, original, , Session 6137, , 26/02/2024
+00060-00000434.dat, original, 00060-00000434.cat, Session 6137 - Weights, The weights of the ballots described in the file 00060-00000434.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000435.cat, original, , Session 6143, , 26/02/2024
+00060-00000435.dat, original, 00060-00000435.cat, Session 6143 - Weights, The weights of the ballots described in the file 00060-00000435.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000436.cat, original, , Session 6149, , 26/02/2024
+00060-00000436.dat, original, 00060-00000436.cat, Session 6149 - Weights, The weights of the ballots described in the file 00060-00000436.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000437.cat, original, , Session 6155, , 26/02/2024
+00060-00000437.dat, original, 00060-00000437.cat, Session 6155 - Weights, The weights of the ballots described in the file 00060-00000437.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000438.cat, original, , Session 6161, , 26/02/2024
+00060-00000438.dat, original, 00060-00000438.cat, Session 6161 - Weights, The weights of the ballots described in the file 00060-00000438.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000439.cat, original, , Session 6167, , 26/02/2024
+00060-00000439.dat, original, 00060-00000439.cat, Session 6167 - Weights, The weights of the ballots described in the file 00060-00000439.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000440.cat, original, , Session 6173, , 26/02/2024
+00060-00000440.dat, original, 00060-00000440.cat, Session 6173 - Weights, The weights of the ballots described in the file 00060-00000440.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000441.cat, original, , Session 6179, , 26/02/2024
+00060-00000441.dat, original, 00060-00000441.cat, Session 6179 - Weights, The weights of the ballots described in the file 00060-00000441.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000442.cat, original, , Session 6185, , 26/02/2024
+00060-00000442.dat, original, 00060-00000442.cat, Session 6185 - Weights, The weights of the ballots described in the file 00060-00000442.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000443.cat, original, , Session 6191, , 26/02/2024
+00060-00000443.dat, original, 00060-00000443.cat, Session 6191 - Weights, The weights of the ballots described in the file 00060-00000443.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000444.cat, original, , Session 6197, , 26/02/2024
+00060-00000444.dat, original, 00060-00000444.cat, Session 6197 - Weights, The weights of the ballots described in the file 00060-00000444.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000445.cat, original, , Session 6203, , 26/02/2024
+00060-00000445.dat, original, 00060-00000445.cat, Session 6203 - Weights, The weights of the ballots described in the file 00060-00000445.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000446.cat, original, , Session 6209, , 26/02/2024
+00060-00000446.dat, original, 00060-00000446.cat, Session 6209 - Weights, The weights of the ballots described in the file 00060-00000446.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000447.cat, original, , Session 6215, , 26/02/2024
+00060-00000447.dat, original, 00060-00000447.cat, Session 6215 - Weights, The weights of the ballots described in the file 00060-00000447.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000448.cat, original, , Session 6221, , 26/02/2024
+00060-00000448.dat, original, 00060-00000448.cat, Session 6221 - Weights, The weights of the ballots described in the file 00060-00000448.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000449.cat, original, , Session 6227, , 26/02/2024
+00060-00000449.dat, original, 00060-00000449.cat, Session 6227 - Weights, The weights of the ballots described in the file 00060-00000449.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000450.cat, original, , Session 6233, , 26/02/2024
+00060-00000450.dat, original, 00060-00000450.cat, Session 6233 - Weights, The weights of the ballots described in the file 00060-00000450.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000451.cat, original, , Session 6239, , 26/02/2024
+00060-00000451.dat, original, 00060-00000451.cat, Session 6239 - Weights, The weights of the ballots described in the file 00060-00000451.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000452.cat, original, , Session 6245, , 26/02/2024
+00060-00000452.dat, original, 00060-00000452.cat, Session 6245 - Weights, The weights of the ballots described in the file 00060-00000452.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000453.cat, original, , Session 6251, , 26/02/2024
+00060-00000453.dat, original, 00060-00000453.cat, Session 6251 - Weights, The weights of the ballots described in the file 00060-00000453.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000454.cat, original, , Session 6257, , 26/02/2024
+00060-00000454.dat, original, 00060-00000454.cat, Session 6257 - Weights, The weights of the ballots described in the file 00060-00000454.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000455.cat, original, , Session 6263, , 26/02/2024
+00060-00000455.dat, original, 00060-00000455.cat, Session 6263 - Weights, The weights of the ballots described in the file 00060-00000455.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000456.cat, original, , Session 6269, , 26/02/2024
+00060-00000456.dat, original, 00060-00000456.cat, Session 6269 - Weights, The weights of the ballots described in the file 00060-00000456.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000457.cat, original, , Session 6275, , 26/02/2024
+00060-00000457.dat, original, 00060-00000457.cat, Session 6275 - Weights, The weights of the ballots described in the file 00060-00000457.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000458.cat, original, , Session 6281, , 26/02/2024
+00060-00000458.dat, original, 00060-00000458.cat, Session 6281 - Weights, The weights of the ballots described in the file 00060-00000458.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000459.cat, original, , Session 6287, , 26/02/2024
+00060-00000459.dat, original, 00060-00000459.cat, Session 6287 - Weights, The weights of the ballots described in the file 00060-00000459.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000460.cat, original, , Session 6293, , 26/02/2024
+00060-00000460.dat, original, 00060-00000460.cat, Session 6293 - Weights, The weights of the ballots described in the file 00060-00000460.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000461.cat, original, , Session 6299, , 26/02/2024
+00060-00000461.dat, original, 00060-00000461.cat, Session 6299 - Weights, The weights of the ballots described in the file 00060-00000461.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000462.cat, original, , Session 6305, , 26/02/2024
+00060-00000462.dat, original, 00060-00000462.cat, Session 6305 - Weights, The weights of the ballots described in the file 00060-00000462.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000463.cat, original, , Session 6311, , 26/02/2024
+00060-00000463.dat, original, 00060-00000463.cat, Session 6311 - Weights, The weights of the ballots described in the file 00060-00000463.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000464.cat, original, , Session 6317, , 26/02/2024
+00060-00000464.dat, original, 00060-00000464.cat, Session 6317 - Weights, The weights of the ballots described in the file 00060-00000464.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000465.cat, original, , Session 6323, , 26/02/2024
+00060-00000465.dat, original, 00060-00000465.cat, Session 6323 - Weights, The weights of the ballots described in the file 00060-00000465.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000466.cat, original, , Session 6329, , 26/02/2024
+00060-00000466.dat, original, 00060-00000466.cat, Session 6329 - Weights, The weights of the ballots described in the file 00060-00000466.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000467.cat, original, , Session 6335, , 26/02/2024
+00060-00000467.dat, original, 00060-00000467.cat, Session 6335 - Weights, The weights of the ballots described in the file 00060-00000467.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000468.cat, original, , Session 6341, , 26/02/2024
+00060-00000468.dat, original, 00060-00000468.cat, Session 6341 - Weights, The weights of the ballots described in the file 00060-00000468.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000469.cat, original, , Session 6347, , 26/02/2024
+00060-00000469.dat, original, 00060-00000469.cat, Session 6347 - Weights, The weights of the ballots described in the file 00060-00000469.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000470.cat, original, , Session 6353, , 26/02/2024
+00060-00000470.dat, original, 00060-00000470.cat, Session 6353 - Weights, The weights of the ballots described in the file 00060-00000470.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000471.cat, original, , Session 6359, , 26/02/2024
+00060-00000471.dat, original, 00060-00000471.cat, Session 6359 - Weights, The weights of the ballots described in the file 00060-00000471.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000472.cat, original, , Session 6365, , 26/02/2024
+00060-00000472.dat, original, 00060-00000472.cat, Session 6365 - Weights, The weights of the ballots described in the file 00060-00000472.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000473.cat, original, , Session 6371, , 26/02/2024
+00060-00000473.dat, original, 00060-00000473.cat, Session 6371 - Weights, The weights of the ballots described in the file 00060-00000473.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000474.cat, original, , Session 6377, , 26/02/2024
+00060-00000474.dat, original, 00060-00000474.cat, Session 6377 - Weights, The weights of the ballots described in the file 00060-00000474.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000475.cat, original, , Session 6383, , 26/02/2024
+00060-00000475.dat, original, 00060-00000475.cat, Session 6383 - Weights, The weights of the ballots described in the file 00060-00000475.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000476.cat, original, , Session 6389, , 26/02/2024
+00060-00000476.dat, original, 00060-00000476.cat, Session 6389 - Weights, The weights of the ballots described in the file 00060-00000476.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000477.cat, original, , Session 6395, , 26/02/2024
+00060-00000477.dat, original, 00060-00000477.cat, Session 6395 - Weights, The weights of the ballots described in the file 00060-00000477.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000478.cat, original, , Session 6401, , 26/02/2024
+00060-00000478.dat, original, 00060-00000478.cat, Session 6401 - Weights, The weights of the ballots described in the file 00060-00000478.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000479.cat, original, , Session 6407, , 26/02/2024
+00060-00000479.dat, original, 00060-00000479.cat, Session 6407 - Weights, The weights of the ballots described in the file 00060-00000479.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000480.cat, original, , Session 6413, , 26/02/2024
+00060-00000480.dat, original, 00060-00000480.cat, Session 6413 - Weights, The weights of the ballots described in the file 00060-00000480.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000481.cat, original, , Session 6419, , 26/02/2024
+00060-00000481.dat, original, 00060-00000481.cat, Session 6419 - Weights, The weights of the ballots described in the file 00060-00000481.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000482.cat, original, , Session 6425, , 26/02/2024
+00060-00000482.dat, original, 00060-00000482.cat, Session 6425 - Weights, The weights of the ballots described in the file 00060-00000482.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000483.cat, original, , Session 6431, , 26/02/2024
+00060-00000483.dat, original, 00060-00000483.cat, Session 6431 - Weights, The weights of the ballots described in the file 00060-00000483.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000484.cat, original, , Session 6437, , 26/02/2024
+00060-00000484.dat, original, 00060-00000484.cat, Session 6437 - Weights, The weights of the ballots described in the file 00060-00000484.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000485.cat, original, , Session 6443, , 26/02/2024
+00060-00000485.dat, original, 00060-00000485.cat, Session 6443 - Weights, The weights of the ballots described in the file 00060-00000485.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000486.cat, original, , Session 6449, , 26/02/2024
+00060-00000486.dat, original, 00060-00000486.cat, Session 6449 - Weights, The weights of the ballots described in the file 00060-00000486.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000487.cat, original, , Session 6455, , 26/02/2024
+00060-00000487.dat, original, 00060-00000487.cat, Session 6455 - Weights, The weights of the ballots described in the file 00060-00000487.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000488.cat, original, , Session 6461, , 26/02/2024
+00060-00000488.dat, original, 00060-00000488.cat, Session 6461 - Weights, The weights of the ballots described in the file 00060-00000488.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000489.cat, original, , Session 6467, , 26/02/2024
+00060-00000489.dat, original, 00060-00000489.cat, Session 6467 - Weights, The weights of the ballots described in the file 00060-00000489.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000490.cat, original, , Session 6473, , 26/02/2024
+00060-00000490.dat, original, 00060-00000490.cat, Session 6473 - Weights, The weights of the ballots described in the file 00060-00000490.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000491.cat, original, , Session 6479, , 26/02/2024
+00060-00000491.dat, original, 00060-00000491.cat, Session 6479 - Weights, The weights of the ballots described in the file 00060-00000491.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000492.cat, original, , Session 6485, , 26/02/2024
+00060-00000492.dat, original, 00060-00000492.cat, Session 6485 - Weights, The weights of the ballots described in the file 00060-00000492.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000493.cat, original, , Session 6491, , 26/02/2024
+00060-00000493.dat, original, 00060-00000493.cat, Session 6491 - Weights, The weights of the ballots described in the file 00060-00000493.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000494.cat, original, , Session 6497, , 26/02/2024
+00060-00000494.dat, original, 00060-00000494.cat, Session 6497 - Weights, The weights of the ballots described in the file 00060-00000494.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000495.cat, original, , Session 6503, , 26/02/2024
+00060-00000495.dat, original, 00060-00000495.cat, Session 6503 - Weights, The weights of the ballots described in the file 00060-00000495.cat in the format: ballot: list_of_weights., 26/02/2024
+00060-00000496.cat, original, , Session 6509, , 26/02/2024
+00060-00000496.dat, original, 00060-00000496.cat, Session 6509 - Weights, The weights of the ballots described in the file 00060-00000496.cat in the format: ballot: list_of_weights., 26/02/2024
