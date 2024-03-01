@@ -7,14 +7,14 @@ polkadot_details = {
     "ds_number": "00060",
     "abbreviation": "polkadot",
     "name": "Polkadot Network",
-    "publication_date": "26/02/2024"
+    "publication_date": "2024-02-26"
 }
 kusama_details = {
     "src": "kur_elections",
     "ds_number": "00061",
     "abbreviation": "kusama",
     "name": "Kusama Network",
-    "publication_date": "26/02/2024"
+    "publication_date": "2024-02-26"
 }
 
 for ds_details in [polkadot_details, kusama_details]:
