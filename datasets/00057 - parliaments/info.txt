@@ -1,0 +1,26 @@
+Name: Parliamentary Elections
+
+Abbreviation: parliaments
+
+Tags: Election,Politics
+
+Series Number: 00057
+
+Publication Date: 2022-11-15
+
+Description: <p>This dataset gathers parliamentary elections. The Austrian elections were provided by Martin Lackner.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00057-00000001.cat, original, , Austria Nationalrat 1994, , 2022-11-15
+00057-00000002.cat, original, , Austria Nationalrat 1995, , 2022-11-15
+00057-00000003.cat, original, , Austria Nationalrat 1999, , 2022-11-15
+00057-00000004.cat, original, , Austria Nationalrat 2002, , 2022-11-15
+00057-00000005.cat, original, , Austria Nationalrat 2006, , 2022-11-15
+00057-00000006.cat, original, , Austria Nationalrat 2008, , 2022-11-15
+00057-00000007.cat, original, , Austria Nationalrat 2013, , 2022-11-15
+00057-00000008.cat, original, , Austria Nationalrat 2017, , 2022-11-15
+00057-00000009.cat, original, , Austria Nationalrat 2019, , 2022-11-15

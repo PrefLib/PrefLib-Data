@@ -1,0 +1,47 @@
+# FILE NAME: 00059-00000002.cat
+# TITLE: Camp CCM Songs 2022 New
+# DESCRIPTION: Pre-camp survey on what new songs to teach on camp events
+# DATA TYPE: cat
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2024-02-16
+# MODIFICATION DATE: 2024-02-16
+# NUMBER ALTERNATIVES: 8
+# NUMBER VOTERS: 39
+# NUMBER UNIQUE PREFERENCES: 24
+# NUMBER CATEGORIES: 2
+# CATEGORY NAME 1: Yes
+# CATEGORY NAME 2: No
+# ALTERNATIVE NAME 1: Jak mógłbym nie wielbić Cię
+# ALTERNATIVE NAME 2: Bóg cudów - CSM
+# ALTERNATIVE NAME 3: O przyjdzcie do tronu
+# ALTERNATIVE NAME 4: Wolność (Freedom)
+# ALTERNATIVE NAME 5: Echo
+# ALTERNATIVE NAME 6: Jesteś który jesteś - CSM
+# ALTERNATIVE NAME 7: Dotyk nieba
+# ALTERNATIVE NAME 8: Jedyna droga - CSM
+5: {},{1,2,3,4,5,6,7,8}
+3: 5,{1,2,3,4,6,7,8}
+3: 6,{1,2,3,4,5,7,8}
+2: {1,4,5,7},{2,3,6,8}
+2: 4,{1,2,3,5,6,7,8}
+2: {4,5,6,8},{1,2,3,7}
+2: {2,4,5,8},{1,3,6,7}
+2: {1,3,5,8},{2,4,6,7}
+2: 3,{1,2,4,5,6,7,8}
+2: {2,3,4,6},{1,5,7,8}
+1: {1,2,3,4},{5,6,7,8}
+1: {1,4,5,6},{2,3,7,8}
+1: {4,5,6,7},{1,2,3,8}
+1: {2,5,7,8},{1,3,4,6}
+1: 8,{1,2,3,4,5,6,7}
+1: {2,3,6,8},{1,4,5,7}
+1: {1,3,4,5},{2,6,7,8}
+1: 7,{1,2,3,4,5,6,8}
+1: {1,5,7,8},{2,3,4,6}
+1: {4,5,7,8},{1,2,3,6}
+1: {2,3,4,5},{1,6,7,8}
+1: 1,{2,3,4,5,6,7,8}
+1: {1,4,5,8},{2,3,6,7}
+1: {4,5,6},{1,2,3,7,8}

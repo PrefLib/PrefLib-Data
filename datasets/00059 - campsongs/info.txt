@@ -1,0 +1,21 @@
+Name: Camp Songs
+
+Abbreviation: campsongs
+
+Tags: Election
+
+Series Number: 00059
+
+Publication Date: 2024-02-19
+
+Description: <p>The dataset consists of two pre-camp surveys, conducted for youth summer camps in 2022 and 2023 in Poland. Several weeks before each camp, campers were asked to fill out a survey, which included (among others) two questions related to CCM-genre music pieces. Responses to each question form an approval election. So, for each year, we obtained two elections.</p> <p>In the first question, survey participants--that is, voters---were presented approximately 80 song titles---candidates. The participants were asked to select at least 15 of their favorite ones to sing during camp activities. The lower bound on the number of selections was not enforced. In the second question, which involved far fewer songs (around ten), the participants were asked to select songs they would like to learn. This time, there was no indication of the number of choices, hence, some participants selected none.</p> <p>The questions remained the same in all years, however, the presented songs were different. Specifically, in 2022, the first and second questions involved 78 and 8 songs, respectively. A year later, the respective numbers were 82 and 10. The survey had 39 participants in 2022 and 56 in 2023.</p> <p> The data on this page has been donated by <a href="https://akaczmarczyk.com/">Andrzej Kaczmarczyk</a>.</p>
+
+Required Citations:
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00059-00000001.cat, original, , 2022 - First Question, , 2024-02-19
+00059-00000002.cat, original, , 2022 - Second Question, , 2024-02-19
+00059-00000003.cat, original, , 2023 - First Question, , 2024-02-19
+00059-00000004.cat, original, , 2023 - Second Question, , 2024-02-19
