@@ -1,0 +1,41 @@
+Name: APA Election Data
+
+Abbreviation: apa
+
+Tags: Election
+
+Series Number: 00028
+
+Publication Date: 2017-04-13
+
+Description: <p>This dataset contains the results of the elections of the American Psychological Association between 1998 - 2009.  The voters are allowed to rank any number of the 5 candidates without ties.  Each of these elections have 5 candidates and between 13,318 and 20,239 voters.</p><p>These data were donated by Michal Regenwetter and Anna Popova from the University of Illinois at Urbana-Champaign.  The work that analyzed this data was supported by National Science Foundation grants SES # 08-20009, ICES # 1216016 (PI: M. Regenwetter), the University Library at the University of Illinois at Urbana-Champaign (PI: A. Popova), and the Basic Research Program at HSE (S. Popov). We thank the American Psychological Association for permitting access to its election ballot data. More information and tools for analyzing this data can be found at the website of the <a href="http://regenwetterlab.org/software/consensus/">Decision Making Laboratory at the University of Illinois</a>.</p>
+
+Required Citations: S.  Popov, A. Popova, M. Regenwetter. <em>Consensus formation in organizations: Hunting for the social choice conundrum in American Psychological Association elections</em> Decision, 2015 (<a href="/static/bib/PPR14.bib">Bibtex</a>).
+
+Selected Studies: M. Regenwetter, A. Kim, A. Kantor, and M.-H. R. Ho. <em>The unexpected empirical consensus among consensus methods</em>. Psychological Science, 18, 629-635, 2007. | M. Regenwetter, B. Grofman, A. Popova, W. Messner, C. Davis-Stober and D. Cavagnaro. <em>Behavioural social choice: A status report</em>. Philosophical Transactions of the Royal Society B: Biological Sciences, 364, 833-843, 2009.
+
+file_name, modification_type, relates_to, title, description, publication_date
+00028-00000001.soi, original, , APA_1998, , 2017-04-13
+00028-00000001.toc, imbued, 00028-00000001.soi, APA_1998, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000002.soi, original, , APA_1999, , 2017-04-13
+00028-00000002.toc, imbued, 00028-00000002.soi, APA_1999, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000003.soi, original, , APA_2000, , 2017-04-13
+00028-00000003.toc, imbued, 00028-00000003.soi, APA_2000, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000004.soi, original, , APA_2001, , 2017-04-13
+00028-00000004.toc, imbued, 00028-00000004.soi, APA_2001, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000005.soi, original, , APA_2002, , 2017-04-13
+00028-00000005.toc, imbued, 00028-00000005.soi, APA_2002, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000006.soi, original, , APA_2003, , 2017-04-13
+00028-00000006.toc, imbued, 00028-00000006.soi, APA_2003, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000007.soi, original, , APA_2004, , 2017-04-13
+00028-00000007.toc, imbued, 00028-00000007.soi, APA_2004, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000008.soi, original, , APA_2005, , 2017-04-13
+00028-00000008.toc, imbued, 00028-00000008.soi, APA_2005, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000009.soi, original, , APA_2006, , 2017-04-13
+00028-00000009.toc, imbued, 00028-00000009.soi, APA_2006, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000010.soi, original, , APA_2007, , 2017-04-13
+00028-00000010.toc, imbued, 00028-00000010.soi, APA_2007, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000011.soi, original, , APA_2008, , 2017-04-13
+00028-00000011.toc, imbued, 00028-00000011.soi, APA_2008, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13
+00028-00000012.soi, original, , APA_2009, , 2017-04-13
+00028-00000012.toc, imbued, 00028-00000012.soi, APA_2009, Obtained from the soi by adding the unranked alternatives at the bottom, 2017-04-13

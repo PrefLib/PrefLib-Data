@@ -1,0 +1,18 @@
+Name: Proto French Election
+
+Abbreviation: frenchrate
+
+Tags: Election,Politics
+
+Series Number: 00027
+
+Publication Date: 2017-04-13
+
+Description: <p> This analog dataset to the 2002 French Presidential Election Dataset was collected by Jean-Francois Laslier, Karine Van der Straeten and Michel Balinski.  It consists of 398 approval ballots collected over potential candidates for the 2002 French Presidential election cast by students at Institut d'Etudes Politiques de Paris.</p> <p>This dataset is interesting as its companion dataset <a href="/dataset/00029">Proto French Election Ratings</a> has both the subjective evaluations of the candidates, along with the approvals.  This dataset only preserves the approval ballots cast by the students.  As the candidate set is the potential presidential candidates (and thus, not the exact set used in ED-00026), this is presented as a separate dataset.</p>
+
+Required Citations: 
+
+Selected Studies: Jean-Francois Laslier and Karine Van der Straeten. <em>Vote par assentiment pendant la presidentielle de 2002: analyse d'une experience</em>. Revue Francaise de Science Politique 54 : 99-130, 2004.
+
+file_name, modification_type, relates_to, title, description, publication_date
+00027-00000001.toc, original, , Etudes Poltiques, , 2017-04-13
