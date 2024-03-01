@@ -1,0 +1,41 @@
+Name: Countries Ranking
+
+Abbreviation: countries
+
+Tags: Election
+
+Series Number: 00051
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains elections generated from indicator-based rankings of countries. For each year between 2005 and 2016, the underlying country ranking data (based on the popular world happiness report; <a href="https://kaggle.com/alcidesoxa/world-happiness-report-2005-2018">kaggle.com/alcidesoxa/world-happiness-report-2005-2018</a>) contains different quantitative indicators for the happiness of citizens from over 100 countries. For each year, we created an election where the countries are the candidates and each vote ranks them according to one indicator.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>Other indicator-based rankings have been used to create the university rankings and city rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00051-00000001.soi, original, , 2005, , 2022-09-25
+00051-00000001.soc, induced, 00051-00000001.soi, 2005, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000002.soi, original, , 2006, , 2022-09-25
+00051-00000002.soc, induced, 00051-00000002.soi, 2006, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000003.soi, original, , 2007, , 2022-09-25
+00051-00000003.soc, induced, 00051-00000003.soi, 2007, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000004.soi, original, , 2008, , 2022-09-25
+00051-00000004.soc, induced, 00051-00000004.soi, 2008, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000005.soi, original, , 2009, , 2022-09-25
+00051-00000005.soc, induced, 00051-00000005.soi, 2009, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000006.soi, original, , 2010, , 2022-09-25
+00051-00000006.soc, induced, 00051-00000006.soi, 2010, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000007.soi, original, , 2011, , 2022-09-25
+00051-00000007.soc, induced, 00051-00000007.soi, 2011, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000008.soi, original, , 2012, , 2022-09-25
+00051-00000008.soc, induced, 00051-00000008.soi, 2012, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000009.soi, original, , 2013, , 2022-09-25
+00051-00000009.soc, induced, 00051-00000009.soi, 2013, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000010.soi, original, , 2014, , 2022-09-25
+00051-00000010.soc, induced, 00051-00000010.soi, 2014, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000011.soi, original, , 2015, , 2022-09-25
+00051-00000011.soc, induced, 00051-00000011.soi, 2015, Complete preferences extracted from the soi file, 2022-09-25
+00051-00000012.soi, original, , 2016, , 2022-09-25
+00051-00000012.soc, induced, 00051-00000012.soi, 2016, Complete preferences extracted from the soi file, 2022-09-25

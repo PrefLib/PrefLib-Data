@@ -1,0 +1,49 @@
+# FILE NAME: 00053-00000169.soc
+# TITLE: 2005 United States Grand Prix
+# DESCRIPTION: Complete preferences extracted from the soi file
+# DATA TYPE: soc
+# MODIFICATION TYPE: induced
+# RELATES TO: 00053-00000169.soi
+# RELATED FILES: 
+# PUBLICATION DATE: 2022-09-25
+# MODIFICATION DATE: 2022-09-25
+# NUMBER ALTERNATIVES: 6
+# NUMBER VOTERS: 71
+# NUMBER UNIQUE ORDERS: 31
+# ALTERNATIVE NAME 1: michael_schumacher
+# ALTERNATIVE NAME 2: karthikeyan
+# ALTERNATIVE NAME 3: barrichello
+# ALTERNATIVE NAME 4: monteiro
+# ALTERNATIVE NAME 5: friesacher
+# ALTERNATIVE NAME 6: albers
+11: 3,1,4,2,6,5
+10: 3,1,4,2,5,6
+8: 1,3,4,2,6,5
+6: 1,3,4,2,5,6
+4: 1,3,4,6,2,5
+3: 1,3,2,4,5,6
+2: 1,3,4,6,5,2
+2: 1,3,2,6,5,4
+2: 3,1,2,4,5,6
+2: 3,1,4,6,2,5
+1: 1,3,4,5,6,2
+1: 3,1,2,6,5,4
+1: 1,4,6,2,5,3
+1: 1,4,2,5,6,3
+1: 3,4,6,2,5,1
+1: 3,4,2,6,5,1
+1: 3,1,4,5,6,2
+1: 3,1,4,6,5,2
+1: 1,3,6,2,5,4
+1: 1,6,2,5,4,3
+1: 1,4,2,5,3,6
+1: 3,4,2,5,6,1
+1: 2,4,6,5,3,1
+1: 1,2,4,3,6,5
+1: 3,4,2,1,6,5
+1: 1,4,2,3,6,5
+1: 3,4,1,6,2,5
+1: 1,4,3,2,6,5
+1: 3,1,2,4,6,5
+1: 1,3,2,6,4,5
+1: 1,3,2,4,6,5

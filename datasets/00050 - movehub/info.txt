@@ -1,0 +1,18 @@
+Name: Movehub City Ranking
+
+Abbreviation: movehub
+
+Tags: Election
+
+Series Number: 00050
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains an election generated from indicator-based rankings of cities. The underlying city ranking data (<a href="https://kaggle.com/blitzr/movehub-city-rankings">kaggle.com/blitzr/movehub-city-rankings</a>) contains twelve quantitative indicators for the life quality in 216 different cities determined by movehub.com.  We created a single election where each city is a candidate and each vote corresponds to the ranking of the cities with respect to one of the indicators.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>Other indicator-based rankings have been used to create the country rankings and university rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00050-00000001.soc, original, , All, , 2022-09-25
