@@ -1,0 +1,40 @@
+# FILE NAME: 00004-00000171.soc
+# TITLE: Netflix Prize Data
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: induced
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2013-08-17
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 384
+# NUMBER UNIQUE ORDERS: 24
+# ALTERNATIVE NAME 1: Raising Helen
+# ALTERNATIVE NAME 2: Mission: Impossible II
+# ALTERNATIVE NAME 3: Unforgiven
+# ALTERNATIVE NAME 4: Harry Potter and the Sorcerer's Stone
+56: 4,3,1,2
+46: 3,4,1,2
+46: 3,4,2,1
+32: 4,1,2,3
+31: 4,3,2,1
+30: 4,1,3,2
+29: 4,2,3,1
+27: 4,2,1,3
+16: 3,1,4,2
+15: 3,2,4,1
+10: 1,4,3,2
+10: 3,2,1,4
+7: 3,1,2,4
+6: 2,4,1,3
+5: 1,3,2,4
+5: 1,4,2,3
+4: 2,3,4,1
+4: 1,2,4,3
+2: 2,3,1,4
+1: 2,4,3,1
+1: 1,2,3,4
+1: 2,1,3,4
+0: 2,1,4,3
+0: 1,3,4,2

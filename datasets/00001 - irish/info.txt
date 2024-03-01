@@ -1,0 +1,23 @@
+Name: Irish Election Data
+
+Abbreviation: irish
+
+Tags: Election,Politics,STV
+
+Series Number: 00001
+
+Publication Date: 2013-08-17
+
+Description: <p>The Dublin North, West, and Meath data sets contain a complete record of votes for two separate elections held in Dublin, Ireland in 2002.  The votes were posted <a href="http://www.dublincountyreturningofficer.com/">online</a> but have since been removed.</p> <p> The data sets are not complete, they contain many partial votes over the candidate set.  The North data set contains 43,942 votes over 12 candidates, the West data set contains 29,988 over 9 candidates, and the Meath set contains 64,081 votes over 14 candidates. </p> <p> The Meath data presented here was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00001-00000001.soi, original, , 2002 Dublin North, , 2013-08-17
+00001-00000001.toc, imbued, 00001-00000001.soi, 2002 Dublin North, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00001-00000002.soi, original, , 2002 Dublin West, , 2013-08-17
+00001-00000002.toc, imbued, 00001-00000002.soi, 2002 Dublin West, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00001-00000003.soi, original, , 2002 Meath, , 2013-08-17
+00001-00000003.toc, imbued, 00001-00000003.soi, 2002 Meath, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17

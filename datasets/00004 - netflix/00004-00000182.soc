@@ -1,0 +1,40 @@
+# FILE NAME: 00004-00000182.soc
+# TITLE: Netflix Prize Data
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: induced
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2013-08-17
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 578
+# NUMBER UNIQUE ORDERS: 24
+# ALTERNATIVE NAME 1: National Lampoon's Vacation
+# ALTERNATIVE NAME 2: Good Morning
+# ALTERNATIVE NAME 3: Kill Bill: Vol. 1
+# ALTERNATIVE NAME 4: Confessions of a Dangerous Mind
+61: 3,1,2,4
+49: 1,2,3,4
+49: 1,2,4,3
+45: 3,2,4,1
+44: 2,1,4,3
+40: 2,1,3,4
+37: 3,2,1,4
+34: 1,3,2,4
+33: 3,4,2,1
+29: 2,3,1,4
+28: 3,1,4,2
+23: 3,4,1,2
+18: 2,3,4,1
+18: 2,4,1,3
+17: 1,3,4,2
+15: 2,4,3,1
+12: 1,4,2,3
+7: 4,3,1,2
+6: 4,2,3,1
+6: 4,2,1,3
+3: 4,1,2,3
+2: 4,1,3,2
+1: 1,4,3,2
+1: 4,3,2,1

@@ -1,0 +1,33 @@
+Name: Debian Project Data
+
+Abbreviation: debian
+
+Tags: Election
+
+Series Number: 00002
+
+Publication Date: 2013-08-17
+
+Description: <p>The Debian Project Leader Elections are held yearly with most of the ballots available <a href="http://www.debian.org/vote/">online.</a></p> <p> We have captured several years of data below including the vote for the Debian logo. Some years there have been only a few candidate and we have omitted these years. The included data sets have between 4 and 9 candidates depending on instance and about 400 individual votes per instance.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00002-00000001.soi, original, , Debian 2002 Leader, , 2013-08-17
+00002-00000001.toc, imbued, 00002-00000001.soi, Debian 2002 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000002.soi, original, , Debian 2003 Leader, , 2013-08-17
+00002-00000002.toc, imbued, 00002-00000002.soi, Debian 2003 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000003.soi, original, , Debian 2005 Leader, , 2013-08-17
+00002-00000003.toc, imbued, 00002-00000003.soi, Debian 2005 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000004.soi, original, , Debian 2006 Leader, , 2013-08-17
+00002-00000004.toc, imbued, 00002-00000004.soi, Debian 2006 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000005.soi, original, , Debian 2007 Leader, , 2013-08-17
+00002-00000005.toc, imbued, 00002-00000005.soi, Debian 2007 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000006.soi, original, , Debian 2010 Leader, , 2013-08-17
+00002-00000006.toc, imbued, 00002-00000006.soi, Debian 2010 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000007.soi, original, , Debian 2012 Leader, , 2013-08-17
+00002-00000007.toc, imbued, 00002-00000007.soi, Debian 2012 Leader, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000008.soi, original, , Debian Logo, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17
+00002-00000008.toc, imbued, 00002-00000008.soi, Debian Logo, Obtained from the soi by adding the unranked alternatives at the bottom, 2013-08-17

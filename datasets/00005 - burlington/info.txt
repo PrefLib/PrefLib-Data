@@ -1,0 +1,21 @@
+Name: Burlington Election Data
+
+Abbreviation: burlington
+
+Tags: Election,Politics,STV
+
+Series Number: 00005
+
+Publication Date: 2013-08-17
+
+Description: <p>The <a href="http://rangevoting.org/Burlington.html">2009 Burlington, Vermont Mayoral Election Data is posted online at www.rangevoting.org.</a>  It contains a number of interesting features when evaluated with the IRV method.  Namely, the majority candidate in the first round does not emerge as the winner of the election.</p><p> The 2006 Burlington, Vermont Mayoral data presented here was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00005-00000001.toc, imbued, , 2006 Burlington Mayoral Election, Obtained from the toi by adding the unranked alternatives at the bottom, 2013-08-17
+00005-00000001.toi, original, , 2006 Burlington Mayoral Election, , 2013-08-17
+00005-00000002.toc, imbued, , 2009 Burlington Mayoral Election, Obtained from the toi by adding the unranked alternatives at the bottom, 2013-08-17
+00005-00000002.toi, original, , 2009 Burlington Mayoral Election, , 2013-08-17

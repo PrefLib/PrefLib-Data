@@ -1,0 +1,40 @@
+# FILE NAME: 00004-00000104.soc
+# TITLE: Netflix Prize Data
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: induced
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2013-08-17
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 625
+# NUMBER UNIQUE ORDERS: 24
+# ALTERNATIVE NAME 1: Good Morning
+# ALTERNATIVE NAME 2: National Lampoon's Animal House
+# ALTERNATIVE NAME 3: National Lampoon's European Vacation
+# ALTERNATIVE NAME 4: The Green Mile
+97: 2,4,1,3
+91: 4,1,2,3
+81: 4,2,1,3
+58: 2,1,4,3
+43: 4,1,3,2
+40: 2,4,3,1
+35: 4,2,3,1
+26: 1,4,2,3
+22: 4,3,1,2
+19: 2,1,3,4
+15: 2,3,4,1
+15: 1,2,4,3
+14: 4,3,2,1
+14: 2,3,1,4
+13: 1,2,3,4
+9: 1,4,3,2
+7: 3,2,4,1
+6: 3,4,1,2
+5: 3,4,2,1
+4: 3,1,2,4
+4: 3,2,1,4
+3: 1,3,2,4
+3: 1,3,4,2
+1: 3,1,4,2

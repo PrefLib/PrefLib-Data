@@ -1,0 +1,40 @@
+# FILE NAME: 00004-00000116.soc
+# TITLE: Netflix Prize Data
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: induced
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2013-08-17
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 387
+# NUMBER UNIQUE ORDERS: 24
+# ALTERNATIVE NAME 1: Mean Girls
+# ALTERNATIVE NAME 2: Aladdin: Platinum Edition
+# ALTERNATIVE NAME 3: Cheaper by the Dozen
+# ALTERNATIVE NAME 4: Intolerable Cruelty
+94: 2,1,3,4
+92: 2,3,1,4
+48: 2,1,4,3
+44: 2,3,4,1
+23: 3,2,1,4
+21: 1,2,3,4
+13: 1,2,4,3
+12: 2,4,1,3
+10: 2,4,3,1
+7: 3,1,2,4
+6: 3,2,4,1
+4: 1,4,2,3
+3: 4,2,1,3
+2: 3,4,1,2
+2: 3,4,2,1
+2: 4,2,3,1
+2: 1,3,2,4
+1: 3,1,4,2
+1: 4,1,3,2
+0: 4,3,1,2
+0: 1,4,3,2
+0: 4,3,2,1
+0: 1,3,4,2
+0: 4,1,2,3

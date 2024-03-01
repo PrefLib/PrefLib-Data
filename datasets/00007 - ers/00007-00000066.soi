@@ -1,0 +1,76 @@
+# FILE NAME: 00007-00000066.soi
+# TITLE: ERS Set 66
+# DESCRIPTION: 
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 00007-00000066.toc
+# PUBLICATION DATE: 2013-08-17
+# MODIFICATION DATE: 2022-09-16
+# NUMBER ALTERNATIVES: 7
+# NUMBER VOTERS: 78
+# NUMBER UNIQUE ORDERS: 57
+# ALTERNATIVE NAME 1: Candidate 1
+# ALTERNATIVE NAME 2: Candidate 2
+# ALTERNATIVE NAME 3: Candidate 3
+# ALTERNATIVE NAME 4: Candidate 4
+# ALTERNATIVE NAME 5: Candidate 5
+# ALTERNATIVE NAME 6: Candidate 6
+# ALTERNATIVE NAME 7: Candidate 7
+8: 4
+5: 4,2
+3: 4,7
+2: 4,2,7,5,6,1,3
+2: 4,2,1,6,3,5,7
+2: 4,7,5
+2: 4,7,3
+2: 4,3,2
+2: 7,4
+2: 4,3
+2: 7
+1: 2,6,3,1,7,4,5
+1: 6,3,7,5,1,2,4
+1: 2,4,3,5,7,6,1
+1: 4,5,7,1,2,6,3
+1: 4,6,5,3,7,2,1
+1: 2,1,3,5,7,4,6
+1: 1,4,3,6,5,2,7
+1: 4,7,2,1,6,5,3
+1: 2,1,4,7,6,3,5
+1: 4,7,1,2,5,6,3
+1: 6,5,1,3,7,4,2
+1: 4,1,2,5,6,7,3
+1: 4,7,2,6,5,3,1
+1: 4,7,5,6,2,3,1
+1: 2,1,7,6,5,4,3
+1: 4,5,2,1,6,7,3
+1: 7,5,6,2,1,4,3
+1: 4,7,6,5,3
+1: 3,2,6,5,7
+1: 4,2,3,7,1
+1: 3,4,7,5
+1: 1,4,2,3
+1: 7,2,3,4
+1: 5,7,4,3
+1: 7,5,4,3
+1: 4,2,3,7
+1: 6,7,5
+1: 4,6,2
+1: 2,4,1
+1: 3,2,4
+1: 3,2,5
+1: 3,6,2
+1: 3,4,6
+1: 7,2,4
+1: 7,5,4
+1: 6,7,3
+1: 3,7,5
+1: 7,3,1
+1: 4,2,7
+1: 4,5,7
+1: 4,5,2
+1: 2,3
+1: 3,4
+1: 3,7
+1: 5,6
+1: 7,6
