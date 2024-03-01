@@ -8,7 +8,7 @@ Series Number: 00061
 
 Publication Date: 2024-02-26
 
-Description:
+Description: <p>Certain blockchain protocols conduct approval-based committee elections on a day-to-day basis. Specifically, these elections occur in blockchains using the Nominated Proof-of-Stake (NPoS) protocol. In this system, a subset of stakeholders, called validators, are elected to run the consensus protocol, which is crucial for the integrity of the blockchain. The problem of selecting the validators can be modeled as a committee election.</p><p>This dataset presents the voting data of the <a href="https://kusama.network">Kusama network</a>, a blockchain system that implements the Nominated Proof-of-Stake (NPoS) protocol. The dataset contains 96 elections from the Polkadot blockchain. These elections contain roughly 2000 candidates and 10 000 voters each.</p><p>Note that in practice voters are assigned weights (that are of highly different scales). We cannot present this data in the PrefLib data. To every ".cat" file that includes the approval ballots corresponds thus a ".dat" file that describes the weights.</p><p>This dataset has been converted into the PrefLib format based on the sources provided by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Böhmer</a> (available <a href="https://github.com/n-boehmer/ABC-practice-Polkadot">here</a>).</p>
 
 Required Citations: Niclas Boehmer, Markus Brill, Alfonso Cevallos, Jonas Gehrlein, Luis Sánchez-Fernández, and Ulrike Schmidt-Kraepelin. <em>Approval-Based Committee Voting in Practice: A Case Study of (Over-)Representation in the Polkadot Blockchain</em>. AAAI, 2024.
 
