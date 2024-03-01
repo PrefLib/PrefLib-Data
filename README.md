@@ -69,31 +69,32 @@ Let us describe in more details the metadata:
 - **Required Citations**: a list of the required citations that have to be included in every publication making use of the dataset.
 - **Selected Studies**: a list of additional references that can be useful.
 
-The second part of the file describes all the data files of the dataset in a csv fashion. We detail a bit on the headers
-in the following.
-* **file_name**: the name of the data file.
-* **modification_type**: the modification type of the file. See `the PrefLib format page <https:preflib.org/format#metadata>`_ for more information about it.
-* **relates_to**: the name of the file that the current file relates to. It would typically be the source file in case the current file has been derived from another one.
-* **title**: the title of the data file, e.g., the year of the election it represents.
-* **description**: a brief description of the data file if some additional information are needed.
-* **publication_date**: the date at which the data file was publish in the PrefLib system for the first time.
+The second part of the file describes all the data files of the dataset in a csv fashion. We detail 
+a bit on the headers in the following.
 
-Among all those headers, :code:`relates_to` and :code:`description` can be empty. All the others are required.
+- **file_name**: the name of the data file.
+- **modification_type**: the modification type of the file. See [the PrefLib format page](https:preflib.org/format#metadata) for more information about it.
+- **relates_to**: the name of the file that the current file relates to. It would typically be the source file in case the current file has been derived from another one.
+- **title**: the title of the data file, e.g., the year of the election it represents.
+- **description**: a brief description of the data file if some additional information are needed.
+- **publication_date**: the date at which the data file was publish in the PrefLib system for the first time.
 
-Note that if a comma should appear in a field (e.g., in :code:`description`), the value of the field should be put into
-triple double quotes: :code:`"""this is my description, with a comma."""`. This also mean that triple double quotes
+Among all those headers, `relates_to` and `description` can be empty. All the others are required.
+
+Note that if a comma should appear in a field (e.g., in `description`), the value of the field should be put into
+triple double quotes: `"""this is my description, with a comma."""`. This also mean that triple double quotes
 should not be used for any other usage.
 
 Data Files
 ----------
 
 The most important content of a dataset is the data files it contains. We do not detail the format of those files  here,
-but rather refer the reader to `the PrefLib format page <https:preflib.org/format#format>`_ where all the details are
+but rather refer the reader to [the PrefLib format page](https:preflib.org/format#format) where all the details are
 presented. In the following, we provide additional specifications about the data files. Please follow them when
 formatting data into the PrefLib format.
 
-* Metadata lines should all be at the start of the files.
-* There shoudl not be line break between the metadata and the preferences sectino of a data file.
-* Alternative numbering should start at 1 and not at 0.
-* For the data types allowing for multiplicity, the same preference cannot appear twice, the multiplicity is there for that.
-* No two alternatives can have the same name.
+- Metadata lines should all be at the start of the files.
+- There should not be line break between the metadata and the preferences section of a data file.
+- Alternative numbering should start at 1 and not at 0.
+- For the data types allowing for multiplicity, the same preference cannot appear twice, the multiplicity is there for that.
+- No two alternatives can have the same name.

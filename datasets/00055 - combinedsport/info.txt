@@ -1,0 +1,123 @@
+Name: Combined Power Ranking
+
+Abbreviation: combinedsport
+
+Tags: Election
+
+Series Number: 00055
+
+Publication Date: 2022-09-25
+
+Description: <p>This dataset contains elections generated from weekly power rankings. Specifically, the underlying power ranking data (<a href="https://kaggle.com/masseyratings/rankings">kaggle.com/masseyratings/rankings</a>) contains weekly power rankings of college basketball teams (between 2001 and 2021), college baseball teams (between 2010 and 2021), and college American football teams (between 1997 and 2021) from different media outlets and ranking systems.</p> <p>For each of the three sports (basketball, baseball, American football), for each season, we created an election where each vote corresponds to the power ranking of the teams in one of the weeks of the season according to one of the ranking systems.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete. The name of each patch starts with the relevant sports followed by the relevant year.</p> <p>The season power rankings and weekly power rankings datasets were generated from the same data.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/BoSc22">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
+
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00055-00000001.soi, original, , Baseball 2010, , 2022-09-25
+00055-00000001.soc, induced, 00055-00000001.soi, Baseball 2010, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000002.soi, original, , Baseball 2011, , 2022-09-25
+00055-00000002.soc, induced, 00055-00000002.soi, Baseball 2011, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000003.soi, original, , Baseball 2012, , 2022-09-25
+00055-00000003.soc, induced, 00055-00000003.soi, Baseball 2012, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000004.soi, original, , Baseball 2013, , 2022-09-25
+00055-00000004.soc, induced, 00055-00000004.soi, Baseball 2013, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000005.soi, original, , Baseball 2014, , 2022-09-25
+00055-00000005.soc, induced, 00055-00000005.soi, Baseball 2014, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000006.soi, original, , Baseball 2015, , 2022-09-25
+00055-00000006.soc, induced, 00055-00000006.soi, Baseball 2015, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000007.soi, original, , Baseball 2016, , 2022-09-25
+00055-00000007.soc, induced, 00055-00000007.soi, Baseball 2016, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000008.soi, original, , Baseball 2017, , 2022-09-25
+00055-00000008.soc, induced, 00055-00000008.soi, Baseball 2017, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000009.soi, original, , Baseball 2018, , 2022-09-25
+00055-00000009.soc, induced, 00055-00000009.soi, Baseball 2018, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000010.soi, original, , Baseball 2019, , 2022-09-25
+00055-00000010.soc, induced, 00055-00000010.soi, Baseball 2019, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000011.soi, original, , Basketball 2001, , 2022-09-25
+00055-00000011.soc, induced, 00055-00000011.soi, Basketball 2001, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000012.soi, original, , Basketball 2002, , 2022-09-25
+00055-00000012.soc, induced, 00055-00000012.soi, Basketball 2002, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000013.soi, original, , Basketball 2003, , 2022-09-25
+00055-00000013.soc, induced, 00055-00000013.soi, Basketball 2003, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000014.soi, original, , Basketball 2004, , 2022-09-25
+00055-00000014.soc, induced, 00055-00000014.soi, Basketball 2004, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000015.soi, original, , Basketball 2005, , 2022-09-25
+00055-00000015.soc, induced, 00055-00000015.soi, Basketball 2005, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000016.soi, original, , Basketball 2006, , 2022-09-25
+00055-00000016.soc, induced, 00055-00000016.soi, Basketball 2006, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000017.soi, original, , Basketball 2007, , 2022-09-25
+00055-00000017.soc, induced, 00055-00000017.soi, Basketball 2007, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000018.soi, original, , Basketball 2008, , 2022-09-25
+00055-00000018.soc, induced, 00055-00000018.soi, Basketball 2008, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000019.soi, original, , Basketball 2009, , 2022-09-25
+00055-00000019.soc, induced, 00055-00000019.soi, Basketball 2009, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000020.soi, original, , Basketball 2010, , 2022-09-25
+00055-00000020.soc, induced, 00055-00000020.soi, Basketball 2010, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000021.soi, original, , Basketball 2011, , 2022-09-25
+00055-00000021.soc, induced, 00055-00000021.soi, Basketball 2011, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000022.soi, original, , Basketball 2012, , 2022-09-25
+00055-00000022.soc, induced, 00055-00000022.soi, Basketball 2012, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000023.soi, original, , Basketball 2013, , 2022-09-25
+00055-00000023.soc, induced, 00055-00000023.soi, Basketball 2013, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000024.soi, original, , Basketball 2014, , 2022-09-25
+00055-00000024.soc, induced, 00055-00000024.soi, Basketball 2014, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000025.soi, original, , Basketball 2015, , 2022-09-25
+00055-00000025.soc, induced, 00055-00000025.soi, Basketball 2015, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000026.soi, original, , Basketball 2016, , 2022-09-25
+00055-00000026.soc, induced, 00055-00000026.soi, Basketball 2016, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000027.soi, original, , Basketball 2017, , 2022-09-25
+00055-00000027.soc, induced, 00055-00000027.soi, Basketball 2017, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000028.soi, original, , Basketball 2018, , 2022-09-25
+00055-00000028.soc, induced, 00055-00000028.soi, Basketball 2018, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000029.soi, original, , Basketball 2019, , 2022-09-25
+00055-00000029.soc, induced, 00055-00000029.soi, Basketball 2019, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000030.soi, original, , Basketball 2020, , 2022-09-25
+00055-00000030.soc, induced, 00055-00000030.soi, Basketball 2020, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000031.soi, original, , Football 1997, , 2022-09-25
+00055-00000031.soc, induced, 00055-00000031.soi, Football 1997, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000032.soi, original, , Football 1998, , 2022-09-25
+00055-00000032.soc, induced, 00055-00000032.soi, Football 1998, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000033.soi, original, , Football 1999, , 2022-09-25
+00055-00000033.soc, induced, 00055-00000033.soi, Football 1999, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000034.soi, original, , Football 2000, , 2022-09-25
+00055-00000034.soc, induced, 00055-00000034.soi, Football 2000, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000035.soi, original, , Football 2001, , 2022-09-25
+00055-00000035.soc, induced, 00055-00000035.soi, Football 2001, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000036.soi, original, , Football 2002, , 2022-09-25
+00055-00000036.soc, induced, 00055-00000036.soi, Football 2002, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000037.soi, original, , Football 2003, , 2022-09-25
+00055-00000037.soc, induced, 00055-00000037.soi, Football 2003, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000038.soi, original, , Football 2004, , 2022-09-25
+00055-00000038.soc, induced, 00055-00000038.soi, Football 2004, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000039.soi, original, , Football 2005, , 2022-09-25
+00055-00000039.soc, induced, 00055-00000039.soi, Football 2005, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000040.soi, original, , Football 2006, , 2022-09-25
+00055-00000040.soc, induced, 00055-00000040.soi, Football 2006, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000041.soi, original, , Football 2007, , 2022-09-25
+00055-00000041.soc, induced, 00055-00000041.soi, Football 2007, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000042.soi, original, , Football 2008, , 2022-09-25
+00055-00000042.soc, induced, 00055-00000042.soi, Football 2008, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000043.soi, original, , Football 2009, , 2022-09-25
+00055-00000043.soc, induced, 00055-00000043.soi, Football 2009, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000044.soi, original, , Football 2010, , 2022-09-25
+00055-00000044.soc, induced, 00055-00000044.soi, Football 2010, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000045.soi, original, , Football 2011, , 2022-09-25
+00055-00000045.soc, induced, 00055-00000045.soi, Football 2011, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000046.soi, original, , Football 2012, , 2022-09-25
+00055-00000046.soc, induced, 00055-00000046.soi, Football 2012, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000047.soi, original, , Football 2013, , 2022-09-25
+00055-00000047.soc, induced, 00055-00000047.soi, Football 2013, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000048.soi, original, , Football 2014, , 2022-09-25
+00055-00000048.soc, induced, 00055-00000048.soi, Football 2014, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000049.soi, original, , Football 2015, , 2022-09-25
+00055-00000049.soc, induced, 00055-00000049.soi, Football 2015, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000050.soi, original, , Football 2016, , 2022-09-25
+00055-00000050.soc, induced, 00055-00000050.soi, Football 2016, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000051.soi, original, , Football 2017, , 2022-09-25
+00055-00000051.soc, induced, 00055-00000051.soi, Football 2017, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000052.soi, original, , Football 2018, , 2022-09-25
+00055-00000052.soc, induced, 00055-00000052.soi, Football 2018, Complete preferences extracted from the soi file, 2022-09-25
+00055-00000053.soi, original, , Football 2019, , 2022-09-25
+00055-00000053.soc, induced, 00055-00000053.soi, Football 2019, Complete preferences extracted from the soi file, 2022-09-25
