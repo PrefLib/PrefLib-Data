@@ -1,0 +1,34 @@
+23
+1,Pogossian Kirsanov 
+2,Romaniuta Barantsev 
+3,Sinzinger Feinerer 
+4,Espejo Zenezini 
+5,Potdykova Petukhov 
+6,Rolloos Visser 
+7,Arikawa Miyamoto 
+8,Gourvest Pernet 
+9,Currie Smith 
+10,Kauc Bernadowski 
+11,Kobaladze Voiko 
+12,Gustafsson Gronlund 
+13,Steiner Steiner 
+14,Hill Hallam 
+15,Silverstein Pekarek 
+16,Gebora Visontai 
+17,Hrazska Prochazka 
+18,Yang Lee 
+19,Gough Cook 
+20,Faiella Milo 
+21,Timofejeva Striganov 
+22,Toteva Chabalin 
+23,Joseph Butler 
+9,9,9
+1,20,5,23,16,4,11,17,15,2,22,10,1,9,8,19,13,12,14,7,6,3,18,21
+1,20,23,5,16,4,2,11,17,15,10,1,22,9,8,14,7,13,12,19,3,6,18,21
+1,20,23,5,16,4,11,17,2,10,15,22,1,8,9,13,14,7,12,6,19,3,18,21
+1,20,23,5,16,4,17,11,2,10,15,1,9,8,22,14,7,19,13,12,6,3,21,18
+1,20,23,{5,16},15,11,2,4,1,17,8,22,9,10,14,13,7,12,19,3,6,18,21
+1,20,23,5,16,4,15,10,1,11,2,17,8,9,22,7,19,12,14,13,6,21,3,18
+1,20,23,5,16,4,17,10,15,1,2,11,9,8,22,14,13,7,19,12,6,3,18,21
+1,20,23,4,16,1,5,11,15,2,10,17,8,22,9,7,14,12,19,3,13,6,21,18
+1,20,5,23,16,17,11,4,10,2,1,15,22,8,9,14,12,7,13,19,6,3,18,21

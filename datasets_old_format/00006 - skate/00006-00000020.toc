@@ -1,0 +1,35 @@
+24
+1,Drei Alisa 
+2,Kopac Mojca 
+3,Andrade Marta 
+4,Lautowa Julia 
+5,Sebestyen Julia 
+6,Human Shirene 
+7,Arakawa Shizuka 
+8,Lavrenchuk Yulia 
+9,Kulovana Lenka 
+10,Bobek Nicole 
+11,Vorobieva Yulia 
+12,Rechnio Anna 
+13,Malinina Tatyana 
+14,Gusmeroli Vanessa 
+15,Liashenko Elena 
+16,Sokolova Elena 
+17,Hubert Laetitia 
+18,Carter Joanne 
+19,Kwan Michelle 
+20,Slutskaya Irina 
+21,Chen Lu 
+22,Bonaly Surya 
+23,Lipinski Tara 
+24,Butyrskaya Maria 
+9,9,9
+1,19,23,24,21,20,14,16,22,15,13,8,18,4,7,17,12,11,5,10,1,9,3,2,6
+1,23,19,20,21,24,14,16,13,8,15,18,5,22,4,11,7,12,10,9,1,3,17,2,6
+1,19,23,20,21,24,14,13,8,15,4,16,11,7,18,22,5,9,1,10,12,3,17,6,2
+1,19,23,21,24,20,14,13,16,8,22,4,15,7,11,18,10,1,5,9,12,17,3,2,6
+1,23,19,21,20,24,14,16,8,13,7,5,{4,18},10,22,11,9,15,1,12,3,17,2,6
+1,23,19,21,20,24,14,13,22,15,18,8,16,4,11,5,10,7,9,17,1,12,3,2,6
+1,23,19,24,21,20,16,14,15,22,8,13,4,11,18,5,7,10,17,1,12,9,3,2,6
+1,23,19,24,21,20,14,16,13,15,8,22,7,18,17,5,4,11,1,9,10,12,2,3,6
+1,23,19,24,20,21,14,16,22,8,13,7,15,18,5,12,9,11,4,10,17,1,2,3,6

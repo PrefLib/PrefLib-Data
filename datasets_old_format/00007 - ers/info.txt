@@ -1,0 +1,191 @@
+Name: Electorial Reform Society (ERS) Data
+
+Abbreviation: ers
+
+Tags: Election
+
+Series Number: 00007
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains the results of 86 separate elections of various elections held by non-profit orginizations, trade unions, and professional orginizations.  They were originally dontated by <a href="http://www.econ.vt.edu/faculty/facultybios/tidemanbio.htm">Nicolaus Tideman</a> who secured NSF funding to have the ballots tabulated.  The ballots are from elections held under various voting rules requiring incomplete strict orders.  The tabulated results were initially collected by the Electoral Reform Society in the UK in order to support the adoption of STV and other range voting methods.</p> <p>The files contain vote records with a maximum of 29 candidates and as few as 3; the number of voters ranges from 9 to 3419.  The <b>toc</b> files have all unranked candidates tied, at the end of the order.  Additionally, some of these are complete sets of ballots from the given elections and some are random samples from the set of all ballots.</p>
+
+Required Citations: 
+
+Selected Studies: Modeling the outcomes of vote-casting in actual elections; N. Tideman and F. Plassmann; In: Dan Felsenthal and Mose Machover (eds.) Electoral sytems: Paradoxes, assumptions, and procedures. Springer, 217 - 251; 2012 | Which Voting Rule is Most Likely to Choose the Best Option?; N. Tideman and F. Plassmann; Public Choice; 2013 | How frequently do different voting rules encounter voting paradoxes in three-candidate elections?; N. Tideman and F. Plassmann; Social Choice and Welfare; 2013
+
+file_name, modification_type, relates_to, title, description, publication_date
+00007-00000001.soi, original, , ERS Set 1, , 2021-06-22
+00007-00000001.toc, imbued, 00007-00000001.soi, ERS Set 1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000002.soi, original, , ERS Set 2, , 2021-06-22
+00007-00000002.toc, imbued, 00007-00000002.soi, ERS Set 2, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000003.soi, original, , ERS Set 3, , 2021-06-22
+00007-00000003.toc, imbued, 00007-00000003.soi, ERS Set 3, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000004.soi, original, , ERS Set 4, , 2021-06-22
+00007-00000004.toc, imbued, 00007-00000004.soi, ERS Set 4, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000005.soi, original, , ERS Set 5, , 2021-06-22
+00007-00000005.toc, imbued, 00007-00000005.soi, ERS Set 5, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000006.soi, original, , ERS Set 6, , 2021-06-22
+00007-00000006.toc, imbued, 00007-00000006.soi, ERS Set 6, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000007.soi, original, , ERS Set 7, , 2021-06-22
+00007-00000007.toc, imbued, 00007-00000007.soi, ERS Set 7, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000008.soi, original, , ERS Set 8, , 2021-06-22
+00007-00000008.toc, imbued, 00007-00000008.soi, ERS Set 8, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000009.soi, original, , ERS Set 9, , 2021-06-22
+00007-00000009.toc, imbued, 00007-00000009.soi, ERS Set 9, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000010.soi, original, , ERS Set 10, , 2021-06-22
+00007-00000010.toc, imbued, 00007-00000010.soi, ERS Set 10, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000011.soi, original, , ERS Set 11, , 2021-06-22
+00007-00000011.toc, imbued, 00007-00000011.soi, ERS Set 11, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000012.soi, original, , ERS Set 12, , 2021-06-22
+00007-00000012.toc, imbued, 00007-00000012.soi, ERS Set 12, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000013.soi, original, , ERS Set 13, , 2021-06-22
+00007-00000013.toc, imbued, 00007-00000013.soi, ERS Set 13, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000014.soi, original, , ERS Set 14, , 2021-06-22
+00007-00000014.toc, imbued, 00007-00000014.soi, ERS Set 14, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000015.soi, original, , ERS Set 15, , 2021-06-22
+00007-00000015.toc, imbued, 00007-00000015.soi, ERS Set 15, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000016.soi, original, , ERS Set 16, , 2021-06-22
+00007-00000016.toc, imbued, 00007-00000016.soi, ERS Set 16, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000017.soi, original, , ERS Set 17, , 2021-06-22
+00007-00000017.toc, imbued, 00007-00000017.soi, ERS Set 17, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000018.soi, original, , ERS Set 18, , 2021-06-22
+00007-00000018.toc, imbued, 00007-00000018.soi, ERS Set 18, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000019.soi, original, , ERS Set 19, , 2021-06-22
+00007-00000019.toc, imbued, 00007-00000019.soi, ERS Set 19, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000020.soi, original, , ERS Set 20, , 2021-06-22
+00007-00000020.toc, imbued, 00007-00000020.soi, ERS Set 20, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000021.soi, original, , ERS Set 21, , 2021-06-22
+00007-00000021.toc, imbued, 00007-00000021.soi, ERS Set 21, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000022.soi, original, , ERS Set 22, , 2021-06-22
+00007-00000022.toc, imbued, 00007-00000022.soi, ERS Set 22, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000023.soi, original, , ERS Set 23, , 2021-06-22
+00007-00000023.toc, imbued, 00007-00000023.soi, ERS Set 23, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000024.soi, original, , ERS Set 24, , 2021-06-22
+00007-00000024.toc, imbued, 00007-00000024.soi, ERS Set 24, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000025.soi, original, , ERS Set 25, , 2021-06-22
+00007-00000025.toc, imbued, 00007-00000025.soi, ERS Set 25, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000026.soi, original, , ERS Set 26, , 2021-06-22
+00007-00000026.toc, imbued, 00007-00000026.soi, ERS Set 26, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000027.soi, original, , ERS Set 27, , 2021-06-22
+00007-00000027.toc, imbued, 00007-00000027.soi, ERS Set 27, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000028.soi, original, , ERS Set 28, , 2021-06-22
+00007-00000028.toc, imbued, 00007-00000028.soi, ERS Set 28, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000029.soi, original, , ERS Set 29, , 2021-06-22
+00007-00000029.toc, imbued, 00007-00000029.soi, ERS Set 29, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000030.soi, original, , ERS Set 30, , 2021-06-22
+00007-00000030.toc, imbued, 00007-00000030.soi, ERS Set 30, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000031.soi, original, , ERS Set 31, , 2021-06-22
+00007-00000031.toc, imbued, 00007-00000031.soi, ERS Set 31, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000032.soi, original, , ERS Set 32, , 2021-06-22
+00007-00000032.toc, imbued, 00007-00000032.soi, ERS Set 32, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000033.soi, original, , ERS Set 33, , 2021-06-22
+00007-00000033.toc, imbued, 00007-00000033.soi, ERS Set 33, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000034.soi, original, , ERS Set 34, , 2021-06-22
+00007-00000034.toc, imbued, 00007-00000034.soi, ERS Set 34, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000035.soi, original, , ERS Set 35, , 2021-06-22
+00007-00000035.toc, imbued, 00007-00000035.soi, ERS Set 35, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000036.soi, original, , ERS Set 36, , 2021-06-22
+00007-00000036.toc, imbued, 00007-00000036.soi, ERS Set 36, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000037.soi, original, , ERS Set 37, , 2021-06-22
+00007-00000037.toc, imbued, 00007-00000037.soi, ERS Set 37, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000038.soi, original, , ERS Set 38, , 2021-06-22
+00007-00000038.toc, imbued, 00007-00000038.soi, ERS Set 38, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000039.soi, original, , ERS Set 39, , 2021-06-22
+00007-00000039.toc, imbued, 00007-00000039.soi, ERS Set 39, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000040.soi, original, , ERS Set 40, , 2021-06-22
+00007-00000040.toc, imbued, 00007-00000040.soi, ERS Set 40, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000041.soi, original, , ERS Set 41, , 2021-06-22
+00007-00000041.toc, imbued, 00007-00000041.soi, ERS Set 41, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000042.soi, original, , ERS Set 42, , 2021-06-22
+00007-00000042.toc, imbued, 00007-00000042.soi, ERS Set 42, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000043.soi, original, , ERS Set 43, , 2021-06-22
+00007-00000043.toc, imbued, 00007-00000043.soi, ERS Set 43, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000044.soi, original, , ERS Set 44, , 2021-06-22
+00007-00000044.toc, imbued, 00007-00000044.soi, ERS Set 44, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000045.soi, original, , ERS Set 45, , 2021-06-22
+00007-00000045.toc, imbued, 00007-00000045.soi, ERS Set 45, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000046.soi, original, , ERS Set 46, , 2021-06-22
+00007-00000046.toc, imbued, 00007-00000046.soi, ERS Set 46, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000047.soi, original, , ERS Set 47, , 2021-06-22
+00007-00000047.toc, imbued, 00007-00000047.soi, ERS Set 47, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000048.soi, original, , ERS Set 48, , 2021-06-22
+00007-00000048.toc, imbued, 00007-00000048.soi, ERS Set 48, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000049.soi, original, , ERS Set 49, , 2021-06-22
+00007-00000049.toc, imbued, 00007-00000049.soi, ERS Set 49, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000050.soi, original, , ERS Set 50, , 2021-06-22
+00007-00000050.toc, imbued, 00007-00000050.soi, ERS Set 50, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000051.soi, original, , ERS Set 51, , 2021-06-22
+00007-00000051.toc, imbued, 00007-00000051.soi, ERS Set 51, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000052.soi, original, , ERS Set 52, , 2021-06-22
+00007-00000052.toc, imbued, 00007-00000052.soi, ERS Set 52, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000053.soi, original, , ERS Set 53, , 2021-06-22
+00007-00000053.toc, imbued, 00007-00000053.soi, ERS Set 53, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000054.soi, original, , ERS Set 54, , 2021-06-22
+00007-00000054.toc, imbued, 00007-00000054.soi, ERS Set 54, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000055.soi, original, , ERS Set 55, , 2021-06-22
+00007-00000055.toc, imbued, 00007-00000055.soi, ERS Set 55, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000056.soi, original, , ERS Set 56, , 2021-06-22
+00007-00000056.toc, imbued, 00007-00000056.soi, ERS Set 56, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000057.soi, original, , ERS Set 57, , 2021-06-22
+00007-00000057.toc, imbued, 00007-00000057.soi, ERS Set 57, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000058.soi, original, , ERS Set 58, , 2021-06-22
+00007-00000058.toc, imbued, 00007-00000058.soi, ERS Set 58, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000059.soi, original, , ERS Set 59, , 2021-06-22
+00007-00000059.toc, imbued, 00007-00000059.soi, ERS Set 59, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000060.soi, original, , ERS Set 60, , 2021-06-22
+00007-00000060.toc, imbued, 00007-00000060.soi, ERS Set 60, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000061.soi, original, , ERS Set 61, , 2021-06-22
+00007-00000061.toc, imbued, 00007-00000061.soi, ERS Set 61, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000062.soi, original, , ERS Set 62, , 2021-06-22
+00007-00000062.toc, imbued, 00007-00000062.soi, ERS Set 62, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000063.soi, original, , ERS Set 63, , 2021-06-22
+00007-00000063.toc, imbued, 00007-00000063.soi, ERS Set 63, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000064.soi, original, , ERS Set 64, , 2021-06-22
+00007-00000064.toc, imbued, 00007-00000064.soi, ERS Set 64, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000065.soi, original, , ERS Set 65, , 2021-06-22
+00007-00000065.toc, imbued, 00007-00000065.soi, ERS Set 65, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000066.soi, original, , ERS Set 66, , 2021-06-22
+00007-00000066.toc, imbued, 00007-00000066.soi, ERS Set 66, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000067.soi, original, , ERS Set 67, , 2021-06-22
+00007-00000067.toc, imbued, 00007-00000067.soi, ERS Set 67, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000068.soi, original, , ERS Set 68, , 2021-06-22
+00007-00000068.toc, imbued, 00007-00000068.soi, ERS Set 68, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000069.soi, original, , ERS Set 69, , 2021-06-22
+00007-00000069.toc, imbued, 00007-00000069.soi, ERS Set 69, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000070.soi, original, , ERS Set 70, , 2021-06-22
+00007-00000070.toc, imbued, 00007-00000070.soi, ERS Set 70, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000071.soi, original, , ERS Set 71, , 2021-06-22
+00007-00000071.toc, imbued, 00007-00000071.soi, ERS Set 71, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000072.soi, original, , ERS Set 72, , 2021-06-22
+00007-00000072.toc, imbued, 00007-00000072.soi, ERS Set 72, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000073.soi, original, , ERS Set 73, , 2021-06-22
+00007-00000073.toc, imbued, 00007-00000073.soi, ERS Set 73, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000074.soi, original, , ERS Set 74, , 2021-06-22
+00007-00000074.toc, imbued, 00007-00000074.soi, ERS Set 74, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000075.soi, original, , ERS Set 75, , 2021-06-22
+00007-00000075.toc, imbued, 00007-00000075.soi, ERS Set 75, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000076.soi, original, , ERS Set 76, , 2021-06-22
+00007-00000076.toc, imbued, 00007-00000076.soi, ERS Set 76, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000077.soi, original, , ERS Set 77, , 2021-06-22
+00007-00000077.toc, imbued, 00007-00000077.soi, ERS Set 77, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000078.soi, original, , ERS Set 78, , 2021-06-22
+00007-00000078.toc, imbued, 00007-00000078.soi, ERS Set 78, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000079.soi, original, , ERS Set 79, , 2021-06-22
+00007-00000079.toc, imbued, 00007-00000079.soi, ERS Set 79, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000080.soi, original, , ERS Set 80, , 2021-06-22
+00007-00000080.toc, imbued, 00007-00000080.soi, ERS Set 80, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000081.soi, original, , ERS Set 81, , 2021-06-22
+00007-00000081.toc, imbued, 00007-00000081.soi, ERS Set 81, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000082.soi, original, , ERS Set 82, , 2021-06-22
+00007-00000082.toc, imbued, 00007-00000082.soi, ERS Set 82, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000083.soi, original, , ERS Set 83, , 2021-06-22
+00007-00000083.toc, imbued, 00007-00000083.soi, ERS Set 83, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000084.soi, original, , ERS Set 84, , 2021-06-22
+00007-00000084.toc, imbued, 00007-00000084.soi, ERS Set 84, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000085.soi, original, , ERS Set 85, , 2021-06-22
+00007-00000085.toc, imbued, 00007-00000085.soi, ERS Set 85, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000086.soi, original, , ERS Set 86, , 2021-06-22
+00007-00000086.toc, imbued, 00007-00000086.soi, ERS Set 86, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00007-00000087.soi, original, , ERS Set 87, , 2021-06-22
+00007-00000087.toc, imbued, 00007-00000087.soi, ERS Set 87, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22

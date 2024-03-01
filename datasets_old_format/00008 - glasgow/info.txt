@@ -1,0 +1,59 @@
+Name: Glasgow City Council
+
+Abbreviation: glasgow
+
+Tags: Election
+
+Series Number: 00008
+
+Publication Date: 2021-06-22
+
+Description: <p>This data set contains the results of the 2007 Glasgow City Council elections, seperated by Ward.  There are 21 wards, each with different candidates and voters.  These files report the results of all the Ward level elections which were origionally held under STV.  In this data set there is a maximum of 13 candidates and a minimum of 8 candidates.  The maximum number of voters is 12,744 and the minimum is 5,199.</p>  <p> The data presented here was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00008-00000001.soi, original, , 2007 Scotland Anderston Ward, , 2021-06-22
+00008-00000001.toc, imbued, 00008-00000001.soi, 2007 Scotland Anderston Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000002.soi, original, , 2007 Scotland Baillieston Ward, , 2021-06-22
+00008-00000002.toc, imbued, 00008-00000002.soi, 2007 Scotland Baillieston Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000003.soi, original, , 2007 Scotland Calton Ward, , 2021-06-22
+00008-00000003.toc, imbued, 00008-00000003.soi, 2007 Scotland Calton Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000004.soi, original, , 2007 Scotland Canal Ward, , 2021-06-22
+00008-00000004.toc, imbued, 00008-00000004.soi, 2007 Scotland Canal Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000005.soi, original, , 2007 Scotland Craigton Ward, , 2021-06-22
+00008-00000005.toc, imbued, 00008-00000005.soi, 2007 Scotland Craigton Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000006.soi, original, , 2007 Scotland Drumchapel Ward, , 2021-06-22
+00008-00000006.toc, imbued, 00008-00000006.soi, 2007 Scotland Drumchapel Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000007.soi, original, , 2007 Scotland EastCentre Ward, , 2021-06-22
+00008-00000007.toc, imbued, 00008-00000007.soi, 2007 Scotland EastCentre Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000008.soi, original, , 2007 Scotland Garscadden Ward, , 2021-06-22
+00008-00000008.toc, imbued, 00008-00000008.soi, 2007 Scotland Garscadden Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000009.soi, original, , 2007 Scotland Govan Ward, , 2021-06-22
+00008-00000009.toc, imbued, 00008-00000009.soi, 2007 Scotland Govan Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000010.soi, original, , 2007 Scotland GreaterPollok Ward, , 2021-06-22
+00008-00000010.toc, imbued, 00008-00000010.soi, 2007 Scotland GreaterPollok Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000011.soi, original, , 2007 Scotland Hillhead Ward, , 2021-06-22
+00008-00000011.toc, imbued, 00008-00000011.soi, 2007 Scotland Hillhead Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000012.soi, original, , 2007 Scotland Langside Ward, , 2021-06-22
+00008-00000012.toc, imbued, 00008-00000012.soi, 2007 Scotland Langside Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000013.soi, original, , 2007 Scotland Linn Ward, , 2021-06-22
+00008-00000013.toc, imbued, 00008-00000013.soi, 2007 Scotland Linn Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000014.soi, original, , 2007 Scotland Maryhill Ward, , 2021-06-22
+00008-00000014.toc, imbued, 00008-00000014.soi, 2007 Scotland Maryhill Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000015.soi, original, , 2007 Scotland Newlands Ward, , 2021-06-22
+00008-00000015.toc, imbued, 00008-00000015.soi, 2007 Scotland Newlands Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000016.soi, original, , 2007 Scotland NorthEast Ward, , 2021-06-22
+00008-00000016.toc, imbued, 00008-00000016.soi, 2007 Scotland NorthEast Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000017.soi, original, , 2007 Scotland Partick Ward, , 2021-06-22
+00008-00000017.toc, imbued, 00008-00000017.soi, 2007 Scotland Partick Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000018.soi, original, , 2007 Scotland Pollokshields Ward, , 2021-06-22
+00008-00000018.toc, imbued, 00008-00000018.soi, 2007 Scotland Pollokshields Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000019.soi, original, , 2007 Scotland Shettleston Ward, , 2021-06-22
+00008-00000019.toc, imbued, 00008-00000019.soi, 2007 Scotland Shettleston Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000020.soi, original, , 2007 Scotland SouthsideCentral Ward, , 2021-06-22
+00008-00000020.toc, imbued, 00008-00000020.soi, 2007 Scotland SouthsideCentral Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00008-00000021.soi, original, , 2007 Scotland Springburn Ward, , 2021-06-22
+00008-00000021.toc, imbued, 00008-00000021.soi, 2007 Scotland Springburn Ward, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22

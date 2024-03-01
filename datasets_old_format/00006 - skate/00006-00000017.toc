@@ -1,0 +1,35 @@
+24
+1,Deniaud And Jaffredo 
+2,Stekolnikova And Kazarlyga 
+3,Smetanenko And Gezalian 
+4,Navka And Morozov 
+5,Gerencser And Camerlengo 
+6,Winkler And Lohse 
+7,Denkova And Staviyski 
+8,Joseph And Butler 
+9,Lefebvre And Brunet 
+10,Nowak And Kolasinski 
+11,Chait And Sakhnovsky 
+12,Mrazova And Simecek 
+13,Grushina And Goncharov 
+14,Kawai And Tanaka 
+15,Fusar Poli And Margaglio 
+16,Anissina And Peizerat 
+17,Drobiazko And Vanagas 
+18,Lobacheva And Averbukh 
+19,Punsalan And Swallow 
+20,Grishuk And Platov 
+21,Moniotte And Lavanchy 
+22,Romanova And Yaroshenko 
+23,Bourne And Kraatz 
+24,Krylova And Ovsyannikov 
+9,9,9
+1,24,20,16,18,23,15,19,17,22,21,6,10,12,11,4,13,5,7,2,8,9,1,14,3
+1,20,24,16,23,18,19,15,6,17,21,22,11,10,4,12,9,7,5,13,1,8,2,14,3
+1,20,24,16,23,18,15,19,17,6,10,22,21,12,11,13,5,9,7,3,4,2,1,8,14
+1,24,20,23,16,18,19,15,17,{10,22},6,21,13,11,8,{5,12},4,9,7,14,1,3,2
+1,24,20,16,18,23,15,19,17,6,21,10,22,12,11,13,5,4,7,9,1,8,14,2,3
+1,20,24,16,23,18,15,19,17,22,6,10,21,12,13,11,4,5,9,7,8,1,2,14,3
+1,20,24,16,18,23,15,19,17,6,22,10,21,12,11,5,13,4,9,7,1,8,14,2,3
+1,20,24,18,16,23,15,19,17,6,22,21,10,12,11,13,5,4,7,8,9,2,1,14,3
+1,24,20,23,16,18,19,15,17,21,10,6,22,13,11,12,5,9,7,8,4,3,14,1,2

@@ -1,0 +1,27 @@
+18
+1,Vincent Restencourt 
+2,Michael Amentas 
+3,Matthew Davies 
+4,Ben Ferreira 
+5,Yunfei Li 
+6,Angelo Dolfini 
+7,Lukas Rakowski 
+8,Vakhtang Murvanidze 
+9,Timothy Goebel 
+10,Ivan Dinev 
+11,Maurice Lim 
+12,Miguel Alegre 
+13,Panagiotis Markouizos 
+14,Juraj Sviatko 
+15,Sergei Davydov 
+16,Christian Horvath 
+17,Joon Ho Park 
+18,Kyu Hyun Lee 
+7,7,7
+1,5,15,1,7,9,18,14,3,10,6,8,4,11,16,12,17,2,13
+1,15,18,3,7,9,1,5,14,4,10,6,8,16,12,11,2,17,13
+1,15,7,1,3,18,6,5,9,14,8,10,4,16,11,2,17,12,13
+1,15,5,3,1,7,18,9,14,4,6,10,8,16,11,2,12,17,13
+1,15,9,7,3,1,5,18,14,10,4,6,8,16,11,17,2,12,13
+1,15,7,5,9,1,3,10,14,6,18,4,16,12,8,11,17,2,13
+1,15,5,1,3,9,7,6,4,8,10,18,14,11,16,2,17,12,13

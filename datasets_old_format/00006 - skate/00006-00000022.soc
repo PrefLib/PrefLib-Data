@@ -1,0 +1,27 @@
+18
+1,Yosuke Takeuchi 
+2,Jose Alonso 
+3,Derrick Delmore 
+4,Chengjiang Li 
+5,Balint Miklos 
+6,Zoltan Toth 
+7,Alexei Kozlov 
+8,Alexei Gruber 
+9,Taijin Hiraike 
+10,Ilia Klimkin 
+11,Vitaly Danilchenko 
+12,Edgar Grigoryan 
+13,Alan Street 
+14,David Jaschke 
+15,Emanuel Sandhu 
+16,Gregor Urbas 
+17,Bartosz Domanski 
+18,Matthew Van Den Broeck 
+7,7,7
+1,3,15,10,13,14,1,9,4,7,17,11,6,8,12,2,18,16,5
+1,15,10,3,14,1,4,7,11,13,17,6,8,2,9,16,18,12,5
+1,3,10,15,14,1,4,13,11,9,7,17,6,16,8,2,18,12,5
+1,10,3,4,15,1,14,17,13,11,7,8,9,16,6,18,2,5,12
+1,10,3,1,15,14,4,13,7,17,11,9,6,8,18,16,12,2,5
+1,3,15,10,1,14,4,7,9,13,11,17,6,8,16,18,2,12,5
+1,15,3,10,1,14,17,13,4,11,9,7,6,8,16,12,18,2,5

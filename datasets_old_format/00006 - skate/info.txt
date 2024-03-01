@@ -1,0 +1,65 @@
+Name: Skate Data
+
+Abbreviation: skate
+
+Tags: Election
+
+Series Number: 00006
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains figure skating rankings from various competitions during the 1998 season including the World Juniors, World Championships, and the Olympics.  These data sets generally have 10-25 candidates (skaters) and 8-10 judges (voters).</p> <p> The candidates (skaters) are ordered such that the first candidate skated first, and on down the list.  We have maintained this order as presented in the original versions of this dataset.</p>
+
+Required Citations: 
+
+Selected Studies: RangeVoting.com Analysis of the Skate Data; Warren D. Smith; Available at RangeVoting.com <a href="http://rangevoting.org/Skating1998.html">(Link)</a>; 2000 | OBO: A Detailed Analysis; Sandra J. Loosemore; Personal Website and Manuscript <a href="http://www.frogsonice.com/skateweb/obo/obo-analysis.shtml">(Link)</a>; 1998
+
+file_name, modification_type, relates_to, title, description, publication_date
+00006-00000001.toc, original, , Euros Men Short Program, , 2021-06-22
+00006-00000002.toc, original, , Euros Men Free Skate, , 2021-06-22
+00006-00000003.soc, original, , Euros Pairs Short Program, , 2021-06-22
+00006-00000004.soc, original, , Euros Pairs Free Skate, , 2021-06-22
+00006-00000005.toc, original, , Euros Dance Compulsory Dance#1, , 2021-06-22
+00006-00000006.toc, original, , Euros Dance Compulsory Dance#2, , 2021-06-22
+00006-00000007.soc, original, , Euros Dance Original Dance, , 2021-06-22
+00006-00000008.soc, original, , Euros Dance Free Dance, , 2021-06-22
+00006-00000009.toc, original, , Euros Ladies Short Program, , 2021-06-22
+00006-00000010.toc, original, , Euros Ladies Free Skate, , 2021-06-22
+00006-00000011.soc, original, , Olympics Pairs Short Program, , 2021-06-22
+00006-00000012.soc, original, , Olympics Pairs Free Skate, , 2021-06-22
+00006-00000013.toc, original, , Olympics Men Short Program, , 2021-06-22
+00006-00000014.toc, original, , Olympics Men Free Skate, , 2021-06-22
+00006-00000015.toc, original, , Olympics Dance Compulsory Dance#1, , 2021-06-22
+00006-00000016.toc, original, , Olympics Dance Compulsory Dance#2, , 2021-06-22
+00006-00000017.toc, original, , Olympics Dance Original Dance, , 2021-06-22
+00006-00000018.soc, original, , Olympics Dance Free Dance, , 2021-06-22
+00006-00000019.toc, original, , Olympics Ladies Short Program, , 2021-06-22
+00006-00000020.toc, original, , Olympics Ladies Free Skate, , 2021-06-22
+00006-00000021.soc, original, , Worldjunior Men Qual A, , 2021-06-22
+00006-00000022.soc, original, , Worldjunior Men Qual B, , 2021-06-22
+00006-00000023.toc, original, , Worldjunior Ladies Qual A, , 2021-06-22
+00006-00000024.toc, original, , Worldjunior Ladies Qual B, , 2021-06-22
+00006-00000025.toc, original, , Worldjunior Men Short Program, , 2021-06-22
+00006-00000026.toc, original, , Worldjunior Men Free Skate, , 2021-06-22
+00006-00000027.toc, original, , -, , 2021-06-22
+00006-00000028.soc, original, , Worldjunior Ladies Free Skate, , 2021-06-22
+00006-00000029.soc, original, , Worldjunior Pairs Short Program, , 2021-06-22
+00006-00000030.toc, original, , Worldjunior Pairs Free Skate, , 2021-06-22
+00006-00000031.toc, original, , Worldjunior Dance Compulsory Dance#1, , 2021-06-22
+00006-00000032.soc, original, , Worldjunior Dance Compulsory Dance#2, , 2021-06-22
+00006-00000033.soc, original, , Worldjunior Dance Original Dance, , 2021-06-22
+00006-00000034.soc, original, , Worldjunior Dance Free Dance, , 2021-06-22
+00006-00000035.soc, original, , Worldch Men Qual A, , 2021-06-22
+00006-00000036.soc, original, , Worldch Men Qual B, , 2021-06-22
+00006-00000037.soc, original, , Worldch Ladies Qual A, , 2021-06-22
+00006-00000038.toc, original, , Worldch Ladies Qual B, , 2021-06-22
+00006-00000039.toc, original, , Worldch Men Short Program, , 2021-06-22
+00006-00000040.toc, original, , Worldch Men Free Skate, , 2021-06-22
+00006-00000041.toc, original, , Worldch Ladies Short Program, , 2021-06-22
+00006-00000042.toc, original, , Worldch Ladies Free Skate, , 2021-06-22
+00006-00000043.toc, original, , Worldch Pairs Short Program, , 2021-06-22
+00006-00000044.soc, original, , Worldch Pairs Free Skate, , 2021-06-22
+00006-00000045.toc, original, , Worldch Dance Compulsory Dance#1, , 2021-06-22
+00006-00000046.soc, original, , Worldch Dance Compulsory Dance#2, , 2021-06-22
+00006-00000047.toc, original, , Worldch Dance Original Dance, , 2021-06-22
+00006-00000048.soc, original, , Worldch Dance Free Dance, , 2021-06-22

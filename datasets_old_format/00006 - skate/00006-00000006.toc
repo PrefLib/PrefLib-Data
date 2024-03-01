@@ -1,0 +1,32 @@
+23
+1,Barany Rosnik 
+2,Chait Sakhnovsky 
+3,Romanova Yaroshenko 
+4,Drobiazko Vanagas 
+5,Mrazova Simecek 
+6,Gerencser Camerlengo 
+7,Fusar Poli Margaglio 
+8,Merzova Morbacher 
+9,Clements Shortland 
+10,Moniotte Lavanchy 
+11,Kalesnik Terentjev 
+12,Lobacheva Averbukh 
+13,Delobel Schoenfelder 
+14,Hugentobler Hugentobler 
+15,Smetanenko Gezalian 
+16,Winkler Lohse 
+17,Fuhring Ellinger 
+18,Anissina Peizerat 
+19,Nowak Kolasinski 
+20,Denkova Staviyski 
+21,Grishuk Platov 
+22,Navka Morozov 
+23,Krylova Ovsyannikov 
+7,7,7
+1,21,23,18,12,10,4,3,7,22,16,5,19,6,2,15,13,8,20,17,14,9,11,1
+1,21,18,23,12,7,10,4,3,5,19,16,22,13,6,2,15,20,8,17,9,14,1,11
+1,21,23,18,12,7,4,10,3,22,6,16,19,5,2,13,20,8,15,17,11,1,14,9
+1,21,23,18,10,7,12,3,4,19,16,22,5,6,{2,20},13,9,15,8,17,14,1,11
+1,21,18,23,12,7,10,3,4,19,16,22,6,2,5,13,20,15,8,17,1,9,11,14
+1,21,23,18,12,7,22,4,10,3,19,16,6,5,2,15,20,13,17,8,9,11,1,14
+1,21,23,18,7,12,10,4,3,19,22,6,16,5,2,20,13,15,8,17,9,14,1,11

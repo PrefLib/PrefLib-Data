@@ -1,0 +1,19 @@
+Name: AGH Course Selection
+
+Abbreviation: agh
+
+Tags: Election
+
+Series Number: 00009
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains the results of surveying students at <a href="http://www.agh.edu.pl/en/">AGU University of Science and Technology</a> about their course preferences.  Each student provided a rank ordering over all the courses with no missing elements.  There are 9 courses to choose from in 2003 and 7 in 2004.</p>  <p> The data on this page has been donated by <a href="http://home.agh.edu.pl/~faliszew/">Piotr Faliszewski</a>.</p>
+
+Required Citations: 
+
+Selected Studies: Achieving Fully Proportional Representation is Easy in Practice; P. Skowron, P. Faliszewski, A. Slinko; Proceedings of AAMAS; 2013 | Measuring Diversity of Preferences in a Group; V. Hashemi and U. Endriss; Proceedings of ECAI; 2014
+
+file_name, modification_type, relates_to, title, description, publication_date
+00009-00000001.soc, original, , 2003 Registration, , 2021-06-22
+00009-00000002.soc, original, , 2004 Registration, , 2021-06-22

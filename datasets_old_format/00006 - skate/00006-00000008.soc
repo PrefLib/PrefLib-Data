@@ -1,0 +1,34 @@
+23
+1,Kalesnik Terentjev 
+2,Hugentobler Hugentobler 
+3,Smetanenko Gezalian 
+4,Barany Rosnik 
+5,Merzova Morbacher 
+6,Clements Shortland 
+7,Fuhring Ellinger 
+8,Denkova Staviyski 
+9,Navka Morozov 
+10,Chait Sakhnovsky 
+11,Gerencser Camerlengo 
+12,Mrazova Simecek 
+13,Delobel Schoenfelder 
+14,Romanova Yaroshenko 
+15,Nowak Kolasinski 
+16,Moniotte Lavanchy 
+17,Drobiazko Vanagas 
+18,Winkler Lohse 
+19,Fusar Poli Margaglio 
+20,Lobacheva Averbukh 
+21,Grishuk Platov 
+22,Anissina Peizerat 
+23,Krylova Ovsyannikov 
+9,9,9
+1,23,21,22,19,20,17,16,14,10,9,18,15,12,11,13,8,7,6,4,5,3,2,1
+1,21,23,22,19,20,17,16,14,18,9,15,11,10,12,8,13,5,7,6,3,4,2,1
+1,21,23,22,20,19,17,14,18,16,15,9,10,11,12,13,6,5,7,8,2,4,3,1
+1,21,23,22,20,19,17,16,14,15,18,9,10,11,12,8,13,6,7,5,4,3,1,2
+1,23,21,22,19,20,16,17,14,18,9,15,11,10,13,12,8,5,6,3,2,7,4,1
+1,21,23,22,20,19,17,18,14,16,10,15,9,11,13,8,12,6,5,7,4,3,2,1
+1,21,23,22,19,20,17,16,15,9,18,10,14,13,12,11,8,7,5,4,3,6,1,2
+1,21,23,22,20,19,17,16,14,9,18,15,10,11,12,13,8,5,7,6,4,3,2,1
+1,21,23,22,20,19,17,16,14,18,9,15,10,11,12,13,5,8,6,7,4,2,3,1

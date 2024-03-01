@@ -1,0 +1,96 @@
+Name: Clean Web Search
+
+Abbreviation: cleanweb
+
+Tags: Election
+
+Series Number: 00015
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains the results of comparing websearches across Bing, Google, Yahoo, and Ask.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU:Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> These data files differ from the other set of <a href="web.php">web data</a> in that these files are forced to be <b>complete.</b>  This means that the results are restricted to only those candidates (sites) that appear in all three datasets.  The data files marked <b>big</b> contain around 200 (max 242) candidates each while the data files marked <b>small</b> contain between 10 and 50 candidates.  The search querys are shown in the names of the individual data files below.  For the WebImpact files the number of search results for a particular term were used to creage a complete ranking over the search terms.  These files measure the webimpact of various world cities and countries.  We have extended this data into tournament graphs and weighted majoirty graphs.</p>
+
+Required Citations: 
+
+Selected Studies: Theoretical and empirical evaluation of data reduction for exact Kemeny Rank Aggregation; N. Betzler,  R. Bredereck and R. Niedermeier; Autonomous Agents and Multi-Agent Systems, 28(5):721-748; 2014 | Fixed-Parameter Algorithms for Computing Kemeny scores - Theory and Practice; R Bredereck; Thesis, Department of Mathematics and Computer Science, University of Jena; 2009 | Partial Kernelization for Rank Aggregation: Theory and Experiments; N. Betzler, R. Bredereck, and R. Niedermeier; Proc. 5th International Symposium on Parameterized and Exact Computation (IPEC '10); 2010
+
+file_name, modification_type, relates_to, title, description, publication_date
+00015-00000001.soc, original, , webimpact capitals4 complete, , 2021-06-22
+00015-00000002.soc, original, , webimpact capitals5 complete, , 2021-06-22
+00015-00000003.soc, original, , webimpact nations4 complete, , 2021-06-22
+00015-00000004.soc, original, , webimpact nations5 complete, , 2021-06-22
+00015-00000005.soc, original, , webimpact richest4 complete, , 2021-06-22
+00015-00000006.soc, original, , webimpact richest5 complete, , 2021-06-22
+00015-00000007.soc, original, , websearch big Death+Valley complete, , 2021-06-22
+00015-00000008.soc, original, , websearch big Gulf+war complete, , 2021-06-22
+00015-00000009.soc, original, , websearch big HIV complete, , 2021-06-22
+00015-00000010.soc, original, , websearch big Lipari complete, , 2021-06-22
+00015-00000011.soc, original, , websearch big National+parks complete, , 2021-06-22
+00015-00000012.soc, original, , websearch big Penelope+Fitzgerald complete, , 2021-06-22
+00015-00000013.soc, original, , websearch big San+Francisco complete, , 2021-06-22
+00015-00000014.soc, original, , websearch big Shakespeare complete, , 2021-06-22
+00015-00000015.soc, original, , websearch big Thailand+tourism complete, , 2021-06-22
+00015-00000016.soc, original, , websearch big Zener complete, , 2021-06-22
+00015-00000017.soc, original, , websearch big affirmative+action complete, , 2021-06-22
+00015-00000018.soc, original, , websearch big alcoholism complete, , 2021-06-22
+00015-00000019.soc, original, , websearch big amusement+parks complete, , 2021-06-22
+00015-00000020.soc, original, , websearch big architecture complete, , 2021-06-22
+00015-00000021.soc, original, , websearch big bicycling complete, , 2021-06-22
+00015-00000022.soc, original, , websearch big blues complete, , 2021-06-22
+00015-00000023.soc, original, , websearch big cheese complete, , 2021-06-22
+00015-00000024.soc, original, , websearch big citrus+groves complete, , 2021-06-22
+00015-00000025.soc, original, , websearch big classical+guitar complete, , 2021-06-22
+00015-00000026.soc, original, , websearch big computer+vision complete, , 2021-06-22
+00015-00000027.soc, original, , websearch big cruises complete, , 2021-06-22
+00015-00000028.soc, original, , websearch big field+hockey complete, , 2021-06-22
+00015-00000029.soc, original, , websearch big gardening complete, , 2021-06-22
+00015-00000030.soc, original, , websearch big graphic+design complete, , 2021-06-22
+00015-00000031.soc, original, , websearch big java complete, , 2021-06-22
+00015-00000032.soc, original, , websearch big lyme+disease complete, , 2021-06-22
+00015-00000033.soc, original, , websearch big mutual+funds complete, , 2021-06-22
+00015-00000034.soc, original, , websearch big parallel+architecture complete, , 2021-06-22
+00015-00000035.soc, original, , websearch big recycling+cans complete, , 2021-06-22
+00015-00000036.soc, original, , websearch big rock+climbing complete, , 2021-06-22
+00015-00000037.soc, original, , websearch big stamp+collection complete, , 2021-06-22
+00015-00000038.soc, original, , websearch big sushi complete, , 2021-06-22
+00015-00000039.soc, original, , websearch big table+tennis complete, , 2021-06-22
+00015-00000040.soc, original, , websearch big telecommuting complete, , 2021-06-22
+00015-00000041.soc, original, , websearch big vintage+cars complete, , 2021-06-22
+00015-00000042.soc, original, , websearch big volcano complete, , 2021-06-22
+00015-00000043.soc, original, , websearch big zen+budism complete, , 2021-06-22
+00015-00000044.soc, original, , websearch small Death+Valley complete, , 2021-06-22
+00015-00000045.soc, original, , websearch small Gulf+war complete, , 2021-06-22
+00015-00000046.soc, original, , websearch small HIV complete, , 2021-06-22
+00015-00000047.soc, original, , websearch small Lipari complete, , 2021-06-22
+00015-00000048.soc, original, , websearch small National+parks complete, , 2021-06-22
+00015-00000049.soc, original, , websearch small Penelope+Fitzgerald complete, , 2021-06-22
+00015-00000050.soc, original, , websearch small San+Francisco complete, , 2021-06-22
+00015-00000051.soc, original, , websearch small Shakespeare complete, , 2021-06-22
+00015-00000052.soc, original, , websearch small Thailand+tourism complete, , 2021-06-22
+00015-00000053.soc, original, , websearch small Zener complete, , 2021-06-22
+00015-00000054.soc, original, , websearch small affirmative+action complete, , 2021-06-22
+00015-00000055.soc, original, , websearch small alcoholism complete, , 2021-06-22
+00015-00000056.soc, original, , websearch small amusement+parks complete, , 2021-06-22
+00015-00000057.soc, original, , websearch small architecture complete, , 2021-06-22
+00015-00000058.soc, original, , websearch small bicycling complete, , 2021-06-22
+00015-00000059.soc, original, , websearch small blues complete, , 2021-06-22
+00015-00000060.soc, original, , websearch small cheese complete, , 2021-06-22
+00015-00000061.soc, original, , websearch small citrus+groves complete, , 2021-06-22
+00015-00000062.soc, original, , websearch small classical+guitar complete, , 2021-06-22
+00015-00000063.soc, original, , websearch small computer+vision complete, , 2021-06-22
+00015-00000064.soc, original, , websearch small cruises complete, , 2021-06-22
+00015-00000065.soc, original, , websearch small field+hockey complete, , 2021-06-22
+00015-00000066.soc, original, , websearch small gardening complete, , 2021-06-22
+00015-00000067.soc, original, , websearch small graphic+design complete, , 2021-06-22
+00015-00000068.soc, original, , websearch small java complete, , 2021-06-22
+00015-00000069.soc, original, , websearch small lyme+disease complete, , 2021-06-22
+00015-00000070.soc, original, , websearch small mutual+funds complete, , 2021-06-22
+00015-00000071.soc, original, , websearch small parallel+architecture complete, , 2021-06-22
+00015-00000072.soc, original, , websearch small recycling+cans complete, , 2021-06-22
+00015-00000073.soc, original, , websearch small rock+climbing complete, , 2021-06-22
+00015-00000074.soc, original, , websearch small stamp+collection complete, , 2021-06-22
+00015-00000075.soc, original, , websearch small sushi complete, , 2021-06-22
+00015-00000076.soc, original, , websearch small table+tennis complete, , 2021-06-22
+00015-00000077.soc, original, , websearch small telecommuting complete, , 2021-06-22
+00015-00000078.soc, original, , websearch small vintage+cars complete, , 2021-06-22
+00015-00000079.soc, original, , websearch small volcano complete, , 2021-06-22

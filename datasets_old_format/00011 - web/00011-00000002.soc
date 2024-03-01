@@ -1,0 +1,249 @@
+242
+1,Indonesia 
+2,France 
+3,United States 
+4,United Arab Emirates 
+5,Canada 
+6,Papua New Guinea 
+7,Australia 
+8,Japan 
+9,El Salvador 
+10,Trinidad and Tobago 
+11,India 
+12,Central African Republic 
+13,Antigua and Barbuda 
+14,Germany 
+15,Bosnia and Herzegovina 
+16,Argentina 
+17,Mexico 
+18,Italy 
+19,Cuba 
+20,Portugal 
+21,Iran 
+22,Wallis and Futuna 
+23,British Virgin Islands 
+24,Spain 
+25,New Zealand 
+26,Ireland 
+27,Georgia 
+28,Chile 
+29,Brazil 
+30,Austria 
+31,Jersey 
+32,Venezuela 
+33,Colombia 
+34,Israel 
+35,Singapore 
+36,Thailand 
+37,Malaysia 
+38,Taiwan 
+39,South Africa 
+40,Turkey 
+41,Netherlands 
+42,Jordan 
+43,Vietnam 
+44,Switzerland 
+45,Sweden 
+46,Poland 
+47,Russia 
+48,Philippines 
+49,Belgium 
+50,Romania 
+51,Costa Rica 
+52,Pakistan 
+53,Peru 
+54,Uruguay 
+55,Greece 
+56,Ecuador 
+57,Iraq 
+58,Finland 
+59,Denmark 
+60,Monaco 
+61,Honduras 
+62,Norway 
+63,Guatemala 
+64,Puerto Rico 
+65,Egypt 
+66,Ukraine 
+67,Afghanistan 
+68,Bulgaria 
+69,Czech Republic 
+70,Luxembourg 
+71,Paraguay 
+72,Malta 
+73,Mali 
+74,Bolivia 
+75,Panama 
+76,Sri Lanka 
+77,Nicaragua 
+78,Hungary 
+79,Estonia 
+80,Slovenia 
+81,Saint Martin 
+82,Nigeria 
+83,Kenya 
+84,Liechtenstein 
+85,Albania 
+86,South Korea 
+87,Scotland 
+88,Jamaica 
+89,Andorra 
+90,Serbia 
+91,Qatar 
+92,Saudi Arabia 
+93,Wales 
+94,Oman 
+95,Guinea 
+96,Croatia 
+97,Bahamas 
+98,Angola 
+99,San Marino 
+100,Macedonia 
+101,Kuwait 
+102,Montenegro 
+103,Lebanon 
+104,Ghana 
+105,Brunei 
+106,Madagascar 
+107,Zimbabwe 
+108,Slovakia 
+109,Cocos (Keeling) Islands 
+110,Latvia 
+111,Moldova 
+112,Samoa 
+113,Togo 
+114,Belize 
+115,Aruba 
+116,Laos 
+117,Mongolia 
+118,Sudan 
+119,Chad 
+120,Bermuda 
+121,Senegal 
+122,Barbados 
+123,North Korea 
+124,Palau 
+125,Armenia 
+126,Iceland 
+127,Botswana 
+128,Cyprus 
+129,Lithuania 
+130,Uganda 
+131,Guam 
+132,Haiti 
+133,Morocco 
+134,Belarus 
+135,Gibraltar 
+136,Tunisia 
+137,Niger 
+138,Burkina Faso 
+139,Tanzania 
+140,Yemen 
+141,Suriname 
+142,Algeria 
+143,Montserrat 
+144,Malawi 
+145,Uzbekistan 
+146,Mauritius 
+147,Tonga 
+148,Guyana 
+149,Sierra Leone 
+150,Seychelles 
+151,Azerbaijan 
+152,Burundi 
+153,Vanuatu 
+154,Dominican Republic 
+155,Namibia 
+156,Liberia 
+157,Gabon 
+158,Somalia 
+159,Dominica 
+160,Zambia 
+161,Grenada 
+162,Cambodia 
+163,Anguilla 
+164,Lesotho 
+165,Benin 
+166,Christmas Island 
+167,Tajikistan 
+168,Bahrain 
+169,Turkmenistan 
+170,Bhutan 
+171,Nauru 
+172,Fiji 
+173,Kiribati 
+174,Gambia 
+175,Tuvalu 
+176,Cook Islands 
+177,Kyrgyzstan 
+178,Mozambique 
+179,Guinea-Bissau 
+180,Maldives 
+181,Swaziland 
+182,Mayotte 
+183,Mauritania 
+184,Cape Verde 
+185,Marshall Islands 
+186,Rwanda 
+187,Libya 
+188,Syria 
+189,Niue 
+190,Eritrea 
+191,United Kingdom Northern Ireland 
+192,Saint Lucia 
+193,Ethiopia 
+194,Comoros 
+195,Cayman Islands 
+196,Djibouti 
+197,American Samoa 
+198,Cameroon 
+199,Malaysia (official) 
+200,Greenland 
+201,Saint Helena 
+202,Netherlands Antilles 
+203,United Kingdom;  England 
+204,Solomon Islands 
+205,Vatican City 
+206,New Caledonia 
+207,Falkland Islands 
+208,Turks and Caicos Islands 
+209,Equatorial Guinea 
+210,French Polynesia 
+211,Democratic Republic of the Congo 
+212,Saint Pierre and Miquelon 
+213,Saint Vincent and the Grenadines 
+214,United States Virgin Islands 
+215,Myanmar 
+216,Western Sahara [d] 
+217,São Tomé and Príncipe 
+218,Saint Kitts and Nevis 
+219,Northern Mariana Islands 
+220,Norfolk Island 
+221,Côte d'Ivoire 
+222,Faroe Islands 
+223,Republic of the Congo 
+224,Northern Cyprus 
+225,Kosovo 
+226,People's Republic of China 
+227,Kazakhstan 
+228,Isle of Man 
+229,South Sandwich Islands 
+230,South Georgia and the South Sandwich Islands South Georgia and the 
+231,Bolivia (administrative) 
+232,Guernsey 
+233,Bangladesh 
+234,Pitcairn Islands 
+235,Federated States of Micronesia 
+236,Saint Barthelemy 
+237,Palestinian Authority 
+238,United Kingdom Akrotiri and Dhekelia 
+239,East Timor (Timor-Leste) 
+240,Somaliland 
+241,Transnistria 
+242,Flag of Nepal.svg Nepal 
+5,5,5
+1,42,2,14,16,1,7,5,11,20,18,24,17,81,36,29,39,26,123,37,32,43,33,41,49,203,44,54,51,40,62,48,56,69,191,53,64,34,47,59,214,19,12,63,58,176,23,70,71,55,52,57,185,50,60,66,77,75,78,73,99,89,184,80,92,65,101,197,67,192,108,201,102,93,94,98,10,82,83,135,199,105,223,91,88,97,224,233,107,4,179,113,126,128,122,90,110,114,143,124,87,227,104,149,95,137,168,134,218,148,139,141,111,103,130,121,146,211,204,106,147,127,6,159,142,133,131,195,120,112,119,162,152,153,118,151,22,186,178,144,157,165,216,181,115,164,174,182,180,183,175,132,156,208,189,206,188,169,220,177,219,196,160,167,190,213,158,210,215,194,209,193,226,200,228,230,234,229,225,235,236,237,239,231,240,238,242,140,205,145,3,136,241,38,45,76,86,35,150,217,212,46,25,202,171,155,117,72,100,129,84,187,116,173,31,8,21,61,232,161,27,172,222,207,79,9,154,96,221,109,166,28,198,138,68,15,74,170,30,125,13,163,85
+1,107,160,140,216,22,93,43,32,205,153,145,54,214,3,191,203,238,4,66,130,175,208,169,40,136,10,241,147,113,36,139,167,38,188,44,45,181,141,118,76,24,229,86,230,39,240,158,204,80,108,35,149,150,90,121,87,92,217,99,112,213,212,81,192,218,201,236,186,47,50,223,91,64,20,46,234,48,53,226,71,6,75,237,124,52,94,62,123,219,224,220,189,82,137,77,25,206,202,41,171,155,215,178,133,143,102,117,60,111,17,182,146,183,185,72,73,180,199,37,144,106,100,70,129,84,187,156,164,103,110,116,177,101,225,173,83,227,42,31,8,88,18,34,228,26,57,21,1,11,126,78,61,132,148,179,95,232,63,131,161,200,55,135,104,14,27,174,157,210,2,242,58,172,235,222,207,193,79,190,209,9,65,56,239,154,159,196,59,211,69,128,19,96,221,51,176,194,33,109,166,28,119,12,195,184,5,198,162,152,138,68,105,23,29,127,15,231,74,170,120,165,114,49,134,122,233,168,97,151,30,7,115,125,16,13,163,98,89,197,142,85,67
+1,8,45,5,2,3,17,7,11,38,18,26,24,203,43,20,113,25,59,35,47,27,39,1,30,31,34,52,21,46,67,62,58,28,37,146,53,32,48,87,19,86,65,93,54,75,51,66,64,56,61,69,68,74,9,72,60,76,70,63,83,96,88,107,79,128,80,92,123,77,126,91,97,101,233,95,94,119,133,121,129,110,130,118,132,98,168,139,84,136,154,134,125,100,120,85,172,162,155,127,140,10,99,144,115,137,160,158,178,186,150,180,165,111,135,117,131,157,138,215,156,148,116,145,124,188,149,147,153,102,181,164,198,13,6,161,196,170,183,166,195,159,15,141,143,163,184,197,200,23,187,173,171,175,206,167,185,214,194,204,202,208,210,209,205,220,182,224,207,222,192,219,22,213,81,228,201,212,211,109,225,199,229,230,232,221,235,216,237,236,217,240,239,231,241,238,242,191,4,169,40,36,44,108,90,112,218,50,223,234,226,71,189,82,41,73,106,103,177,227,42,57,78,179,55,104,14,174,193,190,176,33,12,152,105,29,114,49,122,151,16,89,142
+1,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242
+1,8,45,5,2,29,3,17,7,11,14,38,18,16,24,26,20,43,59,35,25,113,39,30,47,41,31,1,40,27,34,44,49,52,36,46,21,28,62,146,58,37,67,57,53,42,32,33,50,48,86,55,65,75,87,51,19,54,56,78,66,93,64,68,69,71,74,140,72,9,61,63,76,60,70,82,83,88,96,79,103,80,89,91,92,94,107,77,126,128,233,101,73,97,98,104,95,132,110,121,133,129,119,130,108,84,122,123,168,106,85,136,139,4,100,154,112,134,114,125,105,172,166,99,120,162,90,115,127,10,142,135,155,144,227,178,150,118,158,160,131,111,117,165,180,137,147,145,148,138,186,152,116,124,157,174,151,193,156,153,169,149,102,161,181,13,164,183,170,215,198,6,141,159,196,15,195,190,171,143,163,223,184,177,200,179,173,175,167,23,197,204,185,214,176,188,206,202,12,187,194,208,210,209,182,189,205,192,207,220,22,218,203,191,224,213,222,219,212,201,211,228,81,234,199,226,109,225,232,229,230,235,221,216,237,236,239,231,240,217,241,238,242

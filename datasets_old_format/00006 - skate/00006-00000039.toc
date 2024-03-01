@@ -1,0 +1,41 @@
+30
+1,Steven Cousins 
+2,Andrejs Vlascenko 
+3,Margus Hernits 
+4,Gilberto Viadana 
+5,Emanuel Sandhu 
+6,Ivan Dinev 
+7,Anthony Liu 
+8,Robert Grzegorczyk 
+9,Viacheslav Zagorodniuk 
+10,Vakhtang Murvanidze 
+11,Sergejs Telenkov 
+12,Roman Skorniakov 
+13,Kyu Hyun Lee 
+14,Evgeni Plushenko 
+15,Sven Meyer 
+16,Alexei Yagudin 
+17,Patrick Meier 
+18,Patrick Schmit 
+19,Laurent Tobel 
+20,Michael Shmerkin 
+21,Takeshi Honda 
+22,Yamato Tamura 
+23,Szabolcs Vidrai 
+24,Todd Eldredge 
+25,Michael Tyllesen 
+26,Evgeny Pliuta 
+27,Michael Weiss 
+28,Zhengxin Guo 
+29,Markus Leminen 
+30,Jeff Langdon 
+9,9,9
+1,16,14,2,24,27,30,{1,9},26,23,20,21,25,17,28,8,3,29,19,4,6,7,22,15,12,18,10,13,5,11
+1,16,14,27,24,9,2,1,30,20,28,21,29,23,26,8,3,6,4,25,12,19,15,7,17,18,22,13,11,5,10
+1,16,24,14,27,9,2,30,1,28,26,21,29,20,6,23,25,12,7,19,3,4,8,22,17,18,11,15,5,13,10
+1,14,16,27,30,9,24,1,26,2,29,23,21,28,12,20,19,6,4,8,25,3,7,18,22,17,15,11,10,5,13
+1,16,27,2,9,14,1,24,6,20,30,21,23,26,28,3,29,8,12,17,15,4,25,19,7,18,22,10,5,11,13
+1,16,14,2,24,27,9,1,30,26,20,28,6,19,8,21,29,23,4,25,3,17,12,7,15,18,22,5,11,10,13
+1,16,27,14,24,9,2,1,30,21,26,20,29,19,6,23,{8,28},7,25,4,3,12,17,15,11,5,22,18,13,10
+1,16,14,24,9,2,27,28,1,30,29,26,23,21,20,6,19,25,3,8,12,7,4,11,15,17,22,18,10,5,13
+1,14,16,27,24,2,1,9,30,21,23,25,20,28,26,3,6,8,29,19,4,12,18,17,7,15,22,11,10,13,5

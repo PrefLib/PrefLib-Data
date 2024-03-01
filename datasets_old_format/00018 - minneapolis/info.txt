@@ -1,0 +1,25 @@
+Name: Minneapolis Election Data
+
+Abbreviation: minneapolis
+
+Tags: Election
+
+Series Number: 00018
+
+Publication Date: 2021-06-22
+
+Description: <p>The 2009 Minneapolis Data contains the results from the election for the Parks and Rec Commissioner and Tax Assessor in Minneapolis, MN. The set contains about 30,000 votes over 7-400 candidates. The <b>full</b> data sets contain ballots along with write in candidates (Mikey Mouse and Yoda are well represented).  The <b>No Write In</b> files contain the same votes removing any write-ins and modifying the votes accordingly.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00018-00000001.soi, original, , 2009 Minneapolis Park and Recreation Commissioner At-Large Election - Full, , 2021-06-22
+00018-00000001.toc, imbued, 00018-00000001.soi, 2009 Minneapolis Park and Recreation Commissioner At-Large Election - Full, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00018-00000002.soi, original, , 2009 Minneapolis Park and Recreation Commissioner At-Large Election - No Write In, , 2021-06-22
+00018-00000002.toc, imbued, 00018-00000002.soi, 2009 Minneapolis Park and Recreation Commissioner At-Large Election - No Write In, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00018-00000003.soi, original, , 2009 Minneapolis Board of Estimate and Taxation Election - Full, , 2021-06-22
+00018-00000003.toc, imbued, 00018-00000003.soi, 2009 Minneapolis Board of Estimate and Taxation Election - Full, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00018-00000004.soi, original, , 2009 Minneapolis Board of Estimate and Taxation Election - No Write In, , 2021-06-22
+00018-00000004.toc, imbued, 00018-00000004.soi, 2009 Minneapolis Board of Estimate and Taxation Election - No Write In, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22

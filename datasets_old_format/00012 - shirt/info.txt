@@ -1,0 +1,18 @@
+Name: T Shirt
+
+Abbreviation: shirt
+
+Tags: Election
+
+Series Number: 00012
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains complete rank orderings of T-Shirt designs voted on by members of the <a href="http://http://nicta.com.au/research/optimisation">Optimization Research Group</a> at <a href="http://www.nicta.com.au/">NICTA</a>.  There are 11 designs (candidates) and 30 votes about these deisgns.  Voters were required to submit complete strict orders.</p> <p> This data has been kindly donated by <a href="http://www.coffr.in/">Carleton Coffrin</a>.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00012-00000001.soc, original, , T-Shirt Design, , 2021-06-22

@@ -1,0 +1,25 @@
+14
+1,Berankova Dlabola 
+2,Filonenko Marchenko 
+3,Nekrassova Mintals 
+4,Rodionova Anichenko 
+5,Kazakova Dmitriev 
+6,Asanaki Mckeever 
+7,Abitbol Bernadis 
+8,Zagorska Siudek 
+9,Bestandigova Bestandig 
+10,Berezhnaya Sikharulidze 
+11,Obertas Palamarchuk 
+12,Krasiltseva Chestnikh 
+13,Schwarz Muller 
+14,Poluliaschenko Seabrook 
+9,9,9
+1,10,7,8,5,13,2,4,1,9,11,14,6,12,3
+1,10,7,5,8,2,13,1,11,4,14,6,9,12,3
+1,10,7,5,8,2,13,1,4,11,14,6,9,12,3
+1,10,7,5,8,2,13,1,11,4,6,14,3,9,12
+1,10,7,5,13,2,8,11,1,14,6,4,12,9,3
+1,10,7,5,13,8,2,11,1,14,6,4,9,12,3
+1,10,7,5,8,2,13,1,4,11,14,9,6,12,3
+1,10,7,5,8,2,13,1,11,4,6,14,9,3,12
+1,10,7,5,13,8,2,11,1,4,14,6,3,9,12

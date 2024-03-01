@@ -1,0 +1,35 @@
+24
+1,Viadana Gilberto 
+2,Hernits Margus 
+3,Gheorghe Cornel 
+4,Skorniakov Roman 
+5,Meier Patrick 
+6,Lee Kyu Hyun 
+7,Honda Takeshi 
+8,Langdon Jeff 
+9,Tamura Yamato 
+10,Shmerkin Michael 
+11,Pashkevitch Igor 
+12,Zagorodniuk Viacheslav 
+13,Tyllesen Michael 
+14,Weiss Michael 
+15,Dmitrenko Dmitry 
+16,Dinev Ivan 
+17,Vidrai Szabolcs 
+18,Guo Zhengxin 
+19,Kulik Ilia 
+20,Eldredge Todd 
+21,Yagudin Alexei 
+22,Cousins Steven 
+23,Candeloro Philippe 
+24,Stojko Elvis 
+9,9,9
+1,19,24,23,20,21,14,22,17,12,16,8,18,11,7,13,15,9,10,4,2,5,3,1,6
+1,19,24,23,20,14,21,18,22,8,12,13,7,11,16,10,9,15,17,2,4,3,5,1,6
+1,19,24,23,20,21,14,22,13,12,16,18,7,17,15,8,11,10,9,4,2,3,1,5,6
+1,19,23,20,24,14,21,12,22,8,18,7,17,13,16,15,9,11,2,10,3,4,1,5,6
+1,19,23,20,24,21,12,14,22,13,7,8,16,18,11,15,17,9,4,10,5,3,2,1,6
+1,19,23,24,20,22,14,21,13,8,18,12,17,7,15,16,9,11,4,2,10,3,1,5,6
+1,19,23,{21,24},20,14,22,7,18,12,17,13,8,11,16,15,4,9,5,10,2,3,1,6
+1,19,24,20,23,14,21,12,13,22,18,8,7,17,11,16,9,15,10,5,2,4,3,1,6
+1,19,20,23,21,24,22,14,8,18,7,13,16,9,17,12,11,2,10,15,4,3,5,1,6

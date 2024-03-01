@@ -1,0 +1,35 @@
+24
+1,Marion Krijgsman 
+2,Valeria Trifancova 
+3,Julia Sebestyen 
+4,Sofia Penkova 
+5,Jekaterina Golovatenko 
+6,Katerina Blohonova 
+7,Sabina Wojtala 
+8,Helena Grundberg 
+9,Tony Sabrina Bombardieri 
+10,Mojca Kopac 
+11,Ivana Jakupcevic 
+12,Zuzana Paurova 
+13,Vanessa Gusmeroli 
+14,Yulia Vorobieva 
+15,Julia Soldatova 
+16,Alisa Drei 
+17,Elena Liashenko 
+18,Julia Lautowa 
+19,Yulia Lavrenchuk 
+20,Irina Slutskaya 
+21,Tanja Szewczenko 
+22,Krisztina Czako 
+23,Maria Butyrskaya 
+24,Surya Bonaly 
+9,9,9
+1,23,20,15,21,17,18,13,10,14,16,3,22,19,24,12,7,9,8,5,4,11,6,2,1
+1,23,20,15,21,17,22,13,18,{14,16},24,19,10,12,3,7,5,8,9,11,4,6,1,2
+1,23,21,20,17,22,15,14,16,24,10,19,13,18,12,8,3,4,9,7,5,11,1,6,2
+1,23,21,20,17,15,24,14,18,16,13,19,22,10,3,12,9,7,5,11,8,1,4,2,6
+1,23,20,21,17,24,15,16,14,18,13,22,19,10,7,9,3,4,12,8,6,5,11,2,1
+1,23,20,15,21,17,14,22,13,16,18,24,19,10,3,7,12,9,4,8,11,5,6,1,2
+1,23,21,22,15,17,20,24,18,16,19,14,13,10,12,9,3,8,7,5,4,11,1,6,2
+1,23,20,21,17,15,24,22,18,14,13,19,16,10,3,7,12,8,5,9,11,4,6,2,1
+1,23,21,20,17,24,15,18,{16,19},13,14,22,10,9,3,7,12,5,4,2,8,1,11,6

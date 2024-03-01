@@ -1,0 +1,31 @@
+20
+1,Rodionova Anichenko 
+2,Sirokhvatova Salmanov 
+3,Schwarz Mueller 
+4,Shen Zhao 
+5,Bestandigova Bestandig 
+6,Meno Sand 
+7,Berankova Dlabola 
+8,Savard Gagnon Bradet 
+9,Eltsova Bushkov 
+10,Poluliaschenko Seabrook 
+11,Lyons Wells 
+12,Nekrassova Mintals 
+13,Khalturina Kroukov 
+14,Asanaki Schulten 
+15,Sargeant Wirtz 
+16,Zagorska Siudek 
+17,Berezhnaya Sikharulidze 
+18,Mcgrath Carr 
+19,Abitbol Bernadis 
+20,Filonenko Marchenko 
+9,9,9
+1,6,17,16,19,4,9,3,13,11,15,20,8,18,7,1,5,14,10,12,2
+1,17,6,9,3,16,15,19,4,20,13,8,11,10,7,18,14,5,1,12,2
+1,6,17,15,4,16,3,9,11,20,19,13,8,7,18,10,5,14,1,12,2
+1,6,17,15,13,3,9,4,16,11,19,20,18,8,7,12,10,14,1,5,2
+1,17,6,3,15,19,13,4,16,9,8,20,11,18,14,7,10,5,12,1,2
+1,6,3,17,16,15,13,9,11,8,20,19,4,18,14,7,10,2,5,12,1
+1,13,3,6,17,16,19,4,11,9,15,20,8,7,18,14,10,5,1,2,12
+1,17,6,9,15,4,3,19,13,16,8,20,10,7,11,18,12,14,1,2,5
+1,6,4,3,16,{17,19},20,15,9,13,11,7,10,14,8,18,5,2,1,12

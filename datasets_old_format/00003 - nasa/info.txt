@@ -1,0 +1,18 @@
+Name: Mariner Path Selection
+
+Abbreviation: nasa
+
+Tags: Election
+
+Series Number: 00003
+
+Publication Date: 2021-06-22
+
+Description: <p>The Mariner Trajectory Selection Data Set is the votes cast by the various science teams responsible for selecting the trajectory for the 1977 interplanetary satellite.  There were a total of 10 science teams voting over 32 possible paths.  All these votes are complete but indifference was allowed between some of the objects.</p>
+
+Required Citations: 
+
+Selected Studies: An Actual Application of Collective Choice Theory to the Selection of Trajectories for the Mariner Jupiter/Saturn 1977 Project; James S. Dyer and Ralph F. Miles Jr.; Operations Research 24(2); 1976 | Where Are the Hard Manipulation Problems?; Toby Walsh; Journal of Artificial Intelligence Research, 42, 1-39; 2011
+
+file_name, modification_type, relates_to, title, description, publication_date
+00003-00000001.toc, original, , NASA Mariner Path Selection, , 2021-06-22

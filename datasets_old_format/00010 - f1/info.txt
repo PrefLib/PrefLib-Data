@@ -1,0 +1,117 @@
+Name: F1 and Skiing
+
+Abbreviation: f1
+
+Tags: Election
+
+Series Number: 00010
+
+Publication Date: 2021-06-22
+
+Description: <p>This dataset contains the results of F1 Racing competitions between 1961 and 2008 as well as Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU:Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The data in this set contains bewteen 10 and 351 candidates (racers, cars) and 4 go 19 voters (competitions).  The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have extended this data into tournament graphs, weighted majoirty graphs, and created a <b>toc</b> dataset where all candidates are tied, at the end of rankings.</p>
+
+Required Citations: 
+
+Selected Studies: Fixed-Parameter Algorithms for Computing Kemeny scores - Theory and Practice;  R Bredereck; Thesis, Department of Mathematics and Computer Science, University of Jena; 2009 | Partial Kernelization for Rank Aggregation: Theory and Experiments; N. Betzler, R. Bredereck, and R. Niedermeier; Proc. 5th International Symposium on Parameterized and Exact Computation (IPEC); 2010
+
+file_name, modification_type, relates_to, title, description, publication_date
+00010-00000001.soi, original, , 1961 F1, , 2021-06-22
+00010-00000001.toc, imbued, 00010-00000001.soi, 1961 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000002.soi, original, , 1962 F1, , 2021-06-22
+00010-00000002.toc, imbued, 00010-00000002.soi, 1962 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000003.soi, original, , 1963 F1, , 2021-06-22
+00010-00000003.toc, imbued, 00010-00000003.soi, 1963 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000004.soi, original, , 1964 F1, , 2021-06-22
+00010-00000004.toc, imbued, 00010-00000004.soi, 1964 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000005.soi, original, , 1965 F1, , 2021-06-22
+00010-00000005.toc, imbued, 00010-00000005.soi, 1965 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000006.soi, original, , 1966 F1, , 2021-06-22
+00010-00000006.toc, imbued, 00010-00000006.soi, 1966 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000007.soi, original, , 1967 F1, , 2021-06-22
+00010-00000007.toc, imbued, 00010-00000007.soi, 1967 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000008.soi, original, , 1968 F1, , 2021-06-22
+00010-00000008.toc, imbued, 00010-00000008.soi, 1968 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000009.soi, original, , 1969 F1, , 2021-06-22
+00010-00000009.toc, imbued, 00010-00000009.soi, 1969 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000010.soi, original, , 1970 F1, , 2021-06-22
+00010-00000010.toc, imbued, 00010-00000010.soi, 1970 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000011.soi, original, , 1971 F1, , 2021-06-22
+00010-00000011.toc, imbued, 00010-00000011.soi, 1971 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000012.soi, original, , 1972 F1, , 2021-06-22
+00010-00000012.toc, imbued, 00010-00000012.soi, 1972 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000013.soi, original, , 1973 F1, , 2021-06-22
+00010-00000013.toc, imbued, 00010-00000013.soi, 1973 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000014.soi, original, , 1974 F1, , 2021-06-22
+00010-00000014.toc, imbued, 00010-00000014.soi, 1974 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000015.soi, original, , 1975 F1, , 2021-06-22
+00010-00000015.toc, imbued, 00010-00000015.soi, 1975 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000016.soi, original, , 1976 F1, , 2021-06-22
+00010-00000016.toc, imbued, 00010-00000016.soi, 1976 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000017.soi, original, , 1977 F1, , 2021-06-22
+00010-00000017.toc, imbued, 00010-00000017.soi, 1977 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000018.soi, original, , 1978 F1, , 2021-06-22
+00010-00000018.toc, imbued, 00010-00000018.soi, 1978 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000019.soi, original, , 1979 F1, , 2021-06-22
+00010-00000019.toc, imbued, 00010-00000019.soi, 1979 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000020.soi, original, , 1980 F1, , 2021-06-22
+00010-00000020.toc, imbued, 00010-00000020.soi, 1980 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000021.soi, original, , 1981 F1, , 2021-06-22
+00010-00000021.toc, imbued, 00010-00000021.soi, 1981 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000022.soi, original, , 1982 F1, , 2021-06-22
+00010-00000022.toc, imbued, 00010-00000022.soi, 1982 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000023.soi, original, , 1983 F1, , 2021-06-22
+00010-00000023.toc, imbued, 00010-00000023.soi, 1983 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000024.soi, original, , 1984 F1, , 2021-06-22
+00010-00000024.toc, imbued, 00010-00000024.soi, 1984 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000025.soi, original, , 1985 F1, , 2021-06-22
+00010-00000025.toc, imbued, 00010-00000025.soi, 1985 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000026.soi, original, , 1986 F1, , 2021-06-22
+00010-00000026.toc, imbued, 00010-00000026.soi, 1986 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000027.soi, original, , 1987 F1, , 2021-06-22
+00010-00000027.toc, imbued, 00010-00000027.soi, 1987 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000028.soi, original, , 1988 F1, , 2021-06-22
+00010-00000028.toc, imbued, 00010-00000028.soi, 1988 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000029.soi, original, , 1989 F1, , 2021-06-22
+00010-00000029.toc, imbued, 00010-00000029.soi, 1989 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000030.soi, original, , 1990 F1, , 2021-06-22
+00010-00000030.toc, imbued, 00010-00000030.soi, 1990 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000031.soi, original, , 1991 F1, , 2021-06-22
+00010-00000031.toc, imbued, 00010-00000031.soi, 1991 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000032.soi, original, , 1992 F1, , 2021-06-22
+00010-00000032.toc, imbued, 00010-00000032.soi, 1992 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000033.soi, original, , 1993 F1, , 2021-06-22
+00010-00000033.toc, imbued, 00010-00000033.soi, 1993 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000034.soi, original, , 1994 F1, , 2021-06-22
+00010-00000034.toc, imbued, 00010-00000034.soi, 1994 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000035.soi, original, , 1995 F1, , 2021-06-22
+00010-00000035.toc, imbued, 00010-00000035.soi, 1995 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000036.soi, original, , 1996 F1, , 2021-06-22
+00010-00000036.toc, imbued, 00010-00000036.soi, 1996 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000037.soi, original, , 1997 F1, , 2021-06-22
+00010-00000037.toc, imbued, 00010-00000037.soi, 1997 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000038.soi, original, , 1998 F1, , 2021-06-22
+00010-00000038.toc, imbued, 00010-00000038.soi, 1998 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000039.soi, original, , 1999 F1, , 2021-06-22
+00010-00000039.toc, imbued, 00010-00000039.soi, 1999 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000040.soi, original, , 2000 F1, , 2021-06-22
+00010-00000040.toc, imbued, 00010-00000040.soi, 2000 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000041.soi, original, , 2001 F1, , 2021-06-22
+00010-00000041.toc, imbued, 00010-00000041.soi, 2001 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000042.soi, original, , 2002 F1, , 2021-06-22
+00010-00000042.toc, imbued, 00010-00000042.soi, 2002 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000043.soi, original, , 2003 F1, , 2021-06-22
+00010-00000043.toc, imbued, 00010-00000043.soi, 2003 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000044.soi, original, , 2004 F1, , 2021-06-22
+00010-00000044.toc, imbued, 00010-00000044.soi, 2004 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000045.soi, original, , 2005 F1, , 2021-06-22
+00010-00000045.toc, imbued, 00010-00000045.soi, 2005 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000046.soi, original, , 2006 F1, , 2021-06-22
+00010-00000046.toc, imbued, 00010-00000046.soi, 2006 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000047.soi, original, , 2007 F1, , 2021-06-22
+00010-00000047.toc, imbued, 00010-00000047.soi, 2007 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000048.soi, original, , 2008 F1, , 2021-06-22
+00010-00000048.toc, imbued, 00010-00000048.soi, 2008 F1, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000049.soi, original, , CrossCountry Skiing, , 2021-06-22
+00010-00000049.toc, imbued, 00010-00000049.soi, CrossCountry Skiing, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
+00010-00000050.soi, original, , Ski Jumping, , 2021-06-22
+00010-00000050.toc, imbued, 00010-00000050.soi, Ski Jumping, Obtained from the soi by adding the unranked alternatives at the bottom, 2021-06-22
