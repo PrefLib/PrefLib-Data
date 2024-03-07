@@ -1,11 +1,11 @@
 file;file_number;last_modif;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
 00032-00000001.soi;1;2023-07-04 15:02:42.905584;6;32;31;True;False;False;6;2;0;0;1;1;True;N/A;N/A
-00032-00000002.soc;2;2023-07-04 15:02:42.905584;6;15;15;True;True;False;6;6;0;0;1;1;True;N/A;False
+00032-00000002.soc;2;2023-07-04 15:02:42.905584;6;15;15;True;True;False;6;6;0;0;1;1;True;False;False
 00032-00000003.soi;3;2023-07-04 15:02:42.905584;6;47;46;True;False;False;6;2;0;0;1;1;True;N/A;N/A
 00032-00000004.toi;4;2023-07-04 15:02:42.905584;12;15;15;False;False;False;8;3;2;0;5;1;False;N/A;N/A
-00032-00000004.toc;4;2023-07-04 15:02:42.905584;12;15;15;False;True;False;12;12;3;1;9;1;False;N/A;N/A
+00032-00000004.toc;4;2023-07-04 15:02:42.905584;12;15;15;False;True;False;12;12;3;1;9;1;False;False;N/A
 00032-00000005.soi;5;2023-07-04 15:02:42.905584;13;14;13;True;False;False;3;1;0;0;1;1;False;N/A;N/A
 00032-00000006.toi;6;2023-07-04 15:02:42.905584;32;15;15;False;False;False;7;2;2;0;3;1;False;N/A;N/A
 00032-00000006.toc;6;2023-07-04 15:02:42.905584;32;15;15;False;True;False;32;32;3;1;30;1;True;N/A;N/A
 00032-00000007.toi;7;2023-07-04 15:02:42.905584;20;15;15;False;False;False;4;1;1;0;2;1;False;N/A;N/A
-00032-00000007.toc;7;2023-07-04 15:02:42.905584;20;15;15;False;True;False;20;20;2;1;19;1;False;N/A;N/A
+00032-00000007.toc;7;2023-07-04 15:02:42.905584;20;15;15;False;True;False;20;20;2;1;19;1;False;False;N/A

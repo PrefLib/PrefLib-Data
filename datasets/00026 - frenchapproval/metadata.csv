@@ -1,7 +1,7 @@
 file;file_number;last_modif;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
-00026-00000001.toc;1;2023-07-04 15:02:42.901584;16;365;216;False;True;True;16;16;2;1;16;1;True;N/A;N/A
-00026-00000002.toc;2;2023-07-04 15:02:42.901584;16;406;238;False;True;True;16;16;2;1;15;1;True;N/A;N/A
-00026-00000003.toc;3;2023-07-04 15:02:42.901584;16;476;252;False;True;True;16;16;2;1;16;1;True;N/A;N/A
-00026-00000004.toc;4;2023-07-04 15:02:42.901584;16;460;258;False;True;True;16;16;2;1;16;1;True;N/A;N/A
-00026-00000005.toc;5;2023-07-04 15:02:42.901584;16;472;266;False;True;True;16;16;2;1;16;1;True;N/A;N/A
-00026-00000006.toc;6;2023-07-04 15:02:42.901584;16;406;240;False;True;True;16;16;2;1;15;1;True;N/A;N/A
+00026-00000001.toc;1;2023-07-04 15:02:42.901584;16;365;216;False;True;True;16;16;2;1;16;1;True;False;N/A
+00026-00000002.toc;2;2023-07-04 15:02:42.901584;16;406;238;False;True;True;16;16;2;1;15;1;True;False;N/A
+00026-00000003.toc;3;2023-07-04 15:02:42.901584;16;476;252;False;True;True;16;16;2;1;16;1;True;False;N/A
+00026-00000004.toc;4;2023-07-04 15:02:42.901584;16;460;258;False;True;True;16;16;2;1;16;1;True;False;N/A
+00026-00000005.toc;5;2023-07-04 15:02:42.901584;16;472;266;False;True;True;16;16;2;1;16;1;True;False;N/A
+00026-00000006.toc;6;2023-07-04 15:02:42.901584;16;406;240;False;True;True;16;16;2;1;15;1;True;False;N/A

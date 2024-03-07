@@ -196,6 +196,14 @@ def compute_properties(ds_dir, root_dir_path, all_properties):
     return pd.DataFrame(rows, columns=[p.name for p in all_properties])
 
 
+def is_single_peaked_soc(instance):
+    return is_single_peaked(instance)[0]
+
+
+def is_single_peaked_toc(instance):
+    return is_single_peaked_ILP(instance)[0]
+
+
 ALL_ORDERS_FORMATS = ("soc", "soi", "toc", "toi")
 ALL_ORDINAL_FORMATS = ("soc", "soi", "toc", "toi", "cat")
 ALL_PREFERENCES_FORMATS = ("soc", "soi", "toc", "toi", "cat", "wmd")
@@ -217,8 +225,8 @@ ALL_PROPERTIES_LIST = [
     Property("smallestIndif", ALL_ORDINAL_FORMATS, smallest_indif, False),
     Property("hasCondorcet", ALL_ORDERS_FORMATS, has_condorcet, False),
     Property("isSP", ("soc", "toc"), {
-        "soc": lambda x: is_single_peaked(x)[0],
-        "toc": lambda x: is_single_peaked_ILP(x)[0]}, False),
+        "soc": is_single_peaked_soc,
+        "toc": is_single_peaked_toc}, False),
     Property("isSC", ("soc",), is_single_crossing, False),
 ]
 ALL_PROPERTIES = {p.name: p for p in ALL_PROPERTIES_LIST}
@@ -230,7 +238,7 @@ DATASET_FOLDER = os.path.join("..", "..", "datasets")
 def main():
     all_meta = read_all_metadata_files(DATASET_FOLDER)
     add_property_value(all_meta, DATASET_FOLDER, ALL_PROPERTIES["isSP"], write=True,
-                       force_recompute=True, num_workers=None)
+                       force_recompute=True, num_workers=6)
     write_all_metadata_files(all_meta, DATASET_FOLDER)
 
 

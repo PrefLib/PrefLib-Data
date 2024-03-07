@@ -1,7 +1,7 @@
 file;file_number;last_modif;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
 00022-00000001.toi;1;2023-07-04 15:02:42.897584;7;22407;159;False;False;False;4;1;1;0;2;1;False;N/A;N/A
-00022-00000001.toc;1;2023-07-04 15:02:42.897584;7;22407;159;False;True;False;7;7;2;1;6;1;True;N/A;N/A
+00022-00000001.toc;1;2023-07-04 15:02:42.897584;7;22407;159;False;True;False;7;7;2;1;6;1;True;False;N/A
 00022-00000002.toi;2;2023-07-04 15:02:42.897584;4;25355;43;False;False;False;3;1;1;0;2;1;True;N/A;N/A
-00022-00000002.toc;2;2023-07-04 15:02:42.897584;4;25355;43;False;True;False;4;4;2;0;3;1;True;N/A;N/A
+00022-00000002.toc;2;2023-07-04 15:02:42.897584;4;25355;43;False;True;False;4;4;2;0;3;1;True;False;N/A
 00022-00000003.toi;3;2023-07-04 15:02:42.897584;5;23236;93;False;False;False;4;1;1;0;2;1;True;N/A;N/A
-00022-00000003.toc;3;2023-07-04 15:02:42.897584;5;23236;93;False;True;False;5;5;2;1;4;1;True;N/A;N/A
+00022-00000003.toc;3;2023-07-04 15:02:42.897584;5;23236;93;False;True;False;5;5;2;1;4;1;True;False;N/A
