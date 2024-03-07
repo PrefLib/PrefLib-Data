@@ -1,2 +1,2 @@
-file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
-00012-00000001.soc;11;30;30;True;True;False;11;11;0;0;1;1;False;N/A;N/A
+file;file_number;last_modif;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00012-00000001.soc;1;2023-07-04 15:02:41.741584;11;30;30;True;True;False;11;11;0;0;1;1;False;N/A;False
