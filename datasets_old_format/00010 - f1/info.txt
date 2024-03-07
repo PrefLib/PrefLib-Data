@@ -8,7 +8,7 @@ Series Number: 00010
 
 Publication Date: 2021-06-22
 
-Description: <p>This dataset contains the results of F1 Racing competitions between 1961 and 2008 as well as Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU:Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The data in this set contains bewteen 10 and 351 candidates (racers, cars) and 4 go 19 voters (competitions).  The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have extended this data into tournament graphs, weighted majoirty graphs, and created a <b>toc</b> dataset where all candidates are tied, at the end of rankings.</p>
+Description: <p>This dataset contains the results of F1 Racing competitions between 1961 and 2008 as well as Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU:Berlin.  Robert provides tools to compute_instance Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The data in this set contains bewteen 10 and 351 candidates (racers, cars) and 4 go 19 voters (competitions).  The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have extended this data into tournament graphs, weighted majoirty graphs, and created a <b>toc</b> dataset where all candidates are tied, at the end of rankings.</p>
 
 Required Citations: 
 
