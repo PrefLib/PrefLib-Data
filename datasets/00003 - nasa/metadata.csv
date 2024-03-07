@@ -1,0 +1,2 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00003-00000001.toc;32;10;10;False;True;False;32;32;7;0;24;1;True;N/A;N/A

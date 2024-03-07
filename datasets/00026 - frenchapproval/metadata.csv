@@ -1,0 +1,7 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00026-00000001.toc;16;365;216;False;True;True;16;16;2;1;16;1;True;N/A;N/A
+00026-00000002.toc;16;406;238;False;True;True;16;16;2;1;15;1;True;N/A;N/A
+00026-00000003.toc;16;476;252;False;True;True;16;16;2;1;16;1;True;N/A;N/A
+00026-00000006.toc;16;406;240;False;True;True;16;16;2;1;15;1;True;N/A;N/A
+00026-00000004.toc;16;460;258;False;True;True;16;16;2;1;16;1;True;N/A;N/A
+00026-00000005.toc;16;472;266;False;True;True;16;16;2;1;16;1;True;N/A;N/A

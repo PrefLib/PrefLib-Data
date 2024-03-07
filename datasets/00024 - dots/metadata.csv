@@ -1,0 +1,5 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00024-00000001.soc;4;795;24;True;True;False;4;4;0;0;1;1;True;N/A;N/A
+00024-00000003.soc;4;800;24;True;True;False;4;4;0;0;1;1;True;N/A;N/A
+00024-00000002.soc;4;794;24;True;True;False;4;4;0;0;1;1;True;N/A;N/A
+00024-00000004.soc;4;794;24;True;True;False;4;4;0;0;1;1;True;N/A;N/A

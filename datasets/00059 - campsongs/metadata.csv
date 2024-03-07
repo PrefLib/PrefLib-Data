@@ -1,0 +1,5 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00059-00000002.cat;8;39;24;N/A;True;True;8;8;2;1;8;1;N/A;N/A;N/A
+00059-00000004.cat;10;56;45;N/A;True;True;10;10;2;1;9;1;N/A;N/A;N/A
+00059-00000001.cat;78;39;39;N/A;True;True;78;78;2;2;71;7;N/A;N/A;N/A
+00059-00000003.cat;82;56;56;N/A;True;True;82;82;2;2;73;9;N/A;N/A;N/A

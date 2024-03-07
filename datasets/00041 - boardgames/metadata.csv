@@ -1,0 +1,3 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00041-00000001.soc;885;130;130;True;True;False;885;885;0;0;1;1;True;N/A;N/A
+00041-00000001.soi;5904;130;130;True;False;False;4956;996;0;0;1;1;True;N/A;N/A

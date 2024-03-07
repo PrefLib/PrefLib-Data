@@ -1,0 +1,15 @@
+file;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
+00019-00000007.toi;4;20674;44;False;False;False;3;1;1;0;2;1;True;N/A;N/A
+00019-00000007.toc;4;20674;44;False;True;False;4;4;2;0;3;1;True;N/A;N/A
+00019-00000006.toi;5;11266;80;False;False;False;4;1;1;0;2;1;True;N/A;N/A
+00019-00000003.toi;6;144229;182;False;False;False;4;1;1;0;2;1;True;N/A;N/A
+00019-00000006.toc;5;11266;80;False;True;False;5;5;2;1;4;1;True;N/A;N/A
+00019-00000005.toi;7;22079;245;False;False;False;4;1;1;0;2;1;True;N/A;N/A
+00019-00000003.toc;6;144229;182;False;True;False;6;6;2;1;5;1;True;N/A;N/A
+00019-00000001.toi;8;20981;356;False;False;False;4;1;1;0;2;1;True;N/A;N/A
+00019-00000005.toc;7;22079;245;False;True;False;7;7;2;1;6;1;True;N/A;N/A
+00019-00000004.toi;8;28660;354;False;False;False;4;1;1;0;2;1;False;N/A;N/A
+00019-00000001.toc;8;20981;356;False;True;False;8;8;2;1;7;1;True;N/A;N/A
+00019-00000004.toc;8;28660;354;False;True;False;8;8;2;1;7;1;True;N/A;N/A
+00019-00000002.toi;11;119256;1090;False;False;False;4;1;1;0;2;1;True;N/A;N/A
+00019-00000002.toc;11;119256;1090;False;True;False;11;11;2;1;10;1;True;N/A;N/A

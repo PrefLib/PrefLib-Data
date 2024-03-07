@@ -15,6 +15,6 @@ Required Citations:
 Selected Studies: 
 
 file_name, modification_type, relates_to, title, description, publication_date
-00039-00000001.toi, original, , AI Conference 1, , 2017-04-13
-00039-00000002.toi, original, , AI Conference 2, , 2017-04-13
-00039-00000003.toi, original, , AI Conference 3, , 2017-04-13
+00039-00000001.cat, original, , AI Conference 1, , 2017-04-13
+00039-00000002.cat, original, , AI Conference 2, , 2017-04-13
+00039-00000003.cat, original, , AI Conference 3, , 2017-04-13
