@@ -1,5 +1,6 @@
 import os
 import pathlib
+from collections.abc import Iterable
 from datetime import datetime
 from multiprocessing import Pool
 
@@ -103,8 +104,14 @@ def read_all_metadata_files(root_dir_path):
 
 
 def write_all_metadata_ds(ds_metadata, root_dir_path, ds_dir):
+    column_to_order = []
     if 'file_number' in ds_metadata.columns:
-        ds_metadata = ds_metadata.sort_values(by=['file_number'])
+        column_to_order.append('file_number')
+    if 'modification_type' in ds_metadata.columns:
+        column_to_order.append('modification_type')
+    if 'file' in ds_metadata.columns:
+        column_to_order.append('file')
+    ds_metadata = ds_metadata.sort_values(by=column_to_order)
     if len(ds_metadata) > 0:
         ds_metadata = ds_metadata[HEADERS]
     ds_metadata.to_csv(
@@ -131,7 +138,7 @@ def add_property_value_pool_func(pool_args):
         modif_timestamp = dateutil.parser.parse(df_row["last_modif"])
         current_modif_timestamp = datetime.fromtimestamp(pathlib.Path(file_path).stat().st_mtime)
         if prop.name not in df_row or force_recompute or current_modif_timestamp != modif_timestamp:
-            print(f"\t\t{file} - Computing")
+            print(f"\t\t{file} - Computing {prop.name}")
             return prop.compute_file(os.path.join(root_dir_path, directory, df_row["file"]))
         print(
             f"\t\t{file} - Skipped ({prop.name in df_row} or {not force_recompute} or {current_modif_timestamp == modif_timestamp})")
@@ -158,42 +165,64 @@ def add_property_value(all_metadata, root_dir_path, prop, write=False, force_rec
 def update_properties_pool_func(pool_args):
     all_properties, root_dir_path, directory, metadata_df, force_recompute = pool_args
 
-    def update_properties_apply_func(df_row, ds_dir):
+    def update_properties_apply_func(df_row):
         file = df_row["file"]
-        file_path = os.path.join(root_dir_path, ds_dir, file)
+        file_path = os.path.join(root_dir_path, directory, file)
         modif_timestamp = dateutil.parser.parse(df_row["last_modif"])
         current_modif_timestamp = datetime.fromtimestamp(pathlib.Path(file_path).stat().st_mtime)
-        if force_recompute or current_modif_timestamp != modif_timestamp:
+        force_compute_all = False
+        force_to_compute = []
+        if isinstance(force_recompute, Iterable):
+            if isinstance(force_recompute, str):
+                force_to_compute = [force_recompute]
+            else:
+                force_to_compute = force_recompute
+        elif isinstance(force_recompute, bool) and force_recompute:
+            force_compute_all = True
+        if force_compute_all or len(force_to_compute) > 0 or current_modif_timestamp != modif_timestamp:
             if force_recompute:
                 print(f"\t\tUpdating {file} (force_recompute = True)")
             else:
                 print(f"\t\tUpdating {file} (time stamp is {current_modif_timestamp} vs "
                       f"{modif_timestamp})")
             for prop in all_properties:
-                df_row[prop.name] = prop.compute_file(file_path)
+                if len(force_to_compute) > 0:
+                    if prop.name in force_to_compute:
+                        df_row[prop.name] = prop.compute_file(file_path)
+                else:
+                    df_row[prop.name] = prop.compute_file(file_path)
         return df_row
 
-    print(f"\t{dir} with {len(metadata_df)} files")
-    return directory, metadata_df.apply(update_properties_apply_func, axis=1)
+    print(f"\t{directory} with {len(metadata_df)} files")
+    metadata_df.apply(update_properties_apply_func, axis=1)
+    return directory, metadata_df
 
 
 def update_properties(all_metadata, root_dir_path, all_properties, force_recompute=False, num_workers=1):
     print(f"Updating properties for datasets:")
     pool = Pool(processes=num_workers)
     pool_args = [(all_properties, root_dir_path, ds_dir, meta_df, force_recompute) for ds_dir, meta_df in all_metadata.items()]
-    for dir_metadata in pool.imap_unordered(update_properties_pool_func, pool_args):
-        d, m = dir_metadata
-        all_metadata[d] = m
+    for ds_dir, metadata in pool.imap_unordered(update_properties_pool_func, pool_args):
+        write_all_metadata_ds(metadata, root_dir_path, ds_dir)
+        all_metadata[ds_dir] = metadata
 
 
-def compute_properties(ds_dir, root_dir_path, all_properties):
-    print(f"Computing properties for {ds_dir}")
-    info = read_info_file(os.path.join(root_dir_path, ds_dir, "info.txt"))
-    rows = []
-    for file in info["files"]:
-        file_path = os.path.join(root_dir_path, ds_dir, file)
-        rows.append([prop.compute_file(file_path) for prop in all_properties])
-    return pd.DataFrame(rows, columns=[p.name for p in all_properties])
+def get_file_name(file_path):
+    return os.path.basename(file_path)
+
+
+def get_file_number(file_path):
+    return int(os.path.basename(file_path).split(".")[0].split("-")[1])
+
+
+def get_last_modif_time(file_path):
+    return datetime.fromtimestamp(pathlib.Path(file_path).stat().st_mtime)
+
+
+def get_modification_type(file_path):
+    ds_dir = os.path.abspath(os.path.join(file_path, os.pardir))
+    info = read_info_file(os.path.join(ds_dir, "info.txt"))
+    return info['files'][os.path.basename(file_path)]['modification_type']
 
 
 def is_single_peaked_soc(instance):
@@ -208,9 +237,10 @@ ALL_ORDERS_FORMATS = ("soc", "soi", "toc", "toi")
 ALL_ORDINAL_FORMATS = ("soc", "soi", "toc", "toi", "cat")
 ALL_PREFERENCES_FORMATS = ("soc", "soi", "toc", "toi", "cat", "wmd")
 ALL_PROPERTIES_LIST = [
-    Property("file", None, lambda x: os.path.basename(x), True),
-    Property("file_number", None, lambda x: int(os.path.basename(x).split(".")[0].split("-")[1]), True),
-    Property("last_modif", None, lambda x: datetime.fromtimestamp(pathlib.Path(x).stat().st_mtime), True),
+    Property("file", None, get_file_name, True),
+    Property("file_number", None, get_file_number, True),
+    Property("last_modif", None, get_last_modif_time, True),
+    Property("modification_type", None, get_modification_type, True),
     Property("numAlt", ALL_PREFERENCES_FORMATS, num_alternatives, False),
     Property("numVot", ALL_PREFERENCES_FORMATS, num_voters, False),
     Property("numUniq", ALL_ORDINAL_FORMATS, num_different_preferences, False),
@@ -237,11 +267,10 @@ DATASET_FOLDER = os.path.join("..", "..", "datasets")
 
 def main():
     all_meta = read_all_metadata_files(DATASET_FOLDER)
-    add_property_value(all_meta, DATASET_FOLDER, ALL_PROPERTIES["isSP"], write=True,
-                       force_recompute=True, num_workers=6)
-    write_all_metadata_files(all_meta, DATASET_FOLDER)
+    update_properties(all_meta, DATASET_FOLDER, ALL_PROPERTIES_LIST, force_recompute=["numAlt", "numVot"], num_workers=10)
+    # add_property_value(all_meta, DATASET_FOLDER, ALL_PROPERTIES["modification_type"], write=True, force_recompute=True, num_workers=6)
+    # write_all_metadata_files(all_meta, DATASET_FOLDER)
 
 
 if __name__ == '__main__':
     main()
-
