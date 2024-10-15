@@ -12,7 +12,7 @@ from preflibtools.instances.dataset import read_info_file
 from preflibtools.properties import num_alternatives, num_voters, num_different_preferences, \
     is_strict, is_complete, is_approval, is_single_peaked, is_single_crossing, largest_ballot, \
     smallest_ballot, max_num_indif, min_num_indif, largest_indif, smallest_indif, has_condorcet, \
-    is_single_peaked_ILP
+    is_single_peaked_pq_tree
 
 
 class Property:
@@ -230,7 +230,8 @@ def is_single_peaked_soc(instance):
 
 
 def is_single_peaked_toc(instance):
-    return is_single_peaked_ILP(instance)[0]
+    if len(instance.alternatives_name) < 25:
+        return is_single_peaked_pq_tree(instance)
 
 
 ALL_ORDERS_FORMATS = ("soc", "soi", "toc", "toi")
@@ -267,7 +268,7 @@ DATASET_FOLDER = os.path.join("..", "..", "datasets")
 
 def main():
     all_meta = read_all_metadata_files(DATASET_FOLDER)
-    update_properties(all_meta, DATASET_FOLDER, ALL_PROPERTIES_LIST, force_recompute=["numAlt", "numVot"], num_workers=10)
+    update_properties(all_meta, DATASET_FOLDER, ALL_PROPERTIES_LIST, force_recompute=["isSP"], num_workers=10)
     # add_property_value(all_meta, DATASET_FOLDER, ALL_PROPERTIES["modification_type"], write=True, force_recompute=True, num_workers=6)
     # write_all_metadata_files(all_meta, DATASET_FOLDER)
 

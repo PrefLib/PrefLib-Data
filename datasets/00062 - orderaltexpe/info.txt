@@ -1,0 +1,21 @@
+Name: Alternative Order Experiment
+
+Abbreviation: orderaltexpe
+
+Tags: Experiment
+
+Series Number: 0062
+
+Publication Date: 2024-10-15
+
+Description: <p> This dataset contains the results of a simple experiment regarding voting over landscape images with varying displaying order. There are 19 agents, each voting in two rounds. Eight images (alternatives) are denoted by A through H. In the first round, the images were displayed in the sequence A, B, C, D, E, F, G, H, while in the second round, the sequence was D, C, B, A, H, G, F, E.</p><p>To allow identify voters from the first to the second round, in addition to our standard file formats, we provide a CSV file that provides the preferences submitted by a voter in both rounds.</p><p>These data were donated by Honorata Sosnowska from the SGH Warsaw School of Economics. The work concerned with the data was supported by the SGH Warsaw School of Economics grant KAE/S21 and the National Center for Science grant UMO-2018/31/B/HS4/01005 Opus 16.</p>
+
+Required Citations: Bartłomiej Bindas, Honorata Sosnowska, <em>Serial position effect in group decision-making</em>
+
+Selected Studies: Krzysztof Kontek and Honorata Sosnowska. <em>Specific tastes or cliques of jurors? How to reduce the level of manipulation in group decisions?</em> Group Decision and Negotiation, 29(6), 2020. |  Honorata Sosnowska ,	Michał Ramsza ,	Paweł Zawiślak. Impact of a priori positive information on the results of voting methods. Statistical Review, 69(4), 2022.
+
+
+file_name, modification_type, relates_to, title, description, publication_date
+00062-00000001.soc, original, 00062-00000003.csv, """Second alternative ordering: D, C, B, A, H, G, F, E""", , 2024-10-15
+00062-00000002.soc, original, 00062-00000003.csv, """First alternative ordering: A, B, C, D, E, F, G, H""", , 2024-10-15
+00062-00000003.soc, original, 00062-00000003.csv, """Ranking of a respondent across the data files""", , 2024-10-15
