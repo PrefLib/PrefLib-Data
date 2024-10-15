@@ -4,7 +4,7 @@ Abbreviation: orderaltexpe
 
 Tags: Experiment
 
-Series Number: 0062
+Series Number: 00062
 
 Publication Date: 2024-10-15
 
@@ -18,4 +18,4 @@ Selected Studies: Krzysztof Kontek and Honorata Sosnowska. <em>Specific tastes o
 file_name, modification_type, relates_to, title, description, publication_date
 00062-00000001.soc, original, 00062-00000003.csv, """Second alternative ordering: D, C, B, A, H, G, F, E""", , 2024-10-15
 00062-00000002.soc, original, 00062-00000003.csv, """First alternative ordering: A, B, C, D, E, F, G, H""", , 2024-10-15
-00062-00000003.soc, original, 00062-00000003.csv, """Ranking of a respondent across the data files""", , 2024-10-15
+00062-00000003.csv, original, , """Ranking of a respondent across the data files""", , 2024-10-15
