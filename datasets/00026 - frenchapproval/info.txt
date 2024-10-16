@@ -15,6 +15,7 @@ Required Citations: Jean-Francois Laslier and Karine Van der Straeten. <em>A Liv
 Selected Studies: 
 
 file_name, modification_type, relates_to, title, description, publication_date
+00026-00000001.cat, original, , Orsay1, , 2017-04-13
 00026-00000001.toc, original, 00026-00000001.cat, GylesNonains, The ballots of complete approval or disapproval were removed., 2017-04-13
 00026-00000002.cat, original, , Orsay1, , 2017-04-13
 00026-00000002.toc, original, 00026-00000002.cat, Orsay1, The ballots of complete approval or disapproval were removed., 2017-04-13
