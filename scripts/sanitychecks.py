@@ -16,8 +16,7 @@ for ds_dir in sorted(os.listdir(IN_DIR)):
         if file == "info.txt":
             infos = read_info_file(file_path)
             info_error_list = []
-            # -2 because of info.txt and metadata.csv
-            number_files = len([f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if os.path.isfile(os.path.join(IN_DIR, ds_dir, f))]) - 2
+            number_files = len([f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if os.path.isfile(os.path.join(IN_DIR, ds_dir, f)) and f not in ["info.txt", "metadata.csv"]])
             if not len(infos["files"]) == number_files:
                 info_error_list.append(f"{ds_dir} - Info says {len(infos['files'])} but there are {number_files} files")
             if not set(infos["files"]) == set(f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if f not in ["info.txt", "metadata.csv"]):
