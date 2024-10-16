@@ -16,6 +16,7 @@ Selected Studies:
 
 file_name, modification_type, relates_to, title, description, publication_date
 00033-00000001.dat, original, , San_Sebastian_All_Approvals, , 2017-04-13
-00033-00000002.toc, original, , San_Sebastian_Group_1, , 2017-04-13
-00033-00000003.dat, original, 00033-00000003.toc, San_Sebastian_Group_2, Includes the complete approval ballots, 2017-04-13
-00033-00000003.toc, original, , San_Sebastian_Group_2, , 2017-04-13
+00033-00000002.cat, original, , San_Sebastian_Group_1, , 2017-04-13
+00033-00000002.toc, original, 00033-00000002.cat, San_Sebastian_Group_1, The ballots of complete approval or disapproval were removed., 2017-04-13
+00033-00000003.cat, original, , San_Sebastian_Group_2, Includes the complete approval ballots, 2017-04-13
+00033-00000003.toc, original, 00033-00000003.cat, San_Sebastian_Group_2, The ballots of complete approval or disapproval were removed., 2017-04-13

@@ -1,80 +1,41 @@
-from preflibtools.instances.preflibinstance import OrdinalInstance, CategoricalInstance, MatchingInstance
+import warnings
+
+from preflibtools.instances.preflibinstance import get_parsed_instance
 from preflibtools.instances.dataset import read_info_file
 import preflibtools.instances.sanity as sanity
 
 import os
 
 IN_DIR = "../datasets/"
-LOG_DIR = "../log/"
 
-os.makedirs(LOG_DIR, exist_ok=True)
+for ds_dir in sorted(os.listdir(IN_DIR)):
+    print("Checking {}".format(ds_dir))
+    h1_written = False
+    for file in os.listdir(os.path.join(IN_DIR, ds_dir)):
+        file_path = os.path.join(IN_DIR, ds_dir, file)
+        if file == "info.txt":
+            infos = read_info_file(file_path)
+            info_error_list = []
+            # -2 because of info.txt and metadata.csv
+            number_files = len([f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if os.path.isfile(os.path.join(IN_DIR, ds_dir, f))]) - 2
+            if not len(infos["files"]) == number_files:
+                info_error_list.append(f"{ds_dir} - Info says {len(infos['files'])} but there are {number_files} files")
+            if not set(infos["files"]) == set(f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if f not in ["info.txt", "metadata.csv"]):
+                info_error_list.append(f"{ds_dir} - Not all files in infos or some non-existing files in info")
+            for error in info_error_list:
+                warnings.warn(f"{ds_dir} - Info: {error}")
+        else:
+            extention = os.path.splitext(file)[1][1:]
+            if extention in ["soc", "toc", "soi", "toi", "cat"]:
+                instance = get_parsed_instance(file_path)
 
-with open(os.path.join(LOG_DIR, "log.html"), "w") as log_file:
-    for ds_dir in sorted(os.listdir(IN_DIR), reverse=True):
-        print("Checking {}".format(ds_dir))
-        h1_written = False
-        for file in os.listdir(os.path.join(IN_DIR, ds_dir)):
-            print("\tChecking {} - {}".format(ds_dir, file))
-            file_path = os.path.join(IN_DIR, ds_dir, file)
-            if file == "info.txt":
-                infos = read_info_file(file_path)
-                print(infos)
-            else:
-                extention = os.path.splitext(file)[1][1:]
+                metadata_error_list = sanity.metadata(instance)
+                if metadata_error_list:
+                    for error in metadata_error_list:
+                        warnings.warn(f"{ds_dir} - {instance.file_name}: {error}")
                 if extention in ["soc", "toc", "soi", "toi"]:
-                    instance = OrdinalInstance(file_path)
+                    order_error_list = sanity.orders(instance)
+                    if order_error_list:
+                        for error in order_error_list:
+                            warnings.warn(f"{ds_dir} - {instance.file_name}: {error}")
 
-                    error_list_metadata = sanity.metadata(instance)
-                    error_list_orders = sanity.orders(instance)
-                    if error_list_metadata or error_list_orders:
-                        if not h1_written:
-                            log_file.write("\n<h1>Dataset " + ds_dir + "</h1>\n")
-                            h1_written = True
-                        log_file.write("\n<h2>" + instance.file_name + " --- " + ds_dir + "</h2>\n")
-                        if error_list_metadata:
-                            log_file.write("<h3>Metadata Check</h3>\n")
-                            for error in error_list_metadata:
-                                log_file.write("<p>" + str(error) + "</p>\n")
-                        if error_list_orders:
-                            log_file.write("<h3>Orders Check</h3>\n")
-                            for error in error_list_orders:
-                                log_file.write("<p>" + str(error) + "</p>\n")
-                elif extention == "cat":
-                    file_path = os.path.join(IN_DIR, ds_dir, file)
-                    instance = CategoricalInstance(file_path)
-
-                    error_list_metadata = sanity.metadata(instance)
-                    error_list_categories = sanity.categories(instance)
-                    if error_list_metadata or error_list_categories:
-                        if not h1_written:
-                            log_file.write("\n<h1>Dataset " + ds_dir + "</h1>\n")
-                            h1_written = True
-                        log_file.write("\n<h2>" + instance.file_name + " --- " + ds_dir + "</h2>\n")
-                        if error_list_metadata:
-                            log_file.write("<h3>Metadata Check</h3>\n")
-                            for error in error_list_metadata:
-                                log_file.write("<p>" + str(error) + "</p>\n")
-                        if error_list_categories:
-                            log_file.write("<h3>Preferences Check</h3>\n")
-                            for error in error_list_categories:
-                                log_file.write("<p>" + str(error) + "</p>\n")
-                elif extention == "wmd":
-                    break
-                    file_path = os.path.join(IN_DIR, ds_dir, file)
-                    instance = MatchingInstance(file_path)
-
-                    error_list_metadata = sanity.metadata(instance)
-                    error_list_matching = sanity.matching(instance)
-                    if error_list_metadata or error_list_matching:
-                        if not h1_written:
-                            log_file.write("\n<h1>Dataset " + ds_dir + "</h1>\n")
-                            h1_written = True
-                        log_file.write("\n<h2>" + instance.file_name + " --- " + ds_dir + "</h2>\n")
-                        if error_list_metadata:
-                            log_file.write("<h3>Metadata Check</h3>\n")
-                            for error in error_list_metadata:
-                                log_file.write("<p>" + str(error) + "</p>\n")
-                        if error_list_matching:
-                            log_file.write("<h3>Matching Check</h3>\n")
-                            for error in error_list_matching:
-                                log_file.write("<p>" + str(error) + "</p>\n")
