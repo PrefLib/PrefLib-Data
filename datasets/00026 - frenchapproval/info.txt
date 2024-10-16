@@ -15,11 +15,15 @@ Required Citations: Jean-Francois Laslier and Karine Van der Straeten. <em>A Liv
 Selected Studies: 
 
 file_name, modification_type, relates_to, title, description, publication_date
-00026-00000001.toc, original, , GylesNonains, , 2017-04-13
-00026-00000002.dat, original, 00026-00000002.toc, Orsay1, Includes the complete approval/disapproval ballots, 2017-04-13
-00026-00000002.toc, original, , Orsay1, , 2017-04-13
-00026-00000003.toc, original, , Orsay5, , 2017-04-13
-00026-00000004.toc, original, , Orsay6, , 2017-04-13
-00026-00000005.toc, original, , Orsay7, , 2017-04-13
-00026-00000006.dat, original, 00026-00000006.toc, Orsay12, Includes the complete approval/disapproval ballots, 2017-04-13
-00026-00000006.toc, original, , Orsay12, , 2017-04-13
+00026-00000001.toc, original, 00026-00000001.cat, GylesNonains, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000002.cat, original, , Orsay1, , 2017-04-13
+00026-00000002.toc, original, 00026-00000002.cat, Orsay1, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000002.cat, original, , Orsay1, , 2017-04-13
+00026-00000003.toc, original, 00026-00000003.cat, Orsay5, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000003.cat, original, , Orsay5, , 2017-04-13
+00026-00000004.toc, original, 00026-00000004.cat, Orsay6, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000004.cat, original, , Orsay6, , 2017-04-13
+00026-00000005.toc, original, 00026-00000005.cat, Orsay7, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000005.cat, original, , Orsay7, , 2017-04-13
+00026-00000006.toc, original, 00026-00000006.cat, Orsay12, The ballots of complete approval or disapproval were removed., 2017-04-13
+00026-00000006.cat, original, , Orsay12, , 2017-04-13
