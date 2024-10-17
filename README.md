@@ -16,8 +16,8 @@ developed prior to that date, we still provide the old files in the folder `data
 Format Specification
 ====================
 
-A dataset is a folder containing data files and an `info.txt` file. In the following, we present the
-specifications that all these files should follow.
+A dataset is a folder containing data files, an  `info.txt` file and potentially a `metadata.csv` file.
+In the following, we present the specifications that all these files should follow.
 
 Dataset Information File
 ------------------------
