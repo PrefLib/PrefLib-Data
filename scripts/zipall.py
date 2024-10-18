@@ -18,7 +18,7 @@ def zip_all():
     for dataset_dir in sorted(os.listdir(IN_DIR)):
         print(f"Reading {dataset_dir}")
         ds_files = []
-        for datafile_name in os.listdir(os.path.join(IN_DIR, dataset_dir)):
+        for datafile_name in sorted(os.listdir(os.path.join(IN_DIR, dataset_dir))):
             print(f"\t.. {datafile_name}")
             file_path = os.path.join(IN_DIR, dataset_dir, datafile_name)
             ds_files.append(file_path)
