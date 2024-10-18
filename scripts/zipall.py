@@ -42,13 +42,6 @@ def zip_all():
                         prop_to_files[prop].append(file_path)
         dataset_to_files[dataset_dir] = ds_files
 
-    for property, all_files in prop_to_files.items():
-        print(f"Zipping {property}")
-        with zipfile.ZipFile(os.path.join(OUT_DIR, "prop_" + property + ".zip"), "w",
-                             zipfile.ZIP_DEFLATED) as zip_file:
-            for file_path in all_files:
-                zip_file.write(file_path, os.path.basename(file_path))
-
     for dataset, all_files in dataset_to_files.items():
         print(f"Zipping {dataset}")
         with zipfile.ZipFile(os.path.join(OUT_DIR, dataset.replace(" - ", "_") + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
@@ -64,6 +57,13 @@ def zip_all():
     for data_type, all_files in type_to_files.items():
         print(f"Zipping {data_type}")
         with zipfile.ZipFile(os.path.join(OUT_DIR, "type_" + data_type + ".zip"), "w",
+                             zipfile.ZIP_DEFLATED) as zip_file:
+            for file_path in all_files:
+                zip_file.write(file_path, os.path.basename(file_path))
+
+    for property, all_files in prop_to_files.items():
+        print(f"Zipping {property}")
+        with zipfile.ZipFile(os.path.join(OUT_DIR, "prop_" + property + ".zip"), "w",
                              zipfile.ZIP_DEFLATED) as zip_file:
             for file_path in all_files:
                 zip_file.write(file_path, os.path.basename(file_path))
