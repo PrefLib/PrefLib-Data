@@ -19,12 +19,13 @@ def zip_all():
         print(f"Reading {dataset_dir}")
         ds_files = []
         for datafile_name in os.listdir(os.path.join(IN_DIR, dataset_dir)):
+            print(f"\t.. {datafile_name}")
             file_path = os.path.join(IN_DIR, dataset_dir, datafile_name)
             ds_files.append(file_path)
-            data_type = datafile_name[:-3]
+            data_type = datafile_name[-3:]
             if data_type in relevant_data_types:
                 type_to_files[data_type].append(file_path)
-                instance = get_parsed_instance(file_path)
+                instance = get_parsed_instance(file_path, header_only=True)
                 modif_to_files[instance.modification_type].append(file_path)
         dataset_to_files[dataset_dir] = ds_files
 
