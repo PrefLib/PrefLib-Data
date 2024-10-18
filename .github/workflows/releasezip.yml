@@ -36,7 +36,7 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./zip/  # Specify the path to the directory containing the generated zips
-        asset_name: *.zip  # Name of the file, or use a wildcard for multiple files
+        asset_name: "*.zip"  # Name of the file, or use a wildcard for multiple files
         asset_content_type: application/zip
 
     # Create a release in GitHub
