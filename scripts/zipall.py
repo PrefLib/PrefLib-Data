@@ -1,3 +1,4 @@
+import csv
 import zipfile
 import os
 
@@ -14,10 +15,19 @@ def zip_all():
     relevant_modif_types = ("imbued", "induced", "original", "synthetic")
     modif_to_files = {t: [] for t in relevant_modif_types}
     dataset_to_files = dict()
+    relevant_properties = ("isApproval",)
+    prop_to_files = {t: [] for t in relevant_properties}
 
     for dataset_dir in sorted(os.listdir(IN_DIR)):
         print(f"Reading {dataset_dir}")
         ds_files = []
+
+        file_to_metadatas = dict()
+        with open(os.path.join(IN_DIR, dataset_dir, "metadata.csv"), encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter=";")
+            for row in reader:
+                file_to_metadatas[row["file"]] = row
+
         for datafile_name in sorted(os.listdir(os.path.join(IN_DIR, dataset_dir))):
             print(f"\t.. {datafile_name}")
             file_path = os.path.join(IN_DIR, dataset_dir, datafile_name)
@@ -25,9 +35,19 @@ def zip_all():
             data_type = datafile_name[-3:]
             if data_type in relevant_data_types:
                 type_to_files[data_type].append(file_path)
-                instance = get_parsed_instance(file_path, header_only=True)
-                modif_to_files[instance.modification_type].append(file_path)
+                metadata = file_to_metadatas[os.path.basename(file_path)]
+                modif_to_files[metadata["modification_type"]].append(file_path)
+                for prop in relevant_properties:
+                    if metadata[prop] == "True":
+                        prop_to_files[prop].append(file_path)
         dataset_to_files[dataset_dir] = ds_files
+
+    for property, all_files in prop_to_files.items():
+        print(f"Zipping {property}")
+        with zipfile.ZipFile(os.path.join(OUT_DIR, "prop_" + property + ".zip"), "w",
+                             zipfile.ZIP_DEFLATED) as zip_file:
+            for file_path in all_files:
+                zip_file.write(file_path, os.path.basename(file_path))
 
     for dataset, all_files in dataset_to_files.items():
         print(f"Zipping {dataset}")
