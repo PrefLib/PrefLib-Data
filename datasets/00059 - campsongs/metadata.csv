@@ -1,5 +1,5 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
-00059-00000001.cat;1;2024-02-19 10:52:49.883955;original;78;39;39;N/A;True;True;78;78;2;2;71;7;N/A;N/A;N/A
-00059-00000002.cat;2;2024-02-19 10:52:50.843955;original;8;39;24;N/A;True;True;8;8;2;1;8;1;N/A;N/A;N/A
-00059-00000003.cat;3;2024-02-19 10:52:49.075955;original;82;56;56;N/A;True;True;82;82;2;2;73;9;N/A;N/A;N/A
-00059-00000004.cat;4;2024-02-19 10:52:51.755955;original;10;56;45;N/A;True;True;10;10;2;1;9;1;N/A;N/A;N/A
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
+00059-00000002.cat;2;2024-10-16 17:43:06.115277;original;8;39;24;True
+00059-00000004.cat;4;2024-10-16 17:43:06.115277;original;10;56;45;True
+00059-00000001.cat;1;2024-10-16 17:43:06.115277;original;78;39;39;True
+00059-00000003.cat;3;2024-10-16 17:43:06.115277;original;82;56;56;True

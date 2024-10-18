@@ -2,6 +2,7 @@ import os
 import pathlib
 from collections.abc import Iterable
 from datetime import datetime
+from functools import partial
 from multiprocessing import Pool
 
 import dateutil.parser
@@ -10,9 +11,9 @@ import pandas as pd
 from preflibtools.instances import get_parsed_instance
 from preflibtools.instances.dataset import read_info_file
 from preflibtools.properties import num_alternatives, num_voters, num_different_preferences, \
-    is_strict, is_complete, is_approval, is_single_peaked, is_single_crossing, largest_ballot, \
-    smallest_ballot, max_num_indif, min_num_indif, largest_indif, smallest_indif, has_condorcet, \
-    is_single_peaked_pq_tree
+    is_approval, has_condorcet
+from preflibtools.properties.subdomains.ordinal import is_single_peaked, is_single_peaked_pq_tree, \
+    is_single_crossing
 
 
 class Property:
@@ -51,16 +52,15 @@ def compute_file_properties(file_path, all_properties):
         return None
     file_name = os.path.basename(file_path)
     print(f"\t{file_name}")
-    instance = get_parsed_instance(file_path)
     results = {}
     for prop in all_properties:
-        res = prop.compute_instance(instance)
+        res = prop.compute_file(file_path)
         if res is not None:
             results[prop.name] = res
     return results
 
 
-def compute_dataset_metadata(root_dir_path):
+def compute_dataset_metadata(root_dir_path, all_properties):
     print(f"Computing for {root_dir_path}")
     info = read_info_file(os.path.join(root_dir_path, "info.txt"))
     out_file_path = os.path.join(root_dir_path, "metadata.csv")
@@ -79,7 +79,9 @@ def compute_dataset_metadata(root_dir_path):
     for file in info["files"]:
         files.append(os.path.join(root_dir_path, file))
 
-    for metadata in file_pool.imap_unordered(compute_file_properties, files):
+    compute_with_fixed_params = partial(compute_file_properties, all_properties=all_properties)
+
+    for metadata in file_pool.imap_unordered(compute_with_fixed_params, files):
         if metadata is not None:
             with open(out_file_path, "a") as out_file:
                 meta_write = [str(metadata[h]) if h in metadata else "N/A" for h in HEADERS]
@@ -225,13 +227,22 @@ def get_modification_type(file_path):
     return info['files'][os.path.basename(file_path)]['modification_type']
 
 
+def is_single_crossing_soc(instance):
+    if len(instance.alternatives_name) < 15:
+        return is_single_peaked(instance)[0]
+
 def is_single_peaked_soc(instance):
-    return is_single_peaked(instance)[0]
+    if len(instance.alternatives_name) < 15:
+        return is_single_peaked(instance)[0]
 
 
 def is_single_peaked_toc(instance):
-    if len(instance.alternatives_name) < 25:
+    if len(instance.alternatives_name) < 15:
         return is_single_peaked_pq_tree(instance)
+
+
+def none_func(x):
+    return
 
 
 ALL_ORDERS_FORMATS = ("soc", "soi", "toc", "toi")
@@ -245,20 +256,16 @@ ALL_PROPERTIES_LIST = [
     Property("numAlt", ALL_PREFERENCES_FORMATS, num_alternatives, False),
     Property("numVot", ALL_PREFERENCES_FORMATS, num_voters, False),
     Property("numUniq", ALL_ORDINAL_FORMATS, num_different_preferences, False),
-    Property("isStrict", ALL_ORDERS_FORMATS, is_strict, False),
-    Property("isComplete", ALL_ORDINAL_FORMATS, is_complete, False),
     Property("isApproval", ALL_ORDINAL_FORMATS, is_approval, False),
-    Property("largestBallot", ALL_ORDINAL_FORMATS, largest_ballot, False),
-    Property("smallestBallot", ALL_ORDINAL_FORMATS, smallest_ballot, False),
-    Property("maxNumIndif", ALL_ORDINAL_FORMATS, max_num_indif, False),
-    Property("minNumIndif", ALL_ORDINAL_FORMATS, min_num_indif, False),
-    Property("largestIndif", ALL_ORDINAL_FORMATS, largest_indif, False),
-    Property("smallestIndif", ALL_ORDINAL_FORMATS, smallest_indif, False),
-    Property("hasCondorcet", ALL_ORDERS_FORMATS, has_condorcet, False),
-    Property("isSP", ("soc", "toc"), {
-        "soc": is_single_peaked_soc,
-        "toc": is_single_peaked_toc}, False),
-    Property("isSC", ("soc",), is_single_crossing, False),
+    # Property("hasCondorcet", ALL_ORDERS_FORMATS, has_condorcet, False),
+    # Property("isSP", ("soc", "toc"), {
+    #     "soc": is_single_peaked_soc,
+    #     "toc": is_single_peaked_toc}, False),
+    # Property("isSC", ("soc",), is_single_crossing_soc, False),
+    # Property("isSPCircle", ("soc",), none_func, False),
+    # Property("isSPTree", ("soc",), none_func, False),
+    # Property("isEuclid", ("soc",), none_func, False),
+    # Property("is1Euclid", ("soc",), none_func, False),
 ]
 ALL_PROPERTIES = {p.name: p for p in ALL_PROPERTIES_LIST}
 HEADERS = list(ALL_PROPERTIES)
@@ -267,10 +274,14 @@ DATASET_FOLDER = os.path.join("..", "..", "datasets")
 
 
 def main():
-    all_meta = read_all_metadata_files(DATASET_FOLDER)
-    update_properties(all_meta, DATASET_FOLDER, ALL_PROPERTIES_LIST, force_recompute=["isSP"], num_workers=10)
+    # all_meta = read_all_metadata_files(DATASET_FOLDER)
+    # update_properties(all_meta, DATASET_FOLDER, ALL_PROPERTIES_LIST, num_workers=10)
     # add_property_value(all_meta, DATASET_FOLDER, ALL_PROPERTIES["modification_type"], write=True, force_recompute=True, num_workers=6)
     # write_all_metadata_files(all_meta, DATASET_FOLDER)
+
+    # Compute all metadatas
+    for ds_dir in sorted(os.listdir(DATASET_FOLDER)):
+        compute_dataset_metadata(os.path.join(DATASET_FOLDER, ds_dir), ALL_PROPERTIES_LIST)
 
 
 if __name__ == '__main__':

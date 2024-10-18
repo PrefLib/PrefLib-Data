@@ -1,4 +1,1 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
-00013-00000001.csv;1;2023-07-04 15:02:41.745584;original;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
-00013-00000002.csv;2;2023-07-04 15:02:41.745584;original;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
-00013-00000003.csv;3;2023-07-04 15:02:41.745584;original;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval

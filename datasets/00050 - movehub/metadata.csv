@@ -1,2 +1,2 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isStrict;isComplete;isApproval;largestBallot;smallestBallot;maxNumIndif;minNumIndif;largestIndif;smallestIndif;hasCondorcet;isSP;isSC
-00050-00000001.soc;1;2023-07-04 15:02:48.405584;original;216;12;12;True;True;False;216;216;0;0;1;1;False;N/A;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
+00050-00000001.soc;1;2024-10-16 17:43:05.263277;original;216;12;12;False
