@@ -4,10 +4,6 @@ import os
 IN_DIR = os.path.join("..", "datasets")
 OUT_DIR = os.path.join("..", "zip")
 os.makedirs(OUT_DIR, exist_ok=True)
-OUT_DIR_DATASET = os.path.join(OUT_DIR, "dataset")
-os.makedirs(OUT_DIR_DATASET, exist_ok=True)
-OUT_DIR_TYPE = os.path.join(OUT_DIR, "type")
-os.makedirs(OUT_DIR_TYPE, exist_ok=True)
 
 
 def zip_types():
@@ -19,7 +15,7 @@ def zip_types():
                 if datafile_name.endswith(data_type):
                     all_files.append((os.path.join(IN_DIR, dataset_dir, datafile_name), datafile_name))
 
-        with zipfile.ZipFile(os.path.join(OUT_DIR_TYPE, data_type + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
+        with zipfile.ZipFile(os.path.join(OUT_DIR, data_type + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
             for file_path, file_name in all_files:
                 zip_file.write(file_path, file_name)
 
@@ -30,7 +26,7 @@ def zip_datasets():
             print("Zipping... {}".format(ds_dir))
             ds_abb = os.path.basename(os.path.normpath(ds_dir))
 
-            with zipfile.ZipFile(os.path.join(OUT_DIR_DATASET, ds_abb + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
+            with zipfile.ZipFile(os.path.join(OUT_DIR, ds_abb + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
                 for file in os.listdir(os.path.join(IN_DIR, ds_dir)):
                     zip_file.write(os.path.join(IN_DIR, ds_dir, file), file)
         else:
