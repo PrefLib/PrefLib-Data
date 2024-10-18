@@ -19,6 +19,8 @@ def zip_types():
             for file_path, file_name in all_files:
                 zip_file.write(file_path, file_name)
 
+        return
+
 
 def zip_datasets():
     for ds_dir in sorted(os.listdir(IN_DIR)):
@@ -29,6 +31,7 @@ def zip_datasets():
             with zipfile.ZipFile(os.path.join(OUT_DIR, ds_abb + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
                 for file in os.listdir(os.path.join(IN_DIR, ds_dir)):
                     zip_file.write(os.path.join(IN_DIR, ds_dir, file), file)
+            return
         else:
             print("Skipped... {}".format(ds_dir))
 
