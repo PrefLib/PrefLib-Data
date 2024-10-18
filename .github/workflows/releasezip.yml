@@ -25,6 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip3 install preflibtools
 
     # Run your Python script to generate the zip files
     - name: Run zip generation script
@@ -36,6 +37,19 @@ jobs:
     - name: Install GitHub CLI
       run: |
         sudo apt-get install gh
+
+    # Remove existing release assets
+    - name: Remove existing release assets
+      run: |
+        # Get the list of assets for the release
+        assets=$(curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/repos/PrefLib/PrefLib-Data/releases/tags/v1.0 | jq -r '.assets[] | .id')
+
+        # Loop through each asset ID and delete it
+        for asset_id in $assets; do
+          curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/repos/PrefLib/PrefLib-Data/releases/assets/$asset_id
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # Upload files to release
     - name: Upload ZIP files to Release
