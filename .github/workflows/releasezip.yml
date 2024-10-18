@@ -3,6 +3,8 @@ name: Generate and Upload Zip Files
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -30,23 +32,22 @@ jobs:
         cd scripts
         python zipall.py
 
-    # Create a release in GitHub
-    - name: Create GitHub Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ github.ref }}  # Use the tag that triggered the workflow
-        release_name: "Release ${{ github.ref }}"
-        draft: false
-        prerelease: false
+    # Get the release upload URL
+    - name: Get release upload URL
+      id: get_release
+      run: |
+        release_info=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+        https://api.github.com/repos/PrefLib/PrefLib-Data/releases/tags/v1.0)
+
+        echo "upload_url=$(echo $release_info | jq -r .upload_url | sed -e 's/{?name,label}//')" >> $GITHUB_ENV
 
     # Upload files to release
     - name: Upload release assets
       uses: actions/upload-release-asset@v1
       with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        upload_url: ${{ env.upload_url }}
         asset_path: ./zip/  # Specify the path to the directory containing the generated zips
         asset_name: "*.zip"  # Name of the file, or use a wildcard for multiple files
         asset_content_type: application/zip
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
