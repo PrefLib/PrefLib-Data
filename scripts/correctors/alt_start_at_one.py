@@ -1,3 +1,5 @@
+# Force the alternative count to start at 1 and not 0
+
 import os.path
 
 from preflibtools.instances.preflibinstance import OrdinalInstance, CategoricalInstance

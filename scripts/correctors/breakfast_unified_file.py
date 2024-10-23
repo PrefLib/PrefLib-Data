@@ -1,4 +1,4 @@
-
+# Create the file with all preferences for the breakfast dataset (00035)
 
 new_lines = []
 for j in range(2, 8):

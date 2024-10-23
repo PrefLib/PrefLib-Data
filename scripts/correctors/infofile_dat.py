@@ -1,3 +1,4 @@
+# Update the info.txt for the Kidney dataset to add the dat files
 
 dataset = "kidney"
 new_str = ""

@@ -1,3 +1,5 @@
+# Fix the OpenSTV datasets by removing duplicated alternatives
+
 import os
 
 from preflibtools.instances.preflibinstance import OrdinalInstance

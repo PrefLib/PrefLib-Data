@@ -1,4 +1,4 @@
-
+# Updates the info.txt for the web dataset to add the relates_to information
 dataset = "00011 - web"
 new_str = ""
 

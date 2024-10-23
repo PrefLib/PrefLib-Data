@@ -1,4 +1,6 @@
-from preflibtools.instances.preflibinstance import OrdinalInstance, MatchingInstance
+# Checks that the nes format has the same info as the old format
+
+from preflibtools.instances.preflibinstance import OrdinalInstance
 
 import sys, os
 

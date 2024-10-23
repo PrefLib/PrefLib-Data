@@ -1,0 +1,19 @@
+Name: CTU AG1 Tutorial Time Selection
+
+Abbreviation: ctu
+
+Tags: Election
+
+Series Number: 00063
+
+Publication Date: 2024-10-24
+
+Description: <p>This dataset contains the results of surveying students of the BI-AG1 courses at the Czech Technical University in Prague about their preferred tutorial time. Each student selected, from the set of predefined alternatives, those that fits into their schedule.</p><p>The data on this page has been donated by <a href="https://knopdusa.pages.fit/">Dušan Knop</a> and <a href="https://pages.fit.cvut.cz/schiesim/">Šimon Schierreich</a>.</p>
+
+
+Required Citations:
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00063-00000001.cat, original, , 2024/2025, , 2024-10-24

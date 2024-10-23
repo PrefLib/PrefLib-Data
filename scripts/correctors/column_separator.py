@@ -1,3 +1,5 @@
+# Add a column ":" to separate pref count and pref
+
 dataset = "00039 - csconf"
 datafile = "00039-00000003.cat"
 

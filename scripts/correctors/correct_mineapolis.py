@@ -1,3 +1,5 @@
+# Fix the mineapolis dataset by recomputing the cardinality parameters
+
 import os
 
 from preflibtools.instances.preflibinstance import OrdinalInstance

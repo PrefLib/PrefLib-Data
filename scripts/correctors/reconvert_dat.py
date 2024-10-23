@@ -1,3 +1,5 @@
+# Change some dat files into toi
+
 import os.path
 from preflibtools.instances.preflibinstance import OrdinalInstance
 

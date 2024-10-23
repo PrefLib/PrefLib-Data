@@ -1,3 +1,5 @@
+# Formats the datasets from Boehmer and Schaar
+
 import shutil
 import sys
 import os

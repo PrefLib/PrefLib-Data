@@ -1,3 +1,5 @@
+# Remove old un-used formats
+
 import os
 
 IN_DIR = "../../datasets/"
