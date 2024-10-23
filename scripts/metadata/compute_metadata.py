@@ -280,7 +280,7 @@ def main():
     # write_all_metadata_files(all_meta, DATASET_FOLDER)
 
     # Compute all metadatas
-    for ds_dir in sorted(os.listdir(DATASET_FOLDER)):
+    for ds_dir in sorted(os.listdir(DATASET_FOLDER), reverse=True):
         compute_dataset_metadata(os.path.join(DATASET_FOLDER, ds_dir), ALL_PROPERTIES_LIST)
 
 
