@@ -1,3 +1,3 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
-00009-00000002.soc;2;2024-10-16 17:43:02.067277;original;7;153;70;False
-00009-00000001.soc;1;2024-10-16 17:43:02.067277;original;9;146;123;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
+00009-00000002.soc;2;2024-10-16 17:43:02.067277;original;7;153;70;False;True;True
+00009-00000001.soc;1;2024-10-16 17:43:02.067277;original;9;146;123;False;True;True

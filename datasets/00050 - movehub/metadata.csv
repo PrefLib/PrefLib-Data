@@ -1,2 +1,2 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
-00050-00000001.soc;1;2024-10-16 17:43:05.263277;original;216;12;12;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
+00050-00000001.soc;1;2024-10-16 17:43:05.263277;original;216;12;12;False;True;True

@@ -1,3 +1,3 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
-00023-00000001.toi;1;2024-10-16 17:43:02.155277;original;4;204;25;False
-00023-00000001.toc;1;2024-10-16 17:43:02.155277;imbued;4;204;23;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
+00023-00000001.toi;1;2024-10-16 17:43:02.155277;original;4;204;25;False;False;False
+00023-00000001.toc;1;2024-10-16 17:43:02.155277;imbued;4;204;23;False;False;True

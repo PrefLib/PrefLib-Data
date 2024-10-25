@@ -1,5 +1,5 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
-00016-00000002.toi;2;2024-10-16 17:43:02.147277;original;5;2527;112;False
-00016-00000002.toc;2;2024-10-16 17:43:02.147277;imbued;5;2527;108;False
-00016-00000001.toi;1;2024-10-16 17:43:02.147277;original;11;2477;1760;False
-00016-00000001.toc;1;2024-10-16 17:43:02.147277;imbued;11;2477;1760;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
+00016-00000002.toi;2;2024-10-16 17:43:02.147277;original;5;2527;112;False;False;False
+00016-00000002.toc;2;2024-10-16 17:43:02.147277;imbued;5;2527;108;False;False;True
+00016-00000001.toi;1;2024-10-16 17:43:02.147277;original;11;2477;1760;False;False;False
+00016-00000001.toc;1;2024-10-16 17:43:02.147277;imbued;11;2477;1760;False;False;True

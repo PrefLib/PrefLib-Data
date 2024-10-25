@@ -1,7 +1,7 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval
-00035-00000003.soc;3;2024-10-16 17:43:02.155277;original;15;42;42;False
-00035-00000002.soc;2;2024-10-16 17:43:02.155277;original;15;42;42;False
-00035-00000007.soc;7;2024-10-16 17:43:02.155277;original;15;42;42;False
-00035-00000006.soc;6;2024-10-16 17:43:02.155277;original;15;42;41;False
-00035-00000005.soc;5;2024-10-16 17:43:02.155277;original;15;42;41;False
-00035-00000004.soc;4;2024-10-16 17:43:02.155277;original;15;42;42;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
+00035-00000006.soc;6;2024-10-16 17:43:02.155277;original;15;42;41;False;True;True
+00035-00000002.soc;2;2024-10-16 17:43:02.155277;original;15;42;42;False;True;True
+00035-00000004.soc;4;2024-10-16 17:43:02.155277;original;15;42;42;False;True;True
+00035-00000007.soc;7;2024-10-16 17:43:02.155277;original;15;42;42;False;True;True
+00035-00000005.soc;5;2024-10-16 17:43:02.155277;original;15;42;41;False;True;True
+00035-00000003.soc;3;2024-10-16 17:43:02.155277;original;15;42;42;False;True;True

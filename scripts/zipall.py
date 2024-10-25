@@ -42,6 +42,10 @@ def zip_all():
                         prop_to_files[prop].append(file_path)
         dataset_to_files[dataset_dir] = ds_files
 
+    type_to_files["toi"] += type_to_files["toc"] + type_to_files["soi"] + type_to_files["soc"]
+    type_to_files["toc"] += type_to_files["soc"]
+    type_to_files["soi"] += type_to_files["soc"]
+
     for dataset, all_files in dataset_to_files.items():
         print(f"Zipping {dataset}")
         with zipfile.ZipFile(os.path.join(OUT_DIR, dataset.replace(" - ", "_") + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:

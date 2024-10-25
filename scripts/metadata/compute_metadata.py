@@ -11,7 +11,7 @@ import pandas as pd
 from preflibtools.instances import get_parsed_instance
 from preflibtools.instances.dataset import read_info_file
 from preflibtools.properties import num_alternatives, num_voters, num_different_preferences, \
-    is_approval, has_condorcet
+    is_approval, has_condorcet, is_strict, is_complete
 from preflibtools.properties.subdomains.ordinal import is_single_peaked, is_single_peaked_pq_tree, \
     is_single_crossing
 
@@ -257,6 +257,8 @@ ALL_PROPERTIES_LIST = [
     Property("numVot", ALL_PREFERENCES_FORMATS, num_voters, False),
     Property("numUniq", ALL_ORDINAL_FORMATS, num_different_preferences, False),
     Property("isApproval", ALL_ORDINAL_FORMATS, is_approval, False),
+    Property("isStrict", ALL_ORDERS_FORMATS, is_strict, False),
+    Property("isComplete", ALL_ORDINAL_FORMATS, is_complete, False),
     # Property("hasCondorcet", ALL_ORDERS_FORMATS, has_condorcet, False),
     # Property("isSP", ("soc", "toc"), {
     #     "soc": is_single_peaked_soc,
