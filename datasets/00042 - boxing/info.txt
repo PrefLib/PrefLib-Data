@@ -10,7 +10,7 @@ Publication Date: 2022-09-25
 
 Description: <p>This dataset contains elections generated from boxing world rankings. The underlying boxing data (<a href="https://kaggle.com/martj42/ufc-rankings">kaggle.com/martj42/ufc-rankings</a>) contains the Ultimate Fighting Championship rankings of the top 16 fighters in twelve different weight classes in different weeks between February 2013 and August 2021. For each year and weight class, we created an election where each fighter is a candidate and each vote corresponds to the ranking of the fighters in one week.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete. The name of each patch starts with the relevant weight class followed by the year.</p> <p>Other sports world rankings have been used to create the table tennis world rankings and tennis world rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/boehmer-schaar">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
 
-Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/assets/bib/BoSc22.bib">Bibtex</a>).
 
 Selected Studies:
 

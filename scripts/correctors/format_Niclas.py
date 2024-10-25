@@ -155,7 +155,7 @@ def convert_new_format(in_folder, out_folder):
                 info_file.write("Description: {}\n\n".format(descr))
                 info_file.write("Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, "
                                 "Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 "
-                                "(<a href=\"/static/bib/BoSc22.bib\">Bibtex</a>).\n\n")
+                                "(<a href=\"/assets/bib/BoSc22.bib\">Bibtex</a>).\n\n")
                 info_file.write("Selected Studies:\n\n")
                 info_file.write("file_name, modification_type, relates_to, title, description, publication_date\n")
                 for instance in instances:
