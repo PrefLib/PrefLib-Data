@@ -7,7 +7,8 @@ specification.
 ## Datasets
 
 A dataset is a (zipped) folder containing data files, an  `info.txt` file and potentially a 
-`metadata.csv` file.
+`metadata.csv` file. The name of the folder is typically `num - abb` where `num` is the series 
+number of the dataset, and `abb` its abbreviation.
 
 ## Dataset `info.txt`
 
@@ -16,7 +17,6 @@ a set of metadata about the dataset, encoded in the format `MetadataName: Value`
 describes the data files of the dataset. Its format follows that of a csv file, with comma separator.
 
 Here is an example of the file, taken from the irish dataset.
-
 
 ```text
 Name: Irish Election Data
@@ -29,7 +29,7 @@ Series Number: 00001
 
 Publication Date: 2013-08-17
 
-Description: <p>The Dublin North, West, and Meath data sets contain a complete record of votes for two separate elections held in Dublin, Ireland in 2002.  The votes were posted <a href="http://www.dublincountyreturningofficer.com/">online</a> but have since been removed.</p> <p> The data sets are not complete, they contain many partial votes over the candidate set.  The North data set contains 43,942 votes over 12 candidates, the West data set contains 29,988 over 9 candidates, and the Meath set contains 64,081 votes over 14 candidates. </p> <p> The Meath data presented here was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+Description: <p>The Dublin North, West, and Meath data sets contain a complete record of votes...</p>
 
 Required Citations:
 
@@ -146,6 +146,21 @@ We now describe each of the metadata of the example header.
 Whichever the file format, all these metadata have to be present. Additional metadata 
 that are specific to the file can then be added.
 
+Here are some general formatting rules:
+- Metadata lines should all be at the start of the files.
+- There should not be line break between the metadata and the preferences section of a data file.
+- Alternative numbering should start at 1 and not at 0.
+- No two alternatives can have the same name.
+
+#### Modification Type
+
+Each data file is labeled as either Original, Induced, Imbued or Synthetic.
+
+- Original: Data that has only been converted into our formatting.
+- Induced: Data that has been induced from another context. For example, computing a pairwise relation from a set of strict total orders. No assumptions have been made to create these files, just a change in the expression language.
+- Imbued: Data that has been imbued with extra information. For example, extending an incomplete partial order by placing all unranked candidates tied at the end.
+- Synthetic: Data that has been generated artificially. It is for example, instances of the kidney matching problem generated via the art donor pool generation method.
+
 #### File Format for Ordinal Preferences
 
 The file format for ordinal preferences are SOC, SOI, TOC, TOI.
@@ -179,6 +194,8 @@ Each file format has specific constraints as to which orders can appear:
 
 It is mandatory that each file uses the most restrictive file format that is compatible with the preferences.
 So even though an SOC file can also be formatted as a TOI file, the SOC file format should be used.
+
+It is mandatory that no orders appears more than once, the multiplicity value for each order is used for that.
 
 To conclude, here is an example of the first lines of a data file of complete orders with ties (TOC) (taken from the debian election dataset).
 ```text
@@ -235,6 +252,8 @@ curly brackets, except for the categories with a single alternative. The empty c
 We provide below two examples of this encoding:
 - `1: 1, 3, {}`: 1 respondent submitted the following preferences: alternative 1 is in category 1, alternative 3 in the second category, and the last category is left empty.
 - `86: {}, 1, {2, 3}`: 86 respondents submitted the following preferences: the first category is empty, alternative 1 is in the second category and alternatives 2 and 3 are in the last category.
+
+It is mandatory that no preference appears more than once, the multiplicity value for each preference is used for that.
 
 To conclude, here is an example of the first lines of a CAT file from the French Approval dataset.
 ```text
@@ -307,10 +326,3 @@ Here is an example of the first lines of a WMD file from the Kidney dataset
 
 When miscellaneous data are needed, we use the file extension DAT which has no specified format. 
 CSV files are also sometimes used.
-
-
-- Metadata lines should all be at the start of the files.
-- There should not be line break between the metadata and the preferences section of a data file.
-- Alternative numbering should start at 1 and not at 0.
-- For the data types allowing for multiplicity, the same preference cannot appear twice, the multiplicity is there for that.
-- No two alternatives can have the same name.
