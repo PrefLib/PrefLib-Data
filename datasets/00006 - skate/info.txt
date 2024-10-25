@@ -12,7 +12,7 @@ Description: <p>This dataset contains figure skating rankings from various compe
 
 Required Citations: 
 
-Selected Studies: Warren D. Smith. <em>Analysis of the Skate Data</em>. <a href="http://rangevoting.org/Skating1998.html">Available at RangeVoting.com</a>, 2000. Sandra J. Loosemore. <em>OBO: A Detailed Analysis</em>. <a href="http://www.frogsonice.com/skateweb/obo/obo-analysis.shtml">Personal Website and Manuscript</a>, 1998.
+Selected Studies: Warren D. Smith. <em>Analysis of the Skate Data</em>. <a href="http://rangevoting.org/Skating1998.html">Available at RangeVoting.com</a>, 2000. Sandra J. Loosemore. <em>OBO: A Detailed Analysis</em>. No longer available, 1998.
 
 file_name, modification_type, relates_to, title, description, publication_date
 00006-00000001.toc, original, , Euros Men Short Program, , 2013-08-17

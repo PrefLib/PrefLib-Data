@@ -8,7 +8,7 @@ Series Number: 00010
 
 Publication Date: 2014-07-09
 
-Description: <p>This dataset contains the Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have created a toc datafile where all candidates are tied, at the end of rankings.</p> <p>Note that this dataset used to contain the Formula 1 data. A larger set of the F1 data is now available in the <a href="dataset/00052">00052</a> and <a href="dataset/00053">00053</a> datasets.</p>
+Description: <p>This dataset contains the Cross Country Skiing and Ski Jumping results from the 2006-2009 World Championships.  This data is provided by <a href="http://robert.bredereck.info/">Robert Bredereck</a> at TU Berlin.  Robert provides tools to compute Kemeny rankings on this data at his <a href="http://fpt.akt.tu-berlin.de/kconsens/README">website at TU Berlin</a>.</p> <p> The results from each competition in the season provides a rank ordering over the candidates (competitiors).  We have created a toc datafile where all candidates are tied, at the end of rankings.</p> <p>Note that this dataset used to contain the Formula 1 data. A larger set of the F1 data is now available in the <a href="/dataset/00052">00052</a> and <a href="/dataset/00053">00053</a> datasets.</p>
 
 Required Citations: 
 
