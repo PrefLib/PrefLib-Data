@@ -15,7 +15,7 @@ def zip_all():
     relevant_modif_types = ("imbued", "induced", "original", "synthetic")
     modif_to_files = {t: [] for t in relevant_modif_types}
     dataset_to_files = dict()
-    relevant_properties = ("isApproval",)
+    relevant_properties = ("isApproval", "isStrict", "isComplete")
     prop_to_files = {t: [] for t in relevant_properties}
 
     for dataset_dir in sorted(os.listdir(IN_DIR)):
