@@ -4,13 +4,26 @@ This is the full specification of the PrefLib data format. The following should 
 the reference text and the different implementation of the PrefLib ecosystem should follow this
 specification.
 
+Links:
+- [Datasets](#datasets)
+  - [Dataset `info.txt`](#dataset-infotxt)
+- [Data files](#datafiles)
+  - [Data Types](#data-types)
+  - [PrefLib File Format](#preflib-file-format)
+    - [Metadata Header](#metadata-header)
+    - [Modification Type](#modification-type)
+    - [File Formats for Ordinal Preferences](#file-formats-for-ordinal-preferences)
+    - [File Format for Categorical Preferences](#file-format-for-categorical-preferences)
+    - [File Format for Weighted Matching](#file-format-for-weighted-matching)
+    - [Extra Data File](#extra-data-file)
+
 ## Datasets
 
 A dataset is a (zipped) folder containing data files, an  `info.txt` file and potentially a 
 `metadata.csv` file. The name of the folder is typically `num - abb` where `num` is the series 
 number of the dataset, and `abb` its abbreviation.
 
-## Dataset `info.txt`
+### Dataset `info.txt`
 
 Every dataset must include an `info.txt` file. It contains two sections. The first section presents
 a set of metadata about the dataset, encoded in the format `MetadataName: Value`. The second session
@@ -48,7 +61,7 @@ Let us describe in more details the metadata:
 
 - **Name**: The name of the dataset.
 - **Abbreviation**: The abbreviation of the dataset, it should be a slug string, i.e., it can only contains letters, numbers, underscores or hyphens.
-- **Tags**: A list of tags, comma-separated, indicating the tags that apply to the dataset. There is no fix set of tags to choose from, see [the PrefLib format page](https:preflib.org/format#structure) for more information about the tags currently used.
+- **Tags**: A list of tags, comma-separated, indicating the tags that apply to the dataset.
 - **Series Number**: A unique identifier formatted as a 5-digit, zero-padded integer. The series begins with "00001" and increments by 1 for each subsequent entry, e.g., "00001", "00002", "00003", etc.
 - **Publication Date**: The date at which the dataset was publish in the PrefLib ecosystem for the first time.
 - **Description**: An HTML string that describes the dataset. This field will be rendered as is on the website [PrefLib.org](https://preflib.org/).
@@ -72,6 +85,23 @@ Among all those headers, `relates_to` and `description` can be empty. All the ot
 Note that if a comma should appear in a field (e.g., in `description`), the value of the field should be put into
 triple double quotes: `"""this is my description, with a comma."""`. This also mean that triple quotes
 should not be used for any other usage.
+
+### Dataset Tags
+
+Dataset tags are used to classify datasets based on their characteristics. These are the
+tags currently in use.
+
+- Combinatorial: The data represent combinatorial preferences over the alternatives.
+- Election: The preferences apply to a scenario in which some alternatives are to be selected/elected.
+- Experiment: The datafiles were collected as part of an experiment.
+- Matching: The preferences apply to a scenario in which alternatives are to be matched to one another.
+- Mturk: The preferences were collected on Amazon Mechanical Turk.
+- Politics: The preferences apply to a political scenario.
+- Ratings: The preferences express ratings about the alternatives.
+- Sport: The data represent sport events, interpreted as elections.
+- STV: STV (single-transferable vote) was the voting rule used for the selection of the winner.
+
+This list is not fixed. Extra tags can be added and current tags can be removed.
 
 ## Data Files
 
@@ -161,9 +191,9 @@ Each data file is labeled as either Original, Induced, Imbued or Synthetic.
 - Imbued: Data that has been imbued with extra information. For example, extending an incomplete partial order by placing all unranked candidates tied at the end.
 - Synthetic: Data that has been generated artificially. It is for example, instances of the kidney matching problem generated via the art donor pool generation method.
 
-#### File Format for Ordinal Preferences
+#### File Formats for Ordinal Preferences
 
-The file format for ordinal preferences are SOC, SOI, TOC, TOI.
+The file formats for ordinal preferences are SOC, SOI, TOC, TOI.
 These four file formats are very similar: the metadata header has the same specification, the 
 description of the preference differs.
 
@@ -282,11 +312,11 @@ To conclude, here is an example of the first lines of a CAT file from the French
 10: {1,6},{2,3,4,5,7,8,9,10,11,12,13,14,15,16}
 ```
 
-### Weighted Matching
+#### File Format for Weighted Matching
 
 The file format for weighted matching preferences is WMD.
 
-#### Metadata Header
+##### Metadata Header
 
 In addition to the metadata described above, the header of files representing weighted matching
 preferences also include the following metadata.
