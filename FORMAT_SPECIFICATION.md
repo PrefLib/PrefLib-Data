@@ -59,26 +59,26 @@ file_name, modification_type, relates_to, title, description, publication_date
 
 Let us describe in more details the metadata:
 
-- **Name**: The name of the dataset.
-- **Abbreviation**: The abbreviation of the dataset, it should be a slug string, i.e., it can only contains letters, numbers, underscores or hyphens.
-- **Tags**: A list of tags, comma-separated, indicating the tags that apply to the dataset.
-- **Series Number**: A unique identifier formatted as a 5-digit, zero-padded integer. The series begins with "00001" and increments by 1 for each subsequent entry, e.g., "00001", "00002", "00003", etc.
-- **Publication Date**: The date at which the dataset was publish in the PrefLib ecosystem for the first time.
-- **Description**: An HTML string that describes the dataset. This field will be rendered as is on the website [PrefLib.org](https://preflib.org/).
-- **Required Citations**: A list of the required citations that have to be included in every publication making use of the dataset.
-- **Selected Studies**: A list of additional references that can be useful to the users of the dataset.
+- *Name*: The name of the dataset.
+- *Abbreviation*: The abbreviation of the dataset, it should be a slug string, i.e., it can only contains letters, numbers, underscores or hyphens.
+- *Tags*: A list of tags, comma-separated, indicating the tags that apply to the dataset.
+- *Series Number*: A unique identifier formatted as a 5-digit, zero-padded integer. The series begins with "00001" and increments by 1 for each subsequent entry, e.g., "00001", "00002", "00003", etc.
+- *Publication Date*: The date at which the dataset was publish in the PrefLib ecosystem for the first time.
+- *Description*: An HTML string that describes the dataset. This field will be rendered as is on the website [PrefLib.org](https://preflib.org/).
+- *Required Citations*: A list of the required citations that have to be included in every publication making use of the dataset.
+- *Selected Studies*: A list of additional references that can be useful to the users of the dataset.
 
 All these metadata are mandatory. The value should be blank if there is no information for a given metadata.
 
 The second part of the file describes all the data files of the dataset in a csv fashion. We detail 
 the headers in the following.
 
-- **file_name**: The name of the data file.
-- **modification_type**: The modification type of the file. See below for more information on the modification type.
-- **relates_to**: The name of the file that the current file relates to. It would typically be the source file in case the current file has been derived from another one. Note that files with a relates_to attribute may be displayed less prominently than others (because the source file matters more than the imbued file).
-- **title**: The title of the data file, e.g., the year of the election it represents.
-- **description**: A brief description of the data file if some additional information are needed. This is typically left empty unless the `relates_to` field is used.
-- **publication_date**: The date at which the data file was publish in the PrefLib ecosystem for the first time.
+- *file_name*: The name of the data file.
+- *modification_type*: The modification type of the file. See below for more information on the modification type.
+- *relates_to*: The name of the file that the current file relates to. It would typically be the source file in case the current file has been derived from another one. Note that files with a relates_to attribute may be displayed less prominently than others (because the source file matters more than the imbued file).
+- *title*: The title of the data file, e.g., the year of the election it represents.
+- *description*: A brief description of the data file if some additional information are needed. This is typically left empty unless the `relates_to` field is used.
+- *publication_date*: The date at which the data file was publish in the PrefLib ecosystem for the first time.
 
 Among all those headers, `relates_to` and `description` can be empty. All the others are required to have a value.
 
@@ -91,15 +91,15 @@ should not be used for any other usage.
 Dataset tags are used to classify datasets based on their characteristics. These are the
 tags currently in use.
 
-- Combinatorial: The data represent combinatorial preferences over the alternatives.
-- Election: The preferences apply to a scenario in which some alternatives are to be selected/elected.
-- Experiment: The datafiles were collected as part of an experiment.
-- Matching: The preferences apply to a scenario in which alternatives are to be matched to one another.
-- Mturk: The preferences were collected on Amazon Mechanical Turk.
-- Politics: The preferences apply to a political scenario.
-- Ratings: The preferences express ratings about the alternatives.
-- Sport: The data represent sport events, interpreted as elections.
-- STV: STV (single-transferable vote) was the voting rule used for the selection of the winner.
+- *Combinatorial*: The data represent combinatorial preferences over the alternatives.
+- *Election*: The preferences apply to a scenario in which some alternatives are to be selected/elected.
+- *Experiment*: The datafiles were collected as part of an experiment.
+- *Matching*: The preferences apply to a scenario in which alternatives are to be matched to one another.
+- *Mturk*: The preferences were collected on Amazon Mechanical Turk.
+- *Politics*: The preferences apply to a political scenario.
+- *Ratings*: The preferences express ratings about the alternatives.
+- *Sport*: The data represent sport events, interpreted as elections.
+- *STV*: STV (single-transferable vote) was the voting rule used for the selection of the winner.
 
 This list is not fixed. Extra tags can be added and current tags can be removed.
 
@@ -113,12 +113,12 @@ mandatory to use them.
 
 The PrefLib ecosystem defines 6 different data types.
 
-- Strict Orders Complete (SOC): The SOC extension contains preferences represented by a strict and complete linear order (transitive, and asymmetric relation) over the alternatives. They are complete in the sense that every linear order contains the whole set of alternatives. They are strict in the sense that no two alternatives can be tied.
-- Strict Orders Incomplete (SOI): The SOI extension contains preferences represented by a strict and possibly incomplete linear order (transitive, and asymmetric relation) over the alternatives. They are possibly incomplete in the sense that some preferences might not contain the whole set of alternatives. They are strict in the sense that no two alternatives can be tied.
-- Tie Orders Complete (TOC): The TOC extension contains preferences represented by a transitive and complete relation over the alternatives. They are complete in the sense that every preference contains the whole set of candidates. They need not be strict: several alternatives can be tied.
-- Tie Orders Incomplete (TOI): The TOI extension contains preferences represented by a transitive and possibly incomplete relation over the alternatives. They are possibly incomplete in the sense that some preferences might not contain the whole set of alternatives. They also need not be strict: several alternatives can be tied.
-- Categorical Preferences (CAT): Files with a CAT extension describe categorical preferences. In this domain, voters are asked to organise the alternatives into pre-determined categories, for instance the categories “Yes”, “Maybe”, and “No”. There exists an underlying ranking over the categories that determine the voters' preferences. Not all alternatives have to be categorised and some categories can be left empty.
-- Weighted Matching Data (WMD): Files with a WMD extension describe a set of weighted matching data. These are weighted directed graphs, i.e., a collection of edges between the alternatives associated with a weight. 
+- *Strict Orders Complete (SOC)*: The SOC extension contains preferences represented by a strict and complete linear order (transitive, and asymmetric relation) over the alternatives. They are complete in the sense that every linear order contains the whole set of alternatives. They are strict in the sense that no two alternatives can be tied.
+- *Strict Orders Incomplete (SOI)*: The SOI extension contains preferences represented by a strict and possibly incomplete linear order (transitive, and asymmetric relation) over the alternatives. They are possibly incomplete in the sense that some preferences might not contain the whole set of alternatives. They are strict in the sense that no two alternatives can be tied.
+- *Tie Orders Complete (TOC)*: The TOC extension contains preferences represented by a transitive and complete relation over the alternatives. They are complete in the sense that every preference contains the whole set of candidates. They need not be strict: several alternatives can be tied.
+- *Tie Orders Incomplete (TOI)*: The TOI extension contains preferences represented by a transitive and possibly incomplete relation over the alternatives. They are possibly incomplete in the sense that some preferences might not contain the whole set of alternatives. They also need not be strict: several alternatives can be tied.
+- *Categorical Preferences (CAT)*: Files with a CAT extension describe categorical preferences. In this domain, voters are asked to organise the alternatives into pre-determined categories, for instance the categories “Yes”, “Maybe”, and “No”. There exists an underlying ranking over the categories that determine the voters' preferences. Not all alternatives have to be categorised and some categories can be left empty.
+- *Weighted Matching Data (WMD)*: Files with a WMD extension describe a set of weighted matching data. These are weighted directed graphs, i.e., a collection of edges between the alternatives associated with a weight. 
 
 ### PrefLib File Format
 
@@ -186,10 +186,10 @@ Here are some general formatting rules:
 
 Each data file is labeled as either Original, Induced, Imbued or Synthetic.
 
-- Original: Data that has only been converted into our formatting.
-- Induced: Data that has been induced from another context. For example, computing a pairwise relation from a set of strict total orders. No assumptions have been made to create these files, just a change in the expression language.
-- Imbued: Data that has been imbued with extra information. For example, extending an incomplete partial order by placing all unranked candidates tied at the end.
-- Synthetic: Data that has been generated artificially. It is for example, instances of the kidney matching problem generated via the art donor pool generation method.
+- *Original*: Data that has only been converted into our formatting.
+- *Induced*: Data that has been induced from another context. For example, computing a pairwise relation from a set of strict total orders. No assumptions have been made to create these files, just a change in the expression language.
+- *Imbued*: Data that has been imbued with extra information. For example, extending an incomplete partial order by placing all unranked candidates tied at the end.
+- *Synthetic*: Data that has been generated artificially. It is for example, instances of the kidney matching problem generated via the art donor pool generation method.
 
 #### File Formats for Ordinal Preferences
 
