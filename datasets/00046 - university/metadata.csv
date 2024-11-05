@@ -2,8 +2,8 @@ file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;i
 00046-00000002.soc;2;2024-10-16 17:43:04.955277;induced;38;18;18;False;True;True
 00046-00000001.soc;1;2024-10-16 17:43:04.955277;induced;47;18;18;False;True;True
 00046-00000003.soc;3;2024-10-16 17:43:04.955277;induced;200;19;19;False;True;True
-00046-00000004.soc;4;2024-10-16 17:43:04.955277;induced;208;19;19;False;True;True
 00046-00000002.soi;2;2024-10-16 17:43:04.955277;original;440;18;18;False;True;False
+00046-00000004.soc;4;2024-10-16 17:43:04.955277;induced;208;19;19;False;True;True
 00046-00000001.soi;1;2024-10-16 17:43:04.955277;original;535;18;18;False;True;False
-00046-00000004.soi;4;2024-10-16 17:43:04.955277;original;1173;19;19;False;True;False
 00046-00000003.soi;3;2024-10-16 17:43:04.955277;original;1180;19;19;False;True;False
+00046-00000004.soi;4;2024-10-16 17:43:04.955277;original;1173;19;19;False;True;False
