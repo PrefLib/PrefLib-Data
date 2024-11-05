@@ -1,0 +1,21 @@
+Name: Marble League (FKA Marble Olympics)
+
+Abbreviation: marblympics
+
+Tags: Sport
+
+Series Number: 00065
+
+Publication Date: 2024-11-05
+
+Description: <p>The Marble League (formerly known as the MarbleLympics) is an annual tournament where marbles from different teams compete against each other in a number of different sports events (<a href="https://jellesmarbleruns.fandom.com/wiki/Marble_League">see here</a> for more details.<p>For each instance of the league, several events are organised that all lead to an intermediate ranking of the competitors. In the files, each event corresponds to a voter ranking the alternatives as they were ranked in the event.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>
+
+Required Citations: Niclas Boehmer. <em>Application-oriented Collective Decision Making: Experimental Toolbox and Dynamic Environments</em>, 2023.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00065-00000001.soi, original, , Marble League 2016, , 2024-11-05
+00065-00000002.soi, original, , Marble League 2018, , 2024-11-05
+00065-00000003.soi, original, , Marble League 2019, , 2024-11-05
+00065-00000004.soi, original, , Marble League 2020, , 2024-11-05
