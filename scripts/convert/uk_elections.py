@@ -36,6 +36,22 @@ for file in sorted(os.listdir(IN_FOLDER)):
         with open(os.path.join(IN_FOLDER, file)) as f:
             lines = [l for l in f.readlines() if l]
             instance.parse_old(lines)
+        new_orders = []
+        new_multiplicities = {}
+        for order in instance.orders:
+            new_order = []
+            for indif_class in order:
+                new_indif_class = []
+                for a in indif_class:
+                    new_indif_class.append(a + 1)
+                new_indif_class = tuple(new_indif_class)
+                new_order.append(new_indif_class)
+            new_order = tuple(new_order)
+            new_orders.append(new_order)
+            new_multiplicities[new_order] = instance.multiplicity[order]
+        instance.orders = new_orders
+        instance.multiplicity = new_multiplicities
+
         instance.recompute_cardinality_param()
         instance.data_type = "soi"
         instance.infer_type()

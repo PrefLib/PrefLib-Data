@@ -1,0 +1,322 @@
+Name: Comparative Study of Electoral Systems
+
+Abbreviation: cses
+
+Tags: Election, Politics
+
+Series Number: 00067
+
+Publication Date: 2024-11-05
+
+Description: <p>This dataset presents data collected as part of the Comparative Study of Electoral Systems. This study consists of post-election studies from (federal) elections from different countries. In some of these post-election studies, participants were asked to rank all important political parties or leaders in their country that they know on a scale from 0 to 10 according to how much they agree with the views of the party. For each of the 174 post-election studies where this question was asked, we form an election with the parties as candidates. Each voter in this election then corresponds to a participant in the survey and ranks the parties according to the participant's answer. Check the <a href="https://cses.org/">website of the CSES</a> for more details.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>
+
+Required Citations: The Comparative Study of Electoral Systems. <em>CSES module 1 full release</em>, 2015. | The Comparative Study of Electoral Systems. <em>CSES module 2 full release</em>, 2015. | The Comparative Study of Electoral Systems. <em>CSES module 3 full release</em>, 2015. | The Comparative Study of Electoral Systems. <em>CSES module 4 full release</em>, 2018. | The Comparative Study of Electoral Systems. <em>CSES module 5 full release</em>, 2022.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00067-00000001.soi, original, , Albania 2005 - Leaders, , 2024-11-05
+00067-00000002.soi, original, , Albania 2005 - Parties, , 2024-11-05
+00067-00000003.soi, original, , Argentina 2015 - Leaders, , 2024-11-05
+00067-00000004.soi, original, , Argentina 2015 - Parties, , 2024-11-05
+00067-00000005.soi, original, , Australia 1996 - Leaders, , 2024-11-05
+00067-00000006.soi, original, , Australia 1996 - Parties, , 2024-11-05
+00067-00000007.soi, original, , Australia 2004 - Leaders, , 2024-11-05
+00067-00000008.soi, original, , Australia 2004 - Parties, , 2024-11-05
+00067-00000009.soi, original, , Australia 2007 - Leaders, , 2024-11-05
+00067-00000010.soi, original, , Australia 2007 - Parties, , 2024-11-05
+00067-00000011.soi, original, , Australia 2013 - Leaders, , 2024-11-05
+00067-00000012.soi, original, , Australia 2013 - Parties, , 2024-11-05
+00067-00000013.soi, original, , Austria 2008 - Parties, , 2024-11-05
+00067-00000014.soi, original, , Austria 2013 - Leaders, , 2024-11-05
+00067-00000015.soi, original, , Austria 2013 - Parties, , 2024-11-05
+00067-00000016.soi, original, , Belarus 2001 - Leaders, , 2024-11-05
+00067-00000017.soi, original, , Belarus 2001 - Parties, , 2024-11-05
+00067-00000018.soi, original, , Belarus 2008 - Leaders, , 2024-11-05
+00067-00000019.soi, original, , Belarus 2008 - Parties, , 2024-11-05
+00067-00000020.soi, original, , Belgium (Flanders) 1999 - Parties, , 2024-11-05
+00067-00000021.soi, original, , Belgium (Wallonia) 1999 - Parties, , 2024-11-05
+00067-00000022.soi, original, , Belgium 2003 - Parties, , 2024-11-05
+00067-00000023.soi, original, , Brazil 2002 - Leaders, , 2024-11-05
+00067-00000024.soi, original, , Brazil 2002 - Parties, , 2024-11-05
+00067-00000025.soi, original, , Brazil 2006 - Leaders, , 2024-11-05
+00067-00000026.soi, original, , Brazil 2006 - Parties, , 2024-11-05
+00067-00000027.soi, original, , Brazil 2010 - Leaders, , 2024-11-05
+00067-00000028.soi, original, , Brazil 2010 - Parties, , 2024-11-05
+00067-00000029.soi, original, , Brazil 2014 - Leaders, , 2024-11-05
+00067-00000030.soi, original, , Brazil 2014 - Parties, , 2024-11-05
+00067-00000031.soi, original, , Bulgaria 2001 - Parties, , 2024-11-05
+00067-00000032.soi, original, , Bulgaria 2014 - Leaders, , 2024-11-05
+00067-00000033.soi, original, , Bulgaria 2014 - Parties, , 2024-11-05
+00067-00000034.soi, original, , Canada 1997 - Leaders, , 2024-11-05
+00067-00000035.soi, original, , Canada 1997 - Parties, , 2024-11-05
+00067-00000036.soi, original, , Canada 2004 - Parties, , 2024-11-05
+00067-00000037.soi, original, , Canada 2008 - Leaders, , 2024-11-05
+00067-00000038.soi, original, , Canada 2008 - Parties, , 2024-11-05
+00067-00000039.soi, original, , Canada 2011 - Leaders, , 2024-11-05
+00067-00000040.soi, original, , Canada 2011 - Parties, , 2024-11-05
+00067-00000041.soi, original, , Canada 2015 - Leaders, , 2024-11-05
+00067-00000042.soi, original, , Canada 2015 - Parties, , 2024-11-05
+00067-00000043.soi, original, , Chile 1999 - Parties, , 2024-11-05
+00067-00000044.soi, original, , Chile 2005 - Parties, , 2024-11-05
+00067-00000045.soi, original, , Chile 2009 - Leaders, , 2024-11-05
+00067-00000046.soi, original, , Chile 2009 - Parties, , 2024-11-05
+00067-00000047.soi, original, , Croatia 2007 - Leaders, , 2024-11-05
+00067-00000048.soi, original, , Croatia 2007 - Parties, , 2024-11-05
+00067-00000049.soi, original, , Czechia 1996 - Leaders, , 2024-11-05
+00067-00000050.soi, original, , Czechia 1996 - Parties, , 2024-11-05
+00067-00000051.soi, original, , Czechia 2002 - Parties, , 2024-11-05
+00067-00000052.soi, original, , Czechia 2006 - Leaders, , 2024-11-05
+00067-00000053.soi, original, , Czechia 2006 - Parties, , 2024-11-05
+00067-00000054.soi, original, , Czechia 2010 - Leaders, , 2024-11-05
+00067-00000055.soi, original, , Czechia 2010 - Parties, , 2024-11-05
+00067-00000056.soi, original, , Czechia 2013 - Leaders, , 2024-11-05
+00067-00000057.soi, original, , Czechia 2013 - Parties, , 2024-11-05
+00067-00000058.soi, original, , Denmark 1998 - Leaders, , 2024-11-05
+00067-00000059.soi, original, , Denmark 1998 - Parties, , 2024-11-05
+00067-00000060.soi, original, , Denmark 2001 - Parties, , 2024-11-05
+00067-00000061.soi, original, , Denmark 2007 - Leaders, , 2024-11-05
+00067-00000062.soi, original, , Denmark 2007 - Parties, , 2024-11-05
+00067-00000063.soi, original, , Estonia 2011 - Leaders, , 2024-11-05
+00067-00000064.soi, original, , Estonia 2011 - Parties, , 2024-11-05
+00067-00000065.soi, original, , Finland 2003 - Parties, , 2024-11-05
+00067-00000066.soi, original, , Finland 2007 - Leaders, , 2024-11-05
+00067-00000067.soi, original, , Finland 2007 - Parties, , 2024-11-05
+00067-00000068.soi, original, , Finland 2011 - Leaders, , 2024-11-05
+00067-00000069.soi, original, , Finland 2011 - Parties, , 2024-11-05
+00067-00000070.soi, original, , Finland 2015 - Leaders, , 2024-11-05
+00067-00000071.soi, original, , Finland 2015 - Parties, , 2024-11-05
+00067-00000072.soi, original, , France 2002 - Parties, , 2024-11-05
+00067-00000073.soi, original, , France 2007 - Leaders, , 2024-11-05
+00067-00000074.soi, original, , France 2007 - Parties, , 2024-11-05
+00067-00000075.soi, original, , France 2012 - Leaders, , 2024-11-05
+00067-00000076.soi, original, , France 2012 - Parties, , 2024-11-05
+00067-00000077.soi, original, , Germany 1998 - Leaders, , 2024-11-05
+00067-00000078.soi, original, , Germany 1998 - Parties, , 2024-11-05
+00067-00000079.soi, original, , Germany 2002A - Parties, , 2024-11-05
+00067-00000080.soi, original, , Germany 2002B - Parties, , 2024-11-05
+00067-00000081.soi, original, , Germany 2005 - Leaders, , 2024-11-05
+00067-00000082.soi, original, , Germany 2005 - Parties, , 2024-11-05
+00067-00000083.soi, original, , Germany 2009 - Leaders, , 2024-11-05
+00067-00000084.soi, original, , Germany 2009 - Parties, , 2024-11-05
+00067-00000085.soi, original, , Germany 2013 - Leaders, , 2024-11-05
+00067-00000086.soi, original, , Germany 2013 - Parties, , 2024-11-05
+00067-00000087.soi, original, , Greece 2009 - Leaders, , 2024-11-05
+00067-00000088.soi, original, , Greece 2009 - Parties, , 2024-11-05
+00067-00000089.soi, original, , Greece 2012 - Leaders, , 2024-11-05
+00067-00000090.soi, original, , Greece 2012 - Parties, , 2024-11-05
+00067-00000091.soi, original, , Greece 2015 - Leaders, , 2024-11-05
+00067-00000092.soi, original, , Greece 2015 - Parties, , 2024-11-05
+00067-00000093.soi, original, , Hong Kong 1998 - Leaders, , 2024-11-05
+00067-00000094.soi, original, , Hong Kong 1998 - Parties, , 2024-11-05
+00067-00000095.soi, original, , Hong Kong 2000 - Leaders, , 2024-11-05
+00067-00000096.soi, original, , Hong Kong 2000 - Parties, , 2024-11-05
+00067-00000097.soi, original, , Hong Kong 2004 - Parties, , 2024-11-05
+00067-00000098.soi, original, , Hong Kong 2008 - Leaders, , 2024-11-05
+00067-00000099.soi, original, , Hong Kong 2008 - Parties, , 2024-11-05
+00067-00000100.soi, original, , Hong Kong 2012 - Leaders, , 2024-11-05
+00067-00000101.soi, original, , Hong Kong 2012 - Parties, , 2024-11-05
+00067-00000102.soi, original, , Hungary 1998 - Leaders, , 2024-11-05
+00067-00000103.soi, original, , Hungary 1998 - Parties, , 2024-11-05
+00067-00000104.soi, original, , Hungary 2002 - Parties, , 2024-11-05
+00067-00000105.soi, original, , Iceland 1999 - Leaders, , 2024-11-05
+00067-00000106.soi, original, , Iceland 1999 - Parties, , 2024-11-05
+00067-00000107.soi, original, , Iceland 2003 - Parties, , 2024-11-05
+00067-00000108.soi, original, , Iceland 2007 - Leaders, , 2024-11-05
+00067-00000109.soi, original, , Iceland 2007 - Parties, , 2024-11-05
+00067-00000110.soi, original, , Iceland 2009 - Leaders, , 2024-11-05
+00067-00000111.soi, original, , Iceland 2009 - Parties, , 2024-11-05
+00067-00000112.soi, original, , Iceland 2013 - Leaders, , 2024-11-05
+00067-00000113.soi, original, , Iceland 2013 - Parties, , 2024-11-05
+00067-00000114.soi, original, , Ireland 2002 - Parties, , 2024-11-05
+00067-00000115.soi, original, , Ireland 2007 - Leaders, , 2024-11-05
+00067-00000116.soi, original, , Ireland 2007 - Parties, , 2024-11-05
+00067-00000117.soi, original, , Ireland 2011 - Leaders, , 2024-11-05
+00067-00000118.soi, original, , Ireland 2011 - Parties, , 2024-11-05
+00067-00000119.soi, original, , Israel 1996 - Leaders, , 2024-11-05
+00067-00000120.soi, original, , Israel 1996 - Parties, , 2024-11-05
+00067-00000121.soi, original, , Israel 2003 - Parties, , 2024-11-05
+00067-00000122.soi, original, , Israel 2006 - Leaders, , 2024-11-05
+00067-00000123.soi, original, , Israel 2006 - Parties, , 2024-11-05
+00067-00000124.soi, original, , Israel 2013 - Leaders, , 2024-11-05
+00067-00000125.soi, original, , Israel 2013 - Parties, , 2024-11-05
+00067-00000126.soi, original, , Italy 2006 - Parties, , 2024-11-05
+00067-00000127.soi, original, , Japan 1996 - Leaders, , 2024-11-05
+00067-00000128.soi, original, , Japan 1996 - Parties, , 2024-11-05
+00067-00000129.soi, original, , Japan 2004 - Parties, , 2024-11-05
+00067-00000130.soi, original, , Japan 2007 - Leaders, , 2024-11-05
+00067-00000131.soi, original, , Japan 2007 - Parties, , 2024-11-05
+00067-00000132.soi, original, , Japan 2013 - Leaders, , 2024-11-05
+00067-00000133.soi, original, , Japan 2013 - Parties, , 2024-11-05
+00067-00000134.soi, original, , Kenya 2013 - Leaders, , 2024-11-05
+00067-00000135.soi, original, , Kenya 2013 - Parties, , 2024-11-05
+00067-00000136.soi, original, , """Korea, Republic of 2000 - Leaders""", , 2024-11-05
+00067-00000137.soi, original, , """Korea, Republic of 2000 - Parties""", , 2024-11-05
+00067-00000138.soi, original, , """Korea, Republic of 2004 - Parties""", , 2024-11-05
+00067-00000139.soi, original, , """Korea, Republic of 2008 - Leaders""", , 2024-11-05
+00067-00000140.soi, original, , """Korea, Republic of 2008 - Parties""", , 2024-11-05
+00067-00000141.soi, original, , """Korea, Republic of 2012 - Leaders""", , 2024-11-05
+00067-00000142.soi, original, , """Korea, Republic of 2012 - Parties""", , 2024-11-05
+00067-00000143.soi, original, , Kyrgyzstan 2005 - Parties, , 2024-11-05
+00067-00000144.soi, original, , Latvia 2010 - Leaders, , 2024-11-05
+00067-00000145.soi, original, , Latvia 2010 - Parties, , 2024-11-05
+00067-00000146.soi, original, , Latvia 2011 - Leaders, , 2024-11-05
+00067-00000147.soi, original, , Latvia 2011 - Parties, , 2024-11-05
+00067-00000148.soi, original, , Latvia 2014 - Leaders, , 2024-11-05
+00067-00000149.soi, original, , Latvia 2014 - Parties, , 2024-11-05
+00067-00000150.soi, original, , Lithuania 1997 - Leaders, , 2024-11-05
+00067-00000151.soi, original, , Lithuania 1997 - Parties, , 2024-11-05
+00067-00000152.soi, original, , Mexico 1997 - Leaders, , 2024-11-05
+00067-00000153.soi, original, , Mexico 1997 - Parties, , 2024-11-05
+00067-00000154.soi, original, , Mexico 2000 - Leaders, , 2024-11-05
+00067-00000155.soi, original, , Mexico 2000 - Parties, , 2024-11-05
+00067-00000156.soi, original, , Mexico 2003 - Parties, , 2024-11-05
+00067-00000157.soi, original, , Mexico 2006 - Leaders, , 2024-11-05
+00067-00000158.soi, original, , Mexico 2006 - Parties, , 2024-11-05
+00067-00000159.soi, original, , Mexico 2009 - Leaders, , 2024-11-05
+00067-00000160.soi, original, , Mexico 2009 - Parties, , 2024-11-05
+00067-00000161.soi, original, , Mexico 2012 - Leaders, , 2024-11-05
+00067-00000162.soi, original, , Mexico 2012 - Parties, , 2024-11-05
+00067-00000163.soi, original, , Mexico 2015 - Parties, , 2024-11-05
+00067-00000164.soi, original, , Montenegro 2012 - Leaders, , 2024-11-05
+00067-00000165.soi, original, , Montenegro 2012 - Parties, , 2024-11-05
+00067-00000166.soi, original, , Netherlands 1998 - Leaders, , 2024-11-05
+00067-00000167.soi, original, , Netherlands 1998 - Parties, , 2024-11-05
+00067-00000168.soi, original, , Netherlands 2002 - Parties, , 2024-11-05
+00067-00000169.soi, original, , Netherlands 2006 - Leaders, , 2024-11-05
+00067-00000170.soi, original, , Netherlands 2006 - Parties, , 2024-11-05
+00067-00000171.soi, original, , Netherlands 2010 - Leaders, , 2024-11-05
+00067-00000172.soi, original, , Netherlands 2010 - Parties, , 2024-11-05
+00067-00000173.soi, original, , New Zealand 1996 - Leaders, , 2024-11-05
+00067-00000174.soi, original, , New Zealand 1996 - Parties, , 2024-11-05
+00067-00000175.soi, original, , New Zealand 2002 - Parties, , 2024-11-05
+00067-00000176.soi, original, , New Zealand 2008 - Leaders, , 2024-11-05
+00067-00000177.soi, original, , New Zealand 2008 - Parties, , 2024-11-05
+00067-00000178.soi, original, , New Zealand 2011 - Leaders, , 2024-11-05
+00067-00000179.soi, original, , New Zealand 2011 - Parties, , 2024-11-05
+00067-00000180.soi, original, , New Zealand 2014 - Leaders, , 2024-11-05
+00067-00000181.soi, original, , New Zealand 2014 - Parties, , 2024-11-05
+00067-00000182.soi, original, , Norway 1997 - Leaders, , 2024-11-05
+00067-00000183.soi, original, , Norway 1997 - Parties, , 2024-11-05
+00067-00000184.soi, original, , Norway 2001 - Parties, , 2024-11-05
+00067-00000185.soi, original, , Norway 2005 - Leaders, , 2024-11-05
+00067-00000186.soi, original, , Norway 2005 - Parties, , 2024-11-05
+00067-00000187.soi, original, , Norway 2009 - Leaders, , 2024-11-05
+00067-00000188.soi, original, , Norway 2009 - Parties, , 2024-11-05
+00067-00000189.soi, original, , Norway 2013 - Leaders, , 2024-11-05
+00067-00000190.soi, original, , Norway 2013 - Parties, , 2024-11-05
+00067-00000191.soi, original, , Peru 2000 - Leaders, , 2024-11-05
+00067-00000192.soi, original, , Peru 2000 - Parties, , 2024-11-05
+00067-00000193.soi, original, , Peru 2001 - Leaders, , 2024-11-05
+00067-00000194.soi, original, , Peru 2001 - Parties, , 2024-11-05
+00067-00000195.soi, original, , Peru 2006 - Parties, , 2024-11-05
+00067-00000196.soi, original, , Peru 2011 - Leaders, , 2024-11-05
+00067-00000197.soi, original, , Peru 2011 - Parties, , 2024-11-05
+00067-00000198.soi, original, , Peru 2016 - Leaders, , 2024-11-05
+00067-00000199.soi, original, , Peru 2016 - Parties, , 2024-11-05
+00067-00000200.soi, original, , Philippines 2004 - Parties, , 2024-11-05
+00067-00000201.soi, original, , Philippines 2010 - Leaders, , 2024-11-05
+00067-00000202.soi, original, , Philippines 2010 - Parties, , 2024-11-05
+00067-00000203.soi, original, , Philippines 2016 - Leaders, , 2024-11-05
+00067-00000204.soi, original, , Philippines 2016 - Parties, , 2024-11-05
+00067-00000205.soi, original, , Poland 1997 - Leaders, , 2024-11-05
+00067-00000206.soi, original, , Poland 1997 - Parties, , 2024-11-05
+00067-00000207.soi, original, , Poland 2001 - Parties, , 2024-11-05
+00067-00000208.soi, original, , Poland 2005 - Leaders, , 2024-11-05
+00067-00000209.soi, original, , Poland 2005 - Parties, , 2024-11-05
+00067-00000210.soi, original, , Poland 2007 - Leaders, , 2024-11-05
+00067-00000211.soi, original, , Poland 2007 - Parties, , 2024-11-05
+00067-00000212.soi, original, , Poland 2011 - Leaders, , 2024-11-05
+00067-00000213.soi, original, , Poland 2011 - Parties, , 2024-11-05
+00067-00000214.soi, original, , Portugal 2002 - Leaders, , 2024-11-05
+00067-00000215.soi, original, , Portugal 2002 - Parties, , 2024-11-05
+00067-00000216.soi, original, , Portugal 2005 - Parties, , 2024-11-05
+00067-00000217.soi, original, , Portugal 2009 - Leaders, , 2024-11-05
+00067-00000218.soi, original, , Portugal 2009 - Parties, , 2024-11-05
+00067-00000219.soi, original, , Portugal 2015 - Leaders, , 2024-11-05
+00067-00000220.soi, original, , Portugal 2015 - Parties, , 2024-11-05
+00067-00000221.soi, original, , Romania 1996 - Leaders, , 2024-11-05
+00067-00000222.soi, original, , Romania 1996 - Parties, , 2024-11-05
+00067-00000223.soi, original, , Romania 2004 - Parties, , 2024-11-05
+00067-00000224.soi, original, , Romania 2009 - Leaders, , 2024-11-05
+00067-00000225.soi, original, , Romania 2009 - Parties, , 2024-11-05
+00067-00000226.soi, original, , Romania 2012 - Leaders, , 2024-11-05
+00067-00000227.soi, original, , Romania 2012 - Parties, , 2024-11-05
+00067-00000228.soi, original, , Romania 2014 - Leaders, , 2024-11-05
+00067-00000229.soi, original, , Romania 2014 - Parties, , 2024-11-05
+00067-00000230.soi, original, , Russian Federation 1999 - Leaders, , 2024-11-05
+00067-00000231.soi, original, , Russian Federation 1999 - Parties, , 2024-11-05
+00067-00000232.soi, original, , Russian Federation 2000 - Parties, , 2024-11-05
+00067-00000233.soi, original, , Russian Federation 2004 - Parties, , 2024-11-05
+00067-00000234.soi, original, , Serbia 2012 - Leaders, , 2024-11-05
+00067-00000235.soi, original, , Serbia 2012 - Parties, , 2024-11-05
+00067-00000236.soi, original, , Slovakia 2010 - Leaders, , 2024-11-05
+00067-00000237.soi, original, , Slovakia 2010 - Parties, , 2024-11-05
+00067-00000238.soi, original, , Slovakia 2016 - Leaders, , 2024-11-05
+00067-00000239.soi, original, , Slovakia 2016 - Parties, , 2024-11-05
+00067-00000240.soi, original, , Slovenia 1996 - Leaders, , 2024-11-05
+00067-00000241.soi, original, , Slovenia 1996 - Parties, , 2024-11-05
+00067-00000242.soi, original, , Slovenia 2004 - Parties, , 2024-11-05
+00067-00000243.soi, original, , Slovenia 2008 - Leaders, , 2024-11-05
+00067-00000244.soi, original, , Slovenia 2008 - Parties, , 2024-11-05
+00067-00000245.soi, original, , Slovenia 2011 - Leaders, , 2024-11-05
+00067-00000246.soi, original, , Slovenia 2011 - Parties, , 2024-11-05
+00067-00000247.soi, original, , South Africa 2009 - Leaders, , 2024-11-05
+00067-00000248.soi, original, , South Africa 2009 - Parties, , 2024-11-05
+00067-00000249.soi, original, , South Africa 2014 - Leaders, , 2024-11-05
+00067-00000250.soi, original, , South Africa 2014 - Parties, , 2024-11-05
+00067-00000251.soi, original, , Spain 1996 - Leaders, , 2024-11-05
+00067-00000252.soi, original, , Spain 1996 - Parties, , 2024-11-05
+00067-00000253.soi, original, , Spain 2000 - Leaders, , 2024-11-05
+00067-00000254.soi, original, , Spain 2000 - Parties, , 2024-11-05
+00067-00000255.soi, original, , Spain 2004 - Parties, , 2024-11-05
+00067-00000256.soi, original, , Spain 2008 - Leaders, , 2024-11-05
+00067-00000257.soi, original, , Spain 2008 - Parties, , 2024-11-05
+00067-00000258.soi, original, , Sweden 1998 - Leaders, , 2024-11-05
+00067-00000259.soi, original, , Sweden 1998 - Parties, , 2024-11-05
+00067-00000260.soi, original, , Sweden 2002 - Parties, , 2024-11-05
+00067-00000261.soi, original, , Sweden 2006 - Leaders, , 2024-11-05
+00067-00000262.soi, original, , Sweden 2006 - Parties, , 2024-11-05
+00067-00000263.soi, original, , Sweden 2014 - Leaders, , 2024-11-05
+00067-00000264.soi, original, , Sweden 2014 - Parties, , 2024-11-05
+00067-00000265.soi, original, , Switzerland 1999 - Leaders, , 2024-11-05
+00067-00000266.soi, original, , Switzerland 1999 - Parties, , 2024-11-05
+00067-00000267.soi, original, , Switzerland 2003 - Parties, , 2024-11-05
+00067-00000268.soi, original, , Switzerland 2007 - Leaders, , 2024-11-05
+00067-00000269.soi, original, , Switzerland 2007 - Parties, , 2024-11-05
+00067-00000270.soi, original, , Switzerland 2011 - Leaders, , 2024-11-05
+00067-00000271.soi, original, , Switzerland 2011 - Parties, , 2024-11-05
+00067-00000272.soi, original, , """Taiwan, Province of China 1996 - Leaders""", , 2024-11-05
+00067-00000273.soi, original, , """Taiwan, Province of China 1996 - Parties""", , 2024-11-05
+00067-00000274.soi, original, , """Taiwan, Province of China 2001 - Parties""", , 2024-11-05
+00067-00000275.soi, original, , """Taiwan, Province of China 2004 - Parties""", , 2024-11-05
+00067-00000276.soi, original, , """Taiwan, Province of China 2008 - Leaders""", , 2024-11-05
+00067-00000277.soi, original, , """Taiwan, Province of China 2008 - Parties""", , 2024-11-05
+00067-00000278.soi, original, , """Taiwan, Province of China 2012 - Leaders""", , 2024-11-05
+00067-00000279.soi, original, , """Taiwan, Province of China 2012 - Parties""", , 2024-11-05
+00067-00000280.soi, original, , Thailand 2001 - Leaders, , 2024-11-05
+00067-00000281.soi, original, , Thailand 2001 - Parties, , 2024-11-05
+00067-00000282.soi, original, , Thailand 2007 - Leaders, , 2024-11-05
+00067-00000283.soi, original, , Thailand 2007 - Parties, , 2024-11-05
+00067-00000284.soi, original, , Thailand 2011 - Leaders, , 2024-11-05
+00067-00000285.soi, original, , Thailand 2011 - Parties, , 2024-11-05
+00067-00000286.soi, original, , Türkiye 2011 - Leaders, , 2024-11-05
+00067-00000287.soi, original, , Türkiye 2011 - Parties, , 2024-11-05
+00067-00000288.soi, original, , Türkiye 2015 - Leaders, , 2024-11-05
+00067-00000289.soi, original, , Türkiye 2015 - Parties, , 2024-11-05
+00067-00000290.soi, original, , Ukraine 1998 - Leaders, , 2024-11-05
+00067-00000291.soi, original, , Ukraine 1998 - Parties, , 2024-11-05
+00067-00000292.soi, original, , United Kingdom 1997 - Leaders, , 2024-11-05
+00067-00000293.soi, original, , United Kingdom 1997 - Parties, , 2024-11-05
+00067-00000294.soi, original, , United Kingdom 2005 - Parties, , 2024-11-05
+00067-00000295.soi, original, , United Kingdom 2015 - Leaders, , 2024-11-05
+00067-00000296.soi, original, , United Kingdom 2015 - Parties, , 2024-11-05
+00067-00000297.soi, original, , United States 1996 - Leaders, , 2024-11-05
+00067-00000298.soi, original, , United States 1996 - Parties, , 2024-11-05
+00067-00000299.soi, original, , United States 2004 - Parties, , 2024-11-05
+00067-00000300.soi, original, , United States 2008 - Leaders, , 2024-11-05
+00067-00000301.soi, original, , United States 2008 - Parties, , 2024-11-05
+00067-00000302.soi, original, , United States 2012 - Leaders, , 2024-11-05
+00067-00000303.soi, original, , United States 2012 - Parties, , 2024-11-05
+00067-00000304.soi, original, , Uruguay 2009 - Leaders, , 2024-11-05
+00067-00000305.soi, original, , Uruguay 2009 - Parties, , 2024-11-05

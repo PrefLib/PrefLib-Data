@@ -1,3 +1,4 @@
+import sys
 import warnings
 
 from preflibtools.instances.preflibinstance import get_parsed_instance
@@ -22,8 +23,10 @@ for ds_dir in sorted(os.listdir(IN_DIR), reverse=True):
                 info_error_list.append(f"{ds_dir} - Info says {len(infos['files'])} but there are {number_files} files")
             if not set(infos["files"]) == set(f for f in os.listdir(os.path.join(IN_DIR, ds_dir)) if f not in ["info.txt", "metadata.csv"]):
                 info_error_list.append(f"{ds_dir} - Not all files in infos or some non-existing files in info")
-            for error in info_error_list:
-                warnings.warn(f"{ds_dir} - Info: {error}")
+            if info_error_list:
+                for error in info_error_list:
+                    warnings.warn(f"{ds_dir} - Info: {error}")
+                sys.exit()
         else:
             extention = os.path.splitext(file)[1][1:]
             if extention in ["soc", "toc", "soi", "toi", "cat"]:
@@ -38,4 +41,4 @@ for ds_dir in sorted(os.listdir(IN_DIR), reverse=True):
                     if order_error_list:
                         for error in order_error_list:
                             warnings.warn(f"{ds_dir} - {instance.file_name}: {error}")
-
+                        sys.exit()

@@ -8,7 +8,7 @@ Series Number: 00066
 
 Publication Date: 2024-11-05
 
-Description: <p>This dataset collects voting data from recent UK general elections. For general elections, the UK territory is divided into constituencies. In a file, each constituency is considered to be a voter, ranking the alternatives as in the election results of that constituency.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>
+Description: <p>This dataset collects voting data from recent UK general elections. For each general elections, the UK territory is divided into constituencies. In a file, each constituency is considered to be a voter, ranking the alternatives as in the election results of that constituency.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>
 
 Required Citations: Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier. <em>A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners</em>, 2022.
 
