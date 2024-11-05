@@ -1,6 +1,6 @@
-Name: United Kingdom Elections
+Name: United Kingdom General Elections
 
-Abbreviation: uk_elections
+Abbreviation: uk_general_elections
 
 Tags: Election, Politics
 

@@ -6,8 +6,8 @@ from preflibtools.instances.dataset import write_info_file
 IN_FOLDER = os.path.join("..", "..", "tmp", "uk_elections")
 
 info = {
-    "name": "United Kingdom Elections",
-    "abb": "uk_elections",
+    "name": "United Kingdom General Elections",
+    "abb": "uk_general_elections",
     "tags": ["Election", "Politics"],
     "series": "00066",
     "publication_date": "2024-11-05",
