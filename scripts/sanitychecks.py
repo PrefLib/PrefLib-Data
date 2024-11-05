@@ -8,10 +8,11 @@ import os
 
 IN_DIR = "../datasets/"
 
-for ds_dir in sorted(os.listdir(IN_DIR)):
+for ds_dir in sorted(os.listdir(IN_DIR), reverse=True):
     print("Checking {}".format(ds_dir))
     h1_written = False
     for file in os.listdir(os.path.join(IN_DIR, ds_dir)):
+        print(f"\t{file}")
         file_path = os.path.join(IN_DIR, ds_dir, file)
         if file == "info.txt":
             infos = read_info_file(file_path)
