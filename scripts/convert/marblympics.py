@@ -14,7 +14,7 @@ info = {
     "tags": ["Sport"],
     "series": "00065",
     "publication_date": "2024-11-05",
-    "description": """<p>The Marble League (formerly known as the MarbleLympics) is an annual tournament where marbles from different teams compete against each other in a number of different sports events (<a href="https://jellesmarbleruns.fandom.com/wiki/Marble_League">see here</a> for more details.<p>For each instance of the league, several events are organised that all lead to an intermediate ranking of the competitors. In the files, each event corresponds to a voter ranking the alternatives as they were ranked in the event.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>""",
+    "description": """<p>The Marble League (formerly known as the MarbleLympics) is an annual tournament where marbles from different teams compete against each other in a number of different sports events (<a href="https://jellesmarbleruns.fandom.com/wiki/Marble_League">see here</a> for more details).<p>For each instance of the league, several events are organised that all lead to an intermediate ranking of the competitors. In the files, each event corresponds to a voter ranking the alternatives as they were ranked in the event.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>""",
     "citations": "Niclas Boehmer. <em>Application-oriented Collective Decision Making: Experimental Toolbox and Dynamic Environments</em>, 2023.",
     "studies": "",
     "files": []
