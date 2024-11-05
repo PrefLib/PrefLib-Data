@@ -1,0 +1,30 @@
+Name: United Kingdom Elections
+
+Abbreviation: uk_elections
+
+Tags: Election, Politics
+
+Series Number: 00066
+
+Publication Date: 2024-11-05
+
+Description: <p>This dataset collects voting data from recent UK general elections. For general elections, the UK territory is divided into constituencies. In a file, each constituency is considered to be a voter, ranking the alternatives as in the election results of that constituency.</p><p>This dataset was donated by <a href="https://sites.google.com/view/niclas-boehmer/home">Niclas Boehmer</a>.</p>
+
+Required Citations: Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier. <em>A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners</em>, 2022.
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00066-00000001.soi, original, , General Elections February 1974, , 2024-11-05
+00066-00000002.soi, original, , General Elections October 1974, , 2024-11-05
+00066-00000003.soi, original, , General Elections 1979, , 2024-11-05
+00066-00000004.soi, original, , General Elections 1983, , 2024-11-05
+00066-00000005.soi, original, , General Elections 1987, , 2024-11-05
+00066-00000006.soi, original, , General Elections 1992, , 2024-11-05
+00066-00000007.soi, original, , General Elections 1997, , 2024-11-05
+00066-00000008.soi, original, , General Elections 2001, , 2024-11-05
+00066-00000009.soi, original, , General Elections 2005, , 2024-11-05
+00066-00000010.soi, original, , General Elections 2010, , 2024-11-05
+00066-00000011.soi, original, , General Elections 2015, , 2024-11-05
+00066-00000012.soi, original, , General Elections 2017, , 2024-11-05
+00066-00000013.soi, original, , General Elections 2019, , 2024-11-05
