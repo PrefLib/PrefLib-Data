@@ -10,6 +10,11 @@ The format specification for the PrefLib ecosystem is described in
 [FORMAT_SPECIFICATION.md](https://github.com/PrefLib/PrefLib-Data/blob/main/FORMAT_SPECIFICATION.md).
 A rendered version is available at [preflib.org/format](https://preflib.org/format)
 
+### Old file format
+
+The format for the files changed in September 2022. Since this can cause problems for application
+developed prior to that date, we still provide the old files in the folder `datasets_old_format`.
+
 ## How To
 
 ### Add/modify a dataset
@@ -37,8 +42,3 @@ action and run the workflow. The zip files from the release will slowly be updat
 **Important**: For this process to work, there needs to be a release with tag `v1.0`. If this release
 were to be deleted, re-create it ([here](https://github.com/PrefLib/PrefLib-Data/releases/new))
 before running the workflow.
-
-## Old file format
-
-The format for the files changed in September 2022. Since this can cause problems for application
-developed prior to that date, we still provide the old files in the folder `datasets_old_format`.
