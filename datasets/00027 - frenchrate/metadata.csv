@@ -1,2 +1,2 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
-00027-00000001.toc;1;2024-10-16 17:43:02.155277;original;15;398;128;True;False;True
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
+00027-00000001.toc;1;2024-10-16 17:43:02.155277;original;15;398;128;True;False;True;N/A;N/A;N/A;N/A;N/A;N/A

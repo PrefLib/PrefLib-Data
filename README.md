@@ -23,10 +23,10 @@ Follow these steps:
 
 1. Create the corresponding folder in the `datasets/` folder. The name should be `{number} - {abb}` where `number` is the series number of the dataset and `abb` its abbreviation.
 2. Move the files to the folder. This should include data files and an `info.txt` file. They should respect the format specification.
-3. Run the sanity checks: the script is `scripts/sanitychecks.py`.
+3. Run the sanity checks: the script is `scripts/sanitychecks.py` (this is also done automatically via GitHub actions on every push).
 4. Generate the metadata file: the script is `scripts/metadata/compute_metadata.py`.
 5. Push to the changes to GitHub repository.
-6. Update the ZIP archives on the repo.
+6. Update the ZIP archives on the repo, see [below](#update-the-zip-archives) for how to that.
 7. Zip the new/modified dataset using the script `scripts/zipall.py`.
 8. Update the website with the zip file (see [PrefLib-Jekyll](https://github.com/PrefLib/PrefLib-Jekyll)).
 

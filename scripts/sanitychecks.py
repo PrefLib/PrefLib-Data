@@ -8,14 +8,14 @@ import preflibtools.instances.sanity as sanity
 import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-IN_DIR = os.path.join(SCRIPT_DIR, "../datasets")
+DATASET_FOLDER = os.path.join(SCRIPT_DIR, "..", "datasets")
 
 
 def check_dataset(ds_dir, escalate_warnings):
     """Run sanity checks on a dataset directory and escalate warnings if specified."""
     print(f"Checking {ds_dir}")
-    info_file_path = os.path.join(IN_DIR, ds_dir, "info.txt")
-    dataset_files = sorted(os.listdir(os.path.join(IN_DIR, ds_dir)))
+    info_file_path = os.path.join(DATASET_FOLDER, ds_dir, "info.txt")
+    dataset_files = sorted(os.listdir(os.path.join(DATASET_FOLDER, ds_dir)))
 
     # Check info.txt file if it exists
     if "info.txt" in dataset_files:
@@ -51,7 +51,7 @@ def check_info_file(info_file_path, ds_dir, dataset_files, escalate_warnings):
 
 def check_file(ds_dir, file, escalate_warnings):
     """Run sanity checks on individual files in a dataset directory."""
-    file_path = os.path.join(IN_DIR, ds_dir, file)
+    file_path = os.path.join(DATASET_FOLDER, ds_dir, file)
     extension = os.path.splitext(file)[1][1:]
 
     if extension in ["soc", "toc", "soi", "toi", "cat"]:
@@ -87,7 +87,7 @@ def main():
     args = parser.parse_args()
 
     # Run checks on each dataset directory
-    for ds_dir in sorted(os.listdir(IN_DIR), reverse=True):
+    for ds_dir in sorted(os.listdir(DATASET_FOLDER), reverse=True):
         check_dataset(ds_dir, args.escalate_warnings)
 
 

@@ -1,3 +1,3 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
-00034-00000001.soi;1;2024-10-16 17:43:02.155277;original;36;392;372;False;True;False
-00034-00000002.soi;2;2024-10-16 17:43:02.155277;original;48;392;371;False;True;False
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
+00034-00000001.soi;1;2024-10-16 17:43:02.155277;original;36;392;372;False;True;False;N/A;N/A;N/A;N/A;N/A;N/A
+00034-00000002.soi;2;2024-10-16 17:43:02.155277;original;48;392;371;False;True;False;N/A;N/A;N/A;N/A;N/A;N/A

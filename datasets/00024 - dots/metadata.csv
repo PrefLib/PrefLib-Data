@@ -1,5 +1,5 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
-00024-00000003.soc;3;2024-10-16 17:43:02.155277;original;4;800;24;False;True;True
-00024-00000002.soc;2;2024-10-16 17:43:02.155277;original;4;794;24;False;True;True
-00024-00000001.soc;1;2024-10-16 17:43:02.155277;original;4;795;24;False;True;True
-00024-00000004.soc;4;2024-10-16 17:43:02.155277;original;4;794;24;False;True;True
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
+00024-00000001.soc;1;2024-10-16 17:43:02.155277;original;4;795;24;False;True;True;False;False;N/A;N/A;N/A;N/A
+00024-00000002.soc;2;2024-10-16 17:43:02.155277;original;4;794;24;False;True;True;False;False;N/A;N/A;N/A;N/A
+00024-00000003.soc;3;2024-10-16 17:43:02.155277;original;4;800;24;False;True;True;False;False;N/A;N/A;N/A;N/A
+00024-00000004.soc;4;2024-10-16 17:43:02.155277;original;4;794;24;False;True;True;False;False;N/A;N/A;N/A;N/A

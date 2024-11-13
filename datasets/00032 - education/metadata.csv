@@ -1,11 +1,11 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete
-00032-00000002.soc;2;2024-10-16 17:43:02.155277;original;6;15;15;False;True;True
-00032-00000005.soi;5;2024-10-16 17:43:02.155277;original;13;14;13;False;True;False
-00032-00000004.toi;4;2024-10-16 17:43:02.155277;original;12;15;15;False;False;False
-00032-00000004.toc;4;2024-10-16 17:43:02.155277;imbued;12;15;15;False;False;True
-00032-00000003.soi;3;2024-10-16 17:43:02.155277;original;6;47;46;False;True;False
-00032-00000001.soi;1;2024-10-16 17:43:02.155277;original;6;32;31;False;True;False
-00032-00000007.toc;7;2024-10-16 17:43:02.155277;imbued;20;15;15;False;False;True
-00032-00000006.toi;6;2024-10-16 17:43:02.155277;original;32;15;15;False;False;False
-00032-00000007.toi;7;2024-10-16 17:43:02.155277;original;20;15;15;False;False;False
-00032-00000006.toc;6;2024-10-16 17:43:02.155277;imbued;32;15;15;False;False;True
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
+00032-00000001.soi;1;2024-10-16 17:43:02.155277;original;6;32;31;False;True;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000002.soc;2;2024-10-16 17:43:02.155277;original;6;15;15;False;True;True;False;False;N/A;N/A;N/A;N/A
+00032-00000003.soi;3;2024-10-16 17:43:02.155277;original;6;47;46;False;True;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000004.toi;4;2024-10-16 17:43:02.155277;original;12;15;15;False;False;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000004.toc;4;2024-10-16 17:43:02.155277;imbued;12;15;15;False;False;True;False;N/A;N/A;N/A;N/A;N/A
+00032-00000005.soi;5;2024-10-16 17:43:02.155277;original;13;14;13;False;True;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000006.toi;6;2024-10-16 17:43:02.155277;original;32;15;15;False;False;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000006.toc;6;2024-10-16 17:43:02.155277;imbued;32;15;15;False;False;True;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000007.toi;7;2024-10-16 17:43:02.155277;original;20;15;15;False;False;False;N/A;N/A;N/A;N/A;N/A;N/A
+00032-00000007.toc;7;2024-10-16 17:43:02.155277;imbued;20;15;15;False;False;True;N/A;N/A;N/A;N/A;N/A;N/A
