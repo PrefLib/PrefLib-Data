@@ -19,6 +19,7 @@ from preflibtools.properties import num_alternatives, num_voters, num_different_
     is_approval, has_condorcet, is_strict, is_complete
 from preflibtools.properties.subdomains.ordinal import is_single_peaked, is_single_peaked_pq_tree, \
     is_single_crossing
+from preflibtools.properties.subdomains.ordinal.singlepeaked import is_single_peaked_on_tree
 
 
 class SPEED(IntEnum):
@@ -97,90 +98,129 @@ class Property:
         than applies_to_instance."""
         return self.applies_to is None or os.path.splitext(file_path)[1][1:] in self.applies_to
 
-    def compute_file(self, file_path: str, speed: SPEED):
+    def compute_file(self, file_path: str, speed: SPEED, pre_parsed_instance: PrefLibInstance = None):
         """Compute the property on the file passed as argument."""
         if self.applies_to_file(file_path):
             if self.is_file_property:
                 return self.compute(file_path, os.path.splitext(file_path)[1][1:])
-            instance = get_parsed_instance(file_path)
-            return self.compute_instance(instance, speed)
+            if pre_parsed_instance is None:
+                pre_parsed_instance = get_parsed_instance(file_path)
+            return self.compute_instance(pre_parsed_instance, speed)
+
+    def __str__(self):
+        return f"Prop[{self.name}]"
+
+    def __repr__(self):
+        return self.__str__()
+
+    def __hash__(self):
+        return hash(self.name)
+
+    def __eq__(self, other):
+        return self.name.__eq__(other)
+
+    def __le__(self, other):
+        return self.name.__le__(other)
+
+    def __lt__(self, other):
+        return self.name.__lt__(other)
+
+    def __ge__(self, other):
+        return self.name.__ge__(other)
+
+    def __gt__(self, other):
+        return self.name.__gt__(other)
 
 
-def compute_file_properties(file_path: str, property_list: Iterable[Property], speed: SPEED):
+def compute_file_properties(file_path_and_property_list: Collection[str, Iterable[Property]], speed: SPEED):
     """Computes the properties for a given file."""
+    file_path, property_list = file_path_and_property_list
     if file_path[-3:] not in ("soc", "soi", "toc", "toi", "cat", "wmd"):
-        return None
+        return None, None
     file_name = os.path.basename(file_path)
     print(f"\t{file_name}")
     results = {}
+    instance = get_parsed_instance(file_path)
     for prop in property_list:
-        res = prop.compute_file(file_path, speed)
+        res = prop.compute_file(file_path, speed, pre_parsed_instance=instance)
         if res is not None:
             results[prop.name] = res
-    return results
+    return file_name, results
 
 
 def compute_dataset_metadata(
         root_dir_path: str,
-        property_list: Iterable[Property],
+        all_considered_properties: Iterable[Property],
         speed: SPEED,
         max_num_processes: int = 4,
+        properties_to_compute: Iterable[Property] = None,
         force_recompute: bool = False
 ):
     """Computes the metadata for a dataset spanning multiple processes. Skips files that have not
-    been modified since last computation."""
+    been modified since last computation.
+
+    Computes the properties passed in properties_to_compute. If properties_to_compute is None, then all properties are
+    computed.
+
+    If force_recompute = True, properties are compute for all files and not just the ones that have been modified since
+    last computation.
+    """
     print(f"Computing for {root_dir_path}")
     info = read_info_file(os.path.join(root_dir_path, "info.txt"))
 
     # Retrieve the current metadata info if existing
     metadata_file_path = os.path.join(root_dir_path, "metadata.csv")
-    old_metadata = dict()
     old_headers = set()
-    if not force_recompute:
-        old_metadata = dict()
-        if os.path.exists(metadata_file_path):
-            with open(metadata_file_path, "r", encoding="utf-8") as f:
-                reader = csv.DictReader(f, delimiter=";")
-                old_metadata = {r["file"]: r for r in reader}
-                for meta_dict in old_metadata.values():
-                    old_headers = set(meta_dict)
-                    break
+    old_metadata = dict()
+    if os.path.exists(metadata_file_path):
+        with open(metadata_file_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f, delimiter=";")
+            old_metadata = {r["file"]: r for r in reader}
+            for meta_dict in old_metadata.values():
+                old_headers = set(meta_dict)
+                break
 
     # Discard the content of the metadata file and write the header
-    headers = [p.name for p in property_list]
+    headers = [p.name for p in all_considered_properties]
     with open(metadata_file_path, "w", encoding="utf-8") as out_file:
         out_file.write(";".join(headers) + "\n")
     if set(headers) != old_headers:
         force_recompute = True
 
     # Collect all files that are to be updated: those that have been modified since last time
-    files = []
-    all_metadata_rows = []
+    file_paths_to_compute_properties = dict()
+    all_metadata_rows = dict()
     for file in info["files"]:
         file_path = os.path.join(root_dir_path, file)
         if force_recompute:
-            files.append(file_path)
+            file_paths_to_compute_properties[file_path] = all_considered_properties
         else:
             last_modif = old_metadata.get(file, dict()).get("last_modif")
             if last_modif is not None:
                 last_modif = dateutil.parser.parse(last_modif)
             current_modif_time = get_last_modif_time(file_path)
             if last_modif is None or current_modif_time > last_modif:
-                files.append(file_path)
+                file_paths_to_compute_properties[file_path] = all_considered_properties
             else:
-                all_metadata_rows.append(old_metadata[file])
+                file_paths_to_compute_properties[file_path] = list(properties_to_compute)
+                all_metadata_rows[file] = old_metadata[file]
 
     # Compute the necessary metadata in a pool
     file_pool = Pool(min(max_num_processes, os.cpu_count()))
-    compute_with_fixed_params = partial(compute_file_properties, property_list=property_list,
-                                        speed=speed)
-    for metadata in file_pool.imap_unordered(compute_with_fixed_params, files):
+    compute_with_fixed_params = partial(compute_file_properties, speed=speed)
+    for file, metadata in file_pool.imap_unordered(compute_with_fixed_params, file_paths_to_compute_properties.items()):
         if metadata is not None:
-            all_metadata_rows.append(metadata)
+            row = all_metadata_rows.get(file)
+            # If a row already exists, we update with the new values
+            if row:
+                for m, v in metadata.items():
+                    row[m] = v
+            else:
+                all_metadata_rows[file] = metadata
 
     # Include the non-computed ones
     with open(metadata_file_path, "a", encoding="utf-8") as out_file:
-        for metadata in sorted(all_metadata_rows, key=metadata_ordering_key):
+        for metadata in sorted(all_metadata_rows.values(), key=metadata_ordering_key):
             meta_write = [str(metadata[h]) if h in metadata else "N/A" for h in headers]
             out_file.write(";".join(meta_write) + "\n")
 
@@ -222,18 +262,25 @@ def get_modification_type(file_path):
 
 
 def is_single_crossing_soc(instance):
-    if len(instance.alternatives_name) < 100:
-        return is_single_peaked(instance)[0]
+    return is_single_crossing(instance)[0]
 
 
 def is_single_peaked_soc(instance):
-    if len(instance.alternatives_name) < 100:
-        return is_single_peaked(instance)[0]
+    return is_single_peaked(instance)[0]
 
 
 def is_single_peaked_toc(instance):
     if len(instance.alternatives_name) < 15:
         return is_single_peaked_pq_tree(instance)
+
+
+def is_single_peaked_on_tree_soc(instance):
+    return is_single_peaked_on_tree(instance)[0]
+
+
+def bounded_has_condorcet(instance):
+    if len(instance.alternatives_name) < 500:
+        return has_condorcet(instance)
 
 
 def none_func(x):
@@ -254,19 +301,17 @@ ALL_PROPERTIES_LIST = [
     Property("isApproval", ALL_ORDINAL_FORMATS, is_approval, False),
     Property("isStrict", ALL_ORDERS_FORMATS, is_strict, False),
     Property("isComplete", ALL_ORDINAL_FORMATS, is_complete, False),
-    Property("hasCondorcet", ALL_ORDERS_FORMATS, has_condorcet, False, speed=SPEED.SLOW),
+    Property("hasCondorcet", ALL_ORDERS_FORMATS, bounded_has_condorcet, False),
     Property("isSP", ("soc", "toc"), {
         "soc": is_single_peaked_soc,
         "toc": is_single_peaked_toc}, False),
     Property("isSC", ("soc",), is_single_crossing_soc, False),
-    Property("isSPCircle", ("soc",), none_func, False),
-    Property("isSPTree", ("soc",), none_func, False),
-    Property("isEuclid", ("soc",), none_func, False),
-    Property("is1Euclid", ("soc",), none_func, False),
+    Property("isSPTree", ("soc",), is_single_peaked_on_tree_soc, False),
 ]
+ALL_PROPERTIES_BY_NAME = {p.name: p for p in ALL_PROPERTIES_LIST}
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATASET_FOLDER = os.path.join(SCRIPT_DIR, "..", "..", "datasets")
+DATASET_FOLDER = os.path.join(SCRIPT_DIR, "..", "datasets")
 
 
 def main():
@@ -283,7 +328,13 @@ def main():
     filtered_properties = [p for p in ALL_PROPERTIES_LIST if p.is_fast_enough(speed)]
 
     for ds_dir in sorted(os.listdir(DATASET_FOLDER), reverse=True):
-        compute_dataset_metadata(os.path.join(DATASET_FOLDER, ds_dir), filtered_properties, speed, force_recompute=True)
+        compute_dataset_metadata(
+            os.path.join(DATASET_FOLDER, ds_dir),
+            ALL_PROPERTIES_LIST,
+            speed,
+            force_recompute=False,
+            properties_to_compute=filtered_properties
+        )
 
 
 if __name__ == '__main__':

@@ -1,2 +1,2 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
-00050-00000001.soc;1;2024-10-16 17:43:05.263277;original;216;12;12;False;True;True;N/A;N/A;N/A;N/A;N/A;N/A
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00050-00000001.soc;1;2024-11-14 09:36:08.669345;original;216;12;12;False;True;True;False;False;False;False

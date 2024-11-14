@@ -1,4 +1,4 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;isSP;isSC;isSPCircle;isSPTree;isEuclid;is1Euclid
-00037-00000001.cat;1;2024-10-16 17:43:04.139277;original;613;201;201;False;N/A;False;N/A;N/A;N/A;N/A;N/A;N/A
-00037-00000002.cat;2;2024-10-16 17:43:04.139277;original;442;161;161;False;N/A;False;N/A;N/A;N/A;N/A;N/A;N/A
-00037-00000003.cat;3;2024-10-16 17:43:04.139277;original;526;667;667;False;N/A;True;N/A;N/A;N/A;N/A;N/A;N/A
+file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00037-00000001.cat;1;2024-11-14 09:36:06.562526;original;613;201;201;False;N/A;False;N/A;N/A;N/A;N/A
+00037-00000002.cat;2;2024-11-14 09:36:06.563526;original;442;161;161;False;N/A;False;N/A;N/A;N/A;N/A
+00037-00000003.cat;3;2024-11-14 09:36:06.566526;original;526;667;667;False;N/A;True;N/A;N/A;N/A;N/A

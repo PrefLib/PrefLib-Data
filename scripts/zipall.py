@@ -15,7 +15,7 @@ def zip_all():
     relevant_modif_types = ("imbued", "induced", "original", "synthetic")
     modif_to_files = {t: [] for t in relevant_modif_types}
     dataset_to_files = dict()
-    relevant_properties = ("isApproval", "isStrict", "isComplete")
+    relevant_properties = ("isApproval", "isStrict", "isComplete", "isSP", "isSC", "isSPTree")
     prop_to_files = {t: [] for t in relevant_properties}
 
     for dataset_dir in sorted(os.listdir(IN_DIR)):
@@ -65,9 +65,9 @@ def zip_all():
             for file_path in all_files:
                 zip_file.write(file_path, os.path.basename(file_path))
 
-    for property, all_files in prop_to_files.items():
-        print(f"Zipping {property}")
-        with zipfile.ZipFile(os.path.join(OUT_DIR, "prop_" + property + ".zip"), "w",
+    for prop, all_files in prop_to_files.items():
+        print(f"Zipping {prop}")
+        with zipfile.ZipFile(os.path.join(OUT_DIR, "prop_" + prop + ".zip"), "w",
                              zipfile.ZIP_DEFLATED) as zip_file:
             for file_path in all_files:
                 zip_file.write(file_path, os.path.basename(file_path))
