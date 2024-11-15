@@ -137,8 +137,10 @@ def compute_file_properties(file_path_and_property_list: Collection[str, Iterabl
     file_path, property_list = file_path_and_property_list
     if file_path[-3:] not in ("soc", "soi", "toc", "toi", "cat", "wmd"):
         return None, None
+    if len(property_list) == 0:
+        return None, None
     file_name = os.path.basename(file_path)
-    print(f"\t{file_name}")
+    print(f"\t{file_name} - {tuple(p.name for p in property_list)}")
     results = {}
     instance = get_parsed_instance(file_path)
     for prop in property_list:
@@ -153,18 +155,19 @@ def compute_dataset_metadata(
         all_considered_properties: Iterable[Property],
         speed: SPEED,
         max_num_processes: int = 4,
-        properties_to_compute: Iterable[Property] = None,
+        properties_to_always_compute: Iterable[Property] = None,
         force_recompute: bool = False
 ):
     """Computes the metadata for a dataset spanning multiple processes. Skips files that have not
     been modified since last computation.
 
-    Computes the properties passed in properties_to_compute. If properties_to_compute is None, then all properties are
-    computed.
-
     If force_recompute = True, properties are compute for all files and not just the ones that have been modified since
     last computation.
+
+    The properties in properties_to_always_compute are always recomputed.
     """
+    if properties_to_always_compute is None:
+        properties_to_always_compute = []
     print(f"Computing for {root_dir_path}")
     info = read_info_file(os.path.join(root_dir_path, "info.txt"))
 
@@ -202,7 +205,12 @@ def compute_dataset_metadata(
             if last_modif is None or current_modif_time > last_modif:
                 file_paths_to_compute_properties[file_path] = all_considered_properties
             else:
-                file_paths_to_compute_properties[file_path] = list(properties_to_compute)
+                old_meta = old_metadata[file]
+                properties_to_compute = list(properties_to_always_compute)
+                for prop in all_considered_properties:
+                    if prop not in properties_to_always_compute and old_meta[prop.name] == "N/A":
+                        properties_to_compute.append(prop)
+                file_paths_to_compute_properties[file_path] = list(properties_to_always_compute)
                 all_metadata_rows[file] = old_metadata[file]
 
     # Compute the necessary metadata in a pool
@@ -333,7 +341,7 @@ def main():
             ALL_PROPERTIES_LIST,
             speed,
             force_recompute=False,
-            properties_to_compute=filtered_properties
+            properties_to_always_compute=[]
         )
 
 

@@ -1,3 +1,3 @@
 file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00062-00000001.soc;1;2024-11-14 09:36:24.167389;original;8;19;19;False;True;True;False;False;False;True
-00062-00000002.soc;2;2024-11-14 09:36:24.167389;original;8;19;18;False;True;True;False;False;False;False
+00062-00000001.soc;1;2024-10-17 12:09:33.864643;original;8;19;19;False;True;True;False;False;False;True
+00062-00000002.soc;2;2024-10-17 12:09:33.864643;original;8;19;18;False;True;True;False;False;False;False

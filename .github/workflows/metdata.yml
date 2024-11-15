@@ -1,0 +1,47 @@
+name: Run Sanity Checks
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+
+jobs:
+  sanity_checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Specify the version you need, e.g., '3.8'
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Run the compute_metadata.py script
+      - name: Run sanity checks
+        run: python scripts/compute_metadata.py
+
+      # Step 5: Push the metadata files back to the repo
+      - name: Deploy docs to the repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Assuming the built docs are in the /docs directory
+          git add '**/metadata.csv'
+          git commit -m "Bot: Auto-Generation of the metadata.csv files" 
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub provides this token for auth
