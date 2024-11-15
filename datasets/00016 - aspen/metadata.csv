@@ -1,5 +1,5 @@
 file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00016-00000001.toi;1;2024-11-14 09:36:02.884132;original;11;2477;1760;False;False;False;True;N/A;N/A;N/A
-00016-00000001.toc;1;2024-11-14 09:36:02.882630;imbued;11;2477;1760;False;False;True;True;False;N/A;N/A
-00016-00000002.toi;2;2024-11-14 09:36:02.884132;original;5;2527;112;False;False;False;True;N/A;N/A;N/A
-00016-00000002.toc;2;2024-11-14 09:36:02.884132;imbued;5;2527;108;False;False;True;True;False;N/A;N/A
+00016-00000001.toi;1;2024-11-15 12:55:27.254337;original;11;2477;1760;False;False;False;True;N/A;N/A;N/A
+00016-00000001.toc;1;2024-11-15 12:55:27.254337;imbued;11;2477;1760;False;False;True;True;False;N/A;N/A
+00016-00000002.toi;2;2024-11-15 12:55:27.254337;original;5;2527;112;False;False;False;True;N/A;N/A;N/A
+00016-00000002.toc;2;2024-11-15 12:55:27.254337;imbued;5;2527;108;False;False;True;True;False;N/A;N/A

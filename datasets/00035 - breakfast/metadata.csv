@@ -1,7 +1,7 @@
 file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00035-00000002.soc;2;2024-11-14 09:36:02.935133;original;15;42;42;False;True;True;True;False;False;True
-00035-00000003.soc;3;2024-11-14 09:36:02.936133;original;15;42;42;False;True;True;True;False;False;False
-00035-00000004.soc;4;2024-11-14 09:36:02.936133;original;15;42;42;False;True;True;True;False;False;False
-00035-00000005.soc;5;2024-11-14 09:36:02.936133;original;15;42;41;False;True;True;True;False;False;False
-00035-00000006.soc;6;2024-11-14 09:36:02.936133;original;15;42;41;False;True;True;True;False;False;False
-00035-00000007.soc;7;2024-11-14 09:36:02.936133;original;15;42;42;False;True;True;True;False;False;True
+00035-00000002.soc;2;2024-11-15 12:55:27.278337;original;15;42;42;False;True;True;True;False;False;True
+00035-00000003.soc;3;2024-11-15 12:55:27.278337;original;15;42;42;False;True;True;True;False;False;False
+00035-00000004.soc;4;2024-11-15 12:55:27.278337;original;15;42;42;False;True;True;True;False;False;False
+00035-00000005.soc;5;2024-11-15 12:55:27.278337;original;15;42;41;False;True;True;True;False;False;False
+00035-00000006.soc;6;2024-11-15 12:55:27.278337;original;15;42;41;False;True;True;True;False;False;False
+00035-00000007.soc;7;2024-11-15 12:55:27.278337;original;15;42;42;False;True;True;True;False;False;True
