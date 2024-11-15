@@ -345,6 +345,7 @@ def main():
     )
     args = parser.parse_args()
 
+    # The speed mechanism is just not used in the end
     speed = SPEED_MAPPING[args.speed]
     filtered_properties = [p for p in ALL_PROPERTIES_LIST if p.is_fast_enough(speed)]
 
