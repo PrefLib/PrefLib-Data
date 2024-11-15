@@ -37,7 +37,11 @@ jobs:
           
           # Assuming the built docs are in the /docs directory
           git add '**/metadata.csv'
-          git commit -m "Bot: Auto-Generation of the metadata.csv files" 
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit, skipping push."
+          else
+            git commit -m "Bot: Auto-Generation of the metadata.csv files"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub provides this token for auth
