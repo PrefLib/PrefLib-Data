@@ -26,9 +26,11 @@ Follow these steps:
 3. Run the sanity checks: the script is `scripts/sanitychecks.py` (this is also done automatically via GitHub actions on every push).
 4. Generate the metadata file: the script is `scripts/compute_metadata.py`. You can also do that by running the [Generate the metadata.csv files](https://github.com/PrefLib/PrefLib-Data/actions/workflows/metdata.yml) GitHub action (click on "Run workflow").
 5. Push to the changes to GitHub repository.
-6. Update the ZIP archives on the repo, see [below](#update-the-zip-archives) for how to that.
+6. Update the ZIP archives on the repo via the action [Generate and Upload Zip Files](https://github.com/PrefLib/PrefLib-Data/actions/workflows/releasezip.yml) (see [below](#update-the-zip-archives) for more details).
 7. Zip the new/modified dataset using the script `scripts/zipall.py`.
 8. Update the website with the zip file as explained in the repository [PrefLib-Jekyll](https://github.com/PrefLib/PrefLib-Jekyll).
+
+If the data has been added via a pull request, you do not need to clone the repo. You can simply merge the PR; wait for the sanity checks to run; compute the metadata via the GitHub action; update the zip in the release via the GitHub action; and you're done. Then, move to [PrefLib-Jekyll](https://github.com/PrefLib/PrefLib-Jekyll) to update the website.
 
 ### Update the zip archives
 
