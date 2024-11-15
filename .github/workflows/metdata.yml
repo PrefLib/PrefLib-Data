@@ -26,11 +26,11 @@ jobs:
           pip install -r requirements.txt
 
       # Step 4: Run the compute_metadata.py script
-      - name: Run sanity checks
+      - name: Update the metadata files
         run: python scripts/compute_metadata.py
 
       # Step 5: Push the metadata files back to the repo
-      - name: Deploy docs to the repository
+      - name: Push the files to the repository
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"

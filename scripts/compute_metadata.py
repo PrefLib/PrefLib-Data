@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import os
 import pathlib
 from collections.abc import Iterable, Callable, Collection
@@ -140,7 +141,7 @@ def compute_file_properties(file_path_and_property_list: Collection[str, Iterabl
     if len(property_list) == 0:
         return None, None
     file_name = os.path.basename(file_path)
-    print(f"\t{file_name} - {tuple(p.name for p in property_list)}")
+    print(f"\tComputing on {file_name} - {tuple(p.name for p in property_list)}")
     results = {}
     instance = get_parsed_instance(file_path)
     for prop in property_list:
@@ -156,7 +157,8 @@ def compute_dataset_metadata(
         speed: SPEED,
         max_num_processes: int = 4,
         properties_to_always_compute: Iterable[Property] = None,
-        force_recompute: bool = False
+        force_recompute: bool = False,
+        verbose: bool = False
 ):
     """Computes the metadata for a dataset spanning multiple processes. Skips files that have not
     been modified since last computation.
@@ -173,22 +175,16 @@ def compute_dataset_metadata(
 
     # Retrieve the current metadata info if existing
     metadata_file_path = os.path.join(root_dir_path, "metadata.csv")
-    old_headers = set()
     old_metadata = dict()
     if os.path.exists(metadata_file_path):
         with open(metadata_file_path, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter=";")
             old_metadata = {r["file"]: r for r in reader}
-            for meta_dict in old_metadata.values():
-                old_headers = set(meta_dict)
-                break
 
     # Discard the content of the metadata file and write the header
     headers = [p.name for p in all_considered_properties]
     with open(metadata_file_path, "w", encoding="utf-8") as out_file:
         out_file.write(";".join(headers) + "\n")
-    if set(headers) != old_headers:
-        force_recompute = True
 
     # Collect all files that are to be updated: those that have been modified since last time
     file_paths_to_compute_properties = dict()
@@ -197,19 +193,27 @@ def compute_dataset_metadata(
         file_path = os.path.join(root_dir_path, file)
         if force_recompute:
             file_paths_to_compute_properties[file_path] = all_considered_properties
+            if verbose:
+                print(f"\t{file} - force_recompute is True, we recompute everything.")
         else:
-            last_modif = old_metadata.get(file, dict()).get("last_modif")
-            if last_modif is not None:
-                last_modif = dateutil.parser.parse(last_modif)
-            current_modif_time = get_last_modif_time(file_path)
-            if last_modif is None or current_modif_time > last_modif:
+            last_md5 = old_metadata.get(file, dict()).get("md5")
+            current_md5 = get_md5(file_path)
+            if last_md5 is None or current_md5 != last_md5:
                 file_paths_to_compute_properties[file_path] = all_considered_properties
+                if verbose:
+                    print(f"\t{file} - MD5 has changed, we recompute everything.")
             else:
                 old_meta = old_metadata[file]
                 properties_to_compute = list(properties_to_always_compute)
+                # We force recompute the NAs in case
                 for prop in all_considered_properties:
-                    if prop not in properties_to_always_compute and old_meta[prop.name] == "N/A":
+                    if prop not in properties_to_always_compute and old_meta.get(prop.name) == "N/A":
                         properties_to_compute.append(prop)
+                if verbose:
+                    if len(properties_to_compute) > 0:
+                        print(f"\t{file} - MD5 is the same, we still compute: {properties_to_compute}.")
+                    else:
+                        print(f"\t{file} - MD5 is the same, there is nothing to recompute.")
                 file_paths_to_compute_properties[file_path] = list(properties_to_always_compute)
                 all_metadata_rows[file] = old_metadata[file]
 
@@ -263,6 +267,14 @@ def get_last_modif_time(file_path):
     return datetime.fromtimestamp(pathlib.Path(file_path).stat().st_mtime)
 
 
+def get_md5(file_path):
+    hash_md5 = hashlib.md5()
+    with open(file_path, 'rb') as f:
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_md5.update(chunk)
+    return str(hash_md5.hexdigest())
+
+
 def get_modification_type(file_path):
     ds_dir = os.path.abspath(os.path.join(file_path, os.pardir))
     info = read_info_file(os.path.join(ds_dir, "info.txt"))
@@ -302,6 +314,7 @@ ALL_PROPERTIES_LIST = [
     Property("file", None, get_file_name, True),
     Property("file_number", None, get_file_number, True),
     Property("last_modif", None, get_last_modif_time, True),
+    Property("md5", None, get_md5, True),
     Property("modification_type", None, get_modification_type, True),
     Property("numAlt", ALL_PREFERENCES_FORMATS, num_alternatives, False),
     Property("numVot", ALL_PREFERENCES_FORMATS, num_voters, False),

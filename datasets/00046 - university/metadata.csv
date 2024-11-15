@@ -1,9 +1,9 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00046-00000001.soi;1;2024-10-16 17:43:04.955277;original;535;18;18;False;True;False;N/A;N/A;N/A;N/A
-00046-00000001.soc;1;2024-10-16 17:43:04.955277;induced;47;18;18;False;True;True;True;False;False;False
-00046-00000002.soi;2;2024-10-16 17:43:04.955277;original;440;18;18;False;True;False;False;N/A;N/A;N/A
-00046-00000002.soc;2;2024-10-16 17:43:04.955277;induced;38;18;18;False;True;True;True;False;False;False
-00046-00000003.soi;3;2024-10-16 17:43:04.955277;original;1180;19;19;False;True;False;N/A;N/A;N/A;N/A
-00046-00000003.soc;3;2024-10-16 17:43:04.955277;induced;200;19;19;False;True;True;True;False;False;False
-00046-00000004.soi;4;2024-10-16 17:43:04.955277;original;1173;19;19;False;True;False;N/A;N/A;N/A;N/A
-00046-00000004.soc;4;2024-10-16 17:43:04.955277;induced;208;19;19;False;True;True;True;False;False;False
+file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00046-00000001.soi;1;2024-10-16 17:43:04.955277;88652c416d75032a2b2bc91ff0ed5c53;original;535;18;18;False;True;False;N/A;N/A;N/A;N/A
+00046-00000001.soc;1;2024-10-16 17:43:04.955277;70ca4b5d8ca178c63db952aad2b64676;induced;47;18;18;False;True;True;True;False;False;False
+00046-00000002.soi;2;2024-10-16 17:43:04.955277;9c46b0e7dfab31ff781b539b6189bf26;original;440;18;18;False;True;False;False;N/A;N/A;N/A
+00046-00000002.soc;2;2024-10-16 17:43:04.955277;9178a4e6c446e7540488840002858f25;induced;38;18;18;False;True;True;True;False;False;False
+00046-00000003.soi;3;2024-10-16 17:43:04.955277;21fe4dc30017d7b1c1de546031da4765;original;1180;19;19;False;True;False;N/A;N/A;N/A;N/A
+00046-00000003.soc;3;2024-10-16 17:43:04.955277;e3434a380a90cf6e0aedbcad2d33e64d;induced;200;19;19;False;True;True;True;False;False;False
+00046-00000004.soi;4;2024-10-16 17:43:04.955277;c3cc2ed04805450241bf763630814e74;original;1173;19;19;False;True;False;N/A;N/A;N/A;N/A
+00046-00000004.soc;4;2024-10-16 17:43:04.955277;8b75c274c427c7f99694aab1b91b7021;induced;208;19;19;False;True;True;True;False;False;False

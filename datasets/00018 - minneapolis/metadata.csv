@@ -1,9 +1,9 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00018-00000001.soi;1;2024-11-14 09:36:02.886133;original;379;36655;721;False;True;False;True;N/A;N/A;N/A
-00018-00000001.toc;1;2024-11-14 09:36:02.887133;imbued;379;36655;721;False;False;True;True;N/A;N/A;N/A
-00018-00000002.soi;2;2024-11-14 09:36:02.888134;original;9;36655;470;False;True;False;True;N/A;N/A;N/A
-00018-00000002.toc;2;2024-11-14 09:36:02.888134;imbued;9;36655;470;False;False;True;True;False;N/A;N/A
-00018-00000003.soi;3;2024-11-14 09:36:02.888134;original;477;32086;552;False;True;False;True;N/A;N/A;N/A
-00018-00000003.toc;3;2024-11-14 09:36:02.890133;imbued;477;32086;552;False;False;True;True;N/A;N/A;N/A
-00018-00000004.soi;4;2024-11-14 09:36:02.890133;original;7;32086;210;False;True;False;True;N/A;N/A;N/A
-00018-00000004.toc;4;2024-11-14 09:36:02.890133;imbued;7;32086;210;False;False;True;True;False;N/A;N/A
+file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00018-00000001.soi;1;2024-10-16 17:43:02.147277;23393a4087242ea0bf3080293cb5d8d3;original;379;36655;721;False;True;False;True;N/A;N/A;N/A
+00018-00000001.toc;1;2024-10-16 17:43:02.147277;67aba6b1e9869a972bb012b04a5c6322;imbued;379;36655;721;False;False;True;True;N/A;N/A;N/A
+00018-00000002.soi;2;2024-10-16 17:43:02.147277;e56fbc952befe1c5d11109d49afabb15;original;9;36655;470;False;True;False;True;N/A;N/A;N/A
+00018-00000002.toc;2;2024-10-16 17:43:02.147277;711697770d5770c7562e8aa8597fb774;imbued;9;36655;470;False;False;True;True;False;N/A;N/A
+00018-00000003.soi;3;2024-10-16 17:43:02.147277;497dbbe999e3d452f4069179337520ad;original;477;32086;552;False;True;False;True;N/A;N/A;N/A
+00018-00000003.toc;3;2024-10-16 17:43:02.147277;7fa19f573973c4f48d699df164f9c701;imbued;477;32086;552;False;False;True;True;N/A;N/A;N/A
+00018-00000004.soi;4;2024-10-16 17:43:02.147277;e5e0e79d384b072609935682ec6764cc;original;7;32086;210;False;True;False;True;N/A;N/A;N/A
+00018-00000004.toc;4;2024-10-16 17:43:02.147277;5bd400427a8033824985a90efeb7942b;imbued;7;32086;210;False;False;True;True;False;N/A;N/A

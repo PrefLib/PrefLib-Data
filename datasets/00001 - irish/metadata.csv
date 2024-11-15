@@ -1,7 +1,7 @@
-file;file_number;last_modif;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00001-00000001.soi;1;2024-11-14 09:36:02.618203;original;12;43942;19299;False;True;False;True;N/A;N/A;N/A
-00001-00000001.toc;1;2024-11-14 09:36:02.620203;imbued;12;43942;19297;False;False;True;True;False;N/A;N/A
-00001-00000002.soi;2;2024-11-14 09:36:02.621203;original;9;29988;10335;False;True;False;True;N/A;N/A;N/A
-00001-00000002.toc;2;2024-11-14 09:36:02.622202;imbued;9;29988;10230;False;False;True;True;False;N/A;N/A
-00001-00000003.soi;3;2024-11-14 09:36:02.625202;original;14;64081;25101;False;True;False;True;N/A;N/A;N/A
-00001-00000003.toc;3;2024-11-14 09:36:02.628202;imbued;14;64081;25097;False;False;True;True;False;N/A;N/A
+file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00001-00000001.soi;1;2024-10-16 17:43:02.035277;e61292a7440a8a7755ff430ef73cf8cf;original;12;43942;19299;False;True;False;True;N/A;N/A;N/A
+00001-00000001.toc;1;2024-10-16 17:43:02.039277;3d1c45c9b124be034086d048373d5dba;imbued;12;43942;19297;False;False;True;True;False;N/A;N/A
+00001-00000002.soi;2;2024-10-16 17:43:02.039277;8356fcb3f215d845331fcd9227b64cf4;original;9;29988;10335;False;True;False;True;N/A;N/A;N/A
+00001-00000002.toc;2;2024-10-16 17:43:02.039277;55b3160b7a0a3f357d822d51bfc987d5;imbued;9;29988;10230;False;False;True;True;False;N/A;N/A
+00001-00000003.soi;3;2024-10-16 17:43:02.043277;a07e54d73c2ed64e25571f1cdfddbe94;original;14;64081;25101;False;True;False;True;N/A;N/A;N/A
+00001-00000003.toc;3;2024-10-16 17:43:02.047277;f480d48093b3379e6926fba395bfd92d;imbued;14;64081;25097;False;False;True;True;False;N/A;N/A
