@@ -1,0 +1,37 @@
+Name: "Pol.is
+
+Abbreviation: polis
+
+Tags: Election
+
+Series Number: 00069
+
+Publication Date: 2025-10-16
+
+Description: <p><a href="https://pol.is/signin">Polis</a> is a survey software that allows users to share their opinions and ideas over statements and comments regarding a given theme.</p><p>The data presented here is a reformat of the Polis data available on <a href="https://github.com/compdemocracy/openData/tree/master">GitHub</a> under under a Creative Commons Attribution 4.0 International license. The data has been reformated to fit the PrefLib categorical preferences data.</p><p>Each file describes a polis poll. The alternatives correspond to the statements/comments from the polls. For each statement, the voters can either express positive opinion (corresponding to the "Approved" category), negative opinion (corresponding to the "disapproved" category), or the absence of opinion (in the "Neutral/Skipped" category). Voters do not have to express an opinion, or absence thereof, for all statements/comments.</p><p>The data has been provided by Simon Rey, as part of the development of the <a href="https://simon-rey.github.io/ProportionalityPress/">Proportionality Press</a> within the Fair online group decision making (FairOGD) project of <a href="https://janmaly.de/">Jan Maly</a>.</p>
+
+Required Citations: 
+        
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00069-00000001.cat, original, , Polis Poll: $15/hour, New minimum wage in Seattle: $15/hour, 2025-06-15
+00069-00000002.cat, original, , Polis Poll: Improving Bowling Green / Warren County, Improving Bowling Green / Warren County, 2025-06-15
+00069-00000003.cat, original, , Polis Poll: Energie, Wir, der Klimarat, wollen deine Meinungen und Ideen zum Thema ENERGIE hören, um eine klimafreundliche Zukunft zu erreichen., 2025-06-15
+00069-00000004.cat, original, , Polis Poll: Produktion und Konsum, Wir, die Bürger:innen des Klimarats, wollen deine Meinungen und Ideen zum Thema PRODUKTION UND KONSUM hören, um Klimaneutralität bis 2040 zu erreichen., 2025-06-15
+00069-00000005.cat, original, , Polis Poll: Mobilität, Wir, die Bürger:innen des Klimarats, wollen deine Meinungen und Ideen zum Thema MOBILITÄT hören, um Klimaneutralität bis 2040 zu erreichen., 2025-06-15
+00069-00000006.cat, original, , Polis Poll: Wohnen, Wir, die Bürger:innen des Klimarats, wollen deine Meinungen und Ideen zum Thema WOHNEN hören, um Klimaneutralität bis 2040 zu erreichen., 2025-06-15
+00069-00000007.cat, original, , Polis Poll: Ernährung und Landnutzung, Wir, die Bürger:innen des Klimarats, wollen deine Meinungen und Ideen zum Thema ERNÄHRUNG UND LANDNUTZUNG hören, um eine klimafreundliche Zukunft zu erreichen., 2025-06-15
+00069-00000008.cat, original, , Polis Poll: Together, we'll build the BG of 2050., What would you want to see in the Bowling Green of the future?, 2025-06-15
+00069-00000009.cat, original, , Polis Poll: Can there be consensus on Brexit?, Can there be consensus on Brexit?, 2025-06-15
+00069-00000010.cat, original, , Polis Poll: Canadian Electoral Reform, Canadian Electoral Reform, 2025-06-15
+00069-00000011.cat, original, , Polis Poll: Concussions in the NFL, Concussions in the NFL, 2025-06-15
+00069-00000012.cat, original, , Polis Poll: What is the best way to engage more young people in local scrutiny of policing?, What is the best way to engage more young people in local scrutiny of policing?, 2025-06-15
+00069-00000013.cat, original, , Polis Poll: Operation Marching Orders, Operation Marching Orders, 2025-06-15
+00069-00000014.cat, original, , Polis Poll: ScoopNZ Hivemind on affordable housing, Affordable Housing in New Zealand, 2025-06-15
+00069-00000015.cat, original, , Polis Poll: Protecting and Restoring NZ’s Biodiversity, Protecting and Restoring New Zealand's Biodiversity, 2025-06-15
+00069-00000016.cat, original, , Polis Poll: HiveMind - Freshwater Quality in NZ, Freshwater Quality in New Zealand, 2025-06-15
+00069-00000017.cat, original, , Polis Poll: Tax HiveMind Window, Fair enough? How should New Zealanders be taxed?, 2025-06-15
+00069-00000018.cat, original, , Polis Poll: A Universal Basic Income for Aotearoa NZ?, A Universal Basic Income for Aotearoa NZ?, 2025-06-15
+00069-00000019.cat, original, , Polis Poll: JOIN THE DISCUSSION BELOW: Land use and conservation in the San Juan Islands, Land use and conservation in the San Juan Islands, 2025-06-15
+00069-00000020.cat, original, , Polis Poll: UberX 自用車載客 — vTaiwan.tw, UberX 自用車載客 — vTaiwan.tw, 2025-06-15
