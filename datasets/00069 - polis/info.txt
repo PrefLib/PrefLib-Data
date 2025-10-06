@@ -1,4 +1,4 @@
-Name: "Pol.is
+Name: Pol.is
 
 Abbreviation: polis
 

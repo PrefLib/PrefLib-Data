@@ -330,7 +330,7 @@ if __name__ == "__main__":
         instances.append(instance)
 
     with open(os.path.join(dataset_dir_path, "info.txt"), "w", encoding="utf-8") as info_file:
-        info_file.write(f"""Name: "Pol.is
+        info_file.write(f"""Name: Pol.is
 
 Abbreviation: polis
 
