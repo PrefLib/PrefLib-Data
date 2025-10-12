@@ -1,0 +1,19 @@
+# FILE NAME: 00000331.soc
+# TITLE: Should it be possible for you to legally download copyrighted material from the internet for free? [52b5d5982b2c6028e37ddb30bfaaef26]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: The group felt that in general copyrighted material should be protected, but that small, free samples should be allowed for a certain period of time to allow for sampling of the materials.  The group also felt that copyrighted material should be freely available for download as long as it is not used in a public facing format or used for commercial gain.  The group felt that a balance between access and protection should be struck, with each copyright holder being able to make their own choice about whether they want to allow their materials to be downloaded freely or not.
+# ALTERNATIVE NAME 2: In general, the group was in favour of protecting the rights of copyright holders. However, as long as copyright is acknowledged and the materials downloaded are not used in a public facing format or used for commercial gain, then the group were not entirely against the idea of downloading copyrighted material.
+# ALTERNATIVE NAME 3: Copyrighted material should be protected by law, but if it is downloaded for personal use and not used for commercial gain, the law should allow some freedom to access this material.  The creator should always be credited however.
+# ALTERNATIVE NAME 4: Copyright should be protected.  The legal framework in place for copyright is very important.  However, it is also important to allow consumers to be able to access a small amount of copyrighted material to try before they buy.  This may encourage them to buy the full version of the material and provide an incentive to the copyright holder to produce more.
+3: 1,2,4,3
+1: 2,3,1,4
+1: 1,2,3,4

@@ -1,0 +1,20 @@
+# FILE NAME: 00001470.soc
+# TITLE: Should we move to a cashless economy? [dbfa311f45cb0c687ec45bc536d4c6f1]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We should not move to a cashless economy.
+# ALTERNATIVE NAME 2: In general, the group was opposed to moving to a cashless economy. The main arguments were that it would exclude the most vulnerable in society and that it would be a step too far in the direction of a surveillance society. It was also felt that it would be very difficult to achieve in practice and that it would be very easy to circumvent. The group was also concerned about the effect on the economy of people not spending and the effect on the supply chain of people not having cash to pay for goods and services. The group did recognise that it would be useful for some people to have the option to go cashless, but that it should not be mandatory.
+# ALTERNATIVE NAME 3: In general, the group was in favour of a cashless society, but with the proviso that there should be some provision for those who are unable to use cashless payment methods.
+# ALTERNATIVE NAME 4: The concept of a cashless society can be very beneficial. There are obvious benefits such as reducing the risk of Covid transmission and also reducing the risk of theft and mugging. It would also reduce the risks associated with transporting cash which is a very dangerous job. However, the move to cashless would exclude a lot of people from society, in particular the elderly and people who are homeless or in poverty. This could also lead to increased debt and exploitation. If the move to cashless is inevitable we should ensure that everybody is included in this new society, and that the infrastructure is in place for everyone to benefit.
+2: 2,1,4,3
+1: 2,3,1,4
+1: 3,4,1,2
+1: 2,4,3,1

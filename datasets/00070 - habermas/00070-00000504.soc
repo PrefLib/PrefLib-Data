@@ -1,0 +1,21 @@
+# FILE NAME: 00000504.soc
+# TITLE: Should we increase public transport fares and use the extra revenue to provide free public transport for certain people? [3f96dc39f1ee43ed83d268b87b6b15a6]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Public transport fares should not be increased and we should not use the extra revenue to provide free public transport for certain people. There are already other means of subsidising public transport and providing free transport for certain people who need it, such as free travel passes. The burden of paying for the public transport system should not be placed upon the users of the system.
+# ALTERNATIVE NAME 2: We don't agree with the proposal to increase fares in order to give free public transport to certain people. We think that the burden of paying for the public transport system should not be placed upon the users of the system. There are already other means of subsidising public transport and providing free transport for certain people who need it, such as free travel passes.
+# ALTERNATIVE NAME 3: Public transport fares should not be increased and we should not use the extra revenue to provide free public transport for certain people. There are already various other means of subsidising public transport and providing free transport for certain people who need it, such as free travel passes. The burden of paying for the public transport system should not be placed upon the users of the system.
+# ALTERNATIVE NAME 4: There are already various methods for subsidising public transport and providing free transport for certain people who need it, such as free travel passes. The burden of paying for the public transport system should not be placed upon the users of the system. The cost of public transport should not be increased, as this would make it less affordable and less accessible for all.
+1: 4,3,1,2
+1: 4,2,1,3
+1: 4,1,3,2
+1: 2,1,3,4
+1: 1,2,3,4

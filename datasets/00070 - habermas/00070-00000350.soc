@@ -1,0 +1,19 @@
+# FILE NAME: 00000350.soc
+# TITLE: Is it ever OK for a politician to ask an aide to do a personal favour? [a6738d446bc0289527133405161bf239]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: Politicians should not ask for personal favours from their aides.  It's fine for a politician to ask their aide to do something that their aide is responsible for, but asking for a personal favour that they could hire someone to do for them is going too far.
+# ALTERNATIVE NAME 2: It is not OK for a politician to ask an aide for a personal favour. Politicians should employ people for tasks that they can not do themselves. If a politician needs someone to do their shopping for them, they should hire a personal shopper.
+# ALTERNATIVE NAME 3: No, it is not OK for a politician to ask an aide for a personal favour.
+# ALTERNATIVE NAME 4: it is not OK for a politician to ask an aide for a personal favour. They argued that, if a politician wants to get something done that they could not do themselves, they should hire someone to do it. Politicians should be putting their aides in charge of things that can only be done by an aide, like speech writing, press releases, etc. If a politician needs someone to do their shopping for them, they should hire a personal shopper.
+3: 4,1,2,3
+1: 1,2,4,3
+1: 4,2,3,1

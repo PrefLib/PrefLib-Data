@@ -1,0 +1,19 @@
+# FILE NAME: 00002121.soc
+# TITLE: Should we tighten up the laws about who can have access to NHS records? [76303f10738596760ac4dc1b2458579c]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: We should tighten up the laws about who can have access to NHS records. This is because the NHS is a public service and is funded by the public. Therefore, it is only right that the public should have control over who has access to their personal data. This is especially important in the current climate of increased data sharing and data mining. This is also important as it is highly sensitive data that could expose a persons vulnerabilities. The laws should shield all patients and anyone involved under the care system of the NHS. It isn't fair to allow just any individual to have access to that level of what should be secure data. If it ended up in the wrong hands it could potentially harm individuals.
+# ALTERNATIVE NAME 2: While it is important for the NHS to keep up to date records on the patients they are helping, the laws should be tightened up to ensure that the information is not made widely available to companies. There is a lot of sensitive information that can be exposed, if it is in the wrong hands, and this could be a detriment to individuals. It is vital that the people who are working for the NHS are those who are allowed to access this information and there should be no further expansion from this group.
+# ALTERNATIVE NAME 3: There should be tighter laws about who can have access to NHS records. This is because there are instances where the records are being shared with people who do not need to see them, and this is a breach of patient confidentiality. It is important that this is protected, and that patients are able to trust that their records will not be shared with anyone who does not need to see them.
+# ALTERNATIVE NAME 4: The laws around access to NHS records should be restricted to those who can offer assistance directly to the patient and not expanded from here. It should not be made accessible to companies such as insurers or private healthcare companies without the direct consent of the patient.
+2: 1,3,2,4
+2: 1,2,4,3
+1: 1,2,3,4

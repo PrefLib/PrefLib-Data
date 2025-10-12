@@ -1,0 +1,21 @@
+# FILE NAME: 00000047.soc
+# TITLE: Should we allow parents to take children out of school on the basis of religious grounds? [3477485e12a497458759ccc11ee229d7]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Children should be allowed to miss school for religious reasons. The extent of this allowance should be carefully controlled. Limitations could include: limiting the number of days that children can miss to no more than a certain number per year, and not allowing children to miss during exam periods.
+# ALTERNATIVE NAME 2: In general, the group was in favour of allowing children to miss school on the basis of religious grounds. The general feeling was that children are only at school for a relatively short period of their life and for the most part they are not actually learning about important subjects. However, participants felt that children should be allowed to attend religious festivals, but there should be restrictions in place. These included restricting the number of days that children can miss to no more than a certain number per year, and not allowing children to miss during exam periods. There was some debate about how the line between religious reasons and cultural reasons should be drawn. It was felt that these should be separated as much as possible as cultural reasons could easily be fabricated, especially when religious beliefs are not clearly defined. Overall, the consensus was that there should be limitations on children missing school for religious reasons, but that they should be allowed to do so to some extent.
+# ALTERNATIVE NAME 3: In general, the group was in favour of allowing children to miss school on the basis of religious grounds. The general feeling was that children are only at school for a relatively short period of their life and for the most part they are not actually learning about important subjects. Many participants felt that children should be allowed to attend religious festivals, but there should be restrictions in place. These included restricting the number of days that children can miss to no more than a certain number per year, and not allowing children to miss during exam periods. There was some debate about how the line between religious reasons and cultural reasons should be drawn. It was felt that these should be separated as much as possible as cultural reasons could easily be fabricated, especially when religious beliefs are not clearly defined. Overall, the consensus was that there should be limitations on children missing school for religious reasons, but that they should be allowed to do so to some extent.
+# ALTERNATIVE NAME 4: There should be some allowance for children to miss school on the basis of religious grounds. We should not limit people's religious lives too much, and school is only a small part of their lives. This is however not to say that children should miss school for any and all religious occasions. There should be restrictions on how many days children can miss for religious reasons, and those days should not fall during exam periods. We should not impose too much restriction on children's religious lives, but they should also not be allowed to miss out on too much school.
+1: 1,2,3,4
+1: 2,3,4,1
+1: 2,3,1,4
+1: 1,3,2,4
+1: 4,1,2,3

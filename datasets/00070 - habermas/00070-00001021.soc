@@ -1,0 +1,21 @@
+# FILE NAME: 00001021.soc
+# TITLE: Should we ban animal testing? [60027969c5f2d8e22d3af1180f929cf8]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We believe that there is a need for the development of alternative methods to test new drugs and chemicals. These new methods can be computational models that will reduce and replace the use of animals in testing. While we completely support a ban on cruel testing methods, we do believe that animal testing has a role to play in the development of new drugs and chemicals. We should use the 3Rs in animal testing.
+# ALTERNATIVE NAME 2: We believe that animal testing should be banned. We should be more concerned about the welfare of animals than the development of drugs and cosmetics. We can use human tissue to test new drugs and cosmetics and also use computational models to reduce and replace the use of animals in testing. The 3Rs (Replacement, Reduction and Refinement) in animal testing should be followed and more funding should be invested to find alternative ways to test drugs and cosmetics without causing any harm to the animals.
+# ALTERNATIVE NAME 3: We should ban animal testing. We believe that animals should have the right to live like any other living being. We should be more concerned about the welfare of animals than the development of drugs and cosmetics. We can use human tissue to test new drugs and cosmetics and also use computational models to reduce and replace the use of animals in testing. We should use the 3Rs (Replacement, Reduction and Refinement) in animal testing.
+# ALTERNATIVE NAME 4: There should be a ban on animal testing as it can lead to unnecessary suffering and even death of animals. There are other ways to test the effectiveness of new drugs and cosmetics. The animal models can sometimes provide a very inaccurate representation of the human anatomy, thus leading to false data. We should use human tissue to test new drugs and cosmetics. Computational models can be used to reduce and replace the use of animals in testing. The 3Rs should be implemented when testing on animals.
+1: 4,2,1,3
+1: 4,1,2,3
+1: 1,2,4,3
+1: 2,3,4,1
+1: 1,4,2,3

@@ -1,0 +1,20 @@
+# FILE NAME: 00000600.soc
+# TITLE: Should we reduce the age at which children are allowed to drink alcohol? [69dd30c2d3f4f6c888b65daff3a622fa]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: No, we should not reduce the age at which children are allowed to drink. Most people are not mature enough to drink alcohol responsibly until they are in their late teens or early twenties. Lowering the age limit would only lead to more problems with binge drinking and alcoholism.
+# ALTERNATIVE NAME 2: No, we should not reduce the age at which children are allowed to drink. Alcohol is a drug and is dangerous. Younger teens are not yet mature enough to deal with alcohol and as such can lead to a variety of issues. The age limit should remain at 18 and the law needs to be enforced consistently to protect young people.
+# ALTERNATIVE NAME 3: No, the age at which children are allowed to drink should not be reduced. Alcohol is a dangerous substance that can cause long term harm and the current age limit of 18 is the right age. We should not encourage children to drink and make them think it is acceptable to do so.
+# ALTERNATIVE NAME 4: Children in the UK can consume alcohol at 18 which is right for me. Before this, they are still in compulsory education and do not need the likes of alcohol disrupting this. Also most 18 year old are not yet capable of effectively managing alcohol consumption so lowering this age would be foolish.
+2: 2,1,3,4
+1: 2,4,1,3
+1: 3,2,4,1
+1: 2,1,4,3

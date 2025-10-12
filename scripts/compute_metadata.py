@@ -173,6 +173,7 @@ def compute_dataset_metadata(
     print(f"Computing for {root_dir_path}")
     info = read_info_file(os.path.join(root_dir_path, "info.txt"))
 
+
     # Retrieve the current metadata info if existing
     metadata_file_path = os.path.join(root_dir_path, "metadata.csv")
     old_metadata = dict()

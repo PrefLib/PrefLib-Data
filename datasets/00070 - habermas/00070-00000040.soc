@@ -1,0 +1,20 @@
+# FILE NAME: 00000040.soc
+# TITLE: Is a nuclear weapons ban possible? [6ef17ce2d3d8e6b91d431769b74f612f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, the participants were in favour of a nuclear weapons ban but sceptical that it would be fully effective. They generally felt that some countries will not support a ban on nuclear weapons due to concerns for national security. They were not sure if they would ever know if all countries were being honest about their nuclear stockpiles.
+# ALTERNATIVE NAME 2: A nuclear weapons ban is possible, but it is not realistic.
+# ALTERNATIVE NAME 3: The world is divided on the topic of nuclear weapons with some countries very much for them and some against. A ban would be nice but not completely possible because of the fact that the world is so divided. I think some countries may need the threat of nuclear weapons for their safety.
+# ALTERNATIVE NAME 4: It is possible to ban nuclear weapons but not all countries will give up their weapons. You also need to make sure that everyone who has the power to create nuclear weapons, stops trying to create them.
+2: 1,3,2,4
+1: 1,3,4,2
+1: 1,4,3,2
+1: 1,2,3,4

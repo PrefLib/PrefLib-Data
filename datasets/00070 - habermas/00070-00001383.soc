@@ -1,0 +1,21 @@
+# FILE NAME: 00001383.soc
+# TITLE: Should we stop using the imperial system of measurement? [5676afc4d9581f5e554c59bafa5ccbc3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Although metric is a more consistent system of measurement, it is more accurate to say that we should use the system we are most comfortable with. For some people this will be imperial and for some people this will be metric. It would therefore be more efficient if people could freely use either system, as long as they communicate which system they are using, as this would avoid confusion.
+# ALTERNATIVE NAME 2: “The imperial system of measurement has become archaic and in many ways is a hindrance to efficient communication and measurement. This is particularly true when one compares it to the metric system. The metric system allows for a much easier understanding of measurement as the measurements relate to one another by a factor of ten. Imperial measurements on the other hand have arbitrary relationships to one another and are less easy to learn. While we should not insist that the imperial system of measurement be dropped entirely, it should be phased out and used only in rare circumstances where the use of the metric system would be inappropriate.”
+# ALTERNATIVE NAME 3: In general, the imperial system of measurement is outdated and should be replaced by the metric system. The imperial system is an arbitrary system that is difficult to learn and understand, especially when compared to the metric system. The metric system is used by the majority of the world and is more practical and easier to understand. The imperial system should be phased out and replaced by the metric system, however this should be done gradually to avoid confusion. The imperial system is still widely used in the United States, so the United States should be allowed to use imperial measurements if they wish.
+# ALTERNATIVE NAME 4: In general, the imperial system of measurement is outdated and should be replaced by the metric system. The imperial system of measurement is hard to use and remember, and is often mixed with the metric system which causes confusion. The metric system is easier to use and remember, and is used by most countries in the world.
+1: 2,3,4,1
+1: 1,2,4,3
+1: 2,1,4,3
+1: 2,3,1,4
+1: 2,4,3,1

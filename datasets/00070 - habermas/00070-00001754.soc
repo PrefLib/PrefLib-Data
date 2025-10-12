@@ -1,0 +1,19 @@
+# FILE NAME: 00001754.soc
+# TITLE: Should we provide free tuition for all university students? [d912bb29172ab305e312943fa8cbc1fe]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: Education is extremely important for the development of individuals and society, but we believe that there is a need for some cost to be borne by students in order to provide a greater sense of value to the qualification and as a result greater incentive for students to make the most of their university experience.  We believe that the cost of attending university should be reduced to make it more accessible to those from poorer backgrounds.  We believe that free tuition is achievable and desirable, but only for home students.
+# ALTERNATIVE NAME 2: In general, university education should be free to allow a more educated and competent society. This should be used to advance science, medicine and culture. However, university education should not be free to overseas students.
+# ALTERNATIVE NAME 3: 
+# ALTERNATIVE NAME 4: In general, the group was in favour of free university tuition.  We thought that it would be beneficial for society as a whole and would allow those from poorer backgrounds to have the same opportunities as those from wealthier backgrounds.  We did, however, recognise that it would be difficult to implement and that there would be some issues with it.  For example, it would be difficult to decide who would be eligible for the free tuition and who would not.  We also thought that it would be difficult to decide how to fund it.  In the end, we thought that it would be a good idea in principle, but that it would be difficult to implement.
+2: 4,1,2,3
+2: 1,4,2,3
+1: 2,1,4,3

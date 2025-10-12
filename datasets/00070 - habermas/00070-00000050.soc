@@ -1,0 +1,20 @@
+# FILE NAME: 00000050.soc
+# TITLE: Should we give all young people aged 16-18 a full driving license and car? [08077edff534784a9d0dacd6e8166e1d]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Driving should be a privilige, not a right. It needs to be earned and respected, not given away willy nilly. Giving young people a full driving licence at the age of 16 would mean that they would be in charge of a 1.5 ton weapon. Also, if it was something that everyone had, then it would make driving seem less special. The increased traffic would lead to more polution, which is bad for the environment.
+# ALTERNATIVE NAME 2: Although driving is a vital part of life for many people, and can provide the mobility required for people to lead full lives, giving all young people a car would lead to increased risk, waste of resources and increased pollution.
+# ALTERNATIVE NAME 3: No, we should not give all young people aged 16-18 a full driving license and car. There is a sense of irresponsibility, danger and immaturity associated with this. The opinion for and against are stated above, with the majority agreeing that this is not a good idea.
+# ALTERNATIVE NAME 4: We should not give all young people aged 16-18 a full driving license and car. We feel that it is a responsibility to be taken seriously and not given out as a right. The roads are already choked and the lack of exercise taken by the young is already well documented.
+2: 1,3,2,4
+1: 1,3,4,2
+1: 4,2,3,1
+1: 1,2,3,4

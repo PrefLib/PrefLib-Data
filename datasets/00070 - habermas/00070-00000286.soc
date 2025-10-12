@@ -1,0 +1,20 @@
+# FILE NAME: 00000286.soc
+# TITLE: Should we introduce a new public holiday to commemorate the UK’s exit from the EU? [112835a05ea2a94dbd30906600b0d6d4]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We should not introduce a new public holiday to commemorate the UK's exit from the EU. The vote to leave the EU won by a slim majority and since leaving the EU the country has been experiencing a severe political and economic downturn.  Creating a public holiday to celebrate a controversial and divisive event would be inappropriate.
+# ALTERNATIVE NAME 2: No, we should not introduce a new public holiday to commemorate the UK's exit from the EU. The referendum on EU membership was quite controversial and it is not seen as a major achievement that should be celebrated. The overall economic impact of leaving the EU has been and is likely to be negative.
+# ALTERNATIVE NAME 3: No, we do not think we should introduce a new public holiday to commemorate the UK’s exit from the EU.
+# ALTERNATIVE NAME 4: Although the vote to leave the EU was close, it was still a significant event in UK history.  A new public holiday should be created to commemorate this event.  It is important to celebrate and recognize this event in our country’s history.
+2: 1,2,3,4
+1: 1,2,4,3
+1: 1,4,2,3
+1: 4,1,2,3

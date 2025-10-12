@@ -1,0 +1,19 @@
+# FILE NAME: 00000091.soc
+# TITLE: Will people be able to live in a space station in orbit in the next 50 years? [250cc1d5485fd00ec73869c2bb33a13f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: People will be able to live in a space station in orbit in the next 50 years, as it is already possible to do so in the present. This will be possible due to the advanced technology of space vehicles, especially the NASA shuttle and the International Space Station, which can already sustain human life. The only issue that is likely to occur in the next 50 years is overpopulation in the Earth's atmosphere, which will make the need to colonise the stars in space increasingly important.
+# ALTERNATIVE NAME 2: While the technology for human survival in space has been around for a long time, we don't think that the costs of human life in space are currently economically viable. The costs of providing the support infrastructure on the ground and getting the humans to space are currently very high. We do think that over the next 50 years the costs of space travel and survival will decrease and the space stations will be much more habitable and accessible to humans.
+# ALTERNATIVE NAME 3: In the next 50 years people will be able to live in a space station in orbit.
+# ALTERNATIVE NAME 4: People will be able to live in space stations in orbit within the next 50 years as there is evidence that humans can survive in space and as technology develops more advancements will be made and become possible.
+3: 1,2,4,3
+1: 4,3,2,1
+1: 2,3,4,1

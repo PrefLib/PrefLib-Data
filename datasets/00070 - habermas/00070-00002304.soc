@@ -1,0 +1,21 @@
+# FILE NAME: 00002304.soc
+# TITLE: Should people be required to wear face masks when in public? [3c0ed5018d4e4c713d059915ed5d5f24]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: People should not be required to wear face masks when in public. The wearing of face masks should be a personal choice and not one that is forced upon people. The wearing of face masks can be beneficial to some people, however, this should not be forced upon those who do not wish to wear one. The wearing of face masks should be a personal choice and not one that is forced upon people. The wearing of face masks can be beneficial to some people, however, this should not be forced upon those who do not wish to wear one.
+# ALTERNATIVE NAME 2: People should not be required to wear face masks when in public. However, it is important to be aware of the risks of not wearing a face mask, especially in the context of a pandemic. The wearing of face masks should be a personal choice, and not something that is forced upon people.
+# ALTERNATIVE NAME 3: In general, the wearing of face masks in public should not be mandatory. However, they may be recommended for those who are experiencing symptoms of a respiratory illness, such as a cold or the flu, and for healthcare workers. The wearing of face masks may also be recommended during a pandemic, such as the COVID-19 pandemic, to help reduce the spread of the virus.
+# ALTERNATIVE NAME 4: In general, the wearing of face masks in public should not be required, however, if people feel more comfortable wearing one then they should be allowed to do so and should not be discriminated against for doing so. This is particularly important during times of high infection rates of airborne diseases such as COVID-19.
+1: 1,2,3,4
+1: 1,3,2,4
+1: 3,4,2,1
+1: 1,2,4,3
+1: 3,2,4,1

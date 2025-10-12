@@ -1,0 +1,19 @@
+# FILE NAME: 00000193.soc
+# TITLE: Should we require people to pay a fixed tax on any amount of wealth they own above £10 million? [e5de2d20cc4ec5b2c5ec60ac5163c407]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: Yes, we should tax people with a fixed tax on any amount of wealth they own above £10 million. A system in which the wealth is evenly distributed among the people is much fairer than one in which the majority of the wealth is owned by a minority of people. It is reasonable to suggest that after someone earns £10 million, their need for additional wealth decreases, and the money they own after this point is simply for hoarding resources. The rich should not be able to hoard their wealth for themselves and live in luxury while the majority of the population lives in poverty. If everyone pays a fair amount of tax on their income, this will help to redistribute wealth and allow everyone to live a better life.
+# ALTERNATIVE NAME 2: We should require people to pay a fixed tax on any amount of wealth they own above £10 million. There is no need for any individual to have so much wealth, especially when the gap between rich and poor continues to increase. £10 million is more than enough for any individual to live extremely comfortably and any more is simply hoarding wealth from the rest of the population. A redistribution of wealth is crucial in trying to make the world a more fair and equal place.
+# ALTERNATIVE NAME 3: We do not believe that people should pay a fixed tax for wealth over £10 million. We think that people should be entitled to the money they earn. We do not believe that implementing a fixed tax on the wealthy will improve living standards elsewhere.
+# ALTERNATIVE NAME 4: People should not have to pay a fixed tax on any amount of wealth they own above £10 million, because if they can earn that much money, they should be able to keep it. After all, it's their money, and they deserve it. The present Government does not believe in a redistribution of wealth, so we should not impose this requirement on people.
+3: 1,2,4,3
+1: 1,2,3,4
+1: 3,4,1,2

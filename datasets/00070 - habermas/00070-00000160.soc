@@ -1,0 +1,21 @@
+# FILE NAME: 00000160.soc
+# TITLE: Should the UK invest in a high-speed rail line between its major cities ? [7f7d5471234b589292b3a250cfc92e0b]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the group was in favour of investing in a high-speed rail network between the UK's major cities. The group thought that it would lower the amount of cars on the road and reduce congestion, especially in the bigger cities. The consensus view was that this would have a positive impact on the environment.
+# ALTERNATIVE NAME 2: A high-speed rail line will reduce travel time and prompt more people to use public transport instead of driving. However, it is important that environmental impact assessments are undertaken to ensure that the UK's ecosystem is not compromised by this investment.
+# ALTERNATIVE NAME 3: The UK should invest in a high-speed rail line between its major cities. This will reduce travel time and improve public transport. The environmental impacts will have to be carefully assessed before any implementation.
+# ALTERNATIVE NAME 4: The UK should invest in a high-speed rail line between its major cities. We think that it would reduce the amount of congestion on motorways and be a key part of lowering car usage overall which would benefit the environment. It would also help lower congestion on existing railways.
+1: 1,2,3,4
+1: 2,3,1,4
+1: 4,2,1,3
+1: 1,4,2,3
+1: 4,3,2,1

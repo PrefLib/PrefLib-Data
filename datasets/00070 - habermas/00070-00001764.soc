@@ -1,0 +1,21 @@
+# FILE NAME: 00001764.soc
+# TITLE: Is it acceptable to use a person’s DNA to identify them as a criminal? [8fe24535048e7c5718bc911abd44948c]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the use of DNA to identify a person as a criminal is acceptable. The use of DNA evidence is a very effective way of identifying a person and should be used in conjunction with other forms of evidence. The use of DNA evidence must be closely regulated and should only be used on the most serious of crimes. The storage of DNA evidence after the fact must be likewise regulated. The use of DNA evidence is very effective in solving crimes and identifying criminals, but the use of this evidence should be used in the most serious of crimes and with the highest level of regulation.
+# ALTERNATIVE NAME 2: DNA evidence should be used in conjunction with other forms of evidence. DNA evidence should only be used in the most serious of crimes. The use of DNA evidence must be closely regulated and the storage of DNA evidence after the fact must be likewise regulated.
+# ALTERNATIVE NAME 3: The use of DNA evidence in identifying criminals is widely accepted as a useful tool for the police in their jobs. However, it is widely accepted that the use of this tool needs to be closely regulated.
+# ALTERNATIVE NAME 4: In general, the use of DNA to identify a person as a criminal is acceptable. The use of DNA evidence is a very effective way of identifying a person and should be used in conjunction with other forms of evidence. The use of DNA evidence must be closely regulated and should be used on all relevant crimes and not just the most serious of crimes. The storage of DNA evidence after the fact must be likewise regulated. The use of DNA evidence is very effective in solving crimes and identifying criminals, but the use of this evidence should be used with the highest level of regulation.
+1: 4,3,1,2
+1: 4,3,2,1
+1: 2,1,4,3
+1: 2,3,4,1
+1: 4,1,2,3

@@ -1,0 +1,21 @@
+# FILE NAME: 00000309.soc
+# TITLE: Should the government subsidize (give money to) oil and gas companies to produce fossil fuels? [0404e3588330ecc263c8abcdcf1a6ef3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We should not subsidize oil and gas companies. They should be penalised for the harm that they give to the earth and atmosphere. Instead, the government should encourage the utilization of renewable energy sources.
+# ALTERNATIVE NAME 2: No, the government should not subsidize oil and gas companies to produce more fossil fuels. The climate crisis we find ourselves in is in large part due to fossil fuel use and these companies have to stop producing them. Further production of fossil fuels will damage the planet beyond repair. Instead, the government should subsidize oil and gas companies to produce more natural and environmentally friendly fuels and invest in renewable energy sources.
+# ALTERNATIVE NAME 3: No. It would be a waste of taxpayers money to subsidize fossil fuel companies to produce more fossil fuels, especially when there are many other green alternatives to fossil fuels which could be subsidized instead. It would be far more environmentally friendly to subsidize companies who produce green fuels.
+# ALTERNATIVE NAME 4: In general, the group was opposed to giving subsidies to oil and gas companies. We argued that the energy resources that were renewable were much more beneficial to the planet than the energy resources that were fossil fuels. However, we also agreed that not all of the oil and gas companies were bad. Some of the companies were trying to make a more environmentally friendly world and were looking for more energy sources that were cleaner than fossil fuels. In the end, we agreed that oil and gas companies could not be helped by the government and that the government should not subsidize them.
+1: 4,1,2,3
+1: 3,1,2,4
+1: 1,3,4,2
+1: 2,3,1,4
+1: 3,2,4,1

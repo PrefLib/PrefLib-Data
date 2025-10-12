@@ -1,0 +1,21 @@
+# FILE NAME: 00000848.soc
+# TITLE: Is it ethical to buy foreign produce? [f6630e3484206053a19296fa8f922e83]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the group was in favour of buying foreign produce. The group was of the opinion that it is essential to buy foreign produce where local produce is not available. The group was also of the opinion that the money generated from buying foreign produce can help to improve the local economy of the country of origin. The group was of the opinion that if the produce can be made locally then it should be purchased locally. The group was of the opinion that the ecological footprint of the process of bringing the goods into the country should be considered before buying.
+# ALTERNATIVE NAME 2: In general, the group was of the opinion that it is ethical to buy foreign produce.  We believe that in many cases, buying foreign produce is essential and it is not possible to buy locally.  We believe that the issue of foreign produce undercutting local produce is a difficult one, and we believe that it is important to try and support local produce where possible.  We believe that the issue of foreign produce undercutting local produce is a difficult one, and we believe that it is important to try and support local produce where possible.
+# ALTERNATIVE NAME 3: In general, the purchase of foreign produce is ethical. However, it is important to consider the working conditions of the staff that produced the product and the environmental impact of transporting the product to Ireland. It is also important to consider whether the product can be produced locally and to support local businesses and farmers.
+# ALTERNATIVE NAME 4: In general, it is ethical to buy foreign produce.  It is important to consider the working conditions of the people who produce the goods, and to consider the ecological footprint of transporting the goods.  It is also important to support local businesses, where possible.
+1: 2,1,3,4
+1: 4,1,2,3
+1: 1,3,4,2
+1: 1,2,3,4
+1: 4,2,1,3

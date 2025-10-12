@@ -1,0 +1,20 @@
+# FILE NAME: 00000911.soc
+# TITLE: Should the BBC run the World Service? [994fe1e577c927bc3df19080d12ce716]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: The BBC should continue to run the World Service. However, the World Service should not be funded by the BBC. In the future, the World Service should be independent from the BBC and funded by other countries that benefit from it. It is the view of the group that although other countries benefit from the World Service, it is the view of the group that as other countries do not currently benefit enough to be prepared to pay for it, it is appropriate for the BBC to continue to fund the World Service and that it is in the national interest for it to do so.
+# ALTERNATIVE NAME 2: The BBC should continue to run the World Service, but should not use UK TV licence fees to fund it. The World Service is a valuable resource and should continue to be funded by the BBC. However, the World Service is used by people all over the world, and it is unfair that the UK should have to pay for it. The World Service should be funded by the countries that use it. The BBC should advertise the World Service on air to the countries that do not fund it, in the hope that they will then use it and pay for it. This will hopefully benefit the UK in the future by establishing links with these countries.
+# ALTERNATIVE NAME 3: The BBC should continue to run the World Service, but should not use UK TV licence fees to fund it. The World Service is a valuable resource and should continue to be funded by the BBC. However, the World Service is used by people all over the world, and it is unfair that the UK should have to pay for it. The World Service should be funded by the countries that use it, but with ads rather than by taking a cut of the profits.
+# ALTERNATIVE NAME 4: The BBC should continue to run the World Service, but not using UK TV licence fees to fund it. The World Service is a valuable resource and should continue to be funded by the BBC. However, the World Service is used by people all over the world, and it is unfair that the UK should have to pay for it. The World Service should be funded by the countries that use it, perhaps with the exception of underdeveloped countries. The above represents a genuine consensus view reached by participants.
+2: 1,2,3,4
+1: 4,3,1,2
+1: 4,2,3,1
+1: 3,2,1,4

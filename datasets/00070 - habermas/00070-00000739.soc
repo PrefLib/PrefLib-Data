@@ -1,0 +1,19 @@
+# FILE NAME: 00000739.soc
+# TITLE: Should we ban the sale of pets? [e82f021eedb5455f1faf8471bc12377d]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: “Pets should not be banned. However, we should not allow people to buy pets from puppy farms. A vetting system should be in place where the new owners are investigated to ensure that they are careful owners. The pet becomes an integral part of the home and brings pleasure to both pet and owner alike.
+# ALTERNATIVE NAME 2: Pets should not be banned.  We feel that there are many people who benefit from having a pet in their home and the banning of pets would be detrimental to their health and well-being.  We do however feel that the sale of pets should be more tightly regulated.  We feel that there should be a vetting system in place where the new owners are investigated to ensure that they are careful owners.
+# ALTERNATIVE NAME 3: “The sale of pets should not be banned because pets can play a very important part in making humans happy. Children can learn from an early age how to be responsible for another living soul. Pets can help those who live alone feel less lonely and can be excellent companions.”
+# ALTERNATIVE NAME 4: “The sale of pets should not be banned.  It is the owners responsibility to ensure that the pet is well looked after and is not mistreated.  Pets are a part of the family and the owner should not be denied the opportunity of having a pet in the home.  If people do not want pets, they do not have to have them.”
+3: 2,1,4,3
+1: 3,2,1,4
+1: 1,2,3,4

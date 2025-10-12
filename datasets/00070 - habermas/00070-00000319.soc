@@ -1,0 +1,20 @@
+# FILE NAME: 00000319.soc
+# TITLE: Is it acceptable for companies to sell data about the individuals? [217ca248ad053c355e8987d4f6900f9c]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: No, it is not acceptable for companies to sell data about individuals. It is unfair that some companies are in a position to make profit from personal data. Individuals may not even know that their data is being exploited for financial gain. I believe that this area needs much more regulation.
+# ALTERNATIVE NAME 2: Data is a key resource in the digital age and the role of companies is to respect the privacy of individuals. Data is used to make sense of human behaviour and needs to be treated ethically. Companies should have an ethical policy for collecting, storing and using data.
+# ALTERNATIVE NAME 3: In general, the participants believe that the data on individuals should not be sold by companies without the consent of individuals.  This is because such data is personal data which belongs to individuals. The only exception is that if the individual has not given his or her consent and the sale of the data is for a good cause (e.g. for public health or a social cause)
+# ALTERNATIVE NAME 4: Data collected by organisations about individuals can be sold by organisations. This is the case because most people voluntarily and knowingly give up this information in exchange for free services. Data which is covertly and unfairly collected should not be sold.
+2: 1,3,2,4
+1: 3,2,1,4
+1: 4,2,3,1
+1: 1,2,3,4

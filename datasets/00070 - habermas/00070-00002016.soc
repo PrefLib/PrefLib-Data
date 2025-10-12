@@ -1,0 +1,21 @@
+# FILE NAME: 00002016.soc
+# TITLE: Is a vegan diet optimal for humans? [85e6519a413250896e40560f9d2f9f67]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: It is possible for humans to sustain on a vegan diet but it is not optimal for every human on earth. Vegan diets can be nutrient deficient, especially in the developing world, and the nutrients are hard to get from substitutes. Also, meat is a huge source of protein, and without the proper balance of food, humans can get malnourished.
+# ALTERNATIVE NAME 2: It is possible for humans to sustain on a vegan diet but it is not optimal for every human on earth. Vegan diets can be nutrient deficient, especially in the developing world, and the nutrients are hard to get from substitutes. Also, meat is a huge source of protein, and without the proper balance of food, humans can get malnourished. This is especially true in the developing world, where they are already not getting enough food, and going vegan is not an option. However, it is still possible to live a healthy life as a vegan, and many people do. In a world where people are becoming more aware of global warming and the effects of meat production on the environment, veganism is becoming more popular. There are ways to get all the nutrients needed to live a healthy life without consuming meat.
+# ALTERNATIVE NAME 3: Humans can sustain on a vegan diet but it is not optimal for everyone. Vegan diets can be nutrient deficient, especially in the developing world, and the nutrients are hard to get from substitutes. Also, meat is a huge source of protein, and without the proper balance of food, humans can get malnourished.
+# ALTERNATIVE NAME 4: It is possible for humans to sustain on a vegan diet, but it is not optimal for every human on earth. Vegan diets are nutritious, especially in places where animal products are rare or too expensive; however they are not without their flaws. Meat and diary contain large amounts of protein, fats and vitamins (especially B12) that are difficult for a vegan diet to substitute. Many vegan replacements are full of artificial ingredients and tastes that are not healthy. Without proper substitutes, a vegan diet is hard to sustain in the long term.
+1: 1,2,4,3
+1: 4,1,3,2
+1: 1,4,3,2
+1: 2,4,1,3
+1: 2,4,3,1

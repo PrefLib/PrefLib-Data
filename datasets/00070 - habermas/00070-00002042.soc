@@ -1,0 +1,20 @@
+# FILE NAME: 00002042.soc
+# TITLE: Should it be easier to become a member of Parliament? [ec0886c20c7cc48068c681469493d5ff]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general the process of becoming a member of parliament is not particularly difficult, but there are some aspects of it that are not ideal. There is a tendency for people to get selected on the basis of party political considerations rather than competence, and this should be discouraged. As well as this, a wider range of backgrounds would be beneficial, but not as a purely cosmetic exercise. Another area in which the process could be improved is to make it more open, transparent and flexible, so that those who want to become members of parliament, even from non-political backgrounds, have the chance to express themselves and attempt to win public support for their views.
+# ALTERNATIVE NAME 2: The process of becoming a member of parliament is, by its nature, difficult. It requires significant dedication of time, money and effort. Moreover, it can cause disruption to career, family and personal life. Nevertheless, our current system does not provide a perfect selection of people for this role. We need to move away from using party political considerations as the basis for selection. Candidates should be selected for their competence in a particular area or areas of work, with this competence being assessed before they take up the role. Efforts should also be made to widen the range of backgrounds from which candidates are drawn, which could include open applications for the role.
+# ALTERNATIVE NAME 3: There are some aspects of the process of becoming a member of parliament that are not ideal, in particular the tendency for people to be selected on the basis of party political considerations rather than competence, and this should be discouraged. The process could also be made more accessible to people from a wider range of backgrounds, including people who have not previously been involved in politics.
+# ALTERNATIVE NAME 4: In general, the process of becoming a member of parliament is not particularly difficult, but there are some aspects of it that are not ideal. There is a tendency for people to get selected on the basis of party political considerations rather than competence, and this should be discouraged. The process could also be made more accessible to people from a wider range of backgrounds, including people who have not previously been involved in politics.
+2: 1,2,4,3
+1: 4,2,1,3
+1: 2,3,4,1
+1: 1,2,3,4

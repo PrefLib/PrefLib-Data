@@ -1,0 +1,20 @@
+# FILE NAME: 00000510.soc
+# TITLE: Should voting be mandatory? [d23d375bb7d84fb114eed9bd294eee33]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, the group was in favour of mandatory voting, however with the following stipulations: - The voting system should be changed to allow multiple ticking of parties on the ballot - People should be given an incentive to vote - People should be educated in politics and voting prior to being allowed to vote
+# ALTERNATIVE NAME 2: People should be forced to vote, as it is their duty to do so. The issue of what would happen if everyone voted is not necessarily a good argument, as then it would lead to people with an extreme view on politics gaining power and governing the country.
+# ALTERNATIVE NAME 3: Voting should not be mandatory. Everyone should be allowed to make their own decisions on who they want to vote for. If voting was mandatory then this would take away the freedom to choose from people. Everyone has their own reasons for not voting, whether that is because they do not agree with the policies or if they do not believe in the system. Forcing people to vote would mean that the final decision would be made by people who did not even want to vote in the first place.
+# ALTERNATIVE NAME 4: People should have a choice about whether or not to vote, but if they do not vote they should not be allowed to complain about the results of the election.
+2: 3,4,1,2
+1: 1,4,3,2
+1: 1,2,3,4
+1: 1,2,4,3

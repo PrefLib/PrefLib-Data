@@ -1,0 +1,19 @@
+# FILE NAME: 00000292.soc
+# TITLE: Is the quality of life in the UK higher or lower than it was 50 years ago? [27013c9c0d34db12c780dd4194b38b16]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: The quality of life in the UK is higher than it was 50 years ago. Improvements in technology, healthcare, working conditions and social reforms have meant that life expectancy and quality of life are higher than ever. While there is still work to be done, all things considered, the average person has a higher quality of life now than 50 years ago.
+# ALTERNATIVE NAME 2: The quality of life in the UK is higher than it was 50 years ago. The advent of the internet and other modern technologies have made information and communication easier and more readily available. Medicine has improved with life expectancy rising from 71 to 80 for men and from 77 to 83 for women in the past 50 years. The country is a more tolerant and equal place with human rights now enshrined in law and protections for minorities and the poor. There is still work to do on equality and discrimination, but the country is a better place than it was 50 years ago.
+# ALTERNATIVE NAME 3: The quality of life in the UK is higher than it was 50 years ago. People have access to better facilities, the internet, and technology in general has revolutionised the lives of the average person. On the other hand, the cost of living has increased dramatically and many people are left unable to access the basic essentials, but the quality of life has improved on average.
+# ALTERNATIVE NAME 4: In general, the quality of life in the UK has improved since 50 years ago. Overall, quality of life is generally higher now. There have been a lot of advancements in technology that have made our lives better. We have access to better healthcare, people live longer and have better lives. There are areas that people would have considered part of their quality of life that have suffered. Less people have the time to build relationships with others and communities are not as strong as they used to be. Not everyone has benefited from the advances in technology. Some people may not have access to mobile phones or computers.
+2: 2,1,3,4
+2: 1,3,2,4
+1: 2,1,4,3

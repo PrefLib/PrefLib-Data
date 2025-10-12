@@ -1,0 +1,21 @@
+# FILE NAME: 00000850.soc
+# TITLE: Should everyone have to carry ID cards? [b4998ff9ff3f2fceb8f461f44e1fc646]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: There are good arguments for and against requiring people to carry ID cards. Although there are good arguments for and against the idea of requiring people to carry ID cards, we feel that it is a step too far to force people to do so. In a society where freedom of movement is a key concept, the idea of forcing people to carry ID cards is a step too far and could lead to a totalitarian society. We do not feel that there is a valid reason for forcing people to carry ID cards and that this would be a threat to freedom of movement and personal anonymity.
+# ALTERNATIVE NAME 2: Although there are good arguments for and against the idea of requiring people to carry ID cards, we feel that it is a step too far to force people to do so. In a society where freedom of movement is a key concept, the idea of forcing people to carry ID cards is a step too far and could lead to a totalitarian society. We do not feel that there is a valid reason for forcing people to carry ID cards and that this would be a threat to freedom of movement and personal anonymity. However, we do feel that it would be a good idea for the government to provide ID cards for free to those who wish to carry them, to ensure that everyone has the ability to prove their identity.
+# ALTERNATIVE NAME 3: Although there are good arguments for and against the idea of requiring people to carry ID cards, we feel that it is a step too far to force people to do so. In a society where freedom of movement is a key concept, the idea of forcing people to carry ID cards is a step too far and could lead to a totalitarian society. We do not feel that there is a valid reason for forcing people to carry ID cards and that this would be a threat to freedom of movement and personal anonymity. We feel that this would infringe on human rights and that nobody should be forced to carry an ID card.
+# ALTERNATIVE NAME 4: ID cards should not be mandatory. Although there are good arguments for and against the idea of requiring people to carry ID cards, we feel that it is a step too far to force people to do so. In a society where freedom of movement is a key concept, the idea of forcing people to carry ID cards is a step too far and could lead to a totalitarian society. We do not feel that there is a valid reason for forcing people to carry ID cards and that this would be a threat to freedom of movement and personal anonymity.
+1: 2,1,3,4
+1: 2,3,4,1
+1: 1,2,4,3
+1: 1,3,4,2
+1: 3,1,4,2

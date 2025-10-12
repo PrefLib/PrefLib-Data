@@ -1,0 +1,20 @@
+# FILE NAME: 00001005.soc
+# TITLE: Does banning cars in cities reduce crime? [47d93d83c717eab1616a63d39f0b5b13]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, the banning of cars in cities will not lead to a reduction in crime. It may lead to a reduction in certain types of crime, such as bank robberies, but this is only a small proportion of the crimes that occur. There are also many other crimes that have no link to cars, and banning cars will not reduce these crimes. The banning of cars will also inconvenience many people who are not criminals, and is therefore not a good idea.
+# ALTERNATIVE NAME 2: “Banning cars in cities does not reduce crime. However, it is important to note that crime is a social issue and cannot be attributed to the presence of cars. If the presence of cars were to be linked to crime, it is more likely that crimes will increase, as crimes that involve cars will increase as there will be more cars to be used in the commission of crimes. Therefore, it is the social conditions that lead to crime, and cars are not the cause of crime, so the banning of cars will not lead to a reduction in crime.”
+# ALTERNATIVE NAME 3: In general, the banning of cars in cities does not reduce crime. While some crimes such as speeding or dangerous driving may be reduced, this is a relatively small amount of crime and is unlikely to have a significant impact on the overall crime rate. In fact, the banning of cars in cities may increase crime in other ways, such as a rise in car theft or a rise in road rage due to the increased congestion on roads.
+# ALTERNATIVE NAME 4: In conclusion, the banning of cars in cities would not reduce crime. Cars are not the cause of crime, rather the people who commit crimes are. The banning of cars may reduce crimes surrounding cars, however, other forms of crime may increase. Therefore, banning cars is not necessary to reduce crime, there are more effective methods to reduce the crime rate.
+2: 1,3,4,2
+1: 1,3,2,4
+1: 1,4,3,2
+1: 2,4,1,3

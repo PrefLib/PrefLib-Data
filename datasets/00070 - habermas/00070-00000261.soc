@@ -1,0 +1,21 @@
+# FILE NAME: 00000261.soc
+# TITLE: Are people more productive when they work from home? [cf9584724e61ca9207ba594ba3a5c2ab]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: People can be more productive when working from home if they are able to self motivate and manage their own time and if they can reduce the number of distractions from the outside world and their domestic life. In addition it is also important that people are able to keep in touch with their colleagues in a work environment.
+# ALTERNATIVE NAME 2: The quality of work produced by employees depends more on their attitude and commitment towards work rather than the working environment. In the case of the latter, working from home can provide a good atmosphere for more productive work.
+# ALTERNATIVE NAME 3: In general, working from home is more productive than in the office. However, it depends on the type of job. Some jobs are more suited to working from home as they are not collaborative in nature and require long periods of concentration. Some of the challenges they had to overcome during the debate were:
+# ALTERNATIVE NAME 4: People are more productive when working from home, however this does not mean that working from home is suited to all jobs. People who have deadlines and responsibility for their own work are more likely to benefit.
+1: 1,4,2,3
+1: 2,1,4,3
+1: 1,2,4,3
+1: 2,1,3,4
+1: 4,1,3,2

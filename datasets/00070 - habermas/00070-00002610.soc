@@ -1,0 +1,22 @@
+# FILE NAME: 00002610.soc
+# TITLE: Are we too reliant on technology in the modern age? [fec9a206185a3d08b4f3066abaf314b1]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: I think we are very reliant on technology in todays world - I feel there is now nothing we can do without using a phone or other technology
+# ALTERNATIVE NAME 2: I think so, technology has definitely made our lives comfortable and easy but we started to forget a lot of basic skills like I use a calculator to do a lot of easy calculation which can my done in my head! I am not using my brain as much as I should to keep my brain sharp. Social media has also become the source of distraction for everyday life. We are more social in the social media than face to face interactions. If in the future there is a glitch in the system and everything shuts down, will we survive?
+# ALTERNATIVE NAME 3: I do think that we are too reliant on technology nowadays. I feel that we as a society no longer feel the need to learn new information like previous generations did. Previous generations had a much better capacity to retain knowledge about history, culture, politics, important dates etc. Nowadays we just google something and forget the information and I think this has consequences for our overall memory and brain plasticity. It is important to learn new information, languages etc instead of feeling like the answer is a click away. However, the internet has made it easier for people to retrieve information and make knowledge more accessible so that is positive.
+# ALTERNATIVE NAME 4: Yes, we are indeed too reliant on technology in the modern age.  While technology has undoubtedly brought about numerous benefits, our excessive dependence on it has led to a disconnect from the real world, privacy concerns, and a growing addiction to screens.  Striking a balance between harnessing technology's advantages and preserving our essential human connections and offline experiences is a critical challenge for society today.
+# ALTERNATIVE NAME 5: Yes, to the point that people are unable to do activities that would have been normal 40 years ago.  We are losing certain skill sets.  Also technology controls every aspect of our modern lives and if that technology fails for example in banking, people could lose all their savings with no way of evidencing it.  Modern medicine and hospitals, computisation of modern cars all take away the human involvement which can leave us vunerable
+1: 2,1,3,4,5
+1: 3,2,4,5,1
+1: 4,2,3,5,1
+1: 3,4,2,5,1
+1: 5,2,4,1,3

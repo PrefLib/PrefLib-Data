@@ -1,0 +1,21 @@
+# FILE NAME: 00002707.soc
+# TITLE: Should we raise the retirement age from 66 to 68? [235769b7625d0b6cdbe3cf98d2dee069]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We do not believe that the retirement age should be raised to 68.  The retirement age is already too high in the UK and the average life expectancy is not high enough to justify a higher retirement age.  The current retirement age is already too high and the government should be looking at ways to reduce it rather than increase it.  The government should be looking at ways to increase the tax revenue from the wealthy and not making the working class work for longer.
+# ALTERNATIVE NAME 2: In general, the group was opposed to raising the retirement age to 68. They felt that it was unfair to force people to work until they are 68 and that there are other ways to increase tax revenue to support the economy. They felt that the current retirement age of 66 was already too high and that people should be able to enjoy their retirement in their later years.
+# ALTERNATIVE NAME 3: We should not raise the retirement age to 68. The current retirement age is already very high, and working until 68 is not something that most people are capable of. Additionally, people should be able to enjoy their life after working for 50 years. We should instead look to the wealthy top 1% to help the economy, and not the poorest in society.
+# ALTERNATIVE NAME 4: No, we should not raise the retirement age from 66 to 68. There are a number of reasons for this. Firstly, the average life expectancy is 80 years old, so by the time someone reaches 66, they are already in their late sixties and will not be able to work for very much longer. Secondly, the current retirement age is already quite high compared to other European countries. Finally, there are many people in physically demanding jobs who will not be able to work for very much longer and may have to retire earlier than 66. Therefore, the retirement age should not be raised.
+1: 1,4,2,3
+1: 4,1,3,2
+1: 1,4,3,2
+1: 1,3,2,4
+1: 4,3,2,1

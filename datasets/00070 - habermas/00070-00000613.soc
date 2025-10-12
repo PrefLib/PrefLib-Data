@@ -1,0 +1,20 @@
+# FILE NAME: 00000613.soc
+# TITLE: Is there a role for a minimum wage? [4d5a3ea07dd9574579538f6cc45a825e]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: There should be a minimum wage. It is important to ensure that workers are not exploited by employers. However, the minimum wage should be raised in line with the cost of living to ensure that it continues to serve its purpose.
+# ALTERNATIVE NAME 2: “Yes, there is a role for a minimum wage. It is necessary to stop workers being exploited by employers. It should be in place to ensure that people have an acceptable standard of living with all basic needs being affordable. The current minimum wage is not sufficient and should be increased in line with the cost of living.”
+# ALTERNATIVE NAME 3: There is a role for a minimum wage. It is important that employers do not exploit workers and that people can afford to meet their basic needs.
+# ALTERNATIVE NAME 4: There should be a minimum wage, however, it should be reviewed regularly in line with the cost of living. It should also be noted that some employers would struggle to pay the minimum wage and therefore this would affect employment levels.
+2: 2,1,4,3
+1: 4,2,1,3
+1: 2,4,1,3
+1: 2,1,3,4

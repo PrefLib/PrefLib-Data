@@ -1,0 +1,21 @@
+# FILE NAME: 00001110.soc
+# TITLE: Should it be a crime to fail to vote in a general election? [4d25f237a93b710ebf2eabd65b4ad76f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: It should not be a crime to fail to vote in a general election. This is because it would not be fair to make this a criminal offence, as some people may choose not to vote due to personal reasons.
+# ALTERNATIVE NAME 2: In general, the group was opposed to making it a crime to fail to vote in a general election. This is because it is a fundamental right of a democracy to be able to choose whether or not to vote. The group also believed that it would be difficult to enforce and that it would lead to people voting for a party they do not support in order to avoid being punished.
+# ALTERNATIVE NAME 3: In general, the group was in favour of not making it a crime to fail to vote in a general election. This is because the UK is a democracy and people should have the right to express their views freely. The group also believed that it is important to have a free and fair election, and making it a crime to not vote could lead to people voting for a party they do not support in order to avoid getting into trouble. The group also believed that the statistics would be ruined as it would be impossible to tell which votes are genuine and which votes are simply because people were forced to do it.
+# ALTERNATIVE NAME 4: We believe that it is a right of every British citizen to vote, however, it should not be criminalised if they do not. It is a persons right to choose not to vote as it may be a way for them to show their dissatisfaction with the political parties. Although it would be preferable if everyone would exercise their right to vote, we believe that there should be no criminal consequences for those who choose not to.
+1: 2,3,1,4
+1: 2,1,3,4
+1: 2,3,4,1
+1: 3,4,2,1
+1: 4,2,3,1

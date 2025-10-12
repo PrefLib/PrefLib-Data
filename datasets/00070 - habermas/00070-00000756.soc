@@ -1,0 +1,20 @@
+# FILE NAME: 00000756.soc
+# TITLE: Should it be okay for doctors to prescribe life-ending drugs to patients with terminal illnesses? [a98ebe904e6bc1604de1ff426ff24f39]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, the group was in favour of doctors being able to prescribe life-ending drugs to patients with terminal illnesses, provided there were very robust guidelines in place and always included the expert opinion of at least two medical practitioners and the consent of the patient or their family if the patient cannot give their consent. This is because the group believe that the decision to end a life is a very serious one and it is important that it is made by a number of experts and with the consent of the patient or their family.
+# ALTERNATIVE NAME 2: In general, the group was in favour of doctors being able to prescribe life-ending drugs to patients with terminal illnesses, provided there were very robust guidelines in place and always included the expert opinion of at least two medical practitioners and the consent of the patient or their family if the patient cannot give their consent. The group felt that this would provide a more humane option for people with terminal illnesses who are suffering and in pain, and also provide them with the choice to have some control over their death.
+# ALTERNATIVE NAME 3: In general, the group was in favour of doctors being able to prescribe life-ending drugs to patients with terminal illnesses, provided there were very robust guidelines in place and always included the expert opinion of at least two medical practitioners and the consent of the patient or their family if the patient cannot give their consent. This is because of the importance of patient choice and the will and wishes of the patient, and because of the potential for pain and suffering, prognosis and deterioration, which need to be taken into account.
+# ALTERNATIVE NAME 4: In general, the group was in favour of doctors being able to prescribe life-ending drugs to patients with terminal illnesses, provided there were very robust guidelines in place and always included the expert opinion of at least two medical practitioners and the consent of the patient or their family if the patient cannot give their consent. The decision should be taken on a case-by-case basis and only after all other options have been explored.
+2: 1,2,3,4
+1: 1,4,2,3
+1: 2,3,4,1
+1: 2,1,4,3

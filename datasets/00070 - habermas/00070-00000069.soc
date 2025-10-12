@@ -1,0 +1,21 @@
+# FILE NAME: 00000069.soc
+# TITLE: Should the BBC have a public service obligation to inform, educate and entertain all citizens? [7407292ba8c0667cdea37ec7013bdb49]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The BBC should have a public service obligation to inform and entertain all citizens, but not to educate. They should also be unbiased and as fair as possible in the news they deliver, so as to deliver factual information. The BBC should have a public service obligation to inform and entertain all citizens, but not to educate. They should also be unbiased and as fair as possible in the news they deliver, so as to deliver factual information.
+# ALTERNATIVE NAME 2: The BBC should have a public service obligation to inform, educate and entertain all citizens. The BBC should also be unbiased and as fair as possible in the news they deliver, so as to deliver factual information.
+# ALTERNATIVE NAME 3: The BBC should have a public service obligation to inform and entertain all citizens, and also be unbiased and as fair as possible in the news they deliver, so as to deliver factual information.
+# ALTERNATIVE NAME 4: The BBC should have a public service obligation to inform, entertain, and educate all citizens. They should be unbiased and as fair as possible in the news they deliver, so as to deliver factual information. The BBC should have a public service obligation to inform, entertain, and educate all citizens. They should be unbiased and as fair as possible in the news they deliver, so as to deliver factual information.
+1: 3,1,2,4
+1: 2,4,1,3
+1: 3,4,1,2
+1: 1,3,2,4
+1: 3,2,1,4

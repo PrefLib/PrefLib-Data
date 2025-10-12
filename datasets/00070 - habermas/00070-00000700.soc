@@ -1,0 +1,21 @@
+# FILE NAME: 00000700.soc
+# TITLE: Should employers be able to insist that employees have certain hairstyles? [d61b7077ef98fcfd732c3d9cb2f7946e]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the employer should not be able to insist that employees have certain hairstyles. This is a basic human right. The only exceptions could be if the hairstyle creates some kind of health and safety risk that cannot be mitigated by protective equipment or if the hairstyle is inappropriate for the job.
+# ALTERNATIVE NAME 2: Employers should not be able to insist that employees have certain hairstyles. This is a basic human right. The only exceptions could be if the hairstyle creates some kind of health and safety risk that cannot be mitigated by protective equipment or if the hairstyle is inappropriate for the job.
+# ALTERNATIVE NAME 3: Employers should not be able to insist that employees have certain hairstyles. There are some exceptions however. For example, if the hairstyle creates some kind of health and safety risk that cannot be mitigated by protective equipment or if the hairstyle is inappropriate for the job.
+# ALTERNATIVE NAME 4: Employers should not be able to insist that employees have certain hairstyles, as this is a basic human right. However, if the hairstyle creates some kind of health and safety risk that cannot be mitigated by protective equipment or if the hairstyle is inappropriate for the job, then the employer should be able to insist that employees have certain hairstyles.
+1: 1,4,3,2
+1: 4,1,2,3
+1: 3,4,1,2
+1: 2,1,3,4
+1: 4,3,1,2

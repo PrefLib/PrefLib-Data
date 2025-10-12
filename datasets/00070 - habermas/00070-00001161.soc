@@ -1,0 +1,20 @@
+# FILE NAME: 00001161.soc
+# TITLE: Should we increase tax on the rich? [7ccb66eb6cb0c040a7fe8454a571f104]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Final consensus statement: We should increase tax on the rich to create a more equal society.  This is because the highest echelons of society should be taxed more.  It is almost inhuman, and certainly unethical, to amass millions or even billions of pounds of wealth and not give back to lower-income people.  Trickle-down economics does not work.  By taxing the rich, we could improve the qualities of life for countless people in terms of public services such as healthcare and education.
+# ALTERNATIVE NAME 2: Final consensus statement: We should increase tax on the rich to help build a more equal society. Doing so will improve the quality of life for everyone in terms of public services such as healthcare and education. It would also increase investment in public services.
+# ALTERNATIVE NAME 3: We should increase tax on the rich to help build a more equal society.  This is because the highest echelons of society should be taxed more.  It is almost inhuman, and certainly unethical, to amass millions or even billions of pounds of wealth and not give back to lower-income people. Trickle-down economies do not work. By taxing the rich, we could improve the qualities of life for countless people in terms of public services such as healthcare and education.  This is because it would create a more equal society.
+# ALTERNATIVE NAME 4: We should increase tax on the rich to help build a more equal society.  This is because the highest echelons of society should be taxed more.  It is almost inhuman, and certainly unethical, to amass millions or even billions of pounds of wealth and not give back to lower-income people. Trickle-down economies do not work. By taxing the rich, we could improve the qualities of life for countless people in terms of public services such as healthcare and education.  The increased tax revenue could be used to improve quality of life for everyone.
+2: 1,3,4,2
+1: 3,4,1,2
+1: 4,3,1,2
+1: 1,4,3,2

@@ -1,0 +1,21 @@
+# FILE NAME: 00000135.soc
+# TITLE: Would it be better if the UK were part of the European Union? [aa1fe1c19fa9f7f05b0f4f234c5da21b]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: It is the opinion of the group that the UK should not be part of the European Union. The group came to this conclusion because the EU was perceived as holding the UK back and blocking Brexit negotiations by refusing to compromise. Participant 1 summarised this view when he stated that 'the EU is holding the UK back from making beneficial trade deals with other countries. This prevents the UK from taking control of its borders.'
+# ALTERNATIVE NAME 2: Leaving the EU has been a controversial topic. Leaving the EU has made some things more complicated and we don't see any rewards.
+# ALTERNATIVE NAME 3: In general, leaving the EU is something that is in everyone's best interests and everyone in the UK can benefit from.
+# ALTERNATIVE NAME 4: There are pros and cons for both leaving and staying in the EU and these need to be considered. The people of the UK voted for Brexit and their voice should be listened to. The UK has always been a trading nation and should look to expand trade opportunities to countries outside of the EU.
+1: 4,3,1,2
+1: 2,4,1,3
+1: 4,2,1,3
+1: 4,3,2,1
+1: 2,4,3,1

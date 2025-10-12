@@ -1,0 +1,20 @@
+# FILE NAME: 00000791.soc
+# TITLE: Should doctors be allowed to prescribe placebos, if the placebo has been shown to have positive effects? [81286e34a74a66610a535514c1bfe933]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Placebos should only be prescribed in the context of a clinical trial, where there is no known cure for the illness being studied. This is to ensure that the placebo is being used for scientific purposes, and not to deny a patient effective treatment. This is to ensure that the placebo is being used for scientific purposes, and not to deny a patient effective treatment.
+# ALTERNATIVE NAME 2: Placebos should only be prescribed in the context of a clinical trial, where there is no known cure for the illness being studied. This is to ensure that the placebo is being used for scientific purposes, and not to deny a patient effective treatment. The patient should be made aware that they are receiving a placebo, and that it is being used for scientific purposes, in order to preserve trust between doctor and patient.
+# ALTERNATIVE NAME 3: Placebos should only be prescribed in the context of a clinical trial, where there is no known cure for the illness being studied. This is to ensure that the placebo is being used for scientific purposes, and not to deny a patient effective treatment. This also means that the patient will be aware that they are taking a placebo, and so they can make an informed decision about whether they are happy to be taking part in the trial.
+# ALTERNATIVE NAME 4: Placebos should only be prescribed in the context of a clinical trial, where there is no known cure for the illness being studied. This is to ensure that the placebo is being used for scientific purposes, and not to deny a patient effective treatment. The patient should also be informed that they are being given a placebo, to ensure that they are not being denied effective treatment.
+2: 1,4,2,3
+1: 1,2,4,3
+1: 2,3,1,4
+1: 1,3,2,4

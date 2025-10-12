@@ -1,0 +1,20 @@
+# FILE NAME: 00001324.soc
+# TITLE: Should we ban the sale of all cars that do not run on electric power? [7568e83dd78c6030f623c3789e95bb76]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, the group was in favour of a ban on the sale of non-electric cars. However, it was recognised that this would not be possible immediately, as there are not currently enough electric cars on the market to replace those that would be banned. The group also recognised that many people would not be able to afford an electric car, and that this would be unfair. Therefore, the group came to the following consensus opinion: “The sale of all non-electric cars should be banned in the long term. In the short term, the sale of diesel cars should be banned, as these vehicles produce the most toxic emissions. The sale of petrol cars should also be reduced, but not banned. The government should provide more electric car charging points, and make it easier for people to install them in their homes. The government should also provide more financial support for people who want to buy electric cars, but cannot afford them. The government should also provide financial support for people who want to convert their existing cars to electric, as this would also reduce the number of non-electric cars on the road.”
+# ALTERNATIVE NAME 2: In general, the group was in favour of a ban on the sale of all non-electric cars. However, we also recognised that this would be very difficult to implement, as there are many people who would be negatively impacted by such a ban. We also recognised that there are many people who would not be able to afford an electric car, and that many people would not want to give up their current cars. We therefore believe that a ban would not be a good idea, and that we should instead focus on incentivising people to switch to electric vehicles, such as through tax breaks and other financial incentives.
+# ALTERNATIVE NAME 3: Although electric vehicles have a much lower carbon footprint than internal combustion engine cars, we believe that a complete ban of the sale of non-electric cars would damage the economy. There is also a great concern over the battery disposal of electric cars when they become obsolete, which could also have a damaging effect on the environment.
+# ALTERNATIVE NAME 4: Although electric vehicles have a much lower carbon footprint than internal combustion engine cars, we believe that a complete ban on the sale of non-electric cars would not be the best course of action. A more effective solution would be to introduce incentives for people to purchase electric cars and also to raise the cost of owning ICE cars through taxation. We also believe that these measures would be best implemented over a long time frame.
+2: 1,2,3,4
+1: 4,2,1,3
+1: 3,4,2,1
+1: 1,2,4,3

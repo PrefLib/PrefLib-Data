@@ -1,0 +1,20 @@
+# FILE NAME: 00000648.soc
+# TITLE: Should children be able to access their genomic information without the consent of their parents? [574a93d5ff290c6c739be4317259a7c5]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Children should be able to access their genomic information without the consent of their parents, but there should be some guidelines in place, such as an age limit.
+# ALTERNATIVE NAME 2: Children should be able to access their genomic information without the consent of their parents.  Children should have the right to know about themselves and their genomic information, as it is something that is unique to them.  However, they should not be allowed to access it until they are old enough to understand it, and it should be made clear to them that it is a choice they can make.  If they do not wish to know, they should not be forced to.
+# ALTERNATIVE NAME 3: Children should be able to access their genomic information without the consent of their parents.  That information has been inherited by them.  They should be able to have knowledge of it.  They may not understand it fully but it is their right to have it.
+# ALTERNATIVE NAME 4: Children should be able to access their genomic information without the consent of their parents.  That information has been inherited by them.  They should be able to have knowledge of it.
+2: 2,1,3,4
+1: 2,3,4,1
+1: 1,2,3,4
+1: 2,1,4,3

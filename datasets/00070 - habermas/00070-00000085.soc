@@ -1,0 +1,19 @@
+# FILE NAME: 00000085.soc
+# TITLE: Should the royal family be paid by the government? [5f4d529186e4877533476df599b86472]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: No, the Royal family should not be paid by the government.
+# ALTERNATIVE NAME 2: We should continue to pay for the royal family. They are of great importance and continue to be a source of pride for the nation.
+# ALTERNATIVE NAME 3: In general, the royal family is an outdated institution in the 21st century. They should fund themselves through their own private wealth and be allowed to work as other citizens do. The tax payer money should be used for other purposes.
+# ALTERNATIVE NAME 4: The Royal family should receive some form of payment from the government. This is on the basis that they will continue to act as a focal point for the nation and the institution which is built around them is a valuable tradition for Britain.
+3: 3,1,4,2
+1: 2,3,4,1
+1: 4,2,3,1

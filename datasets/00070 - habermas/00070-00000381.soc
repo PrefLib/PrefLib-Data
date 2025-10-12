@@ -1,0 +1,18 @@
+# FILE NAME: 00000381.soc
+# TITLE: Do we need to be concerned about climate change? [0886824c07fa4ca7ccbd906d6da289ba]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 2
+# ALTERNATIVE NAME 1: Climate change is the most important challenge facing humanity and we need to be deeply concerned about its impact. We will all feel its effects in the near future, and some people are already suffering, so we need to act now. It is caused mostly by human activity, so we need to limit our emissions. We can also tackle the effects of climate change through adapting to its effects and through new technologies. We need to work together to address climate change because the consequences of doing nothing will be catastrophic.
+# ALTERNATIVE NAME 2: Climate change is the most important challenge facing humanity and we need to be deeply concerned about its impact. We will all feel its effects in the near future, and some people are already suffering, so we need to act now. It is caused mostly by human activity, so we need to limit our emissions. We can also tackle the effects of climate change through new technologies. We need to work together to address climate change because the consequences of doing nothing will be catastrophic.
+# ALTERNATIVE NAME 3: Climate change is the most important challenge facing humanity and we need to be deeply concerned about its impact. It is caused mostly by human activity, so we need to limit our emissions. We can also tackle the effects of climate change through new technologies. We need to work together to address climate change because the consequences of doing nothing will be catastrophic.
+# ALTERNATIVE NAME 4: Climate change is the most important challenge facing humanity. It is mostly caused by human activity, and we will all feel its effects in the near future. We need to work together to address climate change because the consequences of doing nothing will be catastrophic.
+4: 1,2,3,4
+1: 2,3,4,1

@@ -1,0 +1,21 @@
+# FILE NAME: 00000506.soc
+# TITLE: Should the UK have a more generous asylum seeking policy? [fa301df6a392075785f0a5ba6784afe9]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The group came to the consensus view that we should not be more generous in our asylum seeking policy but rather tighten up the process in order to stop economic migrants from entering the country posing as asylum seekers. The participants felt that the UK could not continue to provide the level of services that they currently are for the number of asylum seekers entering the country at the moment.
+# ALTERNATIVE NAME 2: We should be more generous to those that have genuinely applied for asylum and who need it, and not to those who are just taking advantage of the system.
+# ALTERNATIVE NAME 3: In general, the UK has the capacity to accept a small number of asylum seekers and should maintain this capacity.  However, to be eligible for asylum, people must show that they have a real need for protection and are fleeing real danger. The UK should not provide support to people who have left their country of origin purely for economic reasons and those who do not have a real need for protection.
+# ALTERNATIVE NAME 4: The UK should have a more generous asylum seeking policy for those who truly seek asylum from political, religious and cultural persecution. However, this must be properly regulated so that economic migrants are not also permitted to access the asylum system.
+1: 1,4,3,2
+1: 1,3,4,2
+1: 4,3,2,1
+1: 2,3,1,4
+1: 4,2,3,1

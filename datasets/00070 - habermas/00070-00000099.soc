@@ -1,0 +1,20 @@
+# FILE NAME: 00000099.soc
+# TITLE: Should the UK build a new generation of nuclear power stations? [b7e26c2d003bcb04342b94f9fcb35e50]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: A new generation of power stations would be safer than the older generation, however we need to find a solution to how to deal with nuclear waste. The following screenshots are from the SPoKE website, where participants could see their original opinion, the opinion of others in their group, and the final consensus view of the group.
+# ALTERNATIVE NAME 2: In general, the group was in favour of building a new generation of nuclear power stations. Most people believed that this is a good alternative to providing energy for the country and is also very safe. However, one person thought that we still have not learnt how to deal with nuclear waste and felt that it is unsafe until we can deal with that issue.
+# ALTERNATIVE NAME 3: There should be a new generation of nuclear power stations. Nuclear energy is very important for our current world. There is the risk of a disaster but it is very unlikely to happen. The radioactive waste is a very big issue. It could damage the environment. If this happens then it will be very bad. There are standards that have been put in place to stop this from happening. It is unlikely to happen if the power stations are built properly.
+# ALTERNATIVE NAME 4: BUILDING A NEW GENERATION OF NUCLEAR POWER STATIONS WOULD BE SAFE AS LONG AS THE STATIONS ARE NOT TOO CLOSE TO EACH OTHER. This consensus statement was created by a tool called GroupKit that was created in a Jupyter Notebook in Python by the author of this blog post.
+2: 2,1,3,4
+1: 1,2,3,4
+1: 2,3,1,4
+1: 1,3,2,4

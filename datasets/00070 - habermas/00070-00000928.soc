@@ -1,0 +1,21 @@
+# FILE NAME: 00000928.soc
+# TITLE: Should we ban the building of wind turbines on the UK's shoreline? [59e88bd3804138a09342d936a1735413]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We should not ban the building of wind turbines on the UK's shoreline. We need to be diversifying our energy resources as much as possible and wind energy is a vital part of this. If we continue to be dependent on other countries energy supplies we will suffer from fluctuations in the market due to conflicts or shortages. We also need to be investing more in wind as it is commonly understood to be a green source of energy. We must use more green energy sources if we are to have any hope of reducing our emissions and mitigating the effects of climate change.
+# ALTERNATIVE NAME 2: We should not ban the building of wind turbines on the UK's shoreline. Wind turbines are a valuable resource to our country as they provide a renewable source of energy. We need to be diversifying our energy resources as much as possible and wind energy is a vital part of this. If we continue to be dependent on other countries energy supplies we will suffer from fluctuations in the market due to conflicts or shortages. We also need to be investing more in wind as it is commonly understood to be a green source of energy. We must use more green energy sources if we are to have any hope of reducing our emissions and mitigating the effects of climate change.
+# ALTERNATIVE NAME 3: In general, wind turbines should not be banned on the UK's shoreline. We need to be diversifying our energy resources as much as possible and wind energy is a vital part of this. If we continue to be dependent on other countries energy supplies we will suffer from fluctuations in the market due to conflicts or shortages. We also need to be investing more in wind as it is commonly understood to be a green source of energy. We must use more green energy sources if we are to have any hope of reducing our emissions and mitigating the effects of climate change. However, there are some issues that need to be considered. Firstly, the turbines can be an eyesore, and secondly, there is a risk that they can affect wildlife, especially birds.
+# ALTERNATIVE NAME 4: Although there are some risks and some negatives to the building of wind turbines, the benefits to the country are so great that we should not ban the building of them. We need to be diversifying our energy sources as much as possible and wind energy is a vital part of this. If we continue to be dependent on other countries energy supplies we will suffer from fluctuations in the market due to conflicts or shortages. We also need to be investing more in wind as it is commonly understood to be a green source of energy. We must use more green energy sources if we are to have any hope of reducing our emissions and mitigating the effects of climate change.
+1: 1,2,4,3
+1: 2,1,4,3
+1: 3,2,4,1
+1: 3,4,2,1
+1: 3,2,1,4

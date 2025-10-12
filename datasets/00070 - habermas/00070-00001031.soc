@@ -1,0 +1,21 @@
+# FILE NAME: 00001031.soc
+# TITLE: Is it acceptable to build houses in areas that have been hit by flooding? [b5a406a93308d434aad9c08e003edfe9]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We have come to the conclusion that it is not acceptable to build houses in areas that have been hit by flooding. The potential consequences are severe and can include injury and death. In addition, businesses in the area can find themselves in severe trouble and insurance is very hard to get. In addition, it would be irresponsible to build in an area that is knowingly prone to risks and this places an additional burden on the rescue authorities having to deal with the outcome of homes being flooded.
+# ALTERNATIVE NAME 2: We have come to the conclusion that it is not acceptable to build houses in areas that have been hit by flooding. We believe that it is irresponsible to build in areas that are known to be at risk of flooding. This places an additional burden on the rescue authorities and is likely to lead to increased insurance premiums for the residents. In addition, it is likely to be difficult to obtain a mortgage or loan for these properties.
+# ALTERNATIVE NAME 3: “Building homes in areas that have been hit by flooding is not a good idea. This is because it is not acceptable to build in areas that have been hit by flooding. The potential consequences of building in these areas include difficulty in obtaining insurance and a mortgage/loan due to the potential risks. In addition, it would be a bit irresponsible to build in an area that is knowingly prone to risks and furthermore it places an additional burden on the rescue authorities having to deal with the outcome of homes being flooded.”
+# ALTERNATIVE NAME 4: In general, the consensus opinion of the group was that it is not acceptable to build houses in areas that have been hit by flooding. The reasons for this include the potential difficulty in obtaining insurance and a mortgage/loan due to the potential risks. In addition, it would be a bit irresponsible to build in an area that is knowingly prone to risks and furthermore it places an additional burden on the rescue authorities having to deal with the outcome of homes being flooded.
+1: 1,4,3,2
+1: 2,1,3,4
+1: 1,2,4,3
+1: 1,3,4,2
+1: 1,4,2,3
