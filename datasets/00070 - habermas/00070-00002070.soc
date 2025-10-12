@@ -1,0 +1,21 @@
+# FILE NAME: 00002070.soc
+# TITLE: Should we allow the sale of alcohol in supermarkets on Sundays? [57afde449b358404d1286590c0d830cc]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: People in today's society should be able to live their life as they wish to, free from unnecessary restrictions on their freedoms. If they wish to go out on a Sunday, then they should be allowed to buy alcohol from the supermarket.  Restricting this right affects the public at large, only small sections of society. We had some disagreements and some very differing opinions that needed to be addressed to come to the final consensus statement. There is a need to address all the opinions and try to bring them together so that we reach a consensus statement. At the end of the process all opinions should be presented, even ones not completely in agreement with the consensus statement. However, the more in agreement with the consensus statement the opinions are, the more the information is considered, and the stronger the final consensus is.
+# ALTERNATIVE NAME 2: People have the right to live their life as they wish to. If they wish to go out on a Sunday, then they should be allowed to buy alcohol from the supermarket. It is their choice and should not be restricted.
+# ALTERNATIVE NAME 3: Yes.  People have the right to live their life as they wish to. If they wish to go out on a Sunday, then they should be allowed to buy alcohol from the supermarket. It is their choice and should not be restricted.  People with a history of alcohol abuse should be given advice and guidance to help them overcome their problems, but there should be no legal restrictions on the public as a whole.
+# ALTERNATIVE NAME 4: In a society that is becoming more and more diverse, we should allow the sale of alcohol on a Sunday in supermarkets. No one should be allowed to tell you what to do on a Sunday, and people should be allowed to live their lives as they see fit.
+1: 2,1,3,4
+1: 4,2,3,1
+1: 1,2,3,4
+1: 3,2,4,1
+1: 2,3,4,1

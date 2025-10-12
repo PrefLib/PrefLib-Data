@@ -1,0 +1,21 @@
+# FILE NAME: 00000298.soc
+# TITLE: Should we ban the consumption of meat? [8d87100022fb3087739e2fc4fc833376]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We should not ban the consumption of meat as it provides people with a good source of protein and is a part of the natural food chain. People should be encouraged to reduce their intake of meat but should be free to make their own choices. The industry should also be encouraged to reduce the amount of waste and cruelty it creates.
+# ALTERNATIVE NAME 2: People should have the right to choose whether they want to eat meat or not. However, we should not be consuming meat at every meal and it should not be the centre of every meal. We should also be making more of an effort to reduce our consumption of meat and switch to more plant based products.
+# ALTERNATIVE NAME 3: In general, the group was opposed to banning the consumption of meat. However, all participants agreed that there was no reason why people shouldn't be encouraged to consume less meat, especially in terms of the impact on the environment. People should be free to make their own choices, and the group did not think it was the government's role to ban consumption.
+# ALTERNATIVE NAME 4: People should be encouraged to reduce their meat consumption, however, they should still be able to choose whether they eat meat or not. Meat has been a part of human life for thousands of years and provides some benefits in terms of health. However, there is a case to reduce the amount of meat consumed, as industrial farming can be cruel and creates a lot of waste products such as slurry.
+1: 1,2,4,3
+1: 1,2,3,4
+1: 2,3,4,1
+1: 4,1,2,3
+1: 3,4,1,2

@@ -1,0 +1,19 @@
+# FILE NAME: 00000017.soc
+# TITLE: Should we ban all smoking in public places? [57f0d915b33efccbf291c508ea943881]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: Smoking in public places should be banned. Smoking is not only harmful to the smoker, but is also an unethical health hazard to others nearby. The effects of smoking on the health of those nearby are immediate and long term. There is evidence to support this. Banning smoking in public places would significantly decrease the level of passive smoking by reducing exposure of non-smokers to toxic fumes.
+# ALTERNATIVE NAME 2: Smoking in public places should be banned as it is not only harmful to the smoker, but also an unethical health hazard to others nearby. The effects of smoking on the health of those nearby are immediate and long term. There is evidence to support this. Banning smoking in public places would significantly decrease the level of passive smoking by reducing exposure of non-smokers to toxic fumes.
+# ALTERNATIVE NAME 3: In general, smoking in public places should be banned. Smoking is not only harmful to the smoker, but is also an unethical health hazard to others nearby. The effects of smoking on the health of those nearby are immediate and long term. There is evidence to support this. Banning smoking in public places would significantly decrease the level of passive smoking by reducing exposure of non-smokers to toxic fumes.
+# ALTERNATIVE NAME 4: In general, smoking in public places should be banned. Smoking is not only harmful to the smoker, but is also an unethical health hazard to others nearby. The effects of smoking on the health of those nearby are immediate and long term. There is evidence to support this. Banning smoking in public places would significantly decrease the level of passive smoking by reducing exposure of non-smokers to toxic fumes. However, in some large, outdoor public places, smoking should be permitted.
+3: 1,2,3,4
+1: 1,3,2,4
+1: 4,1,3,2

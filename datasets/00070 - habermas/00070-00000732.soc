@@ -1,0 +1,21 @@
+# FILE NAME: 00000732.soc
+# TITLE: Should we ban smoking on beaches? [eb2ee25c9ff696deb1a20e8c329d683b]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We have come to the decision that smoking should not be banned on beaches. However, it should be restricted to certain areas and people should have to be more careful about littering. The main reason for this decision is that we do not want to restrict peoples freedom, as long as they are not harming anyone else.
+# ALTERNATIVE NAME 2: We should not ban smoking on beaches, but we should encourage people not to smoke on beaches, and provide bins for them to dispose of cigarette butts.
+# ALTERNATIVE NAME 3: Smoking on beaches should not be banned. Smokers should be able to smoke in designated areas of the beach, and smokers should be responsible for cleaning up any cigarette butts. This would ensure that non-smokers are not harmed by second-hand smoke and would allow smokers to enjoy the beach too.
+# ALTERNATIVE NAME 4: In general, smoking should not be banned on beaches, however in places where there are a lot of families, smoking should be banned near areas where children are playing. This would ensure that children are not subjected to second hand smoke, and also ensure that families have a nice day out without the threat of inhaling cigarette smoke.
+1: 3,1,4,2
+1: 2,1,3,4
+1: 4,3,1,2
+1: 1,4,3,2
+1: 3,4,2,1

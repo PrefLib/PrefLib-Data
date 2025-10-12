@@ -1,0 +1,20 @@
+# FILE NAME: 00000866.soc
+# TITLE: Should there be more taxes on cigarettes and alcohol? [44c0014f6c33fc1a8a78b2cdb4648b3d]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: In general, cigarettes and alcohol cause a great deal of harm to society, and in particular to the health of individuals. In order to try and offset the harm caused by these products, taxes on them should be increased. This would have two effects, firstly it would increase the price of the products, making them less accessible to young people, and secondly it would provide additional revenue to the government that could be used to help people who are addicted to these substances to come off them.
+# ALTERNATIVE NAME 2: In general, cigarettes and alcohol are harmful to health. Increasing taxes on them would both reduce peoples consumption of them both due to higher prices and would also allow for more funding to be put towards preventative measures in consuming both and also funding towards medical care for those suffering from the negative impacts of both.
+# ALTERNATIVE NAME 3: There should be more taxes on cigarettes and alcohol. The health costs of both cigarettes and alcohol are significant, and are only getting worse. Taxing these products will increase the cost to the consumer, which will in turn discourage consumption of both. The additional revenue can be used to help people suffering from the effects of these substances, and to prevent people from starting to consume these substances.
+# ALTERNATIVE NAME 4: There should be more taxes on cigarettes and alcohol. This is because cigarettes and alcohol cause significant harm to people's health, and this leads to the government having to spend large amounts of money on healthcare. This money could be better spent on preventative measures, or on improving the health of those who are currently suffering as a result of cigarette and alcohol consumption.
+2: 1,3,2,4
+1: 3,1,2,4
+1: 2,3,1,4
+1: 3,1,4,2

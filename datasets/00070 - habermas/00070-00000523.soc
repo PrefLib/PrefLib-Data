@@ -1,0 +1,19 @@
+# FILE NAME: 00000523.soc
+# TITLE: Should we spend more money on healthcare, or should we spend more on other public services, like education? [95c29c4ac3cb946859ea34316279316e]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: Spending more money on healthcare is a high priority. The health and wellbeing of the nation will only be achieved by improving the health of the individuals who live in it.
+# ALTERNATIVE NAME 2: There is a strong consensus that more money should be spent on healthcare than education.
+# ALTERNATIVE NAME 3: The majority of participants thought that more money should be allocated to healthcare.
+# ALTERNATIVE NAME 4: The group of participants was in favour of increasing the budget for healthcare. The group emphasised the role of health care as a public good, which has a high positive impact on the overall welfare of the nation. The consensus view of the group was that if we spend more on healthcare then people will have a longer, healthier life, which will make the country as a whole more productive. In other words, the group concluded that there is a virtuous circle, where the investment in healthcare leads to the improvement in economic growth and welfare.
+3: 4,1,2,3
+1: 4,1,3,2
+1: 1,2,4,3

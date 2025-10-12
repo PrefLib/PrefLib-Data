@@ -1,0 +1,21 @@
+# FILE NAME: 00002500.soc
+# TITLE: Is the global north at risk from the avian flu? [ecd856f87f39de34bf36b2069b685553]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: im not too sure as i don't have much knowledge on the subject. i suppose though, birds are everywhere so i think they are as much at risk as any other area
+# ALTERNATIVE NAME 2: I think it's something that we should be prepared for and that there is a slight risk. As we've seen with Covid, pandemics can have very damaging effects, either from the pandemic itself or the measures put in place to mitigate. We should be clear as a group of nations what the threat actually is and what we would do about it if it became a problem.
+# ALTERNATIVE NAME 3: Not really. With it's advanced healthcare infrastructure, the global north is better equipped to handle outbreaks like avian flu. Early detection systems, public health campaigns and vaccines ensure that such diseases are contained. Stringent biosecurity measures in the poultry industry in many northern countries reduce the risk of transmission from birds to humans.
+# ALTERNATIVE NAME 4: Wild birds travel over long distances, many migrate north to south. Avian flu is apparently easily transmitted. Some poultry owners, I have witnessed, are  careless about keeping their birds indoors. 
+# ALTERNATIVE NAME 5: There have been several outbreaks of Avian flu worldwide. It is known that birds migrate north during part of the year, and south for the winter. Therefore, there is a risk of avian flu outbreaks worldwide, due to migration. Avian flu has been increasing over recent years, and an outbreak is always likely. 
+2: 3,2,5,4,1
+1: 2,3,5,4,1
+1: 4,3,2,1,5
+1: 5,2,4,3,1

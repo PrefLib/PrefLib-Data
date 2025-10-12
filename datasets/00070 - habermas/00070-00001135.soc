@@ -1,0 +1,21 @@
+# FILE NAME: 00001135.soc
+# TITLE: Will the introduction of driverless cars result in an increase or decrease in the number of road accidents? [264bde1dc4a7557ffad6b3c882f31502]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the introduction of driverless cars will result in a decrease in the number of accidents. The biggest benefit of driverless cars is that they will be able to communicate with each other and with traffic lights to help prevent accidents. Additionally, removing the possibility of human error will help avoid accidents with the implementation of machine systems such as auto breaking, lane keeping, sonar and lidar, which can prevent accidents as they detect threats that humans may not have seen. One issue with driverless cars is if the car meets a zero-sum problem, eg you are in a situation where a fatal accident is unavoidable - does the car prioritize the safety of the driver if it will cause a fatality to someone else? This will need to be addressed before driverless cars can be introduced.
+# ALTERNATIVE NAME 2: It is difficult to say if driverless cars will result in an increase or decrease in the number of road accidents. While driverless cars have the ability to be able to detect and communicate with each other, and to an extent make more informed choices, this is not to say that accidents won’t occur. It is likely that there will be a number of teething issues as the cars are implemented and it will take time for humans and the cars to understand and communicate with each other. Accidents may occur as a result of this. However, driverless cars will be able to use a multitude of sensors to help avoid hazards, and the removal of human error may lead to fewer accidents. Further testing is required, especially of the way that driverless cars respond to the presence of pedestrians and other vehicles. In short, it is difficult to say if the introduction of driverless cars will result in an increase or decrease in the number of road accidents.
+# ALTERNATIVE NAME 3: The introduction of driverless cars will likely lead to a decrease in the number of road accidents. The removal of human error from driving will reduce the number of accidents and this will be beneficial for all. The introduction of new technology to aid driving will also help to reduce the number of accidents. However, there are some issues with the introduction of driverless cars. The cars will need to be able to network together and share information, but this could lead to a security issue. It is also important to note that while the cars will be able to reduce the number of accidents, they will not be able to completely remove them.
+# ALTERNATIVE NAME 4: The introduction of driverless cars will result in a decrease in the number of road accidents.
+1: 1,2,3,4
+1: 3,1,2,4
+1: 3,2,1,4
+1: 2,1,3,4
+1: 1,3,2,4

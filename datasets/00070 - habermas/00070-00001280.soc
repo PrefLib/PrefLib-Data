@@ -1,0 +1,21 @@
+# FILE NAME: 00001280.soc
+# TITLE: Should the BBC be funded entirely by licence fees? [66f04d78619a867531bccab216fec798]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The BBC should not be funded entirely by licence fees. The BBC should find alternative sources of funding to ensure that the channels do not die out. This would allow people who do not use the service to choose not to pay for it.
+# ALTERNATIVE NAME 2: The BBC should not be funded entirely by licence fees. Asking individuals to pay for television services that they do not use is not a fair model for the future. Future funding for the BBC should come from a broader base, like advertising, but a certain amount of funding should still be provided from the licence fee so that the elderly, poorer individuals, etc. are not excluded from the BBC because they do not have the financial means to make alternative arrangements.
+# ALTERNATIVE NAME 3: We have come to the decision that the BBC should not be funded entirely by licence fees. We feel that the BBC should receive some funding from the licence fee, but they should also be required to find additional funding to ensure that the channels do not die out.
+# ALTERNATIVE NAME 4: We have come to the decision that the BBC should not be funded entirely by licence fees. We feel that people should not be forced to pay for services that they do not use. The BBC should continue to receive a certain amount of funding from the licence fee, but they should also be required to find additional funding to ensure that the channels do not die out. In this day and age, there is a wide range of methods of funding a service such as this, including advertising revenue and subscriptions.
+1: 3,2,1,4
+1: 2,3,4,1
+1: 4,2,1,3
+1: 2,3,1,4
+1: 2,4,1,3

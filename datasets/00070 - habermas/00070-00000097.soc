@@ -1,0 +1,20 @@
+# FILE NAME: 00000097.soc
+# TITLE: Should we adopt a system of universal basic income (UBI) in which every adult citizen is guaranteed a minimum income? [c53a1e4e1e0cbdbb9e7af07d884b0d5c]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: “I believe that we should consider introducing a universal basic income for all citizens. The current system of benefits is highly inefficient and involves a great deal of administration. A UBI would also increase equality in society, especially as we move further into the age of automation. The system is expensive to implement but has the potential to save governments money in the long run by reducing the number of administrators required to administer benefits.”
+# ALTERNATIVE NAME 2: “I believe that we should consider introducing a universal basic income for all citizens. The current system of benefits is highly inefficient and involves a great deal of administration. A UBI would also increase equality in society, especially as we move further into the age of automation.”
+# ALTERNATIVE NAME 3: “The world is rapidly changing. We are entering a new age of automation where even well-paying jobs will become a thing of the past. There are currently many people who cannot afford food and housing, and there is a huge need for a system to redistribute wealth. We propose that the best solution to this is the implementation of a universal basic income, which would replace our current benefits system. The benefits of such a system are that it would provide equality, freedom and security for all people. It would also remove the administration costs of our current benefits system. Furthermore, it would be an efficient solution to the needs of a society moving towards an age of automation.”
+# ALTERNATIVE NAME 4: “I believe that we should consider introducing a universal basic income for all citizens. The current system of benefits is highly inefficient and involves a great deal of administration. A UBI would also increase equality in society, especially as we move further into the age of automation.”
+2: 3,1,2,4
+1: 1,3,2,4
+1: 3,1,4,2
+1: 1,4,2,3

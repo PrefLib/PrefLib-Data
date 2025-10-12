@@ -1,0 +1,19 @@
+# FILE NAME: 00001937.soc
+# TITLE: Should the UK have a new system for selecting the monarch? [6e8ba4a31a016f7bd003fe5972904598]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: In general, the monarchy is outdated and serves no purpose, other than entertainment for tourists. However, changing the system for selecting a monarch will not resolve this. In order to truly have a fair society, the position of the monarch should be abolished, so that people are no longer subject to this outdated institution.
+# ALTERNATIVE NAME 2: In general, the group was opposed to the idea of a new system for selecting a monarch. However, the group was split as to whether the UK should have a monarch at all.
+# ALTERNATIVE NAME 3: The UK should have a new system for selecting the monarch. The current system is outdated and doesn't represent the views of the people. It is a legalised cult that has no place in modern society. The new system should be one where the people can vote for who they want as monarch.
+# ALTERNATIVE NAME 4: Should the UK have a new system for selecting the monarch?
+3: 1,2,3,4
+1: 2,4,3,1
+1: 1,3,2,4

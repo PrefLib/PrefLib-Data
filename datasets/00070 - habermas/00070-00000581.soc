@@ -1,0 +1,19 @@
+# FILE NAME: 00000581.soc
+# TITLE: Is it a good idea to replace the pound with the Euro? [9dd4b13e71ddab6eceefd8ab84cb7873]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: No, it would be more confusing to people, and there would be little to gain, as the EU are struggling with their own currency.
+# ALTERNATIVE NAME 2: In general, the pound has been the most devalued currency in Europe, and the UK is very much dependent on trade with the European Union. Therefore, it is only logical to replace the pound with the euro.
+# ALTERNATIVE NAME 3: We should keep the pound for now, as it is well established and replacing it with the euro would be very costly.
+# ALTERNATIVE NAME 4: It is not a good idea to replace the pound with the Euro. This is because we don't know if it will become more expensive and some people will find it difficult to get their head around it. Some people also believe that it will bring the British economy down and some people may feel that it's not our decision anymore.
+2: 4,1,2,3
+2: 2,3,4,1
+1: 3,4,1,2

@@ -1,0 +1,21 @@
+# FILE NAME: 00000151.soc
+# TITLE: Should the UK fund charities? [2509c99cefda5588fc66b348b33e109e]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The UK should continue to support charities but should work with charities to ensure they are held to high ethical standards and to ensure that the majority of their donations are spent on frontline work, rather than on administrative costs. The group were given a discussion-guiding question and were tasked with coming up with a consensus opinion on the topic.
+# ALTERNATIVE NAME 2: We should fund charities, however it should be regulated.
+# ALTERNATIVE NAME 3: Charities are important in providing the UK with an avenue to support causes in their home country and around the world. They also provide a way for many to volunteer their time to worthy causes. Unfortunately, as most of the funding comes from individuals, there is a risk of a large amount of funding going to charities that do not operate as effectively as they could.
+# ALTERNATIVE NAME 4: The UK should fund charities in the UK, but not in developing countries. Charities need to be given more accountability and transparency in their operations and funding should be linked to good governance. The focus of charities should be on poverty alleviation and improving the quality of life in the areas they operate in.
+1: 3,1,2,4
+1: 1,3,4,2
+1: 1,3,2,4
+1: 4,3,1,2
+1: 3,1,4,2

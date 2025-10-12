@@ -1,0 +1,19 @@
+# FILE NAME: 00001008.soc
+# TITLE: Does banning cars in cities reduce crime? [e5cf49d24cb89cda127150c54b82201e]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: In general, the banning of cars in cities will not lead to a reduction in crime. There are some crimes that are more easily committed with cars, such as bank robberies, and banning cars may lead to a reduction in these crimes. However, it is also true that there are many other crimes that are not linked to cars in any way, and banning cars will not reduce these crimes. The banning of cars will also inconvenience many people who are not criminals, and is therefore not a good idea.
+# ALTERNATIVE NAME 2: In general, the banning of cars in cities will not lead to a reduction in crime. There are some crimes that have some link to cars, such as bank robberies, but these are a small proportion of the crimes that occur in cities. There are also many other crimes that have no link to cars, and banning cars will not reduce these crimes. The banning of cars will also inconvenience many people who are not criminals, and is therefore not a good idea.
+# ALTERNATIVE NAME 3: There is little evidence that banning cars in cities would reduce crime. In general, crimes such as bank robberies have little or no link to cars. Even if cars were to be banned, criminals would simply move their crimes to locations where cars were allowed. There are also many other crimes that have no link to cars, and banning cars will not reduce these crimes. The banning of cars will also inconvenience many people who are not criminals, and is therefore not a good idea.
+# ALTERNATIVE NAME 4: We have come to the conclusion that in general, the banning of cars in cities will not lead to a reduction in crime. It may lead to a reduction in certain types of crime, such as bank robberies, but this is only a small proportion of the crimes that occur. There are also many other crimes that have no link to cars, and banning cars will not reduce these crimes. The banning of cars will also inconvenience many people who are not criminals, and is therefore not a good idea.
+3: 3,1,2,4
+1: 2,1,4,3
+1: 4,3,1,2

@@ -1,0 +1,21 @@
+# FILE NAME: 00000987.soc
+# TITLE: Should we tax sugary food to encourage healthier eating? [136b982d563ee0ebee460a1c6c9a8e85]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, we do not believe that a sugar tax is a good idea. The tax will not be a good solution to the obesity problem as it will only affect the price of unhealthy foods. The tax will not make healthier foods cheaper, therefore, people who are trying to eat healthily will still be paying the same price for food as before. The tax will also disproportionately affect low-income earners who rely on sugary foods as they are more affordable.
+# ALTERNATIVE NAME 2: While we should encourage healthier eating, we do not think that a sugar tax is the way to do it. The tax would more likely not be invested into the right areas and would disproportionately affect low-income earners who mostly rely on these types of food because they are more affordable. We believe that other ways to encourage healthy eating should be looked into.
+# ALTERNATIVE NAME 3: We believe that a sugar tax is a good idea as it can help reduce obesity and related health problems. However, we also believe that the tax could be unfair to low-income earners who mostly rely on sugary food because they are more affordable. Therefore, we believe that the tax should be used to fund other sectors like education, healthcare and to reduce other taxes.
+# ALTERNATIVE NAME 4: Though a sugar tax could help reduce obesity rates, it is not a long term solution and could cause problems for low-income earners who are more reliant on these types of food. The money raised from the tax should be used to fund programs that encourage healthier eating and exercise.
+1: 2,3,4,1
+1: 2,1,3,4
+1: 1,2,4,3
+1: 3,2,1,4
+1: 3,1,2,4

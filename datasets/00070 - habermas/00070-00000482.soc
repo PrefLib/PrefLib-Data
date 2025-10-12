@@ -1,0 +1,21 @@
+# FILE NAME: 00000482.soc
+# TITLE: Should universities be allowed to ban speakers on their campuses? [903e27f24373a5777adfee0b370c4ac7]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Universities should not ban speakers, as it is their own choice to go to the talk, if they are so inclined. Universities should be a place where there is free speech, even if it is offensive. People should not be banned from attending lectures because they are 'too sensitive' and it should be down to the individuals attending to make their own choice. If universities were to ban speakers, then they should be made aware of the situation and given the chance to speak, not just be banned and not given a chance to defend themselves. If they have been banned from giving a talk before for hate speech or other reasons, then there is no reason to not ban them again. However, if it is their first time being banned, then they should be given the opportunity to defend themselves and speak. The overall consensus was that if a speaker is coming to a university, it is not the university's problem, it is the audience's. If they wish to listen to the speaker, then they can. Universities should not ban speakers just because of their own personal opinions.
+# ALTERNATIVE NAME 2: Universities should be allowed to ban speakers, as long as it is done in a fair way.
+# ALTERNATIVE NAME 3: In general, Universities should be allowed to ban speakers from their campuses but in some circumstances it would be acceptable to ban them.
+# ALTERNATIVE NAME 4: Universities should have the right to ban certain speakers. Universities should be able to take into account what the speaker is likely to say and if it will affect students negatively. Banning speakers is a difficult decision to make, but can be appropriate when it is in the interest of students and the university.
+1: 4,1,2,3
+1: 4,2,3,1
+1: 2,3,4,1
+1: 1,4,2,3
+1: 4,3,2,1

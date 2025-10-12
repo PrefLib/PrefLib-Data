@@ -1,0 +1,20 @@
+# FILE NAME: 00000230.soc
+# TITLE: Should we have more nuclear power plants? [20648d996e47e6728921fb9a707b49e5]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Although nuclear energy is a cleaner and more efficient source of energy than fossil fuels, there are major risks associated with the use of this power source. The benefits and downsides of nuclear energy should be carefully considered, to ensure that we can reap the benefits from its use, while also minimising the risks associated with it.
+# ALTERNATIVE NAME 2: Although nuclear energy is a cleaner and more efficient source of energy than fossil fuels, there are major risks associated with the use of this power source. Nuclear energy needs to be carefully managed, so that we can reap the benefits from its use, while also minimising the risks associated with it. The issue is not so black and white, and the benefits and risks of nuclear energy need to be carefully considered before more power plants are built.
+# ALTERNATIVE NAME 3: Nuclear energy is a clean, efficient source of power that is environmentally friendly, however its benefits need to be weighed up against the significant risks that are associated with its use.
+# ALTERNATIVE NAME 4: Although nuclear energy is a cleaner and more efficient source of energy than fossil fuels, there are major risks associated with the use of this power source. Nuclear energy needs to be carefully managed, so that we can reap the benefits from its use, while also minimising the risks associated with it.
+2: 2,1,4,3
+1: 1,2,4,3
+1: 4,1,3,2
+1: 2,4,1,3

@@ -1,0 +1,20 @@
+# FILE NAME: 00000362.soc
+# TITLE: Should a new nuclear power station be built at Hinkley Point? [acd52357fb3958e64893c6f90faa08b6]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: After a debate, we came to the consensus view that a new nuclear power station should not be built at Hinkley Point.  The group considered the use of nuclear energy as a form of clean energy and it was not felt to be an ideal solution.  The debate also considered the use of renewable energy sources and the impact of a new nuclear power station on the environment.  The group discussed the safety and security of a new nuclear power station and the potential for a nuclear meltdown.  It was felt that it would be dangerous to build a new nuclear power station.
+# ALTERNATIVE NAME 2: After a debate, we came to the consensus view that a new nuclear power station should not be built at Hinkley Point.  However, it was agreed that the construction should not commence without extensive safety and security features and safeguards being implemented.  The group discussed the need for the UK to develop an energy strategy which will meet the country’s needs for the next 50 years.  The debate considered the use of nuclear energy as a form of clean energy.  There was a consideration that it was not the ideal solution, but was currently one of the most viable options.  The group felt that the building of a new nuclear power station was more positive than the current option of generating power from a coal burning power station.  The group discussed the impact on the environment and the safety of a new nuclear power station.  The view was that as long as the new nuclear power station was built with modern technology, the environment would not be harmed.  The group felt that the only danger of the power station would be in the event of a meltdown which would be unlikely.  However, it was agreed that a new nuclear power station should not be built at Hinkley Point, as it is not the ideal solution.
+# ALTERNATIVE NAME 3: After a debate, we came to the consensus view that a new nuclear power station should be built at Hinkley Point.  However, it was agreed that the construction should not commence without extensive safety and security features and safeguards being implemented.  The group discussed the need for the UK to develop an energy strategy which will meet the country’s needs for the next 50 years.  The debate considered the use of nuclear energy as a form of clean energy.  There was a consideration that it was not the ideal solution, but was currently one of the most viable options.  The group felt that the building of a new nuclear power station was more positive than the current option of generating power from a coal burning power station.  The group discussed the impact on the environment and the safety of a new nuclear power station.  The view was that as long as the new nuclear power station was built with modern technology, the environment would not be harmed.  The group felt that the only danger of the power station would be in the event of a meltdown which would be unlikely.
+# ALTERNATIVE NAME 4: There was a consensus view that a new nuclear power station should be built at Hinkley Point.  There was discussion about the need for the UK to develop an energy strategy which will meet the country’s needs for the next 50 years.  The group considered that nuclear energy is a clean energy and that it is needed.  However, there were concerns raised about the safety of a nuclear power station in the event of a meltdown and that the current nuclear technology may not be up to date.  It was agreed that the construction should not commence without extensive safety and security features and safeguards being implemented.
+2: 1,3,2,4
+1: 1,2,4,3
+1: 2,4,3,1
+1: 3,4,2,1

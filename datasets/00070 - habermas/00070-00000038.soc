@@ -1,0 +1,19 @@
+# FILE NAME: 00000038.soc
+# TITLE: Should we stop producing nuclear power? [34c6b8c0e3d99ce0025852e10d8d44c3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: I am not in favour of stopping nuclear power production in the UK because we rely too heavily on it and don't have any other options. This doesn't mean that we shouldn't try to limit the use of nuclear power as much as possible in the future by investing in renewable energy technology.
+# ALTERNATIVE NAME 2: “I am not in favour of stopping nuclear power production in the UK because we rely too heavily on it and don't have any other options. This doesn't mean that we shouldn't try to limit the use of nuclear power as much as possible in the future by investing in renewable energy technology. This will allow us to reduce the use of nuclear power as a source of energy while making the transition to cleaner energy easier. I am also in favour of renewable energy technology for individuals such as solar panel installation as this could help reduce the resources we are using and also put the power back into the hands of the people.”
+# ALTERNATIVE NAME 3: “I am not in favour of stopping nuclear power production in the UK because we rely too heavily on it and don't have any other options. This doesn't mean that we shouldn't try to limit the use of nuclear power as much as possible in the future by investing in renewable energy technology. We should also take steps to make green energy technology more affordable and available to the general public. This will allow us to take the pressure off of our nuclear power production in the future.”
+# ALTERNATIVE NAME 4: “I believe we should not stop producing nuclear power. The UK currently relies too heavily on nuclear energy. This is not to say we shouldn’t try to limit the use of nuclear power as much as possible by investing in renewable energy technology.”
+2: 2,3,1,4
+2: 2,3,4,1
+1: 1,4,3,2

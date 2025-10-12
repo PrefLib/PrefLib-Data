@@ -1,0 +1,22 @@
+# FILE NAME: 00002638.soc
+# TITLE: Should people be allowed to ride bikes on sidewalks? [9e3be50136632fb8db7158b2d81d027b]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: No, at speed can pose a serious danger to pedestrians. A better option is to provide dedicated cycle paths and laws such as those in the Netherlands and Denmark. 
+# ALTERNATIVE NAME 2: People should be able to ride sbikes on sidewalks only if there s no other desingnated space for the bikes. Better solution would be to devide the sidewalk into 2 sectin for walking and for bikes and only pedal bikes should be allowed. 
+# ALTERNATIVE NAME 3: Ideally, people should not need to ride their bikes on the sidewalk, as there should be proper and safe bike lines. In this case, people should not be allowed to ride bikes on the sidewalk, as they could potentially be dangerous towards pedestrians. However, it is understandable that bikers might prefer to ride on the sidewalk compared to the road if there are no safe bike lanes to ride in. If a cyclist got hit by a car, it could cause extremely serious or even fatal injuries, but if a cyclist hit a pedestrian, it would most likely only cause minor injuries.
+# ALTERNATIVE NAME 4: No because it is dangerous to pedestrians and also children who may be on the sidewalks. Also there is a risk they can hit things such as walls or gates. However young children should be on sidewalks as the roads are far too dangerous, but they should be accompanied by an adult.  SIdewalks are for walkers, pedestrians, not wheeled vehicles, there are accidents each year caused by this. THere are also plenty of cycle tracks that cyclists can use. 
+# ALTERNATIVE NAME 5: I don't think that adults should ride bikes on sidewalks. I can see a logic for small children riding bikes on sidewalks, as long as they are considerate of others. Small children might need to get more confident before riding on the roads, which might be dangerous. Pedestrians should, however, always feel safe.
+1: 3,2,1,4,5
+1: 3,1,5,4,2
+1: 3,4,5,2,1
+1: 1,4,5,2,3
+1: 1,3,2,5,4

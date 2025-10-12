@@ -1,0 +1,21 @@
+# FILE NAME: 00000129.soc
+# TITLE: Should we require a mandatory 2 year post-graduate term of national service for all those between 18 and 30? [a7dedf134933566b319c1df549e2cd72]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: National Service should not be mandatory. Everyone should be allowed to follow their dreams and live the life they choose. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement.
+# ALTERNATIVE NAME 2: National Service should not be mandatory. Everyone should be allowed to follow their dreams and live the life they choose. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement. However, National Service does have benefits and should be promoted by the Government as something that people should consider, and could really help young people who are not sure what they want to do in life.
+# ALTERNATIVE NAME 3: National Service should not be mandatory. The government should not monopolise people's time in this way. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement.
+# ALTERNATIVE NAME 4: National Service should not be mandatory. The government should not monopolise people's time in this way. Everyone should be allowed to follow their dreams and live the life they choose. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement.
+1: 1,2,4,3
+1: 4,1,3,2
+1: 4,2,3,1
+1: 2,3,4,1
+1: 2,4,1,3

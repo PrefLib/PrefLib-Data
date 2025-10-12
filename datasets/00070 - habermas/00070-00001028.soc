@@ -1,0 +1,21 @@
+# FILE NAME: 00001028.soc
+# TITLE: Should there be a minimum price per unit for alcohol? [ecd2cd5edb01604f80b0cfd6c6ce79e4]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the group was opposed to a minimum price per unit for alcohol. They felt that the minimum price in Scotland had not led to reduced alcohol consumption and that it was human nature to get around these kind of disincentives. However, they felt that it was a good idea to have a minimum price for spirits, as it would deter young people from drinking. They also felt that the minimum price in Scotland was too high and that it should be reduced.
+# ALTERNATIVE NAME 2: No, there should not be a minimum price per unit for alcohol. There should be a variety of prices according to where and how the product was made. It should be expensive as to deter people from drinking alcohol and consuming to much of it. Products often vary from cheap to expensive and there should be a premium on this.
+# ALTERNATIVE NAME 3: There should be a minimum price per unit for alcohol. The current minimum price in Scotland has not had a significant effect on alcohol consumption and it is likely that the price would have to be set much higher to have any impact. The price of alcohol is already quite high and it is human nature to get around these kind of disincentives.
+# ALTERNATIVE NAME 4: No, there should not be a minimum price per unit for alcohol. Alcohol is already quite expensive. It is up to the individual to decide. I don't think the minimum price in Scotland has led to reduced alcohol consumption. it is human nature to get around these kind of disincentives.
+1: 1,3,2,4
+1: 4,2,3,1
+1: 1,4,2,3
+1: 3,4,1,2
+1: 4,3,1,2

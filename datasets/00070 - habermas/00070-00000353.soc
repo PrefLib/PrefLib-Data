@@ -1,0 +1,20 @@
+# FILE NAME: 00000353.soc
+# TITLE: Should we restrict the use of algorithms in making hiring decisions? [8618e8e14f5f3a3417c0857ca151bf6f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We should restrict the use of algorithms in making hiring decisions because even though they are efficient, they can miss people. For example, if an employer was using key words to select candidates, but someone hadn't used these, they would be rejected. This could be a mistake because they could be the best candidate, but the employer wouldn't know this. Furthermore, an algorithm wouldn't be able to assess other qualities of the individual, such as their interpersonal skills, which can be very important for many jobs.
+# ALTERNATIVE NAME 2: In my opinion, we should restrict the use of algorithms in making hiring decisions because even though they are efficient, they can miss something. For example, if an employer was using key words to select candidates, but someone hadn't used these, they would be rejected. This could be a mistake because they could be the best candidate, but the employer wouldn't know this. Furthermore, an algorithm wouldn't be able to assess other qualities of the individual, such as their interpersonal skills, which can be very important for many jobs.
+# ALTERNATIVE NAME 3: In my opinion, we should restrict the use of algorithms in making hiring decisions because even though they are efficient, they can make mistakes. For example, if an employer was using key words to select candidates, but someone hadn't used these, they would be rejected. This could be a mistake because they could be the best candidate, but the employer wouldn't know this. Furthermore, an algorithm wouldn't be able to assess other qualities of the individual, such as their interpersonal skills, which can be very important for many jobs. Algorithms can be good for sifting out at initial hiring stages such as sifting out those without a qualification that has been deemed essential. Soft skills are difficult to judge via an algorithm. Algorithms have their place in the early stages of the recruitment process to remove applications that are much lower quality than the rest of the applications.
+# ALTERNATIVE NAME 4: In my opinion, we should restrict the use of algorithms in making hiring decisions because even though they are efficient, they can make mistakes. For example, if an employer was using key words to select candidates, but someone hadn't used these, they would be rejected. This could be a mistake because they could be the best candidate, but the employer wouldn't know this. Furthermore, an algorithm wouldn't be able to assess other qualities of the individual, such as their interpersonal skills, which can be very important for many jobs.
+2: 3,2,1,4
+1: 3,4,2,1
+1: 3,1,2,4
+1: 3,2,4,1

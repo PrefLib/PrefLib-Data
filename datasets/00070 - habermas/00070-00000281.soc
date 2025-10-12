@@ -1,0 +1,19 @@
+# FILE NAME: 00000281.soc
+# TITLE: Should the Prime Minister's office be open to the public? [d1172d68b3cd36c17407deeef088bf98]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: The Prime Minister's office should be open to the public, but only by appointment to allow for security, and the PM should meet members of the public during specific periods.  This will allow the Prime Minister to hear different view points and also keep him in touch with the views of the public.
+# ALTERNATIVE NAME 2: The Prime Minister's office should be open to the public, on limited and specific days. This will help to keep the PM in touch with the public and their views. However, security concerns and the potential for people to waste the PM's time will have to be managed.
+# ALTERNATIVE NAME 3: The Prime Minister's office should be open to the public, but with restrictions.  Specific days, such as the weekends, when the Prime Minister is not in the office should be open to the public for guided tours of the offices, with no ability to meet with the Prime Minister himself.  These should be accompanied by small, free public meetings where the Prime Minister will be present and willing to hear concerns from the public, with no need to book.  This would allow for both a greater public awareness of the Prime Minister's office and greater access to the Prime Minister for members of the public.
+# ALTERNATIVE NAME 4: The Prime Minister's office should be open to the public, but only at limited specific times, and mostly only when the Prime Minister is not using it.  There should be open days when the PM is away that people can just tour the offices, and then occasional public meetings with the Prime Minister himself.
+3: 3,4,1,2
+1: 1,2,3,4
+1: 1,4,3,2

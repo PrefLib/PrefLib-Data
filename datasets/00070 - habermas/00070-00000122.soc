@@ -1,0 +1,20 @@
+# FILE NAME: 00000122.soc
+# TITLE: Should the UK invest more in large-scale infrastructure projects? [567505cca0c37cf81d6a3788b54377ab]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: The UK should invest in more large-scale infrastructure projects. These projects provide the economy with a much-needed boost, by generating income for the country and creating new jobs and opportunities.
+# ALTERNATIVE NAME 2: Yes, the UK should invest in more large-scale infrastructure projects. However, it should be recognised that large-scale infrastructure projects are costly and so it is important that they are planned in a way that maximises the benefits. As with all infrastructure projects, they should be considered in terms of their impact on the economy, people and the environment.
+# ALTERNATIVE NAME 3: We should invest more in large-scale infrastructure projects. These projects would be beneficial for the economy as it would create jobs and incomes for the people.
+# ALTERNATIVE NAME 4: Large-scale infrastructure projects should be prioritised by the UK Government, because they provide new jobs, incomes and up to date systems in our country. This will be beneficial to everyone in the UK.
+2: 2,4,1,3
+1: 2,1,4,3
+1: 2,3,1,4
+1: 4,2,3,1

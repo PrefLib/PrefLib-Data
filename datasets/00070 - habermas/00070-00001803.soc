@@ -1,0 +1,21 @@
+# FILE NAME: 00001803.soc
+# TITLE: Should the government restrict car-ownership in large cities to tackle pollution? [cf740905781ee2648d629bcd21c0e6d3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: While cars cause pollution and therefore it is essential to reduce emissions as much as possible, we do not believe that restricting car ownership in large cities is the most effective way of doing so. There are many reasons why this is not an appropriate solution, some of which are: - public transport systems are not always good, especially in the suburbs, meaning people will have no choice but to use their car, - limiting ownership will only benefit those who can afford the high price of electric vehicles, - limiting ownership could lead to more people using the already over-crowded public transport systems, and - restricting car ownership will not stop those who already own a car from using it. If we wish to improve air quality and reduce emissions, we must first consider other possible solutions, such as: - implementing a congestion charge in city centers to reduce traffic, - developing and improving public transport systems, - encouraging the use of more eco-friendly vehicles, - providing incentives for those who buy eco-friendly vehicles, and - changing the tax system so that those who drive less pay less tax. In conclusion, while we all agree that air quality must be improved, we do not believe that restricting car ownership
+# ALTERNATIVE NAME 2: In large cities, the government should not restrict car ownership. It is unfair to do so and there are other ways of tackling pollution.
+# ALTERNATIVE NAME 3: Cars should be restricted in large cities to tackle pollution. This will make public transport a better option, make walking and cycling safer, and reduce traffic congestion.
+# ALTERNATIVE NAME 4: In general, the group was opposed to the idea of restricting car ownership in cities. They thought that this would be too difficult to enforce, and that it would be unfair to those who needed a car for work purposes. They thought that the government should be looking at other ways of reducing pollution, such as encouraging people to buy electric cars, or to use public transport more.
+1: 1,4,3,2
+1: 1,2,4,3
+1: 3,4,2,1
+1: 1,4,2,3
+1: 1,3,2,4

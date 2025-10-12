@@ -1,0 +1,21 @@
+# FILE NAME: 00000356.soc
+# TITLE: Should we restrict foreign investment in domestic industries? [705f440d1527b3abb2d431877ba124a9]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Foreign investment should be encouraged in domestic industries as it enhances competition, innovation and growth.
+# ALTERNATIVE NAME 2: Foreign investment is a good thing and the country benefits in many ways from it.  However, as participant 4 said, our country is not in a good way.  Whilst we don't want to scare off foreign investors, we do need to ensure that we are getting the best deal possible.  We should therefore put in place regulations that stop foreign investors taking full ownership and control of domestic industries.
+# ALTERNATIVE NAME 3: “Generally foreign investment in domestic industries has been positive, but that assumes that no domestic investment would have come forward to take its place.  What it certainly means is that the rewards that flow from the investment also flow overseas, and this is clearly detrimental to the country.  Where foreign investment has been positive is where it has created an extra competitor, which propels continuous investment and lower end prices, but too often foreign investors have been allowed to take meaningful stakes in quasi-monopolies such as the water industry and the national lottery.  I believe we should restrict foreign investment in domestic industries.  It is important that these industries are protected and paid for within our country to support and enhance them.  Whilst foreign investment is fine in theory, the importance of the country isn't considered when it's an external investor; only money.  There is a risk that foreign companies may pursue objectives in contradiction with what is beneficial for the public and sometimes they are also instructed by foreign governments.  Critical domestic industries should be shielded from foreign interference.”
+# ALTERNATIVE NAME 4: We should restrict foreign investment in domestic industries. The reasons for this is that domestic industries are more likely to be more beneficial to the local economy than foreign ones.
+1: 3,1,2,4
+1: 3,2,4,1
+1: 3,1,4,2
+1: 2,3,4,1
+1: 3,2,1,4

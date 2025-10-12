@@ -1,0 +1,21 @@
+# FILE NAME: 00001162.soc
+# TITLE: Should we continue to have a Royal Family? [2738b4db1a8a6a365d87e3f1b408985f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The Royal Family should continue to exist in Britain. They are a part of British culture and history and so should continue to be. However, their privileges should be reduced and they should pay tax like everyone else. They should also have no political power.
+# ALTERNATIVE NAME 2: In general, the group was in favour of the Royal Family. The Royal Family is a part of British culture and history and so should continue. However, their privileges such as paying no tax should be adjusted, so that they are more grounded with the rest of the UK population. Additionally, their political power must be further restricted to ensure that they have no influence on the democratic process at all.
+# ALTERNATIVE NAME 3: The British Royal Family should be abolished. It is an outdated system that continues to allow an individual to live in the lap of luxury, paid for by tax payers' money, purely due to their birth. This creates a false sense of a 'class system' in which the Royal Family is elevated above everyone else, when in reality, they are not. Britain is a modern country and should have a government that reflects this, which is why we should have a president rather than a monarch.
+# ALTERNATIVE NAME 4: Although the Royal Family is part of British history, it is now outdated. Britain should live as a Republic and the money currently spent on the Royal Family should be put into things such as the NHS and education. The participants also believed that abolishing the monarchy would remove the culture of us and them, as the Royals would be considered just another family.
+1: 2,1,3,4
+1: 4,2,3,1
+1: 2,1,4,3
+1: 3,2,1,4
+1: 3,4,2,1

@@ -1,0 +1,19 @@
+# FILE NAME: 00000431.soc
+# TITLE: Should parents be able to withdraw their children from sex education? [d488d38514b6c3831eb6aae29a3ff70d]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: While sex education is important, parents should be allowed to withdraw their children from sex education.
+# ALTERNATIVE NAME 2: Although sex education is important, we believe that parents should be able to withdraw their children from sex education if they believe that the children are not yet ready or that it would have a negative impact on their children.
+# ALTERNATIVE NAME 3: Sex education is very important in schools, as it is not always something that is readily discussed at home. However, we think that parents should be able to withdraw their children from sex education if they believe their children are not yet ready for the topic, or if they feel that it will have a negative impact on them.
+# ALTERNATIVE NAME 4: In general, the participants believe that the parents should be able to withdraw their children from sex education as long as the child is young enough.
+2: 3,2,1,4
+2: 3,2,4,1
+1: 4,3,2,1

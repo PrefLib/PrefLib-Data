@@ -78,6 +78,7 @@ def handle_errors(error_list, context, escalate_warnings):
 
 
 def main():
+    print("test")
     parser = argparse.ArgumentParser(description="Run sanity checks on PrefLib datasets.")
     parser.add_argument(
         "--escalate-warnings",

@@ -1,0 +1,19 @@
+# FILE NAME: 00000725.soc
+# TITLE: Should the government fund independent newspapers? [9ae8c845c92886b0c0e09b0e5bcadbb4]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: In general, the group was opposed to the idea of the government funding independent newspapers. They felt that newspapers are not a major source of news anymore and they often are so biased that any information has to be taken with a pinch of salt. Government funding would also lead to uncertainty of how much this funding is slanting the news because of the money it is giving. Ultimately, this funding would be tax payers' money and there are far more important things to budget for.
+# ALTERNATIVE NAME 2: The government should not fund independent newspapers. This is because the newspapers would no longer be independent if the government is funding them. This would compromise their status as independent. Newspapers should remain impartial. They should be free to criticise the government if appropriate.
+# ALTERNATIVE NAME 3: No, the government should not fund independent newspapers. This would mean that the newspapers would be biased in their reporting and their independence would be questioned.
+# ALTERNATIVE NAME 4: No, because the newspapers would be seen to be biased towards the government. This would lead to a loss of credibility and therefore a loss of readership. This would lead to the newspapers becoming less financially viable and therefore would not be sustainable in the long run.
+2: 1,2,3,4
+2: 2,3,1,4
+1: 1,2,4,3

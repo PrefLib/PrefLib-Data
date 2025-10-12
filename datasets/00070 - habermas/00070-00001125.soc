@@ -1,0 +1,20 @@
+# FILE NAME: 00001125.soc
+# TITLE: Should we make the wearing of face coverings compulsory in all enclosed spaces? [b3675f033ae74f2e1a99525f3960ce85]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We do not believe that there is a sufficient amount of evidence to mandate that masks should be worn in all enclosed spaces. The wearing of masks should be a personal choice, not one that is forced upon people. There is a point where the government can have too much control over the population and this could be one such example. If someone wants to wear a mask, then they should feel free to do so. In certain enclosed spaces, such as care homes and hospitals, we believe that it is reasonable to expect people to wear masks, as these are spaces that contain a large number of vulnerable people. However, we do not feel that this should be made mandatory, rather it should be actively encouraged.
+# ALTERNATIVE NAME 2: There should be no mandate that face masks should be worn in all enclosed spaces. Masks should be a personal choice, not one that is forced upon people. There is a point where the government can have too much control over the population and this could be one such example. If someone wants to wear a mask, then they should feel free to do so. Wearing a face mask in all enclosed spaces poses a security risk, or at least makes people feel venerable not seeing others faces.
+# ALTERNATIVE NAME 3: We believe that there is insufficient evidence to mandate that masks should be worn in all enclosed spaces. We do not feel that there is enough proof that masks are beneficial in preventing the spread of diseases. The wearing of masks should be a personal choice, not one that is forced upon people. There is a point where the government can have too much control over the population and this could be one such example. If someone wants to wear a mask, then they should feel free to do so. Wearing masks should be encouraged where vulnerable people are present.
+# ALTERNATIVE NAME 4: We believe that there is insufficient evidence to mandate that masks should be worn in all enclosed spaces. We do not feel that there is enough proof that masks are beneficial in preventing the spread of diseases and therefore we do not support this view. The wearing of masks should be a personal choice, not one that is forced upon people. There is a point where the government can have too much control over the population and this could be one such example. If someone wants to wear a mask, then they should feel free to do so. However, this should not prevent people from going about their day to day activities. We also feel that there is a security risk to forcing people to wear masks and perhaps this is not the best idea. If you need to visit areas with vulnerable people, then perhaps it is prudent to wear a mask.
+2: 4,1,3,2
+1: 1,3,4,2
+1: 4,2,1,3
+1: 2,3,1,4

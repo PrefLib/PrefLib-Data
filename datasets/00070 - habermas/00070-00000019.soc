@@ -1,0 +1,19 @@
+# FILE NAME: 00000019.soc
+# TITLE: Is it important to preserve old buildings and historical places? [4b377669efdbc0a76291cbf9557d9db5]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: “History is a beautiful part of human life, and in many ways, we can learn a lot from the past. This is why it is important to preserve old buildings and historical places. There is an interesting past behind each of them and it would be a shame to lose that, it is something that future generations should be able to learn from. ”
+# ALTERNATIVE NAME 2: It is important to preserve old buildings and historical places because they are part of the culture and heritage of the country.
+# ALTERNATIVE NAME 3: It is important to preserve old buildings and historical places because they are important in their own right as well as a good source of tourism revenue.
+# ALTERNATIVE NAME 4: The preservation of old buildings is important as it maintains the history and heritage of a country. It keeps people interested in the past. Old buildings make good tourist attractions.
+2: 1,4,3,2
+2: 1,2,4,3
+1: 1,4,2,3

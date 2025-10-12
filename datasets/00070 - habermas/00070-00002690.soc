@@ -1,0 +1,21 @@
+# FILE NAME: 00002690.soc
+# TITLE: Should we raise the retirement age from 66 to 68? [7d3b87c732671ef6cd1dbc88fc58259f]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We have come to the conclusion that we are not in favour of raising the retirement age to 68.  We have discussed the health implications of working longer, the lack of jobs for young people, and the strain on the NHS and care homes if the elderly are not able to retire.  We believe that the government should look at other ways to save money, such as reducing the salaries of MP's and those in the House of Lords to a more normal and socially acceptable level, and reducing expense limits available to politicians.  We also believe that the government should look at other ways to generate revenue from tax-avoiding corporations and billionaires rather than the working people.  We would also like to see the government take into account the strain that this will have on the NHS and care homes and make a provision to ensure that the elderly can retire without feeling that they are a burden to the system.
+# ALTERNATIVE NAME 2: We have come to the conclusion that we are not in favour of raising the retirement age to 68.  We have discussed the health implications of working longer, the lack of jobs for young people, and the strain on the NHS and care homes if the elderly are not able to retire.  We believe that the government should look at other ways to save money, such as reducing the salaries of MP's and those in the House of Lords to a more normal and socially acceptable level, and reducing expense limits available to politicians.  We also believe that the government should look at other ways to generate revenue from tax-avoiding corporations and billionaires rather than the working people.  We believe that this is a fairer way of generating income for the government, rather than making people work longer.  We believe that this will have a much less detrimental effect on the 50+ population of this country.
+# ALTERNATIVE NAME 3: We have come to the conclusion that we are not in favour of raising the retirement age to 68.  We have discussed the health implications of working longer, the lack of jobs for young people, and the strain on the NHS and care homes if the elderly are not able to retire.  We believe that the government should look at other ways to save money, such as reducing the salaries of MP's and those in the House of Lords to a more normal and socially acceptable level, and reducing expense limits available to politicians.  We also believe that the government should look at other ways to generate revenue from tax-avoiding corporations and billionaires rather than the working people.  We also feel that the government should make more of an effort to create jobs for young people, and make it easier for them to access jobs and training.  This would help the economy and the country as a whole.  We also believe that the government should make more effort to create jobs for the over 50s who want to work, but are finding it hard to get work.
+# ALTERNATIVE NAME 4: We have come to the conclusion that we are not in favour of raising the retirement age to 68.  We have discussed the health implications of working longer, the lack of jobs for young people, and the strain on the NHS and care homes if the elderly are not able to retire.  We believe that the government should look at other ways to save money, such as reducing the salaries of MP's and those in the House of Lords to a more normal and socially acceptable level, and reducing expense limits available to politicians.  We also believe that the government should look at other ways to generate revenue from tax-avoiding corporations and billionaires rather than the working people.  We would like to emphasise that there are multi-faceted health implications of working longer, including a strain on the NHS and care homes, and a strain on family members if people are not able to retire.
+1: 1,2,3,4
+1: 2,3,1,4
+1: 2,3,4,1
+1: 4,2,3,1
+1: 4,3,1,2

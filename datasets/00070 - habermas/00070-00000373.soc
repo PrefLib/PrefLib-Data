@@ -1,0 +1,20 @@
+# FILE NAME: 00000373.soc
+# TITLE: Should the UK government fund a new high-speed rail link between London and Edinburgh? [e45a7ede988e2dab1cda3086cbf80e98]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We believe the UK government should not fund a new high speed rail link between London and Edinburgh because of the potential risk it poses to the tourism and travel industries in the UK and because of the current cost of living crisis.
+# ALTERNATIVE NAME 2: A new high speed rail link between London and Edinburgh would improve the transport links between the north and the south of the UK. This could be a good use of public money and would lead to an increase in tourism and business trade between the two areas. However, in the current economic climate it is unclear whether this is a good use of money.
+# ALTERNATIVE NAME 3: In general, the group was in favour of funding a new high speed rail link between London and Edinburgh. The group felt that the investment would stimulate the economy and provide a new mode of transport that would benefit commuters, tourists, and businesses. However, the group expressed concern that this might be a luxury investment and should therefore not take priority over more important social needs.
+# ALTERNATIVE NAME 4: The UK should fund a new high-speed rail link between London and Edinburgh. We think that it would be beneficial to the tourism of the country as well as bringing the north and south closer together. We believe that the funding could be used for a new rail link as well as a re-investment into infrastructure in the areas surrounding the route.
+2: 3,2,4,1
+1: 4,1,2,3
+1: 1,2,3,4
+1: 2,3,4,1

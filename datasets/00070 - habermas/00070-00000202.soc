@@ -1,0 +1,21 @@
+# FILE NAME: 00000202.soc
+# TITLE: Is there value in allowing privately-owned media? [3349845cd2265832908c3787d5c919b0]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In conclusion, privately-owned media adds some value to society.  Firstly, private media adds a wider range of perspectives that will be more likely to reach a wider audience.  Secondly, private media can provide valuable entertainment to society, which can often be overlooked in publicly owned media.  Finally, privately-owned media can provide a range of perspectives and entertainment to society, which can also be sometimes missing in publicly-owned media.
+# ALTERNATIVE NAME 2: There is value in allowing privately-owned media. The different perspectives can provide the public with a more rounded and balanced view of events and issues. However, there are issues with private ownership, particularly around whether private media can be impartial and whether they can maintain high standards and principles, and avoid a focus on profit-making.
+# ALTERNATIVE NAME 3: There is value in privately owned media, as it can provide different views to the publically owned media.  It is also important for the government to not be biased in their reporting to ensure a more balanced view on news and current affairs.
+# ALTERNATIVE NAME 4: In general, the group was in favour of privately owned media. The thought being that government ownership is very dangerous.  This creates a "echo chamber" of opinions and only views that fit the government agenda are shown.  The private sector, although not perfect, provides a plurality of opinions.
+1: 2,1,4,3
+1: 1,4,2,3
+1: 2,3,1,4
+1: 1,2,4,3
+1: 3,2,4,1

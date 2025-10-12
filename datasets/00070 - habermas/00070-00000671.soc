@@ -1,0 +1,20 @@
+# FILE NAME: 00000671.soc
+# TITLE: Is the human species the most important thing in the universe? [77b2e700bac1e8b164dfcf363ef1a4ee]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: The human race is important to the earth and the universe, but the universe is important to the human race.
+# ALTERNATIVE NAME 2: We are not the most important thing in the universe, but we are important to the universe.
+# ALTERNATIVE NAME 3: Although the human race is important in the sense that we are the only race that we know of that can make conscious decisions, we are not the most important thing in the universe. The universe is so vast that it is impossible to determine what the most important thing in the universe is.
+# ALTERNATIVE NAME 4: The human species is not the most important thing in the universe, however, the planet that sustains all life is the most important thing in the universe for the human race.
+2: 1,3,4,2
+1: 3,4,2,1
+1: 4,3,2,1
+1: 3,4,1,2

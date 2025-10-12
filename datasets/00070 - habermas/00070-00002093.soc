@@ -1,0 +1,20 @@
+# FILE NAME: 00002093.soc
+# TITLE: Should the government require all people to pay for some form of private health insurance? [edff2e5d77db2a30ef4693393653bfd3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: No, the government should not require all people to pay for some form of private health insurance. The NHS is a vital part of British life, and many people are not in a position to pay for private health insurance. The NHS is already stretched and underfunded, and requiring people to pay for private health insurance would not necessarily improve the situation. There are some people who abuse the system, but it would be better to find a way to stop this abuse rather than requiring everyone to pay for private health insurance.
+# ALTERNATIVE NAME 2: No, the government should not require all people to pay for some form of private health insurance.  The NHS is a vital service and should be protected.  Those who can afford private healthcare should be encouraged to use it to reduce the strain on the NHS.  The government should also ensure that the NHS is adequately funded.
+# ALTERNATIVE NAME 3: The Government should not make it mandatory for all people to pay for some form of private health insurance. This is because the NHS should be free at the point of access for all. There is no current evidence that it would improve the standard of healthcare for all and would only serve to punish those who could not afford the additional financial burden. We feel that it would be better to make some services chargeable, but that this should not apply to the emergency services, to the elderly or to children. For example, hospital visits for minor problems such as skin conditions or headaches could be made chargeable. This would help to reduce waiting times for the NHS, which are currently too long, and help to free up staff for more urgent problems. It is important to ensure that no-one who can't afford to pay for additional healthcare would be forced to, as this would be cruel and unjust.
+# ALTERNATIVE NAME 4: Although the group had a range of opinions, we were all able to reach the consensus view that people should not be required to pay for private health insurance as this would create further inequality, leading to vulnerable people being denied healthcare.
+2: 1,2,4,3
+1: 3,1,2,4
+1: 1,3,2,4
+1: 1,2,3,4

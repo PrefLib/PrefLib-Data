@@ -1,0 +1,21 @@
+# FILE NAME: 00002584.soc
+# TITLE: Should the government encourage the building of more on-shore wind turbines? [510b4793fc7ae286ecd1cc0a6f788a2a]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Yes, the government should. We should decrease fossil fuels and take advantage of natural resources that do not cause harm to the planet. the UK is naturally windy so we should take advantage of it and build wind turbines that are publicly owned and stop private organisation from maing profit in the middle of a financial crisis.
+# ALTERNATIVE NAME 2: No, i believe that  Government should not do so as wind turbines occupy a lot of space on land and that could cause accidents.  
+# ALTERNATIVE NAME 3: I think the government should encourage building more on-shore wind turbines, as an essential way to have greener energy. Using green energy is a logical approach to reduce the use of fossil energy and mitigate global warming to some degree. The technology of wind turbines is mature and developed, with limited known or easily managed risks, compared to using traditional energy generation. 
+# ALTERNATIVE NAME 4: Yes, the government should encourage the buildings of on-shore wind turbines. They are a source of green energy  with minimal impact on the environment, but concerns about their potential harmful effects should be addressed
+# ALTERNATIVE NAME 5: I am not completely sure about onshore wind turbines. While the need for renewable energy is high, I would much prefer offshore solutions personally, than build on green belt areas. So I would probably say I was more against it than for it.
+2: 1,3,4,5,2
+1: 4,2,1,3,5
+1: 3,1,5,4,2
+1: 3,1,4,5,2

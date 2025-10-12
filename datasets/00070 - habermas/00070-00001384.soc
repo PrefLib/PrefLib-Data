@@ -1,0 +1,21 @@
+# FILE NAME: 00001384.soc
+# TITLE: Should we replace the income tax with an additional value added tax (VAT) on goods and services? [751963e1540363ee6257d25e7dfbd0e8]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: It was agreed that the income tax system should not be replaced with an additional value added tax. The group felt that this would increase the cost of living for everyone and not necessarily encourage people to budget more effectively. The group also felt that the system of paying income tax is fair and that a new tax on goods and services would increase the tax burden on the less well off.
+# ALTERNATIVE NAME 2: “We have come to the conclusion that we should not replace the income tax with an additional value added tax (VAT) on goods and services. We already pay plenty of tax, and inflation will mean that we pay more tax every year cumulatively, so it makes no difference whether we pay an additional VAT. However, it may encourage people to spend less money on goods and services, which will negatively impact the economy. We believe that those with higher incomes should be taxed more and those in the median range should be taxed less. Adding VAT to goods and services would punish those who earn less. This might help people to budget more effectively as they have more of a choice as to paying the tax or not. We do not think it is necessary to replace the income tax with an additional added tax. We already pay tax on goods and services so there is no need to add an additional tax. We pay enough. No income tax is deducted at a level once people have earned a basic level of income. Adding extra VAT increases the cost straight away on goods and services making items more expensive for everyone regardless of income. This passes more of the tax burden lower down.”
+# ALTERNATIVE NAME 3: “We believe that we should not replace income tax with VAT. VAT would mean that everyone pays tax on the goods and services that they purchase, and this would impact the poorest people the most. The income tax system already taxes people on their income, and it would be unfair to replace this with an additional tax on goods and services.”
+# ALTERNATIVE NAME 4: Although there are arguments on both sides, we believe that a VAT on goods and services will only add to the tax burden of lower income earners who already pay the highest proportion of their income in tax. It would also increase the price of goods and services, which would also negatively impact the economy. We therefore do not believe that we should replace income tax with an additional VAT.
+1: 2,1,4,3
+1: 3,4,1,2
+1: 1,3,4,2
+1: 2,1,3,4
+1: 2,4,1,3

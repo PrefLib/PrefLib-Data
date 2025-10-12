@@ -1,0 +1,21 @@
+# FILE NAME: 00000247.soc
+# TITLE: Should the government intervene to make sure that employees of more successful companies are paid more generously? [0fe2c95f430a624438654beccaa273af]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The government should not generally intervene to make sure that employees of more successful companies are paid more generously. However, when a company reaches a certain size or profit threshold, the government may intervene to make sure that employees are paid an appropriate wage.
+# ALTERNATIVE NAME 2: In general, the government should not intervene to make sure employees of more successful companies are paid more generously.  However, when a company reaches a certain size (e.g. Amazon) or makes a certain amount of profit, the government may want to intervene in order to ensure that workers are paid a living wage. (c)  The above is a complex task, and by definition, there is no right answer.  Instead, there is an ongoing process of creating a more refined, more polished consensus view, or opinion. (d)  In a consensus-based work environment, every individual is heard.  This can lead to a more complex process, which takes longer.  But the quality of the final product may be better, as the resulting consensus may be more broadly accepted.  This is a real strength of consensus-based decision-making.
+# ALTERNATIVE NAME 3: In general, the government should not intervene to make sure employees of more successful companies are paid more generously.  However, when a company reaches a certain size (e.g. Amazon) or makes a certain amount of profit, the government may want to intervene in order to ensure that workers are paid appropriately.
+# ALTERNATIVE NAME 4: There should be some government intervention in the wages of successful companies, particularly in instances of monopolies.
+1: 1,2,4,3
+1: 4,2,3,1
+1: 1,2,3,4
+1: 2,3,1,4
+1: 2,1,3,4

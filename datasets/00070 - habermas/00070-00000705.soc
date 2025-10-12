@@ -1,0 +1,19 @@
+# FILE NAME: 00000705.soc
+# TITLE: Should all dogs be kept on a leash when outdoors? [4e71019e28e69e9d3f09fd5c11d58fa8]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: In general, all dogs should be kept on a leash when outdoors, but there should be designated areas, away from public access, where dogs can be allowed off the leash.
+# ALTERNATIVE NAME 2: In general, dogs should be kept on a leash when outdoors. However, dogs that are well known to be friendly breeds should be allowed to be off leash in open spaces, fields or designated dog parks.
+# ALTERNATIVE NAME 3: In general, dogs should be kept on leads in public spaces. This is for the safety of the public, the dog, and other dogs. There should be specially designated areas, away from the general public, where dogs can be allowed off the lead. However, this is only for dogs that are known to be friendly breeds and are well trained. If a dog is known to have problems, they should be kept on the lead.
+# ALTERNATIVE NAME 4: Most dogs should be kept on a leash when outdoors, with the exception of dogs that are known to be friendly and well trained. In this case, the dogs should be allowed to roam freely in designated areas away from the general public.
+3: 3,2,1,4
+1: 1,3,2,4
+1: 4,2,1,3

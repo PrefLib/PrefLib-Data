@@ -1,0 +1,21 @@
+# FILE NAME: 00000289.soc
+# TITLE: Should the UK government subsidize petrol so that prices are cheaper for drivers? [5af1bb6fb67b3ade3bb84e9ea66eb308]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: The government should not subsidise petrol prices as we should not be reliant on cheap petrol for people to be able to afford to live as this will ultimately lead to increased fuel usage and so more environmental issues. The government should however do what they can to keep petrol prices fair so that people do not feel the need to turn to illegal means to make up the extra cost of living.
+# ALTERNATIVE NAME 2: Petrol is something that is used for many things in life. The way we all use our cars is essential to living. The price of petrol should be subsidised by the government to allow for the use of petrol to continue at the same price as it is now. This will make sure that people can still afford to use their cars. The environmental impact of cars should also be considered. A more efficient use of cars should be encouraged by the government. There is no point in people just sitting in traffic when they could be getting places in more efficient ways.
+# ALTERNATIVE NAME 3: No, they shouldn't. The environment is more important.
+# ALTERNATIVE NAME 4: We should try and keep petrol prices as low as possible as this would be beneficial for everyone. However, if it is the case that the government needs to raise prices to compensate for the economy, then they should. However, they should also keep a check on how high these prices go as this would not be beneficial to us. The views expressed by each individual are those of the person writing and not those of anyone else.
+1: 4,2,1,3
+1: 1,2,4,3
+1: 1,3,2,4
+1: 1,4,2,3
+1: 3,1,4,2

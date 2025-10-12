@@ -1,0 +1,21 @@
+# FILE NAME: 00000513.soc
+# TITLE: Should we ban the sale of diesel and gasoline vehicles? [faea2389735236ec37dae74eea34ab76]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the participants were in favour of moving away from diesel and gasoline vehicles and towards more sustainable energy sources. However, they felt that the infrastructure was not currently in place to allow for this to happen and that it would need significant improvement and funding to make this transition possible. They also felt that it would be unfair to expect people to switch to more expensive alternatives that might be more harmful to the environment in the long term, such as electric cars, which are not as energy efficient as diesel and gasoline cars.
+# ALTERNATIVE NAME 2: In general, the participants were in favour of moving away from diesel and gasoline vehicles and towards more sustainable energy sources. However, they felt that the infrastructure was not currently in place to allow for this to happen and that it would need significant improvement and funding to make this transition possible.
+# ALTERNATIVE NAME 3: In general, the participants were in favour of moving away from diesel and gasoline vehicles and towards more sustainable energy sources. However, they felt that the infrastructure was not currently in place to allow for this to happen and that it would need significant improvement and funding to make this transition possible. They felt that the change in climate had gone too far already, and that if nothing were done to address the environmental issues, then we would be in for a very bleak future. However, they felt that diesel and gasoline vehicles should not be banned immediately and that the infrastructure needs to be in place to allow for this transition to happen over time.
+# ALTERNATIVE NAME 4: There is a strong consensus that in the future we will need to move away from diesel and gasoline vehicles to something more sustainable. However, the participants felt that there is not enough infrastructure to support this and that public transport is too expensive and not frequent enough to replace the private car. They also felt that the electricity grid is not sufficient to support electric vehicles, and that there is a need for this to be improved as well.
+1: 3,1,2,4
+1: 1,4,3,2
+1: 1,2,4,3
+1: 2,3,1,4
+1: 2,3,4,1

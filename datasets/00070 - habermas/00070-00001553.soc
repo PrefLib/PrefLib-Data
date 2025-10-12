@@ -1,0 +1,19 @@
+# FILE NAME: 00001553.soc
+# TITLE: Is it okay for private companies to install CCTV in public places? [ba0ffd5c8d0380edf3a6c41e37c70958]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: In general, private companies should not be allowed to install CCTV in public places. This is because the public have a right to their own privacy and installing CCTV in public places infringes on this. However, if the private company is providing a service to the public then this is acceptable. For example, a shop installing CCTV in their shop is acceptable as they are providing a service to the public. The shop is also responsible for the safety of their customers and staff and installing CCTV is a way of protecting them.
+# ALTERNATIVE NAME 2: We don't think it is right for private companies to install CCTV in public places. The only exception would be if they are protecting their own property.
+# ALTERNATIVE NAME 3: Private companies are not permitted to install CCTV in public places
+# ALTERNATIVE NAME 4: While the CCTV industry is an extremely important one for the protection of businesses, personal privacy should be of the upmost importance to everyone. However, we believe that if a private company can provide a valid reason for installing CCTV on a public place then it should be allowed, however it should be monitored and have restrictions to ensure it is not infringing on the privacy of the public.
+3: 1,4,2,3
+1: 4,1,2,3
+1: 1,2,4,3

@@ -1,0 +1,21 @@
+# FILE NAME: 00000722.soc
+# TITLE: Should people have to pay a tax if they want to own a car? [ea0e938b13b4194cceed6b8bddb2765b]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Car tax is a necessary evil. We need to pay for the roads, but the money should be ring fenced for that purpose, and not put into a general taxation pot. The money should be used to ensure that the roads are kept in good condition, and to reduce the impact of car use on the environment.
+# ALTERNATIVE NAME 2: Car tax is a necessary evil. We need to pay for the roads, but the money should be ring fenced for that purpose, and not put into a general taxation pot. The money should be used to ensure that the roads are kept in good condition, and to reduce the impact of car use on the environment. The tax should be determined on the type of car for example if it is electric than pay less tax than diesel.
+# ALTERNATIVE NAME 3: Car tax is a necessary evil. We need to pay for the roads, but the money should be ring fenced for that purpose, and not put into a general taxation pot. The money should be used to ensure that the roads are kept in good condition, and to reduce the impact of car use on the environment. The tax should be on a sliding scale based on the impact of different vehicles on the environment.
+# ALTERNATIVE NAME 4: We should pay a car tax, but it should be used to maintain the roads, and to reduce the impact of car use on the environment. The tax should be on a sliding scale, based on the impact of different vehicles on the environment.
+1: 1,3,2,4
+1: 1,2,3,4
+1: 2,3,1,4
+1: 3,2,1,4
+1: 3,2,4,1

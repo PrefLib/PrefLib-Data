@@ -1,0 +1,21 @@
+# FILE NAME: 00001167.soc
+# TITLE: Should a person's life savings be protected when their pension is being taken away? [c1db1f50d16f2d5a194552aa099f1b3a]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the life savings of a person should be protected when their pension is being taken away. The life savings of a person is what they have worked hard for and accumulated over their lifetime. The life savings is what they will use to survive when they retire. If a person's pension is being taken away, they will need their life savings to survive. This is especially true if the person has no other source of income.
+# ALTERNATIVE NAME 2: The decision to take away a person's pension and their life savings is a difficult one to make. However, a person should have the opportunity to retain at least some of their life savings when their pension is taken away. The reasoning behind this is that if the person has spent their entire life saving and never committing a crime, then they should be allowed to keep their life savings. If however, the person has been a criminal or if the pension has been stripped because of crimes committed, then their life savings can be stripped away to pay for the crimes committed.
+# ALTERNATIVE NAME 3: Pensions should be protected as a persons life savings should not be taken away. This should only be the case if the person has not committed any crimes that lead to their pension being taken away.
+# ALTERNATIVE NAME 4: A persons life savings should be protected if their pension is being taken away. This is because they have worked hard and saved their money for their retirement and so they should be able to enjoy it. This is unless they have committed financial crimes, which means that they need to pay back, it would be harsh to take away their life savings for instance.
+1: 1,2,4,3
+1: 2,4,1,3
+1: 2,3,1,4
+1: 2,1,3,4
+1: 2,1,4,3

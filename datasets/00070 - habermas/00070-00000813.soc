@@ -1,0 +1,20 @@
+# FILE NAME: 00000813.soc
+# TITLE: Are the police more corrupt today than in the past? [bbcbd13930b7c4ea9c66a9667e729e00]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: There is corruption in the police force today. The level of corruption may be higher than in the past, but it is difficult to make a blanket statement about whether the police are more corrupt today than in the past, because corruption can manifest in many different forms and can vary across time and place.
+# ALTERNATIVE NAME 2: Although there is corruption within the police force today, it is not necessarily more corrupt than in the past. Corruption is an ever-present problem and is something that will always exist in some form or another. In the past, it was more prevalent because people were more desperate and were willing to do anything to survive. Now, although there are corrupt police officers, there are also many honest ones and this was not the case in the past.
+# ALTERNATIVE NAME 3: There is a perception that police are more corrupt today than in the past, however, the reality is that corruption has always been present in policing and will continue to be present in the future. The way in which corruption is expressed may change over time, but the reality is that there will always be a minority of police officers that will choose to act in a corrupt manner.
+# ALTERNATIVE NAME 4: There is corruption in the police force today, however it is difficult to say whether it is more or less than in the past. It is likely that in the past corruption was more widespread and necessary, as people's quality of life was much lower. Nowadays, the quality of life has increased and corruption is less widespread and necessary. However, the police are a large organisation and there will always be some individuals that are corrupt.
+2: 1,4,3,2
+1: 2,1,3,4
+1: 1,3,2,4
+1: 4,3,2,1

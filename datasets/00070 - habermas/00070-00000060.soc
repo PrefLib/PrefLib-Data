@@ -1,0 +1,21 @@
+# FILE NAME: 00000060.soc
+# TITLE: Should we ban smoking? [e6554b8745911dfef0203de466c8d5ec]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Smoking should be banned as it is harmful to health and is a dangerous habit to form. The law should be enforced against anyone selling or buying tobacco products. Smoking in public should be banned and should be punishable by a fine.
+# ALTERNATIVE NAME 2: In general, smoking should be banned but there are situations where people should be able to smoke in limited areas.  It should be banned in places where it affects other people's health such as on public transport and in other public places where smoke could affect people's health.  It should be allowed in places where the people who are smoking know it is a health risk, and are choosing to take that risk, but not in areas where it can affect other people.
+# ALTERNATIVE NAME 3: People should not be able to smoke in public places and in places that have a large number of people in them as this can cause health problems for those who are exposed to it.  However, smoking in private homes should not be banned and it should not be a legal requirement to ask permission of other people to smoke in their home as this would be an infringement of the human rights of the smoker.  Moreover, people should not be forced to ask people's permission to smoke in their own home because it is their property and they should have a right to do what they want in it.  Smoking should be banned in places that are intended for children, or that are near schools, as this is to ensure that children are not exposed to second hand smoke.  Furthermore, places should be designated for smoking and non-smoking in order to protect those who do not wish to be exposed to second hand smoke.
+# ALTERNATIVE NAME 4: Smoking should not be banned. However, certain areas should ban smoking and there should be a ban on disposing of cigarettes in a non-environmentally friendly way. Advertising should be banned and health information and education should be improved.
+1: 3,2,4,1
+1: 3,4,2,1
+1: 4,3,2,1
+1: 1,2,4,3
+1: 1,2,3,4

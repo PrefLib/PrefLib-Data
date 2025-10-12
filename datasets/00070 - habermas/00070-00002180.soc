@@ -1,0 +1,21 @@
+# FILE NAME: 00002180.soc
+# TITLE: Should we continue to make the NHS free at the point of delivery? [6bd1559fb6ab8a99c74c6d6c0a689b52]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We should continue to make the NHS free at the point of delivery. We believe that it is important that everybody has equal access to the NHS. Whatever the circumstances or personal situation every person should have access to medical care, this is especially important for the young, elderly and vulnerable adults. Some people have medical conditions that require regular medication or hospitalisation - these people may not be able to afford this healthcare. It is also important that we do not privatise the NHS as this would descriminate against the poorer of society. It's a valued service for everyone and it should be protected.
+# ALTERNATIVE NAME 2: We should continue to make the NHS free at the point of delivery. It is important that everybody has equal access to the NHS. Whatever the circumstances or personal situation every person should have access to medical care, this is especially important for the young, elderly and vulnerable adults. Some people have medical conditions that require regular medication or hospitalisation - these people may not be able to afford this healthcare. It is also important that we do not privatise the NHS as this would descriminate against the poorer of society. It's a valued service for everyone and it should be protected.
+# ALTERNATIVE NAME 3: We believe the NHS should be made free for all.  Without doubt it is important that everybody has equal access to the NHS.  Whatever the circumstances or personal situation everyone should have access to medical care, this is especially important for the young, elderly and vulnerable adults. Some people have medical conditions that require regular medication or hospitalisation - these people may not be able to afford this healthcare.  We believe that the NHS is a safety net and a right and should not be privatised as this would descriminate against the poorer of society.  It's a valued service for everyone and should be protected.
+# ALTERNATIVE NAME 4: We should continue to make the NHS free at the point of delivery. The NHS is an essential service that should be afforded to all, young and old, for the wellbeing of society as a whole. We should therefore protect the service we have. In particular we should take into account the vulnerable people and the elderly and ensure they can access healthcare. We believe that it is important that everybody has equal access to the NHS. Whatever the circumstances or personal situation every person should have access to medical care, this is especially important for the young, elderly and vulnerable adults. Some people have medical conditions that require regular medication or hospitalisation - these people may not be able to afford this healthcare. It is also important that we do not privatise the NHS as this would discriminate against the poorer of society. It's a valued service for everyone and it should be protected.
+1: 1,2,4,3
+1: 1,2,3,4
+1: 4,3,1,2
+1: 2,3,1,4
+1: 3,2,1,4

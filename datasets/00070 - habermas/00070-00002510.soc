@@ -1,0 +1,22 @@
+# FILE NAME: 00002510.soc
+# TITLE: Should we force social media companies to censor bullying and harassment? [27ea5bd5264176d23e0b6914788b3bdd]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: This is difficult. Of course they should take action against harassment and bullying, but current methods employed are spotty at best. They incorrectly flag banter between friends as abusive and ban users, but on the other hand, allow actual abuse to continue. A middle ground I would say, is a commitment to manually review submitted reports, instead of having an algorithm make the decision.
+# ALTERNATIVE NAME 2: It is hard to say that we can force companies to do things but I do think they have an obligation to protect people from this happening, especially young children. Most companies have access to our data so how can they let this type of behaviour continue without intervention. I'm unsure as to how we would implement the censoring but I think a discussion around better protection needs to happen
+# ALTERNATIVE NAME 3: Yes, I think so. The amount of vitriol on social media these days is terrible and can be harmful to a person's mental health. Censoring bullying and harassment means a safe environment for users. Social media companies have an ethical responsibility to look after their users. That being said, many will argue that it isn't free speech if people are being censored. 
+# ALTERNATIVE NAME 4: Yes - people should be able to post and view content that doesnt contain harrassing or bullying behaviour. It has the potential to be triggering to some, and also worryingly could encourage others to join in or do it to others too. 
+# ALTERNATIVE NAME 5: Yes, I think that social media companies are commercial organisations and in a very strong  position of power with the data they can see and hold. In the same way that they can target ads and content relevant to users, then they should have the technology to evaluate the content for harassment and bullying. They should also have more people who are easily contactable for people who need their help.
+1: 5,2,3,4,1
+1: 2,1,5,3,4
+1: 1,3,5,4,2
+1: 5,4,2,3,1
+1: 5,1,2,4,3

@@ -1,0 +1,21 @@
+# FILE NAME: 00002174.soc
+# TITLE: Should we continue to make the NHS free at the point of delivery? [442d095fb79b1b3c231d57bc67bdd421]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: We should continue to make the NHS free at the point of delivery. We believe that it is important that everybody has equal access to the NHS. Whatever the circumstances or personal situation every person should have access to medical care, this is especially important for the young, elderly and vulnerable adults. Some people have medical conditions that require regular medication or hospitalisation - these people may not be able to afford this healthcare. It is also important that we do not privatise the NHS as this would descriminate against the poorer of society. It's a valued service for everyone and it should be protected.
+# ALTERNATIVE NAME 2: We believe the NHS should be free at the point of delivery. If it is to be paid for, it should be by a national insurance scheme which everyone pays into. The NHS is there to look after us all. It is important that all people can access it and that it is not a privilege. It is one of the best things about our country.
+# ALTERNATIVE NAME 3: The NHS is an important part of British society and we should not privatise it.  We should keep the NHS free at the point of delivery and ensure that all people can access it, regardless of their personal situation.  It is important that we keep the NHS free and accessible to all.
+# ALTERNATIVE NAME 4: Yes, we should continue to make the NHS free at the point of delivery. The NHS has been a cornerstone of British society for many years and the results are very evident. Despite this, the NHS is constantly underfunded, overworked and understaffed. The NHS, as it currently stands, is a luxury that the UK cannot afford. We must therefore explore ways to reduce the amount of money the NHS is required to spend, while at the same time increase the amount of money it receives. A useful step towards this goal would be to make it easier for people to sign up to private health insurance schemes.
+1: 1,2,3,4
+1: 4,2,1,3
+1: 2,3,1,4
+1: 1,3,4,2
+1: 4,1,2,3

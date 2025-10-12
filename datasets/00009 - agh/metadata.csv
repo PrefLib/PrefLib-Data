@@ -1,3 +1,3 @@
 file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00009-00000001.soc;1;2024-10-16 17:43:02.067277;9155de35c0b80ce25b94e4351ff0fffd;original;9;146;123;False;True;True;True;False;False;True
-00009-00000002.soc;2;2024-10-16 17:43:02.067277;ce8da47e3e91731b0a86fd1fa3b73550;original;7;153;70;False;True;True;True;False;False;True
+00009-00000001.soc;1;2025-10-10 19:57:59.859591;d9d6949c42fb7eed4e9c793aa48a4b75;original;9;146;123;False;True;True;True;False;False;True
+00009-00000002.soc;2;2025-10-10 19:57:59.860588;2b30f24b9401680875965e13190c0fec;original;7;153;70;False;True;True;True;False;False;True

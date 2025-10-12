@@ -1,0 +1,20 @@
+# FILE NAME: 00001637.soc
+# TITLE: Should we raise the voting age to 18? [f0849238ddc71bbb222fad79c8a9c574]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: It was agreed that the voting age should not be lowered but raised to 18. It was decided that 18 was the best age for young people to vote because this was the legal age of adulthood. Some people said that a few extra years would allow young people to make more informed and balanced decisions and would make for a more authentic result. This view was a popular view in the group and was therefore agreed to. It was agreed that there was a likelihood that young people would be influenced by their parents or peers. In conclusion, it was agreed that it was more important to be able to make a more mature and well-rounded decision. It was also noted that young people have a great potential to sway elections and this would be less likely at an older age.
+# ALTERNATIVE NAME 2: We have come to the conclusion that the voting age should not be raised to 18. 16 year olds are considered adults in the eyes of the law. They should be able to vote as they will be affected by the outcome of the election the most.
+# ALTERNATIVE NAME 3: The voting age should not be raised.
+# ALTERNATIVE NAME 4: We have come to the conclusion that the voting age should be raised to 18 because we believe that people are not mature enough to vote at 16. People under the age of 18 are still in education and are still learning about the world and how it works. Therefore, we believe that they are not ready to vote and make a decision that could affect their future. We believe that people under the age of 18 are still very much influenced by their parents and their friends. This means that their vote may not be their own and may not be the vote that they would have made if they were older.
+2: 1,4,2,3
+1: 4,1,2,3
+1: 1,4,3,2
+1: 4,2,1,3

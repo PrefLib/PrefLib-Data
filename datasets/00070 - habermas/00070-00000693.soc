@@ -1,0 +1,19 @@
+# FILE NAME: 00000693.soc
+# TITLE: Should the government invest public money in private companies? [3b29e523b28208363fe6399e849191fa]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 3
+# ALTERNATIVE NAME 1: The government should not invest public money in private companies. Public money should be invested in things that benefit the public. Private companies should be allowed to run independently.
+# ALTERNATIVE NAME 2: The government should invest public money in private companies to a limited extent. This should only be in cases where it can be clearly shown that this will lead to economic growth and business development. This may include loans or grants for new start up business which have a good chance of becoming established and leading to employment. There may also be a case for subsidies to businesses where they may need short term support to keep the business functioning, as for instance the case during the recent pandemic.
+# ALTERNATIVE NAME 3: The government should invest public money in private companies only if there is a clear benefit to the public.
+# ALTERNATIVE NAME 4: “Public money should be invested in private companies if it is in the interest of the public and will lead to employment opportunities and overall economic growth.”
+2: 2,4,3,1
+2: 1,2,4,3
+1: 2,3,4,1

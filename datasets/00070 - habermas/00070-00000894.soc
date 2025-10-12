@@ -1,0 +1,20 @@
+# FILE NAME: 00000894.soc
+# TITLE: Should we allow parents to delay the age at which their children start school? [f0113803e16c45f9508c03c939853503]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We believe that parents should be allowed to delay the age at which their children start school by at most one year. Even if there's no verifiable upside, giving parents more say over their children's education is much more consistent with a free liberal society. However, if there are verifiable downsides, i.e delaying school start age stunts a child's mental and social growth, then it may not be a good idea.
+# ALTERNATIVE NAME 2: We should allow parents to delay the age at which their children start school by at most one year. Even if there's no verifiable upside, giving parents more say over their children's education is much more consistent with a free liberal society. However, if there are verifiable downsides, i.e delaying school start age stunts a child's mental and social growth, then it may not be a good idea.
+# ALTERNATIVE NAME 3: No, it is vital that children progress through their school career with peers of the same age. Those that delay their start at school will develop slower and will not progress in line with their peer group. They may also miss out of basic social needs and development.
+# ALTERNATIVE NAME 4: In general, the age at which children start school should be uniform across the country. However, there may be some circumstances in which parents could delay their children's start at school. For example, if a child has special educational needs, then they may need to start at a later age. Also, if the child is very young and immature compared to their peers, then they may also need to start at a later age.
+2: 3,4,2,1
+1: 4,1,2,3
+1: 2,3,4,1
+1: 4,2,3,1

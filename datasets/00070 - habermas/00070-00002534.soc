@@ -1,0 +1,22 @@
+# FILE NAME: 00002534.soc
+# TITLE: Should Britain use Chinese technology in its critical national infrastructure? [4613cf09e25e1dc297f06e49b8b86d74]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: I believe that Britain should use Chinese technology in its critical national infrastructure, but they should monitor the technology closely. The technology may be superior to the technology that Britain has access to, so it may be beneficial to use. However, there might be a risk that spyware, or other malicious things may be included in the technology, so it ought to be thoroughly checked and examined before, during and after use.
+# ALTERNATIVE NAME 2: China is a hostile country. We are hostile to them due to their aggression towards Taiwan, a peaceful, democratic nation, and the Uighur camps in certain provinces, amongst other things like workers' rights and surveillance. China has shown themselves to be hostile to us as well, banning the BBC and placing spies in important institutions. To that end, we cannot trust them or their technology when it comes to critical infrastructure such as power, water, health, or things related to the armed forces. The Chinese government repeatedly uses supposedly separate companies for its own ends, so we cannot trust Chinese tech even it the makers claim to be unaffiliated with the CCP.
+# ALTERNATIVE NAME 3: I don't necessarily have a strong opinion on this. I am aware that there have been controversies involving Chinese technologies and spyware. Like tiktok for example, or many of the cheap Chinese-brand Android phones. I guess it's quite a general question so I'm not totally for or against it, and I'd assume that Britain does use Chinese technology in many aspects of its government / infrastructure etc.
+# ALTERNATIVE NAME 4: I do not think that Britain should use Chinese technology. There are many risks with this, including the increased chance of hacking and cyber attacks from China. For example, if Britain were to use Chinese technology for it's own Government infrastructure, China could gain access to incredibly sensitive information relating to national security. This could increase the chance of an attack, and information getting in to the wrong hands.
+# ALTERNATIVE NAME 5: There is no harm in using their technology if it works and it beneficial to use. There are leaders in technology and always looking for the next big thing. We would be daft not to use their technology for our own uses. Or we can learn and adapt it.
+1: 5,1,3,4,2
+1: 1,5,2,4,3
+1: 2,4,1,3,5
+1: 4,1,2,3,5
+1: 1,2,4,3,5

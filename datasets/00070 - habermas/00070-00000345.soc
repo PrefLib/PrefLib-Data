@@ -1,0 +1,20 @@
+# FILE NAME: 00000345.soc
+# TITLE: Should we have a new nuclear power station? [c2c6a2dfdbfbf629820cc9da9c3e0417]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: No, because nuclear power is not as safe as many people think, because of the history of the plants being exploded and many people getting killed. The group did not take into account the view of any of the participants above, and gave the opinion of Participant 3 far more weight than the other opinions given.
+# ALTERNATIVE NAME 2: No. It would be a waste of money.
+# ALTERNATIVE NAME 3: The nuclear power station will be a new source of jobs in a very deprived area, and that it is environmentally friendly in comparison to the other alternatives. However, the station will be highly capital intensive and that it could be dangerous if it were to be attacked in times of war.
+# ALTERNATIVE NAME 4: In general, the group was in favour of nuclear power, although with reservations. We had different opinions on whether to build a new power station or not, but overall felt that the climate change issues outweigh the dangers of a new station. We thought that the people in the vicinity should have a say in whether it should be built or not, as it is a hot political topic and could cause uproar.
+2: 4,3,1,2
+1: 1,2,3,4
+1: 3,4,1,2
+1: 4,3,2,1

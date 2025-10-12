@@ -1,0 +1,20 @@
+# FILE NAME: 00000427.soc
+# TITLE: Do humans have a right to use animals for food? [7262b7b7ebaf50b9d99557581e461f56]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: Humans do have the right to use animals as food but there are moral and ethical concerns that can be addressed. Humans should look for alternative ways of getting nutrients as there are many different options. Humans should consider the other methods of obtaining nutrients, so it is not an absolute right. The issue is complicated and should be discussed in more detail.
+# ALTERNATIVE NAME 2: Humans have the right to use animals for food. The animals should be treated in a humane way, and there should be other means of obtaining nutrients for humans.
+# ALTERNATIVE NAME 3: There is no absolute right for humans to use animals as food, but in general humans do have the right to use animals as food.
+# ALTERNATIVE NAME 4: Humans do not have the right to use animals as food, but it is a necessary evil, if done in a humane way. There are other ways of obtaining nutrients and these should be promoted. The issue is complicated and should be discussed in more detail.
+2: 1,2,4,3
+1: 1,4,2,3
+1: 4,2,1,3
+1: 1,2,3,4

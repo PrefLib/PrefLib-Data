@@ -1,0 +1,21 @@
+# FILE NAME: 00000259.soc
+# TITLE: Should we ban the production of food products containing palm oil? [87985b08f8c21c8ef94b760cd6e56e9d]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: In general, the production of palm oil is an environmental issue. The palm oil industry is one of the major causes of deforestation. Deforestation increases greenhouse gases in the atmosphere and contributes to climate change. Deforestation has also destroyed the habitats of already endangered animals and continues to do so. Palm oil farming is also a major overall contributor to greenhouse gasses rising, and therefore global warming. In addition, the palm oil industry uses child labor and exploits workers.
+# ALTERNATIVE NAME 2: In general, the production of palm oil is an environmental issue. The palm oil industry is one of the major causes of deforestation. Deforestation increases greenhouse gases in the atmosphere and contributes to climate change. Deforestation has also destroyed the habitats of already endangered animals and continues to do so. Palm oil farming is also a major overall contributor to greenhouse gasses rising, and therefore global warming. Furthermore, palm oil farming exploits workers and child labor. Palm oil should be banned from food products.
+# ALTERNATIVE NAME 3: In general, the production of palm oil is an environmental issue. The palm oil industry is one of the major causes of deforestation. Deforestation increases greenhouse gases in the atmosphere and contributes to climate change. Deforestation has also destroyed the habitats of already endangered animals and continues to do so. Palm oil farming is also a major overall contributor to greenhouse gasses rising, and therefore global warming. In addition, palm oil production can include forced labor, child labor, and other human rights abuses.
+# ALTERNATIVE NAME 4: In general, the production of palm oil is an environmental issue. The palm oil industry is one of the major causes of deforestation. Deforestation increases greenhouse gases in the atmosphere and contributes to climate change. Deforestation has also destroyed the habitats of already endangered animals and continues to do so. Palm oil farming is also a major overall contributor to greenhouse gasses rising, and therefore global warming. There is also exploitation of workers and child labor because of palm oil.
+1: 2,1,3,4
+1: 2,3,1,4
+1: 3,4,2,1
+1: 3,1,2,4
+1: 2,3,4,1

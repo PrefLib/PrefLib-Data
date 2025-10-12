@@ -1,0 +1,20 @@
+# FILE NAME: 00000635.soc
+# TITLE: Should people with more money be forced to pay more taxes? [8ba5eb979c0e753e1d92ef0d3e24bdea]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: People with more money should be forced to pay more taxes. However, it is not necessarily the case that those with a higher asset wealth should necessarily be penalised by higher taxes.
+# ALTERNATIVE NAME 2: People with more money should pay more taxes. The current tax system is not working and it does not provide a level playing field for all. Some people with higher salaries are taxed at a higher rate, but there are also many people who have a lot of money, but who do not pay any tax at all. The tax system needs to be changed so that everyone pays their fair share.
+# ALTERNATIVE NAME 3: People who earn a higher salary should be taxed more than those on lower salaries. However, people with a higher asset wealth should not necessarily be penalised by higher taxes - it should be done on salary.
+# ALTERNATIVE NAME 4: People with more money should be taxed more because they can afford it and the money can be used to help the less fortunate.
+2: 2,1,3,4
+1: 3,2,1,4
+1: 2,4,3,1
+1: 2,4,1,3

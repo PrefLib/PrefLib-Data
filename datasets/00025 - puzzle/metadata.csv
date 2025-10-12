@@ -1,5 +1,5 @@
 file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
-00025-00000001.soc;1;2024-10-16 17:43:02.155277;e3f5fcaf166ee84563ccedc83bce67d7;original;4;793;24;False;True;True;True;False;False;False
-00025-00000002.soc;2;2024-10-16 17:43:02.155277;460130007e7b1747997799730ec42655;original;4;795;24;False;True;True;True;False;False;False
-00025-00000003.soc;3;2024-10-16 17:43:02.155277;9dac3742ee67120ac1d6aaa5af8ac16d;original;4;795;24;False;True;True;True;False;False;False
-00025-00000004.soc;4;2024-10-16 17:43:02.155277;10fafecdd881c323eb9f3270d0bcfbf3;original;4;797;24;False;True;True;True;False;False;False
+00025-00000001.soc;1;2025-10-10 19:58:00.123633;c8b74f389adaa52dbd5429daa5d6b231;original;4;793;24;False;True;True;True;False;False;False
+00025-00000002.soc;2;2025-10-10 19:58:00.123633;fcba1ebc4271f39df53fe4f9a353e3d8;original;4;795;24;False;True;True;True;False;False;False
+00025-00000003.soc;3;2025-10-10 19:58:00.123633;1349e573534962125af687225658ff6b;original;4;795;24;False;True;True;True;False;False;False
+00025-00000004.soc;4;2025-10-10 19:58:00.123633;4429d2e4c8de189579c510cbc63088e0;original;4;797;24;False;True;True;True;False;False;False

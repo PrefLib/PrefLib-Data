@@ -1,0 +1,20 @@
+# FILE NAME: 00000211.soc
+# TITLE: Should we subsidize electric cars? [dafea1f93bd08f81aa54262255d58d33]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 4
+# ALTERNATIVE NAME 1: We believe the government should subsidise electric cars. The environment needs to be looked after and cars are not helping the problem. Electric cars are more expensive and this will deter people from buying them. The government need to help these people with subsidies to encourage them to buy these cars.
+# ALTERNATIVE NAME 2: Electric cars should be subsidised by the government. They are a great way of helping people in the fight against climate change.
+# ALTERNATIVE NAME 3: Electric cars are good for the environment, but people will not buy them unless they are incentivised. We need to help them buy them by subsidising them.
+# ALTERNATIVE NAME 4: We should subsidise electric cars in some way. They will be a very important part of the future but people cannot currently afford them.
+2: 1,3,4,2
+1: 1,2,4,3
+1: 3,1,4,2
+1: 1,4,3,2

@@ -1,0 +1,22 @@
+# FILE NAME: 00002622.soc
+# TITLE: Is the UK's health service the NHS providing world-leading healthcare? [7b6a495a4363d5570369d1ad86746d1a]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 5
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: Unfortunately not.  Although we are world leading in respects of being free at the point of service, the ability to be able to access those services via a GP are getting worse. 
+# ALTERNATIVE NAME 2: the NHS is doing the best it can with the resources it's been given by the government. As it is free to everyone in the UK it could be considered world leading, however this comes with several drawbacks such as increased waiting times for patients and increased workload on NHS staff, if the NHS received sufficient funding from the government the NHS would be able to reclaim it's title as world leading healthcare.
+# ALTERNATIVE NAME 3: Absolutely, our healthcare is one of the best in the world. There is always more that can be done but I really do believe that we are world leading. There are a multitude of ways the NHS has been negatively viewed over the past few years however regardless they are world-leading. (In addition and side note - they should be rewarded and paid more)
+# ALTERNATIVE NAME 4: I think the NHS is trying it's best to provide world leading care. Though it can struggle (primarily due to financial restrictions) the NHS saves lives every single day. Babies are delivered safely, broken legs are healed and cancer patients are sensitively worked with. The NHS also offers mental health support and treatments for people who may not be recognised as suffering in other countries. Though there is lots of room for improvement, the NHS is absolutely one of the best healthcare providers in the world and it's "free".
+# ALTERNATIVE NAME 5: It defiantly provides world-leading healthcare as it has some excellent Doctors and Nurses. However it does have a lot of challenges such as the extremely long waiting times. 
+1: 4,1,2,3,5
+1: 2,3,4,5,1
+1: 3,4,2,5,1
+1: 4,2,3,5,1
+1: 2,4,3,1,5

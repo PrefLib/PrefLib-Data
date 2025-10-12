@@ -1,0 +1,21 @@
+# FILE NAME: 00000147.soc
+# TITLE: Should the BBC have a bigger or smaller budget? [c586eb7a6f89f9d424b1fee3837736d3]
+# DESCRIPTION: 
+# DATA TYPE: soc
+# MODIFICATION TYPE: original
+# RELATES TO: 
+# RELATED FILES: 
+# PUBLICATION DATE: 2025-10-12
+# MODIFICATION DATE: 2025-10-12
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 5
+# NUMBER UNIQUE ORDERS: 5
+# ALTERNATIVE NAME 1: “The BBC should have a smaller budget, however not in a drastic way. The BBC should keep a small budget to allow the BBC to keep going and create more cost-efficient programs. Therefore, the BBC will not be putting on as much programming as before.”
+# ALTERNATIVE NAME 2: The BBC should have a smaller budget. The programming the BBC puts on does not warrant the TV license fee.
+# ALTERNATIVE NAME 3: The BBC should have a smaller budget as it can fund itself and this will also help the license fee to reduce. This will also lead to better quality content as the BBC will be focusing more on the content.
+# ALTERNATIVE NAME 4: The BBC should have a smaller budget. The group felt that the TV licence was becoming obsolete and more people would soon be cancelling their subscription. The group also felt that the BBC should focus on quality over quantity. The group were of the opinion that the BBC was less relevant to the population now, than it once was, therefore a reduction in budget would be appropriate.
+1: 4,1,3,2
+1: 3,2,4,1
+1: 1,3,4,2
+1: 4,2,3,1
+1: 1,2,3,4
