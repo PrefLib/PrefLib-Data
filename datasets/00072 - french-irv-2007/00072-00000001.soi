@@ -9,19 +9,19 @@
 # MODIFICATION DATE: 2025-10-13
 # NUMBER ALTERNATIVES: 12
 # NUMBER VOTERS: 893
-# NUMBER UNIQUE PREFERENCES: 720
-# ALTERNATIVE 1: Olivier Besancenot
-# ALTERNATIVE 2: Marie-George Buffet
-# ALTERNATIVE 3: Gérard Schivardi
-# ALTERNATIVE 4: François Bayrou
-# ALTERNATIVE 5: José Bové
-# ALTERNATIVE 6: Dominique Voynet
-# ALTERNATIVE 7: Philippe de Villiers
-# ALTERNATIVE 8: Ségolène Royal
-# ALTERNATIVE 9: Frédéric Nihous
-# ALTERNATIVE 10: Jean-Marie Le Pen
-# ALTERNATIVE 11: Arlette Laguiller
-# ALTERNATIVE 12: Nicolas Sarkozy
+# NUMBER UNIQUE ORDERS: 720
+# ALTERNATIVE NAME 1: Olivier Besancenot
+# ALTERNATIVE NAME 2: Marie-George Buffet
+# ALTERNATIVE NAME 3: Gérard Schivardi
+# ALTERNATIVE NAME 4: François Bayrou
+# ALTERNATIVE NAME 5: José Bové
+# ALTERNATIVE NAME 6: Dominique Voynet
+# ALTERNATIVE NAME 7: Philippe de Villiers
+# ALTERNATIVE NAME 8: Ségolène Royal
+# ALTERNATIVE NAME 9: Frédéric Nihous
+# ALTERNATIVE NAME 10: Jean-Marie Le Pen
+# ALTERNATIVE NAME 11: Arlette Laguiller
+# ALTERNATIVE NAME 12: Nicolas Sarkozy
 18: 12, 4, 8
 17: 12, 4
 11: 12
