@@ -2,13 +2,13 @@ Name: Habermas Machine Deliberation
 
 Abbreviation: habermas
 
-Tags: Deliberation
+Tags: Election,Deliberation
 
 Series Number: 00070
 
 Publication Date: 2025-10-12
 
-Description: <p>This dataset collects the vote of participants in mini-jury experiments. For each mini-jury, five participants had to give their opinion on a specific topic and an LLM was used to generate four statements agregating the participants' opinions. Participants could then rank the different propositions, and Schulze's method was used to select the winning statement. The original data was <a href="https://github.com/google-deepmind/habermas_machine">collected by Google DeepMind</a>, and was converted to the appropriate format by <a href="https://theo.delemazure.fr/>Théo Delemazure</a></p>
+Description: <p>This dataset collects the vote of participants in mini-jury experiments. For each mini-jury, five participants had to give their opinion on a specific topic and an LLM was used to generate four statements agregating the participants' opinions. Participants could then rank the different propositions, and Schulze's method was used to select the winning statement. The original data was <a href="https://github.com/google-deepmind/habermas_machine">collected by Google DeepMind</a>, and was converted to the appropriate format by <a href="https://theo.delemazure.fr"/>Théo Delemazure</a>.</p>
 
 Required Citations: Michael Henry Tessler et al. <em>AI can help humans find common ground in democratic deliberation</em>. Science 386, 2024.
 
