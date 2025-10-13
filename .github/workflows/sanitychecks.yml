@@ -32,4 +32,4 @@ jobs:
 
       # Step 4: Run the sanitychecks.py script
       - name: Run sanity checks
-        run: python scripts/sanitychecks.py
+        run: python scripts/sanitychecks.py --escalate-warnings
