@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: Gene editing techniques have the potential to reduce the pain caused to families by genetic diseases, especially for families who know they carry a genetic disease. However, we need to be aware of the potential negative consequences, such as the increase in designer babies, and the future effects that may arise. Therefore, gene editing should be looked into more deeply, before making a final decision.
-# ALTERNATIVE NAME 2: In general, gene editing is not something that should be considered. The screening of children before birth is a much better option.
-# ALTERNATIVE NAME 3: We should be using new gene editing techniques to prevent children being born with genetic disorders. We think that it is a good idea to prevent the suffering caused by genetic disorders to children and their families. However, the technique could have negative effects that are not yet known and this would need to be looked into before any decision is made.
-# ALTERNATIVE NAME 4: Gene editing techniques would mean that children are born free from genetic disorders, however we should not use it as we don't know the consequences and could result in other negative effects. Instead we should screen for genetic disorders as we know the consequences and can help families.
+# ALTERNATIVE NAME 1: Statement 1 - Gene editing techniques have the potential to reduce the pain caused to families by genetic diseases, especially for families who know they carry a genetic disease. However, we need to be aware of the potential negative consequences, such as the increase in designer babies, and the future effects that may arise. Therefore, gene editing should be looked into more deeply, before making a final decision.
+# ALTERNATIVE NAME 2: Statement 2 - In general, gene editing is not something that should be considered. The screening of children before birth is a much better option.
+# ALTERNATIVE NAME 3: Statement 3 - We should be using new gene editing techniques to prevent children being born with genetic disorders. We think that it is a good idea to prevent the suffering caused by genetic disorders to children and their families. However, the technique could have negative effects that are not yet known and this would need to be looked into before any decision is made.
+# ALTERNATIVE NAME 4: Statement 4 - Gene editing techniques would mean that children are born free from genetic disorders, however we should not use it as we don't know the consequences and could result in other negative effects. Instead we should screen for genetic disorders as we know the consequences and can help families.
 3: 1,3,4,2
 1: 1,4,2,3
 1: 2,4,1,3

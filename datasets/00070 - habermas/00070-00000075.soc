@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: No, we are not living in a golden age of democracy. While the word democracy has spread throughout the world, democracy as an actual system of governance and a set of values is becoming weaker and weaker. This can be attributed to a lack of voter participation and a lack of trust of the political system.
-# ALTERNATIVE NAME 2: In general, the world is better than it was in previous times with more countries and people in control of their own destinies, but democracy is not as universal as it should be and some of the biggest challenges are yet to be faced. Conclusion:
-# ALTERNATIVE NAME 3: We live in a golden age of democracy as it is something that can be improved on and we are working to achieve that.
-# ALTERNATIVE NAME 4: Although in the past we've had high hopes of a better world after the horrors of WWII and the fall of the Iron Curtain, democracy is in danger worldwide and may never reach its full potential.
+# ALTERNATIVE NAME 1: Statement 1 - No, we are not living in a golden age of democracy. While the word democracy has spread throughout the world, democracy as an actual system of governance and a set of values is becoming weaker and weaker. This can be attributed to a lack of voter participation and a lack of trust of the political system.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the world is better than it was in previous times with more countries and people in control of their own destinies, but democracy is not as universal as it should be and some of the biggest challenges are yet to be faced. Conclusion:
+# ALTERNATIVE NAME 3: Statement 3 - We live in a golden age of democracy as it is something that can be improved on and we are working to achieve that.
+# ALTERNATIVE NAME 4: Statement 4 - Although in the past we've had high hopes of a better world after the horrors of WWII and the fall of the Iron Curtain, democracy is in danger worldwide and may never reach its full potential.
 2: 1,4,2,3
 1: 4,3,2,1
 1: 2,4,1,3

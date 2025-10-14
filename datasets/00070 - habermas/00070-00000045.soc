@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: The UK is too reliant on foreign oil. The UK economy is particularly sensitive to changes in the price of oil, which makes the economy more volatile and unstable. At the same time, we should be reducing our dependence on fossil fuels in general.
-# ALTERNATIVE NAME 2: We should be using alternative sources of energy as well as developing our own sources of oil. We need to move away from the use of fossil fuels for the sake of the environment and to ensure our long term security.
-# ALTERNATIVE NAME 3: “The UK is too reliant on foreign oil. It is therefore subject to economic difficulties caused by changes in the oil price and policies of OPEC. The UK should develop more of its own North Sea oil reserves, whilst at the same time moving towards the use of renewable energy sources.”
-# ALTERNATIVE NAME 4: The UK is too reliant on foreign oil. We should be developing more of our own North Sea oil reserves to reduce our dependence on overseas oil and its fluctuations in price. We should be moving away from fossil fuels towards greener alternatives.
+# ALTERNATIVE NAME 1: Statement 1 - The UK is too reliant on foreign oil. The UK economy is particularly sensitive to changes in the price of oil, which makes the economy more volatile and unstable. At the same time, we should be reducing our dependence on fossil fuels in general.
+# ALTERNATIVE NAME 2: Statement 2 - We should be using alternative sources of energy as well as developing our own sources of oil. We need to move away from the use of fossil fuels for the sake of the environment and to ensure our long term security.
+# ALTERNATIVE NAME 3: Statement 3 - “The UK is too reliant on foreign oil. It is therefore subject to economic difficulties caused by changes in the oil price and policies of OPEC. The UK should develop more of its own North Sea oil reserves, whilst at the same time moving towards the use of renewable energy sources.”
+# ALTERNATIVE NAME 4: Statement 4 - The UK is too reliant on foreign oil. We should be developing more of our own North Sea oil reserves to reduce our dependence on overseas oil and its fluctuations in price. We should be moving away from fossil fuels towards greener alternatives.
 2: 1,2,4,3
 1: 4,3,1,2
 1: 1,3,4,2

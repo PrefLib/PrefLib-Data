@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: There should be no ban on political parties as it can open the door to authoritarianism. However, if a party is actively seeking to destroy democracy or an open society then they should be banned. This, however, is a very subjective view and is impossible to implement. The best solution would be to educate people to the dangers of certain ideologies, and to encourage those who feel strongly enough to be part of the political system to take action against these parties.
-# ALTERNATIVE NAME 2: No, the government should not ban certain political parties from participating in elections. This is because allowing multiple parties to participate promotes a fair and democratic process, even if their views may be controversial or unpopular. It is important to uphold freedom of speech and allow voters to make informed decisions.
-# ALTERNATIVE NAME 3: In general, political parties should not be banned from participating in elections. However, if a party is formed with the clear intent to be discriminatory or cause catastrophic events, this should be prevented.
-# ALTERNATIVE NAME 4: No, we should not ban certain political parties from participating in elections. This would allow for more diversity of opinions, which in turn promotes an overall more educated and engaged electorate, leading to more effective governance.
+# ALTERNATIVE NAME 1: Statement 1 - There should be no ban on political parties as it can open the door to authoritarianism. However, if a party is actively seeking to destroy democracy or an open society then they should be banned. This, however, is a very subjective view and is impossible to implement. The best solution would be to educate people to the dangers of certain ideologies, and to encourage those who feel strongly enough to be part of the political system to take action against these parties.
+# ALTERNATIVE NAME 2: Statement 2 - No, the government should not ban certain political parties from participating in elections. This is because allowing multiple parties to participate promotes a fair and democratic process, even if their views may be controversial or unpopular. It is important to uphold freedom of speech and allow voters to make informed decisions.
+# ALTERNATIVE NAME 3: Statement 3 - In general, political parties should not be banned from participating in elections. However, if a party is formed with the clear intent to be discriminatory or cause catastrophic events, this should be prevented.
+# ALTERNATIVE NAME 4: Statement 4 - No, we should not ban certain political parties from participating in elections. This would allow for more diversity of opinions, which in turn promotes an overall more educated and engaged electorate, leading to more effective governance.
 2: 1,2,3,4
 1: 3,1,2,4
 1: 4,2,3,1

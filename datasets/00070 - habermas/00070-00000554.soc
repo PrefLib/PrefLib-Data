@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: We should be more reliant on nuclear power. If fossil fuel energy production is to be phased out, then nuclear power is a viable alternative. It can generate the energy required by society, and can be relatively clean as a fuel source. The dangers of nuclear energy are well-known, but as long as we exercise the proper precautions, we can use it safely. The future of energy must come from a clean and renewable source, and nuclear power seems to be the best candidate.
-# ALTERNATIVE NAME 2: In general, the group was in favour of nuclear power, though with reservations.
-# ALTERNATIVE NAME 3: We should continue the expansion of our reliance on nuclear power as we phase out fossil fuel energy production.
-# ALTERNATIVE NAME 4: No, we do not need to expand our reliance on nuclear power, because we already have enough energy sources and we need to cut down our spending.  We must also remember that even though fossil fuel energy production is harmful, nuclear power also has harmful effects, so we should not be using either.
+# ALTERNATIVE NAME 1: Statement 1 - We should be more reliant on nuclear power. If fossil fuel energy production is to be phased out, then nuclear power is a viable alternative. It can generate the energy required by society, and can be relatively clean as a fuel source. The dangers of nuclear energy are well-known, but as long as we exercise the proper precautions, we can use it safely. The future of energy must come from a clean and renewable source, and nuclear power seems to be the best candidate.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the group was in favour of nuclear power, though with reservations.
+# ALTERNATIVE NAME 3: Statement 3 - We should continue the expansion of our reliance on nuclear power as we phase out fossil fuel energy production.
+# ALTERNATIVE NAME 4: Statement 4 - No, we do not need to expand our reliance on nuclear power, because we already have enough energy sources and we need to cut down our spending.  We must also remember that even though fossil fuel energy production is harmful, nuclear power also has harmful effects, so we should not be using either.
 2: 4,1,3,2
 2: 1,3,2,4
 1: 1,2,3,4

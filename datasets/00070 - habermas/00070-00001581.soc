@@ -10,9 +10,9 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 2
-# ALTERNATIVE NAME 1: We believe that the NHS is underfunded, which is why it is worse than the NHS in other countries.
-# ALTERNATIVE NAME 2: The NHS is currently worse than the health service in other countries.
-# ALTERNATIVE NAME 3: In general, the UK's NHS is better than in other countries. The NHS is free at the point of use, and this is a good model for health care. However, the NHS is currently underfunded, and this is having a negative impact on the quality of care that can be provided. Therefore, it is only better than in other countries because of the model that it is built on, rather than the quality of care that it provides.
-# ALTERNATIVE NAME 4: The NHS has some very positive qualities, especially when compared to some of the USA's for-profit alternatives. However, the NHS in the UK is currently under-funded and austerity cuts have taken a toll on its ability to provide high quality care. The NHS is worse than the health service in other countries, which tend to have lower population densities and better funding.
+# ALTERNATIVE NAME 1: Statement 1 - We believe that the NHS is underfunded, which is why it is worse than the NHS in other countries.
+# ALTERNATIVE NAME 2: Statement 2 - The NHS is currently worse than the health service in other countries.
+# ALTERNATIVE NAME 3: Statement 3 - In general, the UK's NHS is better than in other countries. The NHS is free at the point of use, and this is a good model for health care. However, the NHS is currently underfunded, and this is having a negative impact on the quality of care that can be provided. Therefore, it is only better than in other countries because of the model that it is built on, rather than the quality of care that it provides.
+# ALTERNATIVE NAME 4: Statement 4 - The NHS has some very positive qualities, especially when compared to some of the USA's for-profit alternatives. However, the NHS in the UK is currently under-funded and austerity cuts have taken a toll on its ability to provide high quality care. The NHS is worse than the health service in other countries, which tend to have lower population densities and better funding.
 4: 3,4,1,2
 1: 4,3,1,2

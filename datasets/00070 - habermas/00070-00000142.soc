@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: The group came to the consensus view that we should not spend less money on education at all as it is an investment in society and I think the same is true for prisons as ultimately money invested in prisons could be used to benefit all society.
-# ALTERNATIVE NAME 2: No, the government should spend more on education, not less.
-# ALTERNATIVE NAME 3: There should be no change in the funding for education or prisons.
-# ALTERNATIVE NAME 4: In general, the group was opposed to reducing funding for education. The group believes that the educational sector is underfunded. This needs to be addressed with increased spending in order to give teachers better remuneration and improve educational resources. The group agrees that there is a need to reduce recidivism but does not agree that reducing educational spending will achieve this. In fact, the group believes that increasing educational spending will reduce the prison population in the long term.
+# ALTERNATIVE NAME 1: Statement 1 - The group came to the consensus view that we should not spend less money on education at all as it is an investment in society and I think the same is true for prisons as ultimately money invested in prisons could be used to benefit all society.
+# ALTERNATIVE NAME 2: Statement 2 - No, the government should spend more on education, not less.
+# ALTERNATIVE NAME 3: Statement 3 - There should be no change in the funding for education or prisons.
+# ALTERNATIVE NAME 4: Statement 4 - In general, the group was opposed to reducing funding for education. The group believes that the educational sector is underfunded. This needs to be addressed with increased spending in order to give teachers better remuneration and improve educational resources. The group agrees that there is a need to reduce recidivism but does not agree that reducing educational spending will achieve this. In fact, the group believes that increasing educational spending will reduce the prison population in the long term.
 3: 4,1,2,3
 1: 4,1,3,2
 1: 3,1,2,4

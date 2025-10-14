@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 5
-# ALTERNATIVE NAME 1: National Service should not be mandatory. Everyone should be allowed to follow their dreams and live the life they choose. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement.
-# ALTERNATIVE NAME 2: No, we do not think that mandatory national service for 18-30 year olds is a good idea. The age group does not have a clearly defined purpose and will cause disruption to many people's lives. National service should be a choice for the individual and should not be imposed on anyone against their will.
-# ALTERNATIVE NAME 3: In general, the group was opposed to national service as a compulsory measure. Although it was recognised that there may be some benefits to be gained by participation in a national service programme, there were some concerns about the impact of the age range on individuals, as well as the potential for forcing people to take part in military actions. It was suggested that national service may be a better idea if it was for a shorter duration, but with no compulsion for those who did not wish to participate.
-# ALTERNATIVE NAME 4: No. It would be a violation of individual freedoms and force young people to do something they may not want to do.
+# ALTERNATIVE NAME 1: Statement 1 - National Service should not be mandatory. Everyone should be allowed to follow their dreams and live the life they choose. In the case of the Military, this is something that is a voluntary service and should be a choice for those that choose to do it, not a mandatory requirement.
+# ALTERNATIVE NAME 2: Statement 2 - No, we do not think that mandatory national service for 18-30 year olds is a good idea. The age group does not have a clearly defined purpose and will cause disruption to many people's lives. National service should be a choice for the individual and should not be imposed on anyone against their will.
+# ALTERNATIVE NAME 3: Statement 3 - In general, the group was opposed to national service as a compulsory measure. Although it was recognised that there may be some benefits to be gained by participation in a national service programme, there were some concerns about the impact of the age range on individuals, as well as the potential for forcing people to take part in military actions. It was suggested that national service may be a better idea if it was for a shorter duration, but with no compulsion for those who did not wish to participate.
+# ALTERNATIVE NAME 4: Statement 4 - No. It would be a violation of individual freedoms and force young people to do something they may not want to do.
 1: 1,2,3,4
 1: 1,4,2,3
 1: 2,3,1,4

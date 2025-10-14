@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 5
-# ALTERNATIVE NAME 1: We believe that we should be doing more to combat climate change. If everyone makes small changes like using public transport, recycling and cutting back on air travel we can make a difference.
-# ALTERNATIVE NAME 2: Yes, we should do more to combat climate change. All people should do their part, including cutting back on air travel, and investing in renewable energy technologies.
-# ALTERNATIVE NAME 3: We should do more to combat climate change as it will affect us and future generations. We should not wait for others to do it for us. We need to take personal responsibility and act on our own. We should stop using disposable items and plastics.
-# ALTERNATIVE NAME 4: “Climate change is a serious problem, but most of the solutions being proposed by experts, governments and other groups are just not practical. We already recycle and use re-usable goods, but we also need to live our lives and travel the world and these things can’t be changed. The only way to really combat climate change is to change the rules and regulations and tax people that travel, and to give grants to the poorer people to buy electric cars and install solar panels.”
+# ALTERNATIVE NAME 1: Statement 1 - We believe that we should be doing more to combat climate change. If everyone makes small changes like using public transport, recycling and cutting back on air travel we can make a difference.
+# ALTERNATIVE NAME 2: Statement 2 - Yes, we should do more to combat climate change. All people should do their part, including cutting back on air travel, and investing in renewable energy technologies.
+# ALTERNATIVE NAME 3: Statement 3 - We should do more to combat climate change as it will affect us and future generations. We should not wait for others to do it for us. We need to take personal responsibility and act on our own. We should stop using disposable items and plastics.
+# ALTERNATIVE NAME 4: Statement 4 - “Climate change is a serious problem, but most of the solutions being proposed by experts, governments and other groups are just not practical. We already recycle and use re-usable goods, but we also need to live our lives and travel the world and these things can’t be changed. The only way to really combat climate change is to change the rules and regulations and tax people that travel, and to give grants to the poorer people to buy electric cars and install solar panels.”
 1: 3,2,1,4
 1: 3,4,1,2
 1: 1,3,2,4

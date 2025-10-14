@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: In general, the group was in favour of limiting the purchase of new large private cars. However, all agreed that there should be more encouragement of cleaner technologies for large cars to use. The opinion was that it would be better to not ban the sale of large private cars outright, but instead incentivise the purchase of cleaner technologies and give tax breaks for those choosing to purchase them.
-# ALTERNATIVE NAME 2: No, as long as the cars are electric, the number of large cars would naturally decrease, and they are highly taxed.
-# ALTERNATIVE NAME 3: The government should continue to regulate the amount of petrol and diesel vehicles on the road, in accordance with the 2035 petrol and diesel ban. However, steps should be taken to promote the purchase of new, sustainable technology for large private cars, as it is unreasonable to assume that people will give up their large private cars forever.
-# ALTERNATIVE NAME 4: We should ban the purchase of new, large private cars as this would be beneficial for the environment.
+# ALTERNATIVE NAME 1: Statement 1 - In general, the group was in favour of limiting the purchase of new large private cars. However, all agreed that there should be more encouragement of cleaner technologies for large cars to use. The opinion was that it would be better to not ban the sale of large private cars outright, but instead incentivise the purchase of cleaner technologies and give tax breaks for those choosing to purchase them.
+# ALTERNATIVE NAME 2: Statement 2 - No, as long as the cars are electric, the number of large cars would naturally decrease, and they are highly taxed.
+# ALTERNATIVE NAME 3: Statement 3 - The government should continue to regulate the amount of petrol and diesel vehicles on the road, in accordance with the 2035 petrol and diesel ban. However, steps should be taken to promote the purchase of new, sustainable technology for large private cars, as it is unreasonable to assume that people will give up their large private cars forever.
+# ALTERNATIVE NAME 4: Statement 4 - We should ban the purchase of new, large private cars as this would be beneficial for the environment.
 2: 3,1,2,4
 2: 1,3,2,4
 1: 3,1,4,2

@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: Citizen's Jury
-# ALTERNATIVE NAME 2: The law should remain unchanged. However, the dangers of feeding dogs chocolate should be highlighted in a public awareness campaign. Furthermore, the law should be reviewed in 5 years.
-# ALTERNATIVE NAME 3: No. It would be difficult to enforce. The law already covers cases where a person deliberately causes harm to their dog by giving it chocolate. If the chocolate was accidental and a vet was required to treat the dog for the consequences, it could be argued that the dog owner was at fault for not keeping the chocolate out of reach of their dog.
-# ALTERNATIVE NAME 4: No, it should not be a criminal offence to feed your dog chocolate. Chocolate is toxic to dogs but we don't think that it should be a criminal offence to feed your dog chocolate. Although we do think that there should be more warning labels on the wrappers of chocolate bars and the like.
+# ALTERNATIVE NAME 1: Statement 1 - Citizen's Jury
+# ALTERNATIVE NAME 2: Statement 2 - The law should remain unchanged. However, the dangers of feeding dogs chocolate should be highlighted in a public awareness campaign. Furthermore, the law should be reviewed in 5 years.
+# ALTERNATIVE NAME 3: Statement 3 - No. It would be difficult to enforce. The law already covers cases where a person deliberately causes harm to their dog by giving it chocolate. If the chocolate was accidental and a vet was required to treat the dog for the consequences, it could be argued that the dog owner was at fault for not keeping the chocolate out of reach of their dog.
+# ALTERNATIVE NAME 4: Statement 4 - No, it should not be a criminal offence to feed your dog chocolate. Chocolate is toxic to dogs but we don't think that it should be a criminal offence to feed your dog chocolate. Although we do think that there should be more warning labels on the wrappers of chocolate bars and the like.
 2: 3,4,2,1
 1: 2,3,4,1
 1: 4,3,2,1

@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: A multi-party government is the best option as it represents all sections of society.  It also prevents any one party from getting carried away with what they feel is best for society.
-# ALTERNATIVE NAME 2: A multi-party government is the best option for a society.  This is because all groups in society will be represented, and this means that the government is more likely to reflect the views of society as a whole.  It also means that a party can not get carried away with what they feel is appropriate for the whole of society.
-# ALTERNATIVE NAME 3: In general, a multi-party government is a good idea as it reflects the opinions of more people in society.  However, it can also be a slow process.
-# ALTERNATIVE NAME 4: A multi-party government is a better option as it is more representative of the will of the people.
+# ALTERNATIVE NAME 1: Statement 1 - A multi-party government is the best option as it represents all sections of society.  It also prevents any one party from getting carried away with what they feel is best for society.
+# ALTERNATIVE NAME 2: Statement 2 - A multi-party government is the best option for a society.  This is because all groups in society will be represented, and this means that the government is more likely to reflect the views of society as a whole.  It also means that a party can not get carried away with what they feel is appropriate for the whole of society.
+# ALTERNATIVE NAME 3: Statement 3 - In general, a multi-party government is a good idea as it reflects the opinions of more people in society.  However, it can also be a slow process.
+# ALTERNATIVE NAME 4: Statement 4 - A multi-party government is a better option as it is more representative of the will of the people.
 2: 2,1,3,4
 1: 4,1,2,3
 1: 2,1,4,3

@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: No, human-animal hybrids should not be allowed to be created through genetic engineering. We are playing God.
-# ALTERNATIVE NAME 2: In general, the creation of human-animal hybrids through genetic engineering is not in the best interests of humanity.
-# ALTERNATIVE NAME 3: There should be no creation of human-animal hybrids through genetic engineering.
-# ALTERNATIVE NAME 4: No. We should not allow the creation of human-animal hybrids through genetic engineering.
+# ALTERNATIVE NAME 1: Statement 1 - No, human-animal hybrids should not be allowed to be created through genetic engineering. We are playing God.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the creation of human-animal hybrids through genetic engineering is not in the best interests of humanity.
+# ALTERNATIVE NAME 3: Statement 3 - There should be no creation of human-animal hybrids through genetic engineering.
+# ALTERNATIVE NAME 4: Statement 4 - No. We should not allow the creation of human-animal hybrids through genetic engineering.
 2: 1,2,4,3
 1: 2,1,4,3
 1: 1,2,3,4

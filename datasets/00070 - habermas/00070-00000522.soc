@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: “Yes, we should ban single-use plastics in the UK. Although we do not have a replacement for all single-use plastics yet, we should consider other alternatives that are more environmentally friendly. Companies should be looking into this to improve the sustainability of the UK.”
-# ALTERNATIVE NAME 2: We believe that we should be looking into banning single-use plastics where possible. This will reduce the amount of waste, which in turn is more eco-friendly.
-# ALTERNATIVE NAME 3: We should ban single use plastics in the UK. They are damaging to the environment and alternatives are available.
-# ALTERNATIVE NAME 4: In general, we think that single use plastics should be banned. The way we see it, is that plastic bottles can be replaced with glass or aluminium ones, which are reusable. However, we do acknowledge that plastic bags are necessary sometimes and they should not be banned completely.
+# ALTERNATIVE NAME 1: Statement 1 - “Yes, we should ban single-use plastics in the UK. Although we do not have a replacement for all single-use plastics yet, we should consider other alternatives that are more environmentally friendly. Companies should be looking into this to improve the sustainability of the UK.”
+# ALTERNATIVE NAME 2: Statement 2 - We believe that we should be looking into banning single-use plastics where possible. This will reduce the amount of waste, which in turn is more eco-friendly.
+# ALTERNATIVE NAME 3: Statement 3 - We should ban single use plastics in the UK. They are damaging to the environment and alternatives are available.
+# ALTERNATIVE NAME 4: Statement 4 - In general, we think that single use plastics should be banned. The way we see it, is that plastic bottles can be replaced with glass or aluminium ones, which are reusable. However, we do acknowledge that plastic bags are necessary sometimes and they should not be banned completely.
 2: 1,2,4,3
 2: 4,1,2,3
 1: 1,4,2,3
