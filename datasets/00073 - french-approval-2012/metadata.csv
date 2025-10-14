@@ -5,8 +5,8 @@ file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApprov
 00073-00000002.toc;2;2025-10-14 17:26:13.186509;15f5efbd0fc10c6fc507a69e89aaea35;induced;10;376;108;True;False;True;True;False;N/A;N/A
 00073-00000003.cat;3;2025-10-14 17:26:13.190721;2cb9de2f0f67f22b0b23846512661608;original;10;1023;167;True;N/A;True;N/A;N/A;N/A;N/A
 00073-00000003.toc;3;2025-10-14 17:26:13.191728;7f9277acccf8f2b824991f6dcc0a3759;induced;10;961;165;True;False;True;True;False;N/A;N/A
-00073-00000004.cat;4;2025-10-14 17:27:05.259631;a12d5f2c5406301f098493e659e40b1d;original;10;930;692;False;N/A;False;N/A;N/A;N/A;N/A
-00073-00000004.toc;4;2025-10-14 17:27:05.266700;e11287eead6a14caaaf0ca28f8cdf9ce;induced;10;890;507;False;False;False;True;False;N/A;N/A
+00073-00000004.cat;4;2025-10-14 18:15:38.028592;7f0ca9dfb2724a948d374004a306126a;original;10;930;629;False;N/A;True;N/A;N/A;N/A;N/A
+00073-00000004.toc;4;2025-10-14 18:15:38.049951;f3ebb459c8e3e5fbfa0ad4528faaafea;induced;10;908;610;False;False;True;True;False;N/A;N/A
 00073-00000005.cat;5;2025-10-14 17:27:05.270919;3567120e38f0e8f37c0d87975a51e2f2;original;10;387;279;False;N/A;True;N/A;N/A;N/A;N/A
 00073-00000005.toc;5;2025-10-14 17:27:05.274330;d2e75a139adc00aa5ebfd14f448ae367;induced;10;373;275;False;False;True;True;False;N/A;N/A
 00073-00000006.cat;6;2025-10-14 17:27:05.294570;f91ff6f5d518e7dee727f07b6e38bf19;original;10;1023;922;False;N/A;True;N/A;N/A;N/A;N/A
