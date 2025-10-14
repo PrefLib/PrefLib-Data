@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: Although the NHS is not perfect it is free and therefore a better system than the US health care system that requires payment, which makes it inaccessible for many Americans.
-# ALTERNATIVE NAME 2: In conclusion, yes we do think that the UK National Health Service is better than the US health care system. However, it is not necessarily better in all aspects. For example, in terms of quality of care, the US system may well be better, but in terms of accessibility of care the UK system is far better.
-# ALTERNATIVE NAME 3: The UK NHS is much better than the US health system. The UK system offers free healthcare for all people. In the US, the health system is not free, and it can be very expensive. We believe that healthcare should be free for all, and that is why the UK health system is better than the US health system.
-# ALTERNATIVE NAME 4: In general, the UK National Health Service (NHS) is better than the US health care system. The NHS is free to access, whereas many American's don't have access to health care unless they have insurance. The NHS is free, comprehensive and in our opinion, better than the US health care system.
+# ALTERNATIVE NAME 1: Statement 1 - Although the NHS is not perfect it is free and therefore a better system than the US health care system that requires payment, which makes it inaccessible for many Americans.
+# ALTERNATIVE NAME 2: Statement 2 - In conclusion, yes we do think that the UK National Health Service is better than the US health care system. However, it is not necessarily better in all aspects. For example, in terms of quality of care, the US system may well be better, but in terms of accessibility of care the UK system is far better.
+# ALTERNATIVE NAME 3: Statement 3 - The UK NHS is much better than the US health system. The UK system offers free healthcare for all people. In the US, the health system is not free, and it can be very expensive. We believe that healthcare should be free for all, and that is why the UK health system is better than the US health system.
+# ALTERNATIVE NAME 4: Statement 4 - In general, the UK National Health Service (NHS) is better than the US health care system. The NHS is free to access, whereas many American's don't have access to health care unless they have insurance. The NHS is free, comprehensive and in our opinion, better than the US health care system.
 2: 3,2,4,1
 2: 4,3,2,1
 1: 2,4,3,1

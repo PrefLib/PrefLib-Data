@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 5
-# ALTERNATIVE NAME 1: In general, the group was in favour of private education and opposed to banning it. The group believed that parents should have the right to choose where their children are educated. The group believed that private education is good for the economy and frees up places in State schools for those who cannot afford private education.
-# ALTERNATIVE NAME 2: In general, the group was opposed to banning private education. The group felt that it is the parents' choice to send their children to private school and that the government should not interfere. The group also felt that private education can provide a service that state schools are unable to provide. The group also felt that private education can contribute to the economy.
-# ALTERNATIVE NAME 3: Private education should not be banned. Private education provides a choice for parents, which they should be allowed to make. Private education also provides a service that people want. In addition, private education is good for the economy and saves the government money.
-# ALTERNATIVE NAME 4: Private education should not be banned. It provides a choice for parents and pupils and allows for greater diversity in the education system. Private education also takes pressure off the State sector by freeing up places at our already overcrowded schools.
+# ALTERNATIVE NAME 1: Statement 1 - In general, the group was in favour of private education and opposed to banning it. The group believed that parents should have the right to choose where their children are educated. The group believed that private education is good for the economy and frees up places in State schools for those who cannot afford private education.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the group was opposed to banning private education. The group felt that it is the parents' choice to send their children to private school and that the government should not interfere. The group also felt that private education can provide a service that state schools are unable to provide. The group also felt that private education can contribute to the economy.
+# ALTERNATIVE NAME 3: Statement 3 - Private education should not be banned. Private education provides a choice for parents, which they should be allowed to make. Private education also provides a service that people want. In addition, private education is good for the economy and saves the government money.
+# ALTERNATIVE NAME 4: Statement 4 - Private education should not be banned. It provides a choice for parents and pupils and allows for greater diversity in the education system. Private education also takes pressure off the State sector by freeing up places at our already overcrowded schools.
 1: 2,3,4,1
 1: 4,1,2,3
 1: 1,4,2,3

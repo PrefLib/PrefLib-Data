@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 3
-# ALTERNATIVE NAME 1: People have the right to buy what they want. The health consequences of food purchases should be left up to the consumer, and not be dictated by the government.
-# ALTERNATIVE NAME 2: We should not ban stores from selling food that is considered unhealthy.
-# ALTERNATIVE NAME 3: No, it is down to personal choice, what you eat is your decision. The issue of unhealthy eating needs to be tackled in a different way.
-# ALTERNATIVE NAME 4: In general, the group was opposed to banning food items considered unhealthy from large stores.
+# ALTERNATIVE NAME 1: Statement 1 - People have the right to buy what they want. The health consequences of food purchases should be left up to the consumer, and not be dictated by the government.
+# ALTERNATIVE NAME 2: Statement 2 - We should not ban stores from selling food that is considered unhealthy.
+# ALTERNATIVE NAME 3: Statement 3 - No, it is down to personal choice, what you eat is your decision. The issue of unhealthy eating needs to be tackled in a different way.
+# ALTERNATIVE NAME 4: Statement 4 - In general, the group was opposed to banning food items considered unhealthy from large stores.
 3: 1,3,4,2
 1: 1,3,2,4
 1: 3,1,4,2

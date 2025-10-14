@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: People who earn more than £1 million per year should not be taxed at a higher rate because people will be less likely to earn this if it means that they will be taxed at a higher rate and if this happens, the country will be worse off.
-# ALTERNATIVE NAME 2: “After a debate that was made interesting by several participants, we all agree that those making over £1 million a year should be taxed at a higher rate. In order to help reduce the massive gap between rich and poor people. People on low incomes should pay less taxes and people on high incomes should pay more taxes.”
-# ALTERNATIVE NAME 3: There should be higher taxes for those earning over £1 million per year.
-# ALTERNATIVE NAME 4: People who make over £1 million per year should be taxed at a higher rate because they can afford it and it is just that everyone contributes something. This higher tax rate could be used to increase spending on public services, especially education and health care.
+# ALTERNATIVE NAME 1: Statement 1 - People who earn more than £1 million per year should not be taxed at a higher rate because people will be less likely to earn this if it means that they will be taxed at a higher rate and if this happens, the country will be worse off.
+# ALTERNATIVE NAME 2: Statement 2 - “After a debate that was made interesting by several participants, we all agree that those making over £1 million a year should be taxed at a higher rate. In order to help reduce the massive gap between rich and poor people. People on low incomes should pay less taxes and people on high incomes should pay more taxes.”
+# ALTERNATIVE NAME 3: Statement 3 - There should be higher taxes for those earning over £1 million per year.
+# ALTERNATIVE NAME 4: Statement 4 - People who make over £1 million per year should be taxed at a higher rate because they can afford it and it is just that everyone contributes something. This higher tax rate could be used to increase spending on public services, especially education and health care.
 2: 2,4,3,1
 1: 1,2,4,3
 1: 2,1,4,3

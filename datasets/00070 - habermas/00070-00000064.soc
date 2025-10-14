@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: No, the NHS is not doing enough to improve the health of the average person. There are many free services offered by the NHS to help improve the health of the average person, however, not enough people take advantage of them. In particular, the NHS is providing little help in making it easy for the average person to live a healthier life.
-# ALTERNATIVE NAME 2: In general, the NHS is doing enough to improve the health of the average person. However, as participant 4 said, there needs to be a good balance between preventative health advice and treatment for those who are seriously ill.
-# ALTERNATIVE NAME 3: The NHS is doing all it can to improve the health of the average person but is falling behind in dealing with the consequences of those who don't pay attention to their health.
-# ALTERNATIVE NAME 4: The NHS is doing everything it can to improve the health of the average person. This will only be the case if more funding and staff is provided by the government.
+# ALTERNATIVE NAME 1: Statement 1 - No, the NHS is not doing enough to improve the health of the average person. There are many free services offered by the NHS to help improve the health of the average person, however, not enough people take advantage of them. In particular, the NHS is providing little help in making it easy for the average person to live a healthier life.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the NHS is doing enough to improve the health of the average person. However, as participant 4 said, there needs to be a good balance between preventative health advice and treatment for those who are seriously ill.
+# ALTERNATIVE NAME 3: Statement 3 - The NHS is doing all it can to improve the health of the average person but is falling behind in dealing with the consequences of those who don't pay attention to their health.
+# ALTERNATIVE NAME 4: Statement 4 - The NHS is doing everything it can to improve the health of the average person. This will only be the case if more funding and staff is provided by the government.
 2: 1,2,4,3
 1: 2,3,4,1
 1: 4,2,1,3

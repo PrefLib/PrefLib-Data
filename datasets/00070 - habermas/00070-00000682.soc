@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: In general, the group was wary of relying on algorithms to make important decisions. The group felt that algorithms are sometimes wrong, and they should not be used as the only method of decision making. They felt that in some cases, algorithms could be used to assist in making decisions, but humans expert in the field should make the final call.
-# ALTERNATIVE NAME 2: In general, the group was wary of relying on algorithms to make important decisions, but felt that it was dependent on the nature of the decision being made and the quality of the data being used to make the decision.
-# ALTERNATIVE NAME 3: In general, algorithms can be useful in making decisions. However, we should not rely on them completely as they can sometimes be wrong and are not always the best solution.
-# ALTERNATIVE NAME 4: In general, algorithms can be useful but we should be wary of relying on them to make important decisions. We should use them as a tool to assist in the decision making process.
+# ALTERNATIVE NAME 1: Statement 1 - In general, the group was wary of relying on algorithms to make important decisions. The group felt that algorithms are sometimes wrong, and they should not be used as the only method of decision making. They felt that in some cases, algorithms could be used to assist in making decisions, but humans expert in the field should make the final call.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the group was wary of relying on algorithms to make important decisions, but felt that it was dependent on the nature of the decision being made and the quality of the data being used to make the decision.
+# ALTERNATIVE NAME 3: Statement 3 - In general, algorithms can be useful in making decisions. However, we should not rely on them completely as they can sometimes be wrong and are not always the best solution.
+# ALTERNATIVE NAME 4: Statement 4 - In general, algorithms can be useful but we should be wary of relying on them to make important decisions. We should use them as a tool to assist in the decision making process.
 2: 1,2,4,3
 1: 4,1,2,3
 1: 1,2,3,4

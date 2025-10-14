@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: A fixed tax should be applied to any wealth above £10 million, however we do not want to set this fixed amount of tax too high that it puts wealthy individuals off from living here, investing here and spending money.
-# ALTERNATIVE NAME 2: In general, the citizens were in favour of a tax above a certain wealth level and argued that the very wealthy should pay a greater contribution.
-# ALTERNATIVE NAME 3: We should require people to pay a fixed tax on any amount of wealth they own above £10 million
-# ALTERNATIVE NAME 4: We believe the government should introduce a fixed tax on any amount of wealth they own above £10 million. This tax should be at least one percent per year on the amount of wealth above £10 million. It would help to close the gap between the richest and poorest in our society, would provide the government with extra funds to use in the public sector, and would help to level the playing field for entrepreneurs.
+# ALTERNATIVE NAME 1: Statement 1 - A fixed tax should be applied to any wealth above £10 million, however we do not want to set this fixed amount of tax too high that it puts wealthy individuals off from living here, investing here and spending money.
+# ALTERNATIVE NAME 2: Statement 2 - In general, the citizens were in favour of a tax above a certain wealth level and argued that the very wealthy should pay a greater contribution.
+# ALTERNATIVE NAME 3: Statement 3 - We should require people to pay a fixed tax on any amount of wealth they own above £10 million
+# ALTERNATIVE NAME 4: Statement 4 - We believe the government should introduce a fixed tax on any amount of wealth they own above £10 million. This tax should be at least one percent per year on the amount of wealth above £10 million. It would help to close the gap between the richest and poorest in our society, would provide the government with extra funds to use in the public sector, and would help to level the playing field for entrepreneurs.
 2: 4,1,2,3
 1: 4,3,2,1
 1: 4,2,1,3

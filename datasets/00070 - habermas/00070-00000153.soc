@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: In general, the group was in favour of a 4-day week with 5 days’ pay. It is believed that there would be little difference in productivity due to the change in working hours. In addition, it is thought that the additional day off would improve people’s mental health and overall wellbeing.
-# ALTERNATIVE NAME 2: We should have a four-day working week as this would be beneficial for everyone. It will help mental health as it would allow people to have an extra day off which can be used to relax, it would help families as it would enable them to have more family time.  However, if it meant that the 4 days working was the same hours, it would be very stressful and might be less productive.
-# ALTERNATIVE NAME 3: A four-day working week could be a good idea, however, the days of work would need to be extended to enable work to be completed. This might be unpopular and difficult to achieve, but if people can see the benefits to their mental health and lifestyle, they may be happy to make the change.
-# ALTERNATIVE NAME 4: Four day week? Yes, it would be good for family and mental health. But we don't know if it will increase or decrease productivity. However, the increased time for leisure will lead to a better quality of life for workers.
+# ALTERNATIVE NAME 1: Statement 1 - In general, the group was in favour of a 4-day week with 5 days’ pay. It is believed that there would be little difference in productivity due to the change in working hours. In addition, it is thought that the additional day off would improve people’s mental health and overall wellbeing.
+# ALTERNATIVE NAME 2: Statement 2 - We should have a four-day working week as this would be beneficial for everyone. It will help mental health as it would allow people to have an extra day off which can be used to relax, it would help families as it would enable them to have more family time.  However, if it meant that the 4 days working was the same hours, it would be very stressful and might be less productive.
+# ALTERNATIVE NAME 3: Statement 3 - A four-day working week could be a good idea, however, the days of work would need to be extended to enable work to be completed. This might be unpopular and difficult to achieve, but if people can see the benefits to their mental health and lifestyle, they may be happy to make the change.
+# ALTERNATIVE NAME 4: Statement 4 - Four day week? Yes, it would be good for family and mental health. But we don't know if it will increase or decrease productivity. However, the increased time for leisure will lead to a better quality of life for workers.
 2: 1,2,3,4
 1: 1,2,4,3
 1: 4,2,3,1

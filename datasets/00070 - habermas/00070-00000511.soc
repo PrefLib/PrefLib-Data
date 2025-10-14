@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 5
-# ALTERNATIVE NAME 1: We agree that the UK government should subsidize the arts as the arts showcase UK culture and promote and generate tourism. In the long run the government will see an increase in revenue from the arts and more revenue from tourism.
-# ALTERNATIVE NAME 2: The UK government should subsidize the arts, however not in a way that would impact other, more important services such as healthcare and welfare.
-# ALTERNATIVE NAME 3: In general, the UK government should not subsidize the arts. The government should allocate its limited resources to support social services and public goods like health care and security. While the arts are important to the UK, they do not provide the same societal benefits as these services and public goods. The UK has a long history of excellence in the arts, and it will continue to do so with or without government subsidy.
-# ALTERNATIVE NAME 4: The group agrees that the government should subsidize the arts to an extent. However, we believe that the government should not be in the position of deciding what art should be created and promoted. Art should remain a place for artists to express themselves freely.
+# ALTERNATIVE NAME 1: Statement 1 - We agree that the UK government should subsidize the arts as the arts showcase UK culture and promote and generate tourism. In the long run the government will see an increase in revenue from the arts and more revenue from tourism.
+# ALTERNATIVE NAME 2: Statement 2 - The UK government should subsidize the arts, however not in a way that would impact other, more important services such as healthcare and welfare.
+# ALTERNATIVE NAME 3: Statement 3 - In general, the UK government should not subsidize the arts. The government should allocate its limited resources to support social services and public goods like health care and security. While the arts are important to the UK, they do not provide the same societal benefits as these services and public goods. The UK has a long history of excellence in the arts, and it will continue to do so with or without government subsidy.
+# ALTERNATIVE NAME 4: Statement 4 - The group agrees that the government should subsidize the arts to an extent. However, we believe that the government should not be in the position of deciding what art should be created and promoted. Art should remain a place for artists to express themselves freely.
 1: 2,3,1,4
 1: 3,2,4,1
 1: 3,4,2,1

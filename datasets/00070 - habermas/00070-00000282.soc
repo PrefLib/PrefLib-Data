@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 5
-# ALTERNATIVE NAME 1: The government should provide grants to make solar panels affordable, and in the future, solar panels should be a mandatory addition to all new housing developments.
-# ALTERNATIVE NAME 2: There should be a Government grants available to help those who want to install solar panels but cannot afford to do so. In the future, the government should look into making solar panels compulsory in all new housing developments, however there is too much variation in existing housing to make this compulsory.
-# ALTERNATIVE NAME 3: There should be a government grant scheme in place for anyone who wishes to install solar panels, especially for people who are renting and cannot install panels themselves. However, the scheme should only apply to new build housing, with consideration to the aesthetics of solar panels.
-# ALTERNATIVE NAME 4: There should be a Government grants available to help those who want to install solar panels but cannot afford to do so. In the future, the government should look into making solar panels compulsory in all new housing developments, however there is too much variation in existing housing to make this compulsory.
+# ALTERNATIVE NAME 1: Statement 1 - The government should provide grants to make solar panels affordable, and in the future, solar panels should be a mandatory addition to all new housing developments.
+# ALTERNATIVE NAME 2: Statement 2 - There should be a Government grants available to help those who want to install solar panels but cannot afford to do so. In the future, the government should look into making solar panels compulsory in all new housing developments, however there is too much variation in existing housing to make this compulsory.
+# ALTERNATIVE NAME 3: Statement 3 - There should be a government grant scheme in place for anyone who wishes to install solar panels, especially for people who are renting and cannot install panels themselves. However, the scheme should only apply to new build housing, with consideration to the aesthetics of solar panels.
+# ALTERNATIVE NAME 4: Statement 4 - There should be a Government grants available to help those who want to install solar panels but cannot afford to do so. In the future, the government should look into making solar panels compulsory in all new housing developments, however there is too much variation in existing housing to make this compulsory.
 1: 2,3,4,1
 1: 3,2,4,1
 1: 2,3,1,4

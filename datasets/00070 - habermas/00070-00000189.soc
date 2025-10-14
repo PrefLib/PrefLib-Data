@@ -10,10 +10,10 @@
 # NUMBER ALTERNATIVES: 4
 # NUMBER VOTERS: 5
 # NUMBER UNIQUE ORDERS: 4
-# ALTERNATIVE NAME 1: We feel that the tax on the purchase of additional homes should be raised in order to stop the rich getting richer.  This would be detrimental to society as a whole as this would allow poorer people to get on the property ladder.
-# ALTERNATIVE NAME 2: We should raise taxes on second and third home purchases.
-# ALTERNATIVE NAME 3: No, because people with more houses pay more stamp duty, and property is a good investment, it is a good thing for the economy.
-# ALTERNATIVE NAME 4: We believe that we should increase taxes on second and third home purchases. This is to deter people from buying them, therefore freeing up properties and making houses cheaper for people that need to live in them. It would also increase the government’s revenue and lead to a fairer society.
+# ALTERNATIVE NAME 1: Statement 1 - We feel that the tax on the purchase of additional homes should be raised in order to stop the rich getting richer.  This would be detrimental to society as a whole as this would allow poorer people to get on the property ladder.
+# ALTERNATIVE NAME 2: Statement 2 - We should raise taxes on second and third home purchases.
+# ALTERNATIVE NAME 3: Statement 3 - No, because people with more houses pay more stamp duty, and property is a good investment, it is a good thing for the economy.
+# ALTERNATIVE NAME 4: Statement 4 - We believe that we should increase taxes on second and third home purchases. This is to deter people from buying them, therefore freeing up properties and making houses cheaper for people that need to live in them. It would also increase the government’s revenue and lead to a fairer society.
 2: 4,1,3,2
 1: 3,4,1,2
 1: 4,1,2,3
