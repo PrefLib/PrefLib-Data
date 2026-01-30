@@ -17,7 +17,6 @@ Théo Delemazure, Chris Dong, Dominik Peters, and Magdalena Tydrichova. In Proce
 International Joint Conference on Artificial Intelligence (IJCAI).
 
 file_name,modification_type,relates_to,title,description,publication_date
-file_name,modification_type,relates_to,title,description,publication_date
 00075-00000001.cat,original,,All Supreme Court Opinions of 1946,,2026-01-29
 00075-00000001.toc,induced,00075-00000001.cat,All Supreme Court Opinions of 1946,,2026-01-29
 00075-00000002.cat,original,,All Supreme Court Opinions of 1947,,2026-01-29
