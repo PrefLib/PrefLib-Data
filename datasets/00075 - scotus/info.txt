@@ -12,9 +12,7 @@ Description: <p>The dataset is based on the opinions authored and joined by the 
 
 Required Citations: Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger and Sara C. Benesh. 2023 Supreme Court Database, Version 2023 Release 01. URL: <a href="http://supremecourtdatabase.org">http://supremecourtdatabase.org</a>.
 
-Selected Studies: Comparing Ways of Obtaining Candidate Orderings from Approval Ballots (2025).
-Théo Delemazure, Chris Dong, Dominik Peters, and Magdalena Tydrichova. In Proceedings of the Thirty-Third
-International Joint Conference on Artificial Intelligence (IJCAI).
+Selected Studies: Comparing Ways of Obtaining Candidate Orderings from Approval Ballots (2025). Théo Delemazure, Chris Dong, Dominik Peters, and Magdalena Tydrichova. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI).
 
 file_name,modification_type,relates_to,title,description,publication_date
 00075-00000001.cat,original,,All Supreme Court Opinions of 1946,,2026-01-29
