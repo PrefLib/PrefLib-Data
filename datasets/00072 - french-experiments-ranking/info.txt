@@ -1,0 +1,24 @@
+Name: Voting Experiments on IRV and Borda in French Presidental Elections
+
+Abbreviation: french-experiments-rankings
+
+Tags: Election,Politics
+
+Series Number: 00072
+
+Publication Date: 2026-02-04
+
+Description: <p>This dataset contains the data collected during two voting experiments. The first one was carried out in the city of Faches-Thumesnil, in northern France, during the first round of the presidential election in April 2007. Participants were invited to vote using the Instant Runoff Voting method (also called Hare's method). The second one was carried out in the city of Fort-de-France in Martinique during the first round of the 2017 presidential election. Participants were invited to vote using IRV and Borda-4 (ranking only 4 candidates).  These dataset and more datasets collected during voting experiments can be found <a href="https://theo.delemazure.fr/datasets/">here</a>.</p>
+
+Required Citations: 
+
+* For the Faches-Thumesnil data: Étienne Farvaque, Hubert Jayet, and Lionel Ragot. <em>Quel mode de scrutin pour quel « vainqueur » ? Une expérience sur le vote préférentiel transférable</em>. Revue d'Économie Politique, 2009 (<a href="https://doi.org/10.3917/redp.192.0221">https://doi.org/10.3917/redp.192.0221</a>).
+
+* For the Fort-de-France data: Eric Kamwa, Gilles Joseph, and Aurélie Roger. <em>Une expérimentation de deux modes de scrutin en Martinique lors du premier tour de l’élection présidentielle de 2017</em> Revue d'Économie Politique, 2020 (<a href="https://doi.org/10.3917/redp.305.0081">https://doi.org/10.3917/redp.305.0081</a>).
+
+Selected Studies: 
+
+file_name, modification_type, relates_to, title, description, publication_date
+00072-00000001.soi, original, , Faches-Thumesnil, , 2026-02-04
+00072-00000002.soi, original, , Fort-de-France-irv, , 2026-02-04
+00072-00000003.soi, original, , Fort-de-France-borda-4, , 2026-02-04

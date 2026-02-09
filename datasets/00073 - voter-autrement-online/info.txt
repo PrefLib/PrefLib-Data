@@ -1,0 +1,50 @@
+Name: "Voter Autrement" Online Experiments in French Presidential Elections
+
+Abbreviation: voter-autrement-online
+
+Tags: Experiment, Election
+
+Series Number: 00073
+
+Publication Date: 2026-02-04
+
+Description: <p>This dataset contains data from online voting experiments conducted in 2017 and 2022 during the French presidential elections. In this experiments, participants were asked to test alternative voting methods to elect the French president, more precisely approval voting, evaluative voting, Borda, IRV and the majority judgement in 2022. The experiments took place online. The datasets of the different years (that contains more information) can be found <a href="https://theo.delemazure.fr/datasets/">here</a>, together with more datasets of voting experiments conducted during large-scale political elections.</p>
+
+Required Citations: 
+* For the 2017 data: Sylvain Bouveret, Renaud Blanch, Antoinette Baujard, François Durand, Herrade Igersheim, Jérôme Lang, Annick Laruelle, Jean-François Laslier, Isabelle Lebon, Vincent Merlin; <em>Voter Autrement 2017 - Online Experiment</em>, Zenodo Dataset <a href="https://doi.org/10.5281/zenodo.1199545">https://doi.org/10.5281/zenodo.1199545</a>. 
+* For the 2022 data: Théo Delemazure, Sylvain Bouveret; <em>Voter Autrement 2022 - Online Experiment</em>, Zenodo Dataset <a href="https://zenodo.org/records/10998451">https://zenodo.org/records/10998451</a>. 
+
+Selected Studies: 
+
+
+file_name, modification_type, relates_to, title, description, publication_date
+00073-00000001.cat,original,,2017-approval,,2026-02-04
+00073-00000001.toc,original,00073-00000001.cat,2017-approval,,2026-02-04
+00073-00000002.cat,original,,2017-scores-1,,2026-02-04
+00073-00000002.toi,original,00073-00000002.cat,2017-scores-1,,2026-02-04
+00073-00000003.cat,original,,2017-scores-2,,2026-02-04
+00073-00000003.toi,original,00073-00000003.cat,2017-scores-2,,2026-02-04
+00073-00000004.cat,original,,2017-scores-3,,2026-02-04
+00073-00000004.toi,original,00073-00000003.cat,2017-scores-3,,2026-02-04
+00073-00000005.cat,original,,2017-scores-4,,2026-02-04
+00073-00000005.toi,original,00073-00000003.cat,2017-scores-4,,2026-02-04
+00073-00000006.soi,original,,2017-irv-1-11,,2026-02-04
+00073-00000007.soi,original,,2017-irv-4-11,,2026-02-04
+00073-00000008.soi,original,,2017-borda-4,,2026-02-04
+00073-00000009.cat,original,,2017-approval,,2026-02-04
+00073-00000009.toc,original,00073-00000009.cat,2022-approval,,2026-02-04
+00073-00000010.cat,original,,2022-scores-1,,2026-02-04
+00073-00000010.toi,original,00073-00000010.cat,2022-scores-1,,2026-02-04
+00073-00000011.cat,original,,2022-scores-2,,2026-02-04
+00073-00000011.toi,original,00073-00000011.cat,2022-scores-2,,2026-02-04
+00073-00000012.cat,original,,2022-scores-3,,2026-02-04
+00073-00000012.toi,original,00073-00000012.cat,2022-scores-3,,2026-02-04
+00073-00000013.cat,original,,2022-scores-4,,2026-02-04
+00073-00000013.toi,original,00073-00000013.cat,2022-scores-4,,2026-02-04
+00073-00000014.soi,original,,2022-irv-1-11,,2026-02-04
+00073-00000015.soi,original,,2022-irv-4-11,,2026-02-04
+00073-00000016.soi,original,,2022-borda-4,,2026-02-04
+00073-00000017.cat,original,,2022-majority-judgement-5,,2026-02-04
+00073-00000017.toc,original,00073-00000017.cat,2022-majority-judgement-5,,2026-02-04
+00073-00000018.cat,original,,2022-majority-judgement-7,,2026-02-04
+00073-00000018.toc,original,00073-00000018.cat,2022-majority-judgement-7,,2026-02-04

@@ -1,0 +1,4 @@
+file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00072-00000001.soi;1;2026-02-06 14:42:47.795586;dba392c9080f4f3df6d9e26b1d74ab80;original;12;893;720;False;True;False;True;N/A;N/A;N/A
+00072-00000002.soi;2;2026-02-06 15:01:50.655286;1e94c6d250051f9baefb1b7f9e16f44b;original;11;480;475;False;True;False;True;N/A;N/A;N/A
+00072-00000003.soi;3;2026-02-06 15:06:05.485397;78064554bfe2fdc8dded27800577d524;original;11;479;338;False;True;False;True;N/A;N/A;N/A

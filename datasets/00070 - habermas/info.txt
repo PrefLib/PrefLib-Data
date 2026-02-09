@@ -12,7 +12,7 @@ Description: <p>This dataset collects the vote of participants in mini-jury expe
 
 Required Citations: Michael Henry Tessler et al. <em>AI can help humans find common ground in democratic deliberation</em>. Science 386, 2024.
 
-Selected Studies:
+Selected Studies: Théo Delemazure. <em>Independence of Approximate Clones</em>.
 
 file_name, modification_type, relates_to, title, description, publication_date
 00070-00000001.soc,original,,"""Should parents be allowed to opt out of sex education for their children? [c5abb209a4aa495d453ea181dc24fe58]""",,2025-10-12

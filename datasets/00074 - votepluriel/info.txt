@@ -1,0 +1,18 @@
+Name: Vote Pluriel - Online Experiment during the 2012 French Experiment
+
+Abbreviation: votepluriel
+
+Tags: Experiment, Election
+
+Series Number: 00074
+
+Publication Date: 2025-10-14
+
+Description: <p>This dataset contains data from the online experiment "Vote Pluriel" conducted during the 2012 French presidential election. In this experiment, participants were invited to vote using different voting methods: approval voting and instant-runoff voting (IRV). For IRV, participants had to rank at least 3 candidats. The experiment was conducted online, and participants were recruited through various channels, including social media and email lists. This dataset and more similar datasets collected during voting experiments can be found <a href="https://theo.delemazure.fr/datasets/">here</a>.</p>
+
+Required Citations: Karine Van der Straeten, Jean-François Laslier and André Blais; <em>Vote au pluriel: How people vote when offered to vote under different rules.</em>. Political Science and Politics, 2013.
+
+file_name, modification_type, relates_to, title, description, publication_date
+00074-00000001.cat,original,,VotePluriel-approval,,2025-10-14
+00074-00000001.toc,induced,00074-00000001.cat,VotePluriel-approval,,2025-10-14
+00074-00000002.soi,original,,VotePluriel-IRV,,2025-10-14

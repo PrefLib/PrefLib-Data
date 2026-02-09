@@ -1,0 +1,89 @@
+Name: "Voter Autrement" In Situ Experiments in French Presidential Elections
+
+Abbreviation: voter-autrement-in-situ
+
+Tags: Experiment, Election
+
+Series Number: 00071
+
+Publication Date: 2026-02-04
+
+Description: <p>This dataset contains data from voting experiments conducted in 2007, 2012 and 2017 during the French presidential elections in the different cities. In these experiments, participants were asked to test alternative voting methods to elect the French president, more precisely approval voting and evaluative voting (with scales depending on the year and the city). The experiments took place in situ in polling stations during the first round of the presidential election (using paper ballots). The datasets of the different years (that contains more information) can be found <a href="https://theo.delemazure.fr/datasets/">here</a>, together with more datasets of voting experiments conducted during large-scale political elections.</p>
+
+Required Citations: 
+* For the 2007 data: Antoinette Baujard, Herrade Igersheim, Théo Delemazure; <em>Voter Autrement 2007 - Dataset of the In Situ Experiments</em>, Zenodo Dataset <a href="https://doi.org/10.5281/zenodo.14990025">https://doi.org/10.5281/zenodo.14990025</a>. Antoinette Baujard, Herrade Igersheim; <em>Framed field experiments on approval voting: lessons from the 2002 and 2007 french presidential elections</em>. Handbook of Approval Voting, 2010 <a href="https://doi.org/10.1007/978-3-642-02839-7_15">https://doi.org/10.1007/978-3-642-02839-7_15</a>.
+* For the 2012 data: Antoinette Baujard, Frédéric Gavrel, Herrade Igersheim, Isabelle Lebon and Théo Delemazure; <em>Voter Autrement 2012 - Dataset of the In Situ Experiments</em>, Zenodo Dataset <a href="https://zenodo.org/records/15007145">https://zenodo.org/records/15007145</a>. Antoinette Baujard, Frédéric Gavrel, Herrade Igersheim, Jean-François Laslier and Isabelle Lebon; <em>Approval voting, evaluation voting</em>. Revue Économique, 2013 <a href="https://doi.org/10.3917/reco.642.0006">https://doi.org/10.3917/reco.642.0006</a>.
+* For the 2017 data: Sylvain Bouveret, Renaud Blanch, Antoinette Baujard, François Durand, Herrade Igersheim, Jérôme Lang, Annick Laruelle, Jean-François Laslier, Isabelle Lebon, Vincent Merlin; <em>Voter Autrement 2017 for the French Presidential Election - The data of the In Situ Experiment.</em>, Zenodo Dataset <a href="https://zenodo.org/records/15007145">https://zenodo.org/records/15007145</a>, 2019. 
+
+Selected Studies: 
+* For the 2007 data: Antoinette Baujard, Herrade Igersheim, Thomas Senne; <em>The Political Supply in the 2007 French Presidential Elections: An Analysis Based on Experimental Data</em>.  Annals of Economics and Statistics, GENES (2011).
+* For the 2012 data: Antoinette Baujard, Herrade Igersheim, Isabelle Lebon, Frédéric Gavrel, Jean-François Laslier; <em>Who's favored by evaluative voting? An experiment conducted during the 2012 French presidential election</em>. Electoral Studies (2014). Antoinette Baujard, Frédéric Gavrel, Herrade Igersheim, Jean-François Laslier, Isabelle Lebon; <em>How voters use grade scales in evaluative voting</em>. European Journal of Political Economy (2018).
+
+
+file_name, modification_type, relates_to, title, description, publication_date
+00071-00000001.cat,original,,2007-Cigne-approval,,2026-02-04
+00071-00000001.toc,induced,00071-00000001.cat,2007-Cigne-approval,,2026-02-04
+00071-00000002.cat,original,,2007-Illkirch10-approval,,2026-02-04
+00071-00000002.toc,induced,00071-00000002.cat,2007-Illkirch10-approval,,2026-02-04
+00071-00000003.cat,original,,2007-Illkirch3-approval,,2026-02-04
+00071-00000003.toc,induced,00071-00000003.cat,2007-Illkirch3-approval,,2026-02-04
+00071-00000004.cat,original,,2007-Illkirch8-approval,,2026-02-04
+00071-00000004.toc,induced,00071-00000004.cat,2007-Illkirch8-approval,,2026-02-04
+00071-00000005.cat,original,,2007-Louvigny1-approval,,2026-02-04
+00071-00000005.toc,induced,00071-00000005.cat,2007-Louvigny1-approval,,2026-02-04
+00071-00000006.cat,original,,2007-Louvigny2-approval,,2026-02-04
+00071-00000006.toc,induced,00071-00000006.cat,2007-Louvigny2-approval,,2026-02-04
+00071-00000007.cat,original,,2007-Cigne-scores,,2026-02-04
+00071-00000007.toc,induced,00071-00000007.cat,2007-Cigne-approval,,2026-02-04
+00071-00000008.cat,original,,2007-Illkirch10-scores,,2026-02-04
+00071-00000008.toc,induced,00071-00000008.cat,2007-Illkirch10-approval,,2026-02-04
+00071-00000009.cat,original,,2007-Illkirch3-scores,,2026-02-04
+00071-00000009.toc,induced,00071-00000009.cat,2007-Illkirch3-approval,,2026-02-04
+00071-00000010.cat,original,,2007-Illkirch8-scores,,2026-02-04
+00071-00000010.toc,induced,00071-00000010.cat,2007-Illkirch8-approval,,2026-02-04
+00071-00000011.cat,original,,2007-Louvigny1-scores,,2026-02-04
+00071-00000011.toc,induced,00071-00000011.cat,2007-Louvigny1-approval,,2026-02-04
+00071-00000012.cat,original,,2007-Louvigny2-scores,,2026-02-04
+00071-00000012.toc,induced,00071-00000012.cat,2007-Louvigny2-approval,,2026-02-04
+00071-00000013.cat,original,,2012-Louvigny-approval,,2026-02-04
+00071-00000013.toc,induced,00071-00000013.cat,2012-Louvigny-approval,,2026-02-04
+00071-00000014.cat,original,,2012-SaintEtienne-approval,,2026-02-04
+00071-00000014.toc,induced,00071-00000014.cat,2012-SaintEtienne-approval,,2026-02-04
+00071-00000015.cat,original,,2012-Strasbourg-approval,,2026-02-04
+00071-00000015.toc,induced,00071-00000015.cat,2012-Strasbourg-approval,,2026-02-04
+00071-00000016.cat,original,,2012-Louvigny-approval,,2026-02-04
+00071-00000016.toc,induced,00071-00000016.cat,Louvigny-approval,,2026-02-04
+00071-00000017.cat,original,,2012-SaintEtienne-approval,,2026-02-04
+00071-00000017.toc,induced,00071-00000017.cat,2012-SaintEtienne-approval,,2026-02-04
+00071-00000018.cat,original,,2012-Strasbourg-approval,,2026-02-04
+00071-00000018.toc,induced,00071-00000018.cat,2012-Strasbourg-approval,,2026-02-04
+00071-00000019.cat,original,,2017-Crolles-approval,,2026-02-04
+00071-00000019.toc,induced,00071-00000019.cat,2017-Crolles-approval,,2026-02-04
+00071-00000020.cat,original,,2017-Grenoble-approval,,2026-02-04
+00071-00000020.toc,induced,00071-00000020.cat,2017-Grenoble-approval,,2026-02-04
+00071-00000021.cat,original,,2017-HSC-approval,,2026-02-04
+00071-00000021.toc,induced,00071-00000021.cat,2017-HSC-approval,,2026-02-04
+00071-00000022.cat,original,,2017-Strasbourg-approval,,2026-02-04
+00071-00000022.toc,induced,00071-00000022.cat,2017-Strasbourg-approval,,2026-02-04
+00071-00000023.cat,original,,2017-Crolles-approval-for-runoff,,2026-02-04
+00071-00000023.toc,induced,00071-00000023.cat,2017-Crolles-approval-for-runoff,,2026-02-04
+00071-00000024.cat,original,,2017-Allevard-scores-1,,2026-02-04
+00071-00000024.toc,induced,00071-00000024.cat,2017-Allevard-scores-1,,2026-02-04
+00071-00000025.cat,original,,2017-Allevard-scores-2,,2026-02-04
+00071-00000025.toc,induced,00071-00000025.cat,2017-Allevard-scores-2,,2026-02-04
+00071-00000026.cat,original,,2017-Allevard-scores-3,,2026-02-04
+00071-00000026.toc,induced,00071-00000026.cat,2017-Allevard-scores-3,,2026-02-04
+00071-00000027.cat,original,,2017-HSC-scores-1,,2026-02-04
+00071-00000027.toc,induced,00071-00000027.cat,2017-HSC-scores-1,,2026-02-04
+00071-00000028.cat,original,,2017-HSC-scores-2,,2026-02-04
+00071-00000028.toc,induced,00071-00000028.cat,2017-HSC-scores-2,,2026-02-04
+00071-00000029.cat,original,,2017-Strasbourg-scores-1,,2026-02-04
+00071-00000029.toc,induced,00071-00000029.cat,2017-Strasbourg-scores-1,,2026-02-04
+00071-00000030.cat,original,,2017-Strasbourg-scores-2,,2026-02-04
+00071-00000030.toc,induced,00071-00000030.cat,2017-Strasbourg-scores-2,,2026-02-04
+00071-00000031.cat,original,,2017-Strasbourg-scores-3,,2026-02-04
+00071-00000031.toc,induced,00071-00000031.cat,2017-Strasbourg-scores-3,,2026-02-04
+00071-00000032.cat,original,,2017-Strasbourg-scores-4,,2026-02-04
+00071-00000032.toc,induced,00071-00000032.cat,2017-Strasbourg-scores-4,,2026-02-04
+00071-00000033.cat,original,,2017-Crolles-notes,,2026-02-04
+00071-00000033.toi,induced,00071-00000033.cat,2017-Crolles-notes,,2026-02-04
