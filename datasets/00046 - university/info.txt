@@ -10,7 +10,7 @@ Publication Date: 2022-09-25
 
 Description: <p>This dataset contains elections generated from indicator-based rankings of universities. For each year between 2012 and 2015, the university ranking data (<a href="https://kaggle.com/mylesoneill/world-university-rankings">kaggle.com/mylesoneill/world-university-rankings</a>) contains rankings of universities according to different criteria provided by three systems. For each year, we created an election where the universities are the candidates and each vote ranks them according to one criterion used by one of the three systems.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>Other indicator-based rankings have been used to create the country rankings and city rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/boehmer-schaar">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
 
-Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/static/bib/BoSc22.bib">Bibtex</a>).
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/PrefLib-Jekyll/assets/bib/BoSc22.bib">Bibtex</a>).
 
 Selected Studies:
 

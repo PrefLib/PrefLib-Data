@@ -10,7 +10,7 @@ Publication Date: 2017-04-13
 
 Description: <p> The 2002 French Presidental Election Dataset was collected by Jean-Francois Laslier and Karine Van der Straeten.  It consists of 2,597 approval ballots collected in parallel to the actual election in 6 different districts in France.</p> <p>The approval votes were collected at a set of polling stations in France during the first round of voting in the 2002 French National Election.  Voters in these districts were informed prior to the election that they would have the ability to cast an approval ballot along with their normal ballot for the election.  Overall, over 75% of those who turned up to vote participated in the experiment.  Each of the files represent one district voting on the same election.  There are between 367 and 476 voters (2,597 in all) and 16 candidates.  Additional details the method used to collect the data and results of analysis can be found in the required citation for the use of this dataset.</p>
 
-Required Citations: Jean-Francois Laslier and Karine Van der Straeten. <em>A Live Experiment on Approval Voting</em>. Experimental Economics 11: 97-105, 2008 (<a href="/assets/bib/LaSt08.bib">Bibtex</a>).
+Required Citations: Jean-Francois Laslier and Karine Van der Straeten. <em>A Live Experiment on Approval Voting</em>. Experimental Economics 11: 97-105, 2008 (<a href="/PrefLib-Jekyll/assets/bib/LaSt08.bib">Bibtex</a>).
 
 Selected Studies: 
 

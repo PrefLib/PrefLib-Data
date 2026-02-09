@@ -10,7 +10,7 @@ Publication Date: 2022-09-25
 
 Description: <p>This dataset contains elections generated from multi-lap sports competitions.</p> <p>The underlying mylaps data contains the completion time of athletes in each lap of a multi-lap competition (specifically, speed skating and cycling competitions) crawled from <a href="https://results.sporthive.com">results.sporthive.com</a>. For each race, we created an election in which the athletes are the candidates and each vote corresponds to one lap and ranks the athletes by their completion time.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/boehmer-schaar">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
 
-Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/assets/bib/BoSc22.bib">Bibtex</a>).
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/PrefLib-Jekyll/assets/bib/BoSc22.bib">Bibtex</a>).
 
 Selected Studies:
 

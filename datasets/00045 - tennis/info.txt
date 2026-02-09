@@ -10,7 +10,7 @@ Publication Date: 2022-09-25
 
 Description: <p>This dataset contains elections generated from tennis world rankings. The underlying tennis data (<a href="https://kaggle.com/mimoopoo/atp-tennis-rankings-1990-to-2019">kaggle.com/mimoopoo/atp-tennis-rankings-1990-to-2019</a>) contains weekly rankings of the top 100 male tennis players published by the ATP between January 1990 and September 2019. For each year, we created an election where each player is a candidate and each vote corresponds to the ranking of the players in one week.</p> <p>Each patch contains the raw election and a post-processed version where some candidates and voters are deleted to make the election complete.</p> <p>Other sports world rankings have been used to create the table tennis world rankings and boxing world rankings datasets.</p> <p>This dataset is part of a larger study by Boehmer and Schaar (see <a href="/boehmer-schaar">this page</a> for a more detailed description of the dataset, the post-processing, and pointers to similar datasets). If you have any questions, please contact: niclas.boehmer@tu-berlin.de.</p>
 
-Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/assets/bib/BoSc22.bib">Bibtex</a>).
+Required Citations: Niclas Boehmer and Nathan Schaar. <em>Collecting, Classifying, Analyzing, and Using Real-World Elections</em>. Arxiv.org/abs/2204.03589, 2022 (<a href="/PrefLib-Jekyll/assets/bib/BoSc22.bib">Bibtex</a>).
 
 Selected Studies:
 

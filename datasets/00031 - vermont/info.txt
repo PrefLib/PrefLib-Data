@@ -10,7 +10,7 @@ Publication Date: 2017-04-13
 
 Description: <p>This dataset contains votes for 15 different races for various public offices held in Vermont in 2014.  This data was collected and donated by <a href="https://www.researchgate.net/profile/Jeremy_Hansen2">Jeremy A. Hansen</a>.  There are 3 to 6 candidates and 532 to 1960 voters in these data files.  Not all races were competitive so not every race is reported for every district.</p>
 
-Required Citations: Jeremy A. Hansen. <em>Ballot-Level Observations About Vermont's 2014 General Election</em>. New England Journal of Political Science 8 (2): 185-217, 2016 (<a href="/assets/bib/Hans15.bib">Bibtex</a>).
+Required Citations: Jeremy A. Hansen. <em>Ballot-Level Observations About Vermont's 2014 General Election</em>. New England Journal of Political Science 8 (2): 185-217, 2016 (<a href="/PrefLib-Jekyll/assets/bib/Hans15.bib">Bibtex</a>).
 
 Selected Studies: 
 

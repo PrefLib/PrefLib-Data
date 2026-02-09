@@ -10,7 +10,7 @@ Publication Date: 2013-08-17
 
 Description: <p>The <a href="https://en.wikipedia.org/wiki/Netflix_Prize">Netflix Prize</a> was a competition devised by Netflix to improve the accuracy of its recommendation system.  To facilitate this Netflix released real ratings about movies from the users of the system.  Any set of movies can be transformed into an election via a process outlined by Mattei, Forshee, and Goldsmith (reference below).</p><p>The data sets posted below correspond 100 random 3 and 4 candidate elections drawn from Data Set 1 in the paper , "An Empirical Study of Voting Rules and Manipulation with Large Datasets."  The elements numbered 1 - 100 are all 3 candidate elections and the elements 101 - 201 are all 4 candidate elections. </p>
 
-Required Citations: James Bennett and Stan Lanning. <em>The Netflix Prize</em>. Proceedings of The KDD Cup and Workshops, 2007 (<a href="/assets/bib/BeLa07.bib">Bibtex</a>).
+Required Citations: James Bennett and Stan Lanning. <em>The Netflix Prize</em>. Proceedings of The KDD Cup and Workshops, 2007 (<a href="/PrefLib-Jekyll/assets/bib/BeLa07.bib">Bibtex</a>).
 
 Selected Studies: An Empirical Study of Voting Rules and Manipulation with Large Datasets; Nicholas Mattei, James Forshee, and Judy Goldsmith; 4th International Workshop on Computational Social Choice (COMSOC); 2012 | Empirical Evaluation of Voting Rules with Strictly Ordered Preference Data; Nicholas Mattei; 2nd International Conference on Algorithmic Decision Theory (ADT); 2011
 
