@@ -12,6 +12,8 @@ Description: <p>This dataset contains data from the online experiment "Vote Plur
 
 Required Citations: Karine Van der Straeten, Jean-François Laslier and André Blais; <em>Vote au pluriel: How people vote when offered to vote under different rules.</em>. Political Science and Politics, 2013.
 
+Selected Studies:
+
 file_name, modification_type, relates_to, title, description, publication_date
 00074-00000001.cat,original,,VotePluriel-approval,,2025-10-14
 00074-00000001.toc,induced,00074-00000001.cat,VotePluriel-approval,,2025-10-14

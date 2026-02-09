@@ -45,6 +45,20 @@ def check_info_file(info_file_path, ds_dir, dataset_files, escalate_warnings):
     if set(infos["files"]) != set(actual_files):
         info_error_list.append("Mismatch between files listed in info and files in directory")
 
+    tag_mapping = {
+        "Name:": "name",
+        "Abbreviation:": "abb",
+        "Tags:": "tags",
+        "Series Number:": "series",
+        "Publication Date:": "publication_date",
+        "Description:": "description",
+        "Required Citations:": "citations",
+        "Selected Studies:": "studies",
+    }
+    for tag, short_tag in tag_mapping.items():
+        if short_tag not in infos:
+            info_error_list.append(f"The infor file does not seem to provide a value for the tag '{tag}'. Please add the tag even if the value is empty.")
+
     # Report or escalate any errors found
     handle_errors(info_error_list, ds_dir, escalate_warnings)
 
