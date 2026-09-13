@@ -8,7 +8,7 @@ Series Number: 00023
 
 Publication Date: 2014-07-09
 
-Description: <p>The Takoma Park Data contains the results from the 2007 Takoma Park, WA special election for city council. The set contains one elections with between 4 canddiates and about 400 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+Description: <p>The Takoma Park Data contains the results from the 2007 Takoma Park, WA special election for city council. The set contains one elections with between 4 candidates and about 400 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
 
 Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
 

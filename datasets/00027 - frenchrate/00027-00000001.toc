@@ -1,5 +1,5 @@
 # FILE NAME: 00027-00000001.toc
-# TITLE: Etudes Poltiques
+# TITLE: Etudes Politiques
 # DESCRIPTION: 
 # DATA TYPE: toc
 # MODIFICATION TYPE: original

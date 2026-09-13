@@ -8,7 +8,7 @@ Series Number: 00020
 
 Publication Date: 2014-07-09
 
-Description: <p>The 2008 Pierce Data contains the results from several elections, including county executive, held in Pierce, WA in 2008. The set contains 4 distinct elections with between 4 and 7 canddiates and 40,000 and 300,000 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+Description: <p>The 2008 Pierce Data contains the results from several elections, including county executive, held in Pierce, WA in 2008. The set contains 4 distinct elections with between 4 and 7 candidates and 40,000 and 300,000 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
 
 Required Citations: Jeffery O'Neill. <em>Open STV</em>. <a href="http://www.openstv.org">www.OpenSTV.org</a>, 2013.
 
