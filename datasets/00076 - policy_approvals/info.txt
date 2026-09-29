@@ -1,0 +1,19 @@
+Name: Policy Approval in the 2022 French and Brazilian Presidential Elections
+
+Abbreviation: policy_approvals
+
+Tags: Politics, Experiment
+
+Series Number: 00076
+
+Publication Date: 2026-09-29
+
+Description: <p>This dataset contains categorical preferences over public policy proposals collected through Mon Programme in France and Brazucracia in Brazil during the 2022 presidential elections. These online participation platforms allowed participants to build personalized government programmes from proposals put forward by presidential candidates. The data were collected as part of the study by <a href="https://arxiv.org/abs/2211.04577">Navarrete et al., <em>Understanding Political Divisiveness using Online Participation data from the 2022 French and Brazilian Presidential Elections</em></a>.</p><p>The collection consists of two files in PrefLib's categorical preference format (<code>.cat</code>), one for each country. They are derived from the approval responses in Dataset 1 of the <a href="https://doi.org/10.7910/DVN/8E0EA4">original Harvard Dataverse collection</a>, with proposal names obtained from Dataset 5. Alternatives correspond to policy proposals, and each voter corresponds to a participant identifier in the source data. Proposal names are provided in French for France and Portuguese for Brazil.</p><p>Each recorded response assigns a proposal to one of three categories, listed in the order used in the files:</p><ol><li><strong>Approved</strong>: the participant approves the proposal (<code>agree = 1</code>).</li><li><strong>Don't know</strong>: the participant explicitly expresses no preference (<code>agree = 0</code>).</li><li><strong>Disapproved</strong>: the participant disapproves of the proposal (<code>agree = -1</code>).</li></ol><p>The middle category represents the source data's explicit no-preference response. Proposals without a recorded response remain uncategorized. A voter may therefore categorize only a subset of the alternatives, and any category may be empty. Identical categorical preferences are grouped together with their multiplicities.</p>
+
+Required Citations: Carlos Navarrete et al. Understanding Political Divisiveness using Online Participation data from the 2022 French and Brazilian Presidential Elections. <a href="https://arxiv.org/abs/2211.04577">arXiv:2211.04577</a>. Source data: <a href="https://doi.org/10.7910/DVN/8E0EA4">Harvard Dataverse; doi:10.7910/DVN/8E0EA4</a>.
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00076-00000001.cat, induced, , France 2022 policy approvals, Filtered categorical approval preferences, 2026-09-29
+00076-00000002.cat, induced, , Brazil 2022 policy approvals, Filtered categorical approval preferences, 2026-09-29
