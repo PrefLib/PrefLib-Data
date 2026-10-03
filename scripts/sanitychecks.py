@@ -57,7 +57,7 @@ def check_info_file(info_file_path, ds_dir, dataset_files, escalate_warnings):
     }
     for tag, short_tag in tag_mapping.items():
         if short_tag not in infos:
-            info_error_list.append(f"The infor file does not seem to provide a value for the tag '{tag}'. Please add the tag even if the value is empty.")
+            info_error_list.append(f"The info file does not seem to provide a value for the tag '{tag}'. Please add the tag even if the value is empty.")
 
     # Report or escalate any errors found
     handle_errors(info_error_list, ds_dir, escalate_warnings)

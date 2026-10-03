@@ -8,7 +8,7 @@ Series Number: 00012
 
 Publication Date: 2014-07-09
 
-Description: <p>This dataset contains complete rank orderings of T-Shirt designs voted on by members of the Optimization Research Group at NICTA.  There are 11 designs (candidates) and 30 votes about these deisgns.  Voters were required to submit complete strict orders.</p> <p> This data has been kindly donated by <a href="https://www.coffrin.com/">Carleton Coffrin</a>.</p>
+Description: <p>This dataset contains complete rank orderings of T-Shirt designs voted on by members of the Optimization Research Group at NICTA.  There are 11 designs (candidates) and 30 votes about these designs.  Voters were required to submit complete strict orders.</p> <p> This data has been kindly donated by <a href="https://www.coffrin.com/">Carleton Coffrin</a>.</p>
 
 Required Citations: 
 

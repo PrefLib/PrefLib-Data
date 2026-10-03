@@ -1,4 +1,4 @@
-Name: Voting Experiments on IRV and Borda in French Presidental Elections
+Name: Voting Experiments on IRV and Borda in French Presidential Elections
 
 Abbreviation: french-experiments-rankings
 

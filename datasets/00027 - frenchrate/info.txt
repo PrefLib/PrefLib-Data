@@ -15,4 +15,4 @@ Required Citations:
 Selected Studies: Jean-Francois Laslier and Karine Van der Straeten. <em>Vote par assentiment pendant la presidentielle de 2002: analyse d'une experience</em>. Revue Francaise de Science Politique 54 : 99-130, 2004.
 
 file_name, modification_type, relates_to, title, description, publication_date
-00027-00000001.toc, original, , Etudes Poltiques, , 2017-04-13
+00027-00000001.toc, original, , Etudes Politiques, , 2017-04-13
