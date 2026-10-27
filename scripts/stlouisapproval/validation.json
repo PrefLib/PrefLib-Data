@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "preflibtools_version": "2.0.33",
+  "unique_source_cvrs": 34982,
+  "files": [
+    {
+      "file": "00077-00000001.cat",
+      "records": 34982,
+      "unique_patterns": 16,
+      "empty_approval_sets": 37,
+      "status": "PASS"
+    },
+    {
+      "file": "00077-00000002.cat",
+      "records": 34982,
+      "unique_patterns": 8,
+      "empty_approval_sets": 1315,
+      "status": "PASS"
+    },
+    {
+      "file": "00077-00000003.cat",
+      "records": 1643,
+      "unique_patterns": 8,
+      "empty_approval_sets": 19,
+      "status": "PASS"
+    },
+    {
+      "file": "00077-00000004.cat",
+      "records": 1187,
+      "unique_patterns": 8,
+      "empty_approval_sets": 35,
+      "status": "PASS"
+    }
+  ],
+  "checks": [
+    "Raw and generated-file SHA-256 checksums",
+    "No duplicate source CVRs",
+    "All 13 candidate totals equal official final cumulative results",
+    "Every CAT profile equals its raw XML approval profile including empty sets",
+    "All precinct-pattern counts equal the source records",
+    "PrefLib-Tools metadata and categorical sanity checks",
+    "PrefLib-Data sanitychecks.py with warnings escalated"
+  ],
+  "upstream_checker_url": "https://raw.githubusercontent.com/PrefLib/PrefLib-Data/main/scripts/sanitychecks.py",
+  "upstream_checker_sha256": "be7f480b971522e1693d9a401e03fd7d371fb9d78ba7be4daf0ab3dc0c199fc6",
+  "pending": [
+    "PrefLib series-number assignment",
+    "PrefLib publication date",
+    "Maintainer review of source/redistribution terms and citation wording"
+  ]
+}
