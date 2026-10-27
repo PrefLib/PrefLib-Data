@@ -1,0 +1,22 @@
+Name: St Louis 2025 Approval Primary Elections
+
+Abbreviation: stlouisapproval
+
+Tags: Election, Politics
+
+Series Number: 00077
+
+Publication Date:
+
+Description: <p>Observed approval ballots from the 4 March 2025 St. Louis, Missouri, nonpartisan primary: Mayor, Comptroller, and Alderman in Wards 3 and 11. Each contest selected two finalists for a later single-office general election. Converted by Felix Sargent from the archived Hart Verity cast vote record export supplied by the city election board, as described in his published analysis.</p><p>Four CAT files retain every contest record, including empty approval sets. Identical approval sets are aggregated with exact multiplicities. The categories record approved and not approved candidates; they do not recover sincere rankings, intensity, or motives. 00077-00000005.dat provides per-contest approval-pattern counts by source precinct label. No individual ballot identifiers or cross-contest ballot links are included. The electorates overlap across contests and must not be treated as independent voter samples.</p><p>All candidate totals match the <a href="https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/election-results/upload/Mar25-Final-Official-Results.pdf">final official results</a>. The Mayor file has 34,982 records, including 37 empty approval sets; the companion blog uses 34,945 nonempty mayoral ballots as its denominator. The source ZIP and analysis are available through <a href="https://raw.githubusercontent.com/ranked-vote/approval.vote/086dc7642c2f6f151a053b4d6fdac15361e66a06/static/papers/st-louis-cvr-paper/data/raw/CVRExport-8-27-2025.zip">approval.vote</a> and <a href="https://felixsargent.com/democracy/2025/08/29/st-louis-approval-voting">the contributor's blog</a>.</p>
+
+Required Citations: Felix Sargent. St. Louis Approval Voting: What the Cast Vote Records Reveal. 29 August 2025. https://felixsargent.com/democracy/2025/08/29/st-louis-approval-voting
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00077-00000005.dat, original, , Approval patterns by precinct, CSV counts grouped by contest and source precinct label,
+00077-00000001.cat, original, , 2025 St Louis primary - Mayor, ,
+00077-00000002.cat, original, , 2025 St Louis primary - Comptroller, ,
+00077-00000003.cat, original, , 2025 St Louis primary - Alderman Ward 3, ,
+00077-00000004.cat, original, , 2025 St Louis primary - Alderman Ward 11, ,

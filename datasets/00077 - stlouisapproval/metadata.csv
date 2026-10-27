@@ -1,0 +1,5 @@
+file;file_number;last_modif;md5;modification_type;numAlt;numVot;numUniq;isApproval;isStrict;isComplete;hasCondorcet;isSP;isSC;isSPTree
+00077-00000001.cat;1;2026-10-27 08:43:18.080538;d8d97a2b9dcb216b568083ba48cad0f3;original;4;34982;16;True;N/A;True;N/A;N/A;N/A;N/A
+00077-00000002.cat;2;2026-10-27 08:43:18.080538;998625a1e8c7e42d7d9242ed41deed75;original;3;34982;8;True;N/A;True;N/A;N/A;N/A;N/A
+00077-00000003.cat;3;2026-10-27 08:43:18.084539;34304124c89b756becb083a8e5e16b8f;original;3;1643;8;True;N/A;True;N/A;N/A;N/A;N/A
+00077-00000004.cat;4;2026-10-27 08:43:18.084539;65c60efcbc220f11a8a725935b7be065;original;3;1187;8;True;N/A;True;N/A;N/A;N/A;N/A

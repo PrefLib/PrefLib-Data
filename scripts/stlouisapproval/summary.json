@@ -1,0 +1,97 @@
+{
+  "election_date": "2025-03-04",
+  "prepared_date": "2026-10-27",
+  "unique_source_cvrs": 34982,
+  "contests": [
+    {
+      "file": "00077-00000001.cat",
+      "contest": "MAYOR",
+      "candidates": {
+        "MICHAEL \"MIKE\" BUTLER": 8701,
+        "TISHAURA O. JONES": 11612,
+        "CARA SPENCER": 23826,
+        "ANDREW JONES": 4769
+      },
+      "contest_records": 34982,
+      "empty_approval_sets": 37,
+      "nonempty_approval_sets": 34945,
+      "unique_approval_sets": 16,
+      "total_approvals": 48908,
+      "approval_count_distribution": {
+        "0": 37,
+        "1": 23482,
+        "2": 9113,
+        "3": 2200,
+        "4": 150
+      },
+      "precinct_labels": 179,
+      "official_candidate_totals_match": true
+    },
+    {
+      "file": "00077-00000002.cat",
+      "contest": "COMPTROLLER",
+      "candidates": {
+        "DONNA M.C. BARINGER": 16689,
+        "DARLENE GREEN": 16157,
+        "CELESTE METCALF": 8557
+      },
+      "contest_records": 34982,
+      "empty_approval_sets": 1315,
+      "nonempty_approval_sets": 33667,
+      "unique_approval_sets": 8,
+      "total_approvals": 41403,
+      "approval_count_distribution": {
+        "0": 1315,
+        "1": 26865,
+        "2": 5868,
+        "3": 934
+      },
+      "precinct_labels": 179,
+      "official_candidate_totals_match": true
+    },
+    {
+      "file": "00077-00000003.cat",
+      "contest": "ALDERMAN - WARD 3",
+      "candidates": {
+        "DALLAS ADAMS": 694,
+        "SHANE COHN": 921,
+        "INEZ BORDEAUX": 450
+      },
+      "contest_records": 1643,
+      "empty_approval_sets": 19,
+      "nonempty_approval_sets": 1624,
+      "unique_approval_sets": 8,
+      "total_approvals": 2065,
+      "approval_count_distribution": {
+        "0": 19,
+        "1": 1252,
+        "2": 303,
+        "3": 69
+      },
+      "precinct_labels": 16,
+      "official_candidate_totals_match": true
+    },
+    {
+      "file": "00077-00000004.cat",
+      "contest": "ALDERMAN - WARD 11",
+      "candidates": {
+        "MELINDA LONG": 140,
+        "REBECCA MCCLOUD": 422,
+        "LAURA M. KEYS": 744
+      },
+      "contest_records": 1187,
+      "empty_approval_sets": 35,
+      "nonempty_approval_sets": 1152,
+      "unique_approval_sets": 8,
+      "total_approvals": 1306,
+      "approval_count_distribution": {
+        "0": 35,
+        "1": 1020,
+        "2": 110,
+        "3": 22
+      },
+      "precinct_labels": 10,
+      "official_candidate_totals_match": true
+    }
+  ]
+}

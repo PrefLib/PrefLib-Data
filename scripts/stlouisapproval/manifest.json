@@ -1,0 +1,20 @@
+{
+  "status": "Contribution prepared for PrefLib maintainer review",
+  "prepared_date": "2026-10-27",
+  "proposed_series_number": "00077",
+  "source_file": "CVRExport-8-27-2025.zip",
+  "source_bytes": 24239400,
+  "source_sha256": "a4fdd323884fd340372a20e0a2cd32aa5e4f6f9cd3619789a0a0cc932336224f",
+  "source_mirror_url": "https://raw.githubusercontent.com/ranked-vote/approval.vote/086dc7642c2f6f151a053b4d6fdac15361e66a06/static/papers/st-louis-cvr-paper/data/raw/CVRExport-8-27-2025.zip",
+  "source_repository_commit": "086dc7642c2f6f151a053b4d6fdac15361e66a06",
+  "converter_sha256": "63fe260306208875ed9eb71264561ddc4ee87f8131ff560da1774f5e9419fcdd",
+  "official_results_url": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/election-results/upload/Mar25-Final-Official-Results.pdf",
+  "files_sha256": {
+    "datasets/00077 - stlouisapproval/00077-00000001.cat": "c189c50807c70d8fddd51e2e6aa1d2bfd941aada9d04bd93ca52bccb895b26fa",
+    "datasets/00077 - stlouisapproval/00077-00000002.cat": "45407ffb10cbcb1349d0ffc7197fa01343b3c49f16ebed96c1d2b424a0daf742",
+    "datasets/00077 - stlouisapproval/00077-00000003.cat": "a69c7ef76c4ecfb46db7d7126d9b3de189813dd3ef6d03d4ae9a59610569f62d",
+    "datasets/00077 - stlouisapproval/00077-00000004.cat": "0bad7e7c7049b8fd994375eccea30524dc977b889b4c312b1ee4bb995911129c",
+    "datasets/00077 - stlouisapproval/00077-00000005.dat": "02b656fed6e48b73f3058285d04d6aaa83b753814c8c8304246c9f6a9fd2d61c",
+    "datasets/00077 - stlouisapproval/info.txt": "1ae747344d7d840587ebdc0ee43030313b1aa8537bc5f7c9572fc322c31e5577"
+  }
+}
