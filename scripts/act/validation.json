@@ -1,0 +1,8 @@
+{
+  "profiles": 21,
+  "ballots": 1220223,
+  "unique_rankings": 679039,
+  "papers_without_usable_first_preference": 0,
+  "matches_independent_stv_vote_conversion": true,
+  "repository_sanity_checks": "passed_with_warnings_escalated"
+}

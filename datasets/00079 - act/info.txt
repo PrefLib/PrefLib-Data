@@ -1,0 +1,39 @@
+Name: ACT Legislative Assembly Elections
+
+Abbreviation: act
+
+Tags: Election,Politics,STV
+
+Series Number: 00079
+
+Publication Date:
+
+Description: <p>Ranked ballot profiles from the Australian Capital Territory Legislative Assembly elections of 2008, 2012, 2016, 2020 and 2024: 21 electorate contests containing 1,220,223 ballots. The Assembly is elected by Hare-Clark single transferable vote, with five seats per electorate (seven in Molonglo in 2008 and 2012). The source is the ballot paper preference data published by <a href="https://www.elections.act.gov.au/">Elections ACT</a> from its electronic counting system, which records the preferences on every formal ballot paper. Felix Sargent converted the files to PrefLib; interactive reports are hosted on <a href="https://stv.vote/">stv.vote</a>.</p><p>Each paper's preferences are read in order and stop at the first missing number, at a number given to two candidates, or at a candidate numbered twice, as in a Hare-Clark count. Identical rankings are combined with their exact multiplicities, and unranked candidates remain unranked. Candidate labels are the source names with their party group. 00079-00000022.dat is a CSV crosswalk giving seats, ballot and paper counts, source files, checksums and stv.vote report links. It is metadata, not a further election.</p>
+
+Required Citations: Elections ACT. Ballot paper preference data, ACT Legislative Assembly elections 2008-2024. https://www.elections.act.gov.au/ ; Felix Sargent. stv.vote: ACT election reports and PrefLib conversion. https://stv.vote/
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00079-00000001.soi, original, , 2008 ACT Legislative Assembly - Brindabella, 5 seats; 63334 ballots,
+00079-00000002.soi, original, , 2008 ACT Legislative Assembly - Ginninderra, 5 seats; 60049 ballots,
+00079-00000003.soi, original, , 2008 ACT Legislative Assembly - Molonglo, 7 seats; 88266 ballots,
+00079-00000004.soi, original, , 2012 ACT Legislative Assembly - Brindabella, 5 seats; 63562 ballots,
+00079-00000005.soi, original, , 2012 ACT Legislative Assembly - Ginninderra, 5 seats; 66076 ballots,
+00079-00000006.soi, original, , 2012 ACT Legislative Assembly - Molonglo, 7 seats; 91534 ballots,
+00079-00000007.soi, original, , 2016 ACT Legislative Assembly - Brindabella, 5 seats; 46830 ballots,
+00079-00000008.soi, original, , 2016 ACT Legislative Assembly - Ginninderra, 5 seats; 47142 ballots,
+00079-00000009.soi, original, , 2016 ACT Legislative Assembly - Kurrajong, 5 seats; 48848 ballots,
+00079-00000010.soi, original, , 2016 ACT Legislative Assembly - Murrumbidgee, 5 seats; 50055 ballots,
+00079-00000011.soi, original, , 2016 ACT Legislative Assembly - Yerrabi, 5 seats; 51253 ballots,
+00079-00000012.soi, original, , 2020 ACT Legislative Assembly - Brindabella, 5 seats; 55413 ballots,
+00079-00000013.soi, original, , 2020 ACT Legislative Assembly - Ginninderra, 5 seats; 56025 ballots,
+00079-00000014.soi, original, , 2020 ACT Legislative Assembly - Kurrajong, 5 seats; 50600 ballots,
+00079-00000015.soi, original, , 2020 ACT Legislative Assembly - Murrumbidgee, 5 seats; 53754 ballots,
+00079-00000016.soi, original, , 2020 ACT Legislative Assembly - Yerrabi, 5 seats; 53459 ballots,
+00079-00000017.soi, original, , 2024 ACT Legislative Assembly - Brindabella, 5 seats; 58246 ballots,
+00079-00000018.soi, original, , 2024 ACT Legislative Assembly - Ginninderra, 5 seats; 56052 ballots,
+00079-00000019.soi, original, , 2024 ACT Legislative Assembly - Kurrajong, 5 seats; 48922 ballots,
+00079-00000020.soi, original, , 2024 ACT Legislative Assembly - Murrumbidgee, 5 seats; 55849 ballots,
+00079-00000021.soi, original, , 2024 ACT Legislative Assembly - Yerrabi, 5 seats; 54954 ballots,
+00079-00000022.dat, original, , ACT Legislative Assembly contest crosswalk, CSV metadata and report links,
