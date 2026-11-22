@@ -1,0 +1,26 @@
+Name: 2025 Australian Senate Election
+
+Abbreviation: aec_senate_2025
+
+Tags: Election,Politics,STV
+
+Series Number: 00080
+
+Publication Date:
+
+Description: <p>Ranked ballot profiles from the Australian Senate election of 3 May 2025: one profile for each of the six states (six seats each) and two territories (two seats each), containing 15,871,189 ballots. The Senate is elected by single transferable vote. The source is the formal preference data published by the <a href="https://results.aec.gov.au/31496/Website/SenateDownloadsMenu-31496-Csv.htm">Australian Electoral Commission</a>, which gives the preferences on every formal ballot paper. Felix Sargent converted the files to PrefLib; interactive reports are hosted on <a href="https://stv.vote/">stv.vote</a>.</p><p>Each paper is read as the Commonwealth Electoral Act counts it: a below-the-line vote numbering at least six candidates is used; otherwise the above-the-line vote is used, each group standing for its candidates in ballot order. Preferences stop at the first missing or repeated number, and a tick or cross counts as a 1. Identical rankings are combined with their exact multiplicities, and unranked candidates remain unranked. Candidate labels are the AEC names with their group. The three largest profiles are stored gzip-compressed in the repository and are plain SOI files in the download. 00080-00000009.dat is a CSV crosswalk giving seats, ballot and paper counts, below-the-line counts, source URLs, checksums and stv.vote report links. It is metadata, not a further election.</p>
+
+Required Citations: Australian Electoral Commission. 2025 federal election, Senate formal preferences. https://results.aec.gov.au/31496/Website/SenateDownloadsMenu-31496-Csv.htm ; Felix Sargent. stv.vote: Australian Senate reports and PrefLib conversion. https://stv.vote/
+
+Selected Studies:
+
+file_name, modification_type, relates_to, title, description, publication_date
+00080-00000001.soi, original, , 2025 Australian Senate - New South Wales, 6 seats; 4986832 ballots,
+00080-00000002.soi, original, , 2025 Australian Senate - Victoria, 6 seats; 4101762 ballots,
+00080-00000003.soi, original, , 2025 Australian Senate - Queensland, 6 seats; 3224436 ballots,
+00080-00000004.soi, original, , 2025 Australian Senate - Western Australia, 6 seats; 1622016 ballots,
+00080-00000005.soi, original, , 2025 Australian Senate - South Australia, 6 seats; 1164072 ballots,
+00080-00000006.soi, original, , 2025 Australian Senate - Tasmania, 6 seats; 371790 ballots,
+00080-00000007.soi, original, , 2025 Australian Senate - Australian Capital Territory, 2 seats; 293474 ballots,
+00080-00000008.soi, original, , 2025 Australian Senate - Northern Territory, 2 seats; 106807 ballots,
+00080-00000009.dat, original, , 2025 Australian Senate crosswalk, CSV metadata and report links,

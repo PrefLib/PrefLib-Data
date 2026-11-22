@@ -1,0 +1,13 @@
+{
+  "profiles": 8,
+  "ballots": 15871189,
+  "unique_rankings": 4998791,
+  "papers_without_usable_preference": 0,
+  "compressed_files": [
+    "00080-00000001.soi.gz",
+    "00080-00000002.soi.gz",
+    "00080-00000003.soi.gz"
+  ],
+  "matches_independent_stv_vote_conversion": true,
+  "repository_sanity_checks": "passed_with_warnings_escalated"
+}
