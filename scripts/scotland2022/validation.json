@@ -1,0 +1,8 @@
+{
+  "profiles": 347,
+  "excluded_uncontested_wards": 8,
+  "ballots": 1857181,
+  "unique_rankings": 309711,
+  "exact_source_reconciliation": true,
+  "repository_sanity_checks": "passed_with_warnings_escalated"
+}
