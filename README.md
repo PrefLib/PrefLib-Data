@@ -32,6 +32,19 @@ Follow these steps:
 
 If the data has been added via a pull request, you do not need to clone the repo. You can simply merge the PR; wait for the sanity checks to run; compute the metadata via the GitHub action; update the zip in the release via the GitHub action; and you're done. Then, move to [PrefLib-Jekyll](https://github.com/PrefLib/PrefLib-Jekyll) to update the website.
 
+### Large data files
+
+GitHub rejects files over 100 MB and warns above 50 MB. A data file larger
+than 50 MB may be stored gzip-compressed, with `.gz` appended to its name
+(for example `00080-00000005.soi.gz`). Everywhere else it keeps its plain name:
+
+- `info.txt` lists `00080-00000005.soi`;
+- `metadata.csv` gives the MD5 of the plain file;
+- `scripts/zipall.py` writes the plain file into the release zip, so users see no difference.
+
+`scripts/sanitychecks.py` and `scripts/compute_metadata.py` read compressed
+files directly (see `scripts/datafiles.py`). Compress with `gzip -9 -n`.
+
 ### Update the zip archives
 
 The zip files served from the website are actually hosted as assets of the v1.0 release of this repository.
