@@ -1,0 +1,70 @@
+# FILE NAME: 00081-00000011.soi
+# TITLE: 2022 Alaska General Election - State Senate District Q
+# DESCRIPTION: 2022-11-08; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 13032
+# NUMBER UNIQUE ORDERS: 54
+# ALTERNATIVE NAME 1: Serkov, Arthur P.
+# ALTERNATIVE NAME 2: Bennett, John D.
+# ALTERNATIVE NAME 3: Myers, Robert H. Jr.
+# ALTERNATIVE NAME 4: Write-in
+5733: 3
+2336: 2
+777: 3, 2, 1
+667: 3, 1, 2
+544: 3, 1
+518: 2, 1, 3
+422: 2, 1
+380: 2, 3, 1
+321: 3, 2
+313: 2, 3
+267: 1
+204: 1, 2, 3
+128: 1, 2
+114: 1, 3, 2
+76: 1, 3
+45: 4
+42: 3, 4
+16: 2, 4
+14: 3, 1, 4
+12: 3, 1, 2, 4
+11: 2, 1, 4, 3
+10: 4, 3
+9: 2, 4, 1, 3
+7: 3, 2, 1, 4
+6: 4, 3, 2, 1
+5: 2, 1, 3, 4
+4: 2, 4, 3, 1
+4: 3, 4, 2, 1
+4: 4, 3, 1, 2
+3: 1, 2, 4
+3: 1, 3, 4
+3: 2, 3, 1, 4
+3: 3, 1, 4, 2
+3: 3, 4, 2
+2: 1, 2, 3, 4
+2: 1, 2, 4, 3
+2: 2, 1, 4
+2: 2, 4, 1
+2: 3, 2, 4
+2: 3, 2, 4, 1
+2: 4, 2, 1, 3
+2: 4, 2, 3
+1: 1, 3, 2, 4
+1: 1, 3, 4, 2
+1: 2, 3, 4
+1: 2, 3, 4, 1
+1: 2, 4, 3
+1: 3, 4, 1
+1: 3, 4, 1, 2
+1: 4, 1
+1: 4, 1, 2, 3
+1: 4, 1, 3, 2
+1: 4, 2
+1: 4, 3, 2

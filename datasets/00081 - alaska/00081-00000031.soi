@@ -1,0 +1,71 @@
+# FILE NAME: 00081-00000031.soi
+# TITLE: 2024 Alaska General Election - State Senate District L
+# DESCRIPTION: 2024-11-05; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 19591
+# NUMBER UNIQUE ORDERS: 55
+# ALTERNATIVE NAME 1: Goecker, Jared D. (Registered Republican)
+# ALTERNATIVE NAME 2: Merrick, Kelly R. (Registered Republican)
+# ALTERNATIVE NAME 3: Hammermeister, Lee E. (Registered Democrat)
+# ALTERNATIVE NAME 4: Write-in
+5456: 2
+5320: 1
+1707: 3
+1474: 1, 2
+1394: 2, 1
+783: 2, 1, 3
+753: 2, 3
+566: 2, 3, 1
+502: 1, 2, 3
+407: 3, 2, 1
+375: 3, 2
+175: 3, 1, 2
+174: 1, 3, 2
+107: 1, 3
+54: 3, 1
+43: 1, 4
+31: 4
+28: 2, 4
+21: 2, 1, 4, 3
+21: 2, 4, 3, 1
+16: 3, 4
+15: 1, 2, 4
+12: 1, 2, 4, 3
+12: 1, 4, 3, 2
+12: 2, 1, 3, 4
+12: 2, 1, 4
+11: 2, 3, 4, 1
+10: 3, 4, 2, 1
+9: 1, 2, 3, 4
+8: 2, 3, 1, 4
+8: 3, 4, 1, 2
+7: 1, 3, 4, 2
+7: 2, 3, 4
+5: 1, 3, 4
+5: 1, 4, 2
+5: 4, 3
+4: 1, 4, 2, 3
+4: 2, 4, 1
+4: 2, 4, 1, 3
+4: 2, 4, 3
+4: 3, 1, 2, 4
+4: 3, 2, 4, 1
+3: 4, 1, 3, 2
+3: 4, 2
+2: 1, 4, 3
+2: 3, 2, 4
+2: 4, 1
+2: 4, 2, 1
+2: 4, 2, 3, 1
+1: 1, 3, 2, 4
+1: 3, 2, 1, 4
+1: 3, 4, 2
+1: 4, 1, 2
+1: 4, 2, 1, 3
+1: 4, 3, 1, 2

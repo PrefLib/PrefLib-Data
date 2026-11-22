@@ -1,0 +1,74 @@
+# FILE NAME: 00081-00000009.soi
+# TITLE: 2022 Alaska General Election - State Senate District N
+# DESCRIPTION: 2022-11-08; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 11632
+# NUMBER UNIQUE ORDERS: 58
+# ALTERNATIVE NAME 1: Clayton, Scott D.
+# ALTERNATIVE NAME 2: Wilson, David S.
+# ALTERNATIVE NAME 3: Wright, Stephen
+# ALTERNATIVE NAME 4: Write-in
+2519: 2
+1355: 3
+1211: 2, 3, 1
+1090: 1
+927: 3, 2, 1
+739: 1, 2, 3
+723: 2, 1, 3
+660: 1, 3, 2
+517: 3, 1, 2
+361: 2, 3
+307: 2, 1
+275: 3, 2
+268: 3, 1
+248: 1, 3
+186: 1, 2
+100: 4
+13: 2, 3, 1, 4
+11: 2, 4
+10: 1, 2, 3, 4
+8: 2, 1, 3, 4
+8: 4, 1, 3, 2
+7: 4, 3, 2, 1
+6: 3, 1, 2, 4
+6: 3, 2, 1, 4
+6: 4, 1, 2
+5: 1, 2, 4
+5: 1, 4
+5: 4, 1, 2, 3
+4: 2, 1, 4, 3
+4: 3, 4
+3: 1, 3, 2, 4
+3: 2, 4, 1, 3
+3: 3, 1, 4
+3: 3, 2, 4
+3: 4, 3
+2: 1, 4, 3
+2: 2, 3, 4
+2: 3, 4, 1
+2: 3, 4, 1, 2
+2: 3, 4, 2
+2: 4, 1
+2: 4, 1, 3
+2: 4, 2
+2: 4, 3, 1
+2: 4, 3, 1, 2
+1: 1, 2, 4, 3
+1: 1, 3, 4
+1: 1, 3, 4, 2
+1: 1, 4, 2
+1: 1, 4, 2, 3
+1: 1, 4, 3, 2
+1: 2, 1, 4
+1: 2, 3, 4, 1
+1: 2, 4, 1
+1: 2, 4, 3
+1: 3, 1, 4, 2
+1: 4, 2, 3
+1: 4, 2, 3, 1

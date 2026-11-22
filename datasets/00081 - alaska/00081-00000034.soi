@@ -1,0 +1,58 @@
+# FILE NAME: 00081-00000034.soi
+# TITLE: 2024 Alaska General Election - State House District 1
+# DESCRIPTION: 2024-11-05; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 8170
+# NUMBER UNIQUE ORDERS: 42
+# ALTERNATIVE NAME 1: Moran, Agnes C. (Nonpartisan)
+# ALTERNATIVE NAME 2: Bynum, Jeremy T. (Registered Republican)
+# ALTERNATIVE NAME 3: Echohawk, Grant (Nonpartisan)
+# ALTERNATIVE NAME 4: Write-in
+3423: 2
+937: 3
+933: 1
+461: 1, 3
+458: 3, 1
+292: 3, 1, 2
+260: 2, 1, 3
+249: 1, 3, 2
+219: 2, 3, 1
+187: 2, 1
+181: 1, 2, 3
+156: 1, 2
+140: 3, 2, 1
+120: 2, 3
+59: 3, 2
+11: 2, 4
+11: 4
+9: 1, 3, 4, 2
+8: 3, 1, 4, 2
+6: 3, 4
+5: 2, 4, 3, 1
+4: 2, 1, 3, 4
+4: 2, 3, 1, 4
+3: 1, 2, 3, 4
+3: 2, 3, 4
+3: 3, 1, 4
+3: 3, 4, 1, 2
+3: 4, 3, 2, 1
+2: 1, 3, 2, 4
+2: 1, 3, 4
+2: 2, 1, 4, 3
+2: 2, 3, 4, 1
+2: 3, 1, 2, 4
+2: 3, 2, 1, 4
+2: 3, 2, 4
+2: 3, 2, 4, 1
+1: 2, 1, 4
+1: 2, 4, 1
+1: 2, 4, 1, 3
+1: 4, 3
+1: 4, 3, 1, 2
+1: 4, 3, 2

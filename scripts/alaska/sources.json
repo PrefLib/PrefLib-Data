@@ -1,0 +1,240 @@
+{
+  "2022/08": {
+    "name": "Special General Election",
+    "date": "2022-08-16",
+    "results_page": "https://www.elections.alaska.gov/election-results/e/?id=22sspg",
+    "file": "CVR_Export_20220908084311.zip",
+    "url": "https://www.elections.alaska.gov/results/22SSPG/CVR_Export_20220908084311.zip",
+    "archived_copy": "https://web.archive.org/web/20220909051114/https://www.elections.alaska.gov/results/22SSPG/CVR_Export_20220908084311.zip",
+    "sha256": "3d9ea12a0fa12064028057e02ad855ad63d349ccfb3b031afcdeb2eebfd1beab",
+    "contests": [
+      {
+        "contest_id": 69,
+        "office": "cd",
+        "office_name": "At-large Congressional District"
+      }
+    ]
+  },
+  "2022/11": {
+    "name": "General Election",
+    "date": "2022-11-08",
+    "results_page": "https://www.elections.alaska.gov/election-results/e/?id=22genr",
+    "file": "CVR_Export.zip",
+    "url": "https://www.elections.alaska.gov/results/22GENR/rcv/CVR_Export.zip",
+    "archived_copy": "https://web.archive.org/web/20221223104437/https://www.elections.alaska.gov/results/22GENR/rcv/CVR_Export.zip",
+    "sha256": "405dce1e924c0a6557178b820d2f6e873e2375dba058c74fbc5a61e1d1004e65",
+    "contests": [
+      {
+        "contest_id": 3,
+        "office": "us-senate",
+        "office_name": "U.S. Senate"
+      },
+      {
+        "contest_id": 4,
+        "office": "cd",
+        "office_name": "At-large Congressional District"
+      },
+      {
+        "contest_id": 5,
+        "office": "governor",
+        "office_name": "Governor and Lieutenant Governor"
+      },
+      {
+        "contest_id": 8,
+        "office": "sd-c",
+        "office_name": "State Senate District C"
+      },
+      {
+        "contest_id": 9,
+        "office": "sd-d",
+        "office_name": "State Senate District D"
+      },
+      {
+        "contest_id": 10,
+        "office": "sd-e",
+        "office_name": "State Senate District E"
+      },
+      {
+        "contest_id": 15,
+        "office": "sd-j",
+        "office_name": "State Senate District J"
+      },
+      {
+        "contest_id": 19,
+        "office": "sd-n",
+        "office_name": "State Senate District N"
+      },
+      {
+        "contest_id": 21,
+        "office": "sd-p",
+        "office_name": "State Senate District P"
+      },
+      {
+        "contest_id": 22,
+        "office": "sd-q",
+        "office_name": "State Senate District Q"
+      },
+      {
+        "contest_id": 23,
+        "office": "sd-r",
+        "office_name": "State Senate District R"
+      },
+      {
+        "contest_id": 30,
+        "office": "hd-06",
+        "office_name": "State House District 6"
+      },
+      {
+        "contest_id": 34,
+        "office": "hd-10",
+        "office_name": "State House District 10"
+      },
+      {
+        "contest_id": 35,
+        "office": "hd-11",
+        "office_name": "State House District 11"
+      },
+      {
+        "contest_id": 39,
+        "office": "hd-15",
+        "office_name": "State House District 15"
+      },
+      {
+        "contest_id": 42,
+        "office": "hd-18",
+        "office_name": "State House District 18"
+      },
+      {
+        "contest_id": 44,
+        "office": "hd-20",
+        "office_name": "State House District 20"
+      },
+      {
+        "contest_id": 48,
+        "office": "hd-24",
+        "office_name": "State House District 24"
+      },
+      {
+        "contest_id": 51,
+        "office": "hd-27",
+        "office_name": "State House District 27"
+      },
+      {
+        "contest_id": 52,
+        "office": "hd-28",
+        "office_name": "State House District 28"
+      },
+      {
+        "contest_id": 54,
+        "office": "hd-30",
+        "office_name": "State House District 30"
+      },
+      {
+        "contest_id": 55,
+        "office": "hd-31",
+        "office_name": "State House District 31"
+      },
+      {
+        "contest_id": 56,
+        "office": "hd-32",
+        "office_name": "State House District 32"
+      },
+      {
+        "contest_id": 58,
+        "office": "hd-34",
+        "office_name": "State House District 34"
+      },
+      {
+        "contest_id": 59,
+        "office": "hd-35",
+        "office_name": "State House District 35"
+      }
+    ]
+  },
+  "2024/11": {
+    "name": "General Election",
+    "date": "2024-11-05",
+    "results_page": "https://www.elections.alaska.gov/election-results/e/?id=24genr",
+    "file": "CVR_Export_20241130154411.zip",
+    "url": "https://www.elections.alaska.gov/results/24GENR/CVR_Export_20241130154411.zip",
+    "archived_copy": "https://web.archive.org/web/20250206032627/https://www.elections.alaska.gov/results/24GENR/CVR_Export_20241130154411.zip",
+    "sha256": "368676629e46ad88199f145ce38c0b7c2edc930e70c6a3da70394ad5cbfb9b24",
+    "contests": [
+      {
+        "contest_id": 4,
+        "office": "president",
+        "office_name": "President and Vice President"
+      },
+      {
+        "contest_id": 7,
+        "office": "cd",
+        "office_name": "At-large Congressional District"
+      },
+      {
+        "contest_id": 11,
+        "office": "sd-d",
+        "office_name": "State Senate District D"
+      },
+      {
+        "contest_id": 13,
+        "office": "sd-f",
+        "office_name": "State Senate District F"
+      },
+      {
+        "contest_id": 19,
+        "office": "sd-l",
+        "office_name": "State Senate District L"
+      },
+      {
+        "contest_id": 21,
+        "office": "sd-n",
+        "office_name": "State Senate District N"
+      },
+      {
+        "contest_id": 25,
+        "office": "sd-r",
+        "office_name": "State Senate District R"
+      },
+      {
+        "contest_id": 28,
+        "office": "hd-01",
+        "office_name": "State House District 1"
+      },
+      {
+        "contest_id": 33,
+        "office": "hd-06",
+        "office_name": "State House District 6"
+      },
+      {
+        "contest_id": 42,
+        "office": "hd-15",
+        "office_name": "State House District 15"
+      },
+      {
+        "contest_id": 46,
+        "office": "hd-19",
+        "office_name": "State House District 19"
+      },
+      {
+        "contest_id": 55,
+        "office": "hd-28",
+        "office_name": "State House District 28"
+      },
+      {
+        "contest_id": 63,
+        "office": "hd-36",
+        "office_name": "State House District 36"
+      },
+      {
+        "contest_id": 65,
+        "office": "hd-38",
+        "office_name": "State House District 38"
+      },
+      {
+        "contest_id": 67,
+        "office": "hd-40",
+        "office_name": "State House District 40"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+# FILE NAME: 00081-00000041.soi
+# TITLE: 2024 Alaska General Election - State House District 40
+# DESCRIPTION: 2024-11-05; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 3055
+# NUMBER UNIQUE ORDERS: 37
+# ALTERNATIVE NAME 1: Chase, Saima "Ikrik" (Registered Democrat)
+# ALTERNATIVE NAME 2: Baker, Thomas C. "Ikaaq" (Undeclared)
+# ALTERNATIVE NAME 3: Burke, Robyn "Niayuq" (Registered Democrat)
+# ALTERNATIVE NAME 4: Write-in
+808: 3
+491: 2
+437: 1
+252: 3, 1, 2
+239: 3, 2, 1
+178: 1, 3, 2
+145: 1, 2, 3
+108: 2, 1, 3
+100: 2, 3, 1
+94: 3, 1
+78: 1, 3
+27: 1, 2
+22: 3, 2
+16: 2, 1
+14: 2, 3
+13: 4
+4: 2, 1, 3, 4
+3: 1, 2, 3, 4
+3: 3, 1, 4, 2
+2: 2, 4, 1, 3
+2: 3, 1, 4
+2: 4, 1, 3, 2
+2: 4, 2, 1, 3
+2: 4, 3, 2, 1
+1: 1, 3, 4
+1: 1, 3, 4, 2
+1: 1, 4
+1: 1, 4, 3, 2
+1: 2, 1, 4
+1: 2, 1, 4, 3
+1: 2, 3, 1, 4
+1: 2, 4
+1: 3, 1, 2, 4
+1: 3, 2, 1, 4
+1: 3, 4, 1, 2
+1: 4, 2
+1: 4, 2, 3, 1
