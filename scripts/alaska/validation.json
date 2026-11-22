@@ -1,0 +1,10 @@
+{
+  "profiles": 41,
+  "ballots": 1986738,
+  "no_counted_preference": 42437,
+  "invalid_contest_records": 10037,
+  "first_preferences_match_ranked_vote": true,
+  "pairwise_counts_checked": 608,
+  "pairwise_counts_match_ranked_vote": true,
+  "repository_sanity_checks": "passed_with_warnings_escalated"
+}

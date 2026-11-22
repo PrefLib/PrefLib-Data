@@ -1,0 +1,76 @@
+# FILE NAME: 00081-00000006.soi
+# TITLE: 2022 Alaska General Election - State Senate District D
+# DESCRIPTION: 2022-11-08; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 15274
+# NUMBER UNIQUE ORDERS: 60
+# ALTERNATIVE NAME 1: Babcock, Tuckerman
+# ALTERNATIVE NAME 2: Bjorkman, Jesse J.
+# ALTERNATIVE NAME 3: Cizek, Andy
+# ALTERNATIVE NAME 4: Write-in
+3540: 2
+3045: 1
+2119: 1, 2
+1633: 2, 1
+975: 3
+730: 2, 1, 3
+679: 1, 2, 3
+519: 2, 3
+517: 2, 3, 1
+352: 3, 2, 1
+198: 1, 3
+189: 1, 3, 2
+172: 3, 1, 2
+161: 3, 2
+84: 3, 1
+84: 4
+35: 2, 4
+28: 1, 2, 4
+27: 1, 4
+22: 4, 2
+20: 2, 1, 4
+15: 1, 2, 3, 4
+13: 3, 4
+9: 2, 3, 4
+6: 1, 2, 4, 3
+6: 1, 3, 4
+6: 2, 1, 3, 4
+6: 2, 3, 4, 1
+6: 3, 4, 2, 1
+6: 4, 1, 2, 3
+6: 4, 2, 1, 3
+6: 4, 2, 3
+5: 2, 1, 4, 3
+5: 2, 3, 1, 4
+5: 2, 4, 3, 1
+4: 3, 2, 1, 4
+4: 4, 3
+3: 1, 4, 3
+3: 2, 4, 3
+3: 4, 3, 2, 1
+2: 1, 3, 2, 4
+2: 1, 4, 2
+2: 1, 4, 2, 3
+2: 3, 1, 2, 4
+2: 3, 1, 4, 2
+2: 3, 2, 4
+2: 3, 4, 2
+2: 4, 2, 1
+1: 1, 3, 4, 2
+1: 2, 4, 1
+1: 2, 4, 1, 3
+1: 3, 2, 4, 1
+1: 3, 4, 1, 2
+1: 4, 1
+1: 4, 1, 2
+1: 4, 1, 3, 2
+1: 4, 2, 3, 1
+1: 4, 3, 1
+1: 4, 3, 1, 2
+1: 4, 3, 2

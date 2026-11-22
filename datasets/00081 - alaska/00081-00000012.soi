@@ -1,0 +1,75 @@
+# FILE NAME: 00081-00000012.soi
+# TITLE: 2022 Alaska General Election - State Senate District R
+# DESCRIPTION: 2022-11-08; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 14669
+# NUMBER UNIQUE ORDERS: 59
+# ALTERNATIVE NAME 1: Verhagen, Elijah M.
+# ALTERNATIVE NAME 2: Bishop, Click
+# ALTERNATIVE NAME 3: Williams, Robert "Bert"
+# ALTERNATIVE NAME 4: Write-in
+4804: 2
+1785: 1
+1201: 3
+1174: 2, 1
+959: 1, 2
+955: 2, 1, 3
+860: 2, 3, 1
+472: 1, 2, 3
+430: 2, 3
+404: 3, 2, 1
+368: 1, 3
+332: 1, 3, 2
+304: 3, 1, 2
+210: 3, 2
+126: 3, 1
+61: 4
+33: 2, 4
+19: 1, 4
+13: 1, 3, 4
+13: 2, 1, 3, 4
+13: 3, 2, 1, 4
+10: 2, 1, 4
+10: 2, 3, 4, 1
+10: 3, 4
+9: 1, 2, 3, 4
+9: 2, 3, 1, 4
+8: 4, 2
+5: 1, 2, 4
+5: 2, 1, 4, 3
+5: 4, 3, 1, 2
+4: 1, 3, 4, 2
+4: 2, 4, 1, 3
+4: 2, 4, 3, 1
+4: 3, 4, 2, 1
+4: 4, 3
+4: 4, 3, 2, 1
+3: 2, 3, 4
+3: 3, 2, 4, 1
+2: 1, 3, 2, 4
+2: 1, 4, 2
+2: 1, 4, 3
+2: 2, 4, 3
+2: 3, 1, 4, 2
+2: 3, 2, 4
+2: 3, 4, 1, 2
+2: 4, 1
+2: 4, 2, 1, 3
+2: 4, 3, 1
+2: 4, 3, 2
+1: 1, 2, 4, 3
+1: 2, 4, 1
+1: 3, 1, 2, 4
+1: 3, 4, 1
+1: 3, 4, 2
+1: 4, 1, 2
+1: 4, 1, 2, 3
+1: 4, 1, 3, 2
+1: 4, 2, 1
+1: 4, 2, 3, 1

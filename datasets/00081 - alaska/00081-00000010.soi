@@ -1,0 +1,63 @@
+# FILE NAME: 00081-00000010.soi
+# TITLE: 2022 Alaska General Election - State Senate District P
+# DESCRIPTION: 2022-11-08; instant runoff, 1 seat. Rankings as counted under AS 15.15.350. Source: Alaska Division of Elections; reports: ranked.vote.
+# DATA TYPE: soi
+# MODIFICATION TYPE: original
+# RELATES TO:
+# RELATED FILES: 00081-00000042.dat
+# PUBLICATION DATE:
+# MODIFICATION DATE: 2026-11-22
+# NUMBER ALTERNATIVES: 4
+# NUMBER VOTERS: 8399
+# NUMBER UNIQUE ORDERS: 47
+# ALTERNATIVE NAME 1: Jafre, Alex N.
+# ALTERNATIVE NAME 2: Kawasaki, Scott
+# ALTERNATIVE NAME 3: Matherly, Jim
+# ALTERNATIVE NAME 4: Write-in
+2412: 2
+1395: 3
+1186: 3, 1
+696: 2, 3, 1
+531: 2, 1, 3
+447: 3, 1, 2
+425: 2, 3
+242: 3, 2, 1
+191: 1
+184: 3, 2
+183: 1, 3
+148: 2, 1
+95: 1, 3, 2
+61: 1, 2, 3
+26: 1, 2
+26: 3, 1, 4
+21: 2, 4
+16: 3, 4
+15: 4
+14: 2, 4, 1, 3
+13: 3, 1, 4, 2
+11: 4, 1
+10: 2, 4, 3, 1
+8: 2, 1, 4, 3
+5: 2, 1, 4
+4: 2, 3, 1, 4
+4: 3, 4, 1, 2
+3: 2, 3, 4
+3: 4, 1, 3
+2: 1, 3, 4
+2: 1, 3, 4, 2
+2: 1, 4, 3
+2: 2, 1, 3, 4
+2: 2, 4, 3
+2: 4, 1, 2
+1: 1, 2, 3, 4
+1: 1, 2, 4
+1: 1, 3, 2, 4
+1: 1, 4
+1: 2, 4, 1
+1: 3, 1, 2, 4
+1: 3, 2, 4, 1
+1: 3, 4, 1
+1: 4, 1, 3, 2
+1: 4, 2, 3
+1: 4, 3, 1, 2
+1: 4, 3, 2, 1
