@@ -98,7 +98,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/midstocket-rosemount",
       "file_name": "00078-00000001.soi",
       "title": "2022 Scotland - Aberdeen - 10 Midstocket-Rosemount",
-      "output_sha256": "e9ef94a205315439b59eaf8394856b3997ee41ffad8844e41182e2f354b12396"
+      "output_sha256": "ffe8917a6c894e6359e424cd3c999c167ab7c2381ca5befe5dae44b63986243d"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/11_Northfield-Mastrick_North.dat",
@@ -111,7 +111,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/northfield-mastrick-north",
       "file_name": "00078-00000002.soi",
       "title": "2022 Scotland - Aberdeen - 11 Northfield-Mastrick North",
-      "output_sha256": "3f3e4401b66f3aa23747df1e3a9e6aecab5eee75af94b310de4d06f757b1b535"
+      "output_sha256": "2879d37406f334a466046845bbd53b333156ba09b06218e34d8d502cc74eeeb3"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/12_Tillydrone-Seaton-Old_Aberdeen.dat",
@@ -124,7 +124,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/tillydrone-seaton-old-aberdeen",
       "file_name": "00078-00000003.soi",
       "title": "2022 Scotland - Aberdeen - 12 Tillydrone-Seaton-Old Aberdeen",
-      "output_sha256": "dfbe821a1e1315f6257c8e0801d9c51ca07525ab341fc4109ece9adbf0dbf7b0"
+      "output_sha256": "876cdd01d8cba20ff7c1ca70596415440683094c7de0eb8d1e1d7ffa9b3d6311"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/13_Torry-Ferryhill.dat",
@@ -137,7 +137,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/torry-ferryhill",
       "file_name": "00078-00000004.soi",
       "title": "2022 Scotland - Aberdeen - 13 Torry-Ferryhill",
-      "output_sha256": "5eaf33a9151a7aeb6a7334afabae1dddfc6caa89be8a56abd74ecbc92d1b7c66"
+      "output_sha256": "8a7dc90fc70111f33dd2c1affd62a8e77481b0e7566d3a918ac760528e8defab"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/1_Airyhall-Broomhill-Garthdee.dat",
@@ -150,7 +150,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/airyhall-broomhill-garthdee",
       "file_name": "00078-00000005.soi",
       "title": "2022 Scotland - Aberdeen - 1 Airyhall-Broomhill-Garthdee",
-      "output_sha256": "322a20e0233b70c070a5860503c3c670c586cb05de622af1ae5a1768df63b0b1"
+      "output_sha256": "3fbc2d65d13731483a0043b5ca732f05551d7fc287ab541522c6be2556c4ec94"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/2_Bridge_of_Don.dat",
@@ -163,7 +163,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/bridge-of-don",
       "file_name": "00078-00000006.soi",
       "title": "2022 Scotland - Aberdeen - 2 Bridge of Don",
-      "output_sha256": "d5e526de2ecea0aeeb19a5743b576490337e5c5528724a1e4048e3cc187e9cd8"
+      "output_sha256": "1bda49841c62ce2c36b59b7e4f2309cfbcf90871d8466262c48d3c6b2c269f0e"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/3_Dyce-Bucksburn-Danestone.dat",
@@ -176,7 +176,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/dyce-bucksburn-danestone",
       "file_name": "00078-00000007.soi",
       "title": "2022 Scotland - Aberdeen - 3 Dyce-Bucksburn-Danestone",
-      "output_sha256": "2f03f0080090b443fbf08e19f0fa5f54aa4be38aafca9587d6f1f1f045f787e2"
+      "output_sha256": "e44b36799aefd2b27e515a4643f8beab5f2fb68b9e0afb7eebc3b858d8ebdd25"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/4_George_St-Harbour.dat",
@@ -189,7 +189,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/george-st-harbour",
       "file_name": "00078-00000008.soi",
       "title": "2022 Scotland - Aberdeen - 4 George St-Harbour",
-      "output_sha256": "8ac34b5c209430bae0548ceb7b84a9a2ea3e3e3cb0037b1d5b93fea4d1bde308"
+      "output_sha256": "342130118e03815727725fd3a4aaedd1f696cca22e56485562604568f8122475"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/5_Hazlehead-Queens_Cross-Countesswells.dat",
@@ -202,7 +202,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/hazlehead-queens-cross-countesswells",
       "file_name": "00078-00000009.soi",
       "title": "2022 Scotland - Aberdeen - 5 Hazlehead-Queens Cross-Countesswells",
-      "output_sha256": "706279e6a16de5e103ba61eadff45fc26f7e9e22a5491ca6ae368ec972529759"
+      "output_sha256": "27d1eb79ebd36da7236414daf0c7db5c3aa995e6be492cf9484823066a283d7f"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/6_Hilton-Woodside-Stockethill.dat",
@@ -215,7 +215,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/hilton-woodside-stockethill",
       "file_name": "00078-00000010.soi",
       "title": "2022 Scotland - Aberdeen - 6 Hilton-Woodside-Stockethill",
-      "output_sha256": "3630bdf79b26f608a2a5160ffa54994904b5dbdb17e701c6eb5f5fbe87147284"
+      "output_sha256": "3a3ea3c775e4606c7975881efea58d165fe99beaea0e23c19960fa5b9b9a428a"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/7_Kincorth-Nigg-Cove.dat",
@@ -228,7 +228,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/kincorth-nigg-cove",
       "file_name": "00078-00000011.soi",
       "title": "2022 Scotland - Aberdeen - 7 Kincorth-Nigg-Cove",
-      "output_sha256": "d0cb919916463d43d00dd132d70079fbc88fe841d45dcf7f2146788ea43e9b4f"
+      "output_sha256": "b01f3a7fb0710fdd9f8f82186bb818c70ac6917b851f4227d713a9d44300a8ef"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/8_Kingswells-Sheddocksley-Summerhill.dat",
@@ -241,7 +241,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/kingswells-sheddocksley-summerhill",
       "file_name": "00078-00000012.soi",
       "title": "2022 Scotland - Aberdeen - 8 Kingswells-Sheddocksley-Summerhill",
-      "output_sha256": "d38f30bd3642d33979e896fb01dee3cd46bde34ca6a440b270400809d8b7f42d"
+      "output_sha256": "ae12eb781143a53adc477379662297014e4e94e0df591a29f3b85d7ba101207c"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeen/9_Lower_Deeside.dat",
@@ -254,7 +254,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeen/2022/05/lower-deeside",
       "file_name": "00078-00000013.soi",
       "title": "2022 Scotland - Aberdeen - 9 Lower Deeside",
-      "output_sha256": "0fd328203e24868f298f9359aae87c777f4bc70a4f3c7e5bbb9192a63f2a4115"
+      "output_sha256": "5c507cf72dcf095232b7ca08aa918539a40c631a9ae6c53aefcb6ad2d6a5cc51"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/10_West_Garioch.dat",
@@ -267,7 +267,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/west-garioch",
       "file_name": "00078-00000014.soi",
       "title": "2022 Scotland - Aberdeenshire - 10 West Garioch",
-      "output_sha256": "5ef8e0e9c0f6247294549ea293c5914c877564949bddd90687f22bea83b456eb"
+      "output_sha256": "baefb1c27229278a14f5c9bb12c5f390ddf716c1a622a7d34fd727216c4e38f1"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/11_Inverurie_and_District.dat",
@@ -280,7 +280,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/inverurie-and-district",
       "file_name": "00078-00000015.soi",
       "title": "2022 Scotland - Aberdeenshire - 11 Inverurie and District",
-      "output_sha256": "b46e4d55d9d6f057ac68b9ea8eaeab194337e2e44f8e14a510c70d36c6fd17c2"
+      "output_sha256": "481cf6128b39898f1fb25653f6a34c8260d3c3b2565f70727cee0ebad1ce3a64"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/12_East_Garioch.dat",
@@ -293,7 +293,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/east-garioch",
       "file_name": "00078-00000016.soi",
       "title": "2022 Scotland - Aberdeenshire - 12 East Garioch",
-      "output_sha256": "9b71ba51900ce11f7700b6c96ce55ef92023a9afc51c6f8b500ec5bf4c10f9a2"
+      "output_sha256": "58c4e4a9f6aab2f7b6302b60d62485b2faf20b8eeb919497a91fec32e7036e53"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/13_Westhill_and_District.dat",
@@ -306,7 +306,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/westhill-and-district",
       "file_name": "00078-00000017.soi",
       "title": "2022 Scotland - Aberdeenshire - 13 Westhill and District",
-      "output_sha256": "7aa2eb33270753657c70faf622f2c608c53b07b0d6822603af3cf53a33c77cb9"
+      "output_sha256": "e2b534c2d5e92edbf6c7a5c403831cf817a96f4341f31bb72c1493f117f8ec7a"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/14_Huntly_Strathbogie_and_Howe_of_Alford.dat",
@@ -319,7 +319,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/huntly-strathbogie-and-howe-of-alford",
       "file_name": "00078-00000018.soi",
       "title": "2022 Scotland - Aberdeenshire - 14 Huntly Strathbogie and Howe of Alford",
-      "output_sha256": "99d124602f7af9501dc8988a1510c98f70bc45d9a2b3cd362846ba14670178d5"
+      "output_sha256": "a9d5ed5ed033034a07ad8208e134eef758770be17a233572f9ee810c648182d1"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/15_Aboyne_Upper_Deeside_and_Donside.dat",
@@ -332,7 +332,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/aboyne-upper-deeside-and-donside",
       "file_name": "00078-00000019.soi",
       "title": "2022 Scotland - Aberdeenshire - 15 Aboyne Upper Deeside and Donside",
-      "output_sha256": "c954fba6c3af16a46322868e1fd3d9ff864acbf24a0a51ca5cde67789bbe241b"
+      "output_sha256": "9969a0ebbc4e4c16c6b8f6f44b74f71c2c7b1232bdc4e37580712578bae6277a"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/16_Banchory_and_Mid_Deeside.dat",
@@ -345,7 +345,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/banchory-and-mid-deeside",
       "file_name": "00078-00000020.soi",
       "title": "2022 Scotland - Aberdeenshire - 16 Banchory and Mid Deeside",
-      "output_sha256": "17dd1426ceddfbf4b3add49a52abc18bbf9e42ebfe50dad2c9836a82cf707921"
+      "output_sha256": "a1550af540322644309d9366a84f77c15f22307498313e6c798ba2094a76bb1d"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/17_North_Kincardine.dat",
@@ -358,7 +358,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/north-kincardine",
       "file_name": "00078-00000021.soi",
       "title": "2022 Scotland - Aberdeenshire - 17 North Kincardine",
-      "output_sha256": "0a97b6eda5596394208937f35b3f4d8ed9b7995e46cb4ca244589e08094e1b7e"
+      "output_sha256": "6eb53fc88ae1bce60f7f7dcabdd6a04a579ecb35a36d7a3d1e01773aaaf88bd5"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/18_Stonehaven_and_Lower_Deeside.dat",
@@ -371,7 +371,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/stonehaven-and-lower-deeside",
       "file_name": "00078-00000022.soi",
       "title": "2022 Scotland - Aberdeenshire - 18 Stonehaven and Lower Deeside",
-      "output_sha256": "2560bda30c45ff7dd66115c255f5423fb89dca9c17f00a513ee08c2e39300145"
+      "output_sha256": "1716e86009e90dad034492996fbf9346957ac3d400cf811ef8bd88b0d4615bb8"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/19_Mearns.dat",
@@ -384,7 +384,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/mearns",
       "file_name": "00078-00000023.soi",
       "title": "2022 Scotland - Aberdeenshire - 19 Mearns",
-      "output_sha256": "635164ebc989f63f86a6a510184695b76bbceb1c67f191c4d0e4819a3a10ffb5"
+      "output_sha256": "db114c7c0d6881e0fe97f827bcb0e22935f0b375e40c0ffa769b529b5cdeb8ea"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/1_Banff_and_District.dat",
@@ -397,7 +397,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/banff-and-district",
       "file_name": "00078-00000024.soi",
       "title": "2022 Scotland - Aberdeenshire - 1 Banff and District",
-      "output_sha256": "2469d501b4d4b3113742b68fdf413f3c89b50daaf12ad8a7a7aa10e76476ccda"
+      "output_sha256": "a2b6cae722379dce02835d9864553385aa3a95bca1c7391ecf245f75809ff969"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/2_Troup.dat",
@@ -410,7 +410,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/troup",
       "file_name": "00078-00000025.soi",
       "title": "2022 Scotland - Aberdeenshire - 2 Troup",
-      "output_sha256": "4b6f058ae9b5fba4e01a0687b36f937514bc7d36e3488904c4286e587c7242da"
+      "output_sha256": "7d4bbd5060aa4b307b4464920bac117af465b254e4511b981dc32e9a5a31d2f5"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/3_Fraserburgh_and_District.dat",
@@ -423,7 +423,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/fraserburgh-and-district",
       "file_name": "00078-00000026.soi",
       "title": "2022 Scotland - Aberdeenshire - 3 Fraserburgh and District",
-      "output_sha256": "085358dbd2b3ad70f972d4d85d0399e8900b5e090d23f625c52b6dbd78f36313"
+      "output_sha256": "2ec2d1031edeb870e16511af6b3775cdf6b718cb18855e0e002c2b52863e6e5c"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/4_Central_Buchan.dat",
@@ -436,7 +436,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/central-buchan",
       "file_name": "00078-00000027.soi",
       "title": "2022 Scotland - Aberdeenshire - 4 Central Buchan",
-      "output_sha256": "9149bc2dbcddb9a2df43e174107a4b4f4b78e3f40bab50cab03a2145c2a8a92a"
+      "output_sha256": "2b67176afdb4a6a2eeec42214c6afa5eb0e29589699f80f51f154d374ffb381e"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/5_Peterhead_North_and_Rattray.dat",
@@ -449,7 +449,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/peterhead-north-and-rattray",
       "file_name": "00078-00000028.soi",
       "title": "2022 Scotland - Aberdeenshire - 5 Peterhead North and Rattray",
-      "output_sha256": "59ccbe6e1fda2278b53d814d7b4f01cc9fa4a84c19adaa2430ed64cef5a00783"
+      "output_sha256": "8d6eefad2247305ad1777043e10dc4ddfd7ed47f3c139dd9a1dd65d4a22a65f5"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/6_Peterhead_South_and_Cruden.dat",
@@ -462,7 +462,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/peterhead-south-and-cruden",
       "file_name": "00078-00000029.soi",
       "title": "2022 Scotland - Aberdeenshire - 6 Peterhead South and Cruden",
-      "output_sha256": "53686608c4483d99fb9bbcbbcce36d328299aa83d41d589ce3f47f205e6de51d"
+      "output_sha256": "6b6c46b1c90e4f97867fbac770f082a305051ac7aa428eef794bb4dcec5de595"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/7_Turriff_and_District.dat",
@@ -475,7 +475,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/turriff-and-district",
       "file_name": "00078-00000030.soi",
       "title": "2022 Scotland - Aberdeenshire - 7 Turriff and District",
-      "output_sha256": "81c5b3511b0aba22547090fc0ec976ef0661f7381e9bb854c27bde43cdace5e1"
+      "output_sha256": "b8f0183e20c634d1031246eec4485ac8c65e9ee430cbe148256256c846af0afe"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/8_Mid_Formartine.dat",
@@ -488,7 +488,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/mid-formartine",
       "file_name": "00078-00000031.soi",
       "title": "2022 Scotland - Aberdeenshire - 8 Mid Formartine",
-      "output_sha256": "1adf58f83b15395206596177ca061e1da8ebaabba10a1fba344393d5e1bca2f8"
+      "output_sha256": "42e001c2ab43db657f35cc1138e21aab6833db172837e5ba4f0eb246a18a4a84"
     },
     {
       "source_path": "SC2022_ballot_format/Aberdeenshire/9_Ellon_and_District.dat",
@@ -501,7 +501,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/aberdeenshire/2022/05/ellon-and-district",
       "file_name": "00078-00000032.soi",
       "title": "2022 Scotland - Aberdeenshire - 9 Ellon and District",
-      "output_sha256": "93e4219c8946323844667c3562b2a663574bf1f42a7b304f5219a21e54b74003"
+      "output_sha256": "bcfdf408e93d938f52ab2de4ac4e8b0554af35b9363c556284b8b2a4dcb282e6"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/1_Kirriemuir_and_Dean.dat",
@@ -514,7 +514,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/kirriemuir-and-dean",
       "file_name": "00078-00000033.soi",
       "title": "2022 Scotland - Angus - 1 Kirriemuir and Dean",
-      "output_sha256": "67565ef1e098b2ef638c49de74557b541f21183c39229c92d13474b8d891ff39"
+      "output_sha256": "75851881f895b3f6afab34885826afc0dcb79f6cbbdef5780508d8de0ada13a7"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/2_Brechin_and_Edzell.dat",
@@ -527,7 +527,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/brechin-and-edzell",
       "file_name": "00078-00000034.soi",
       "title": "2022 Scotland - Angus - 2 Brechin and Edzell",
-      "output_sha256": "b390daa9102045c0f71ac8818dee1bad3295faecd6496f08814aa935031f38b3"
+      "output_sha256": "3aa66275ff1878e7caf6235be2f9fc05ff152c0c7fa5841bb0ece3cf84641c8d"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/3_Forfar_and_District.dat",
@@ -540,7 +540,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/forfar-and-district",
       "file_name": "00078-00000035.soi",
       "title": "2022 Scotland - Angus - 3 Forfar and District",
-      "output_sha256": "b2ba87ac307e7ccb9edde2fb508522a774919ed7195616634f8451d3b4a60215"
+      "output_sha256": "297b310386e577235282e99b3cacfbd82993d4c3557e71be70ac50e369642d09"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/4_Monifieth_and_Sidlaw.dat",
@@ -553,7 +553,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/monifieth-and-sidlaw",
       "file_name": "00078-00000036.soi",
       "title": "2022 Scotland - Angus - 4 Monifieth and Sidlaw",
-      "output_sha256": "e547f813ff530b3e0fad110580fbc50652df4a3b433d1683983f9a16b171a3b4"
+      "output_sha256": "def6cb7dd6a8227ac7051e6b4a7b16b6870175224182b6db3cdb8bac1aed05bf"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/5_Carnoustie_and_District.dat",
@@ -566,7 +566,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/carnoustie-and-district",
       "file_name": "00078-00000037.soi",
       "title": "2022 Scotland - Angus - 5 Carnoustie and District",
-      "output_sha256": "82296fcb450fb1f28b35c8f6cade24cf8175b2b8fae1cd0520a0cc6ebcd631fb"
+      "output_sha256": "79d1c7e5615a554eccb5cacab2b39c00f1ff8cabca60c313f30db8ffad3105ee"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/6_Arbroath_West_Letham_and_Friockheim.dat",
@@ -579,7 +579,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/arbroath-west-letham-and-friockheim",
       "file_name": "00078-00000038.soi",
       "title": "2022 Scotland - Angus - 6 Arbroath West Letham and Friockheim",
-      "output_sha256": "84f4d065597e616cdf97ae6c49dc452218bab01e00ec9abb48d625e7575abbe8"
+      "output_sha256": "daea84c6a28599a5ef9b804e00d26952863fbcfb44d5da5c245c89949fd27bc1"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/7_Arbroath_East_and_Lunan.dat",
@@ -592,7 +592,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/arbroath-east-and-lunan",
       "file_name": "00078-00000039.soi",
       "title": "2022 Scotland - Angus - 7 Arbroath East and Lunan",
-      "output_sha256": "5033d4b1b31644af07317159a5c1e7fe7b02d5c81e9804e5a34d31eba5263c13"
+      "output_sha256": "73163662bfc13ba4837e118004621f4da0b3317abce12552a60f21f5258d7a23"
     },
     {
       "source_path": "SC2022_ballot_format/Angus/8_Montrose_and_District.dat",
@@ -605,7 +605,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/angus/2022/05/montrose-and-district",
       "file_name": "00078-00000040.soi",
       "title": "2022 Scotland - Angus - 8 Montrose and District",
-      "output_sha256": "eb3c75f4d72317f0f1c00347e7b537a78b758de24b1e77933378872cf5d3a7c6"
+      "output_sha256": "6a5e4aa6f58b29c487b684d255944430ca4c070810f1ab64fc027c4b79057592"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/10_Helensburgh_Central.dat",
@@ -618,7 +618,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/helensburgh-central",
       "file_name": "00078-00000041.soi",
       "title": "2022 Scotland - Argyll and Bute - 10 Helensburgh Central",
-      "output_sha256": "af22711bc503e23e2bcaae74490447020b91de4b41275c0640fce3047fbd1439"
+      "output_sha256": "83f450b1eb51b710bd0738fe8fe9150cb2773a8a408f1807cdbd1fe8069499e4"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/11_Helensburgh_and_Lomond_South.dat",
@@ -631,7 +631,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/helensburgh-and-lomond-south",
       "file_name": "00078-00000042.soi",
       "title": "2022 Scotland - Argyll and Bute - 11 Helensburgh and Lomond South",
-      "output_sha256": "2bde0860e2f2059bf599b42dd77554bc9820152e91a0a7d6aa7d0a5e59a2e1f1"
+      "output_sha256": "fdd6951e7eaa0ca7ed066dacca07e349fd978dc9749be2ac3602d9911bcafd80"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/1_South_Kintyre.dat",
@@ -644,7 +644,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/south-kintyre",
       "file_name": "00078-00000043.soi",
       "title": "2022 Scotland - Argyll and Bute - 1 South Kintyre",
-      "output_sha256": "b1d2990552f4932abafb596edb9beb013ff02b874a708f133753871191a380f7"
+      "output_sha256": "c0ddd129a1959da527254db84f93acd087721e948996b56d0c090399d0545dd2"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/2_Kintyre_and_the_Islands.dat",
@@ -657,7 +657,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/kintyre-and-the-islands",
       "file_name": "00078-00000044.soi",
       "title": "2022 Scotland - Argyll and Bute - 2 Kintyre and the Islands",
-      "output_sha256": "8729cd0793289c377c79e3987ac3c76f20596fce756669c39b1c1f3cc7b25e48"
+      "output_sha256": "1351cb37741ed5711480f51f96eca75954ffd137cb39fc74b202476f0b306449"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/3_Mid-Argyll.dat",
@@ -670,7 +670,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/mid-argyll",
       "file_name": "00078-00000045.soi",
       "title": "2022 Scotland - Argyll and Bute - 3 Mid-Argyll",
-      "output_sha256": "85751916c927dec0aec62bd4c82cb3bcd9b091f34447b1d2dfd17889e0dcd4a9"
+      "output_sha256": "c1d4c5efc80dba211fb7777febe2ab29ab3d69534f58ebb490ee75169d4e4d67"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/4_Oban_South_and_the_Isles.dat",
@@ -683,7 +683,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/oban-south-and-the-isles",
       "file_name": "00078-00000046.soi",
       "title": "2022 Scotland - Argyll and Bute - 4 Oban South and the Isles",
-      "output_sha256": "eb90e3c217dbb3f77a42e5baa01e1c60b9bf3d54d79ea3e0556e0a0ed0e4c570"
+      "output_sha256": "e01d4719e8631df85b71e33565a633373915cc2065827bcbb9a001a7ee983bca"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/5_Oban_North_and_Lorn.dat",
@@ -696,7 +696,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/oban-north-and-lorn",
       "file_name": "00078-00000047.soi",
       "title": "2022 Scotland - Argyll and Bute - 5 Oban North and Lorn",
-      "output_sha256": "dfe2c1582d85df8c28a843e099652f3f97e484af30e158d7587a61e0b44c56c1"
+      "output_sha256": "be2c65e5343465cd8b1cd218bd32a13751f839ba74137fba587486d25db2e23a"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/6_Cowal.dat",
@@ -709,7 +709,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/cowal",
       "file_name": "00078-00000048.soi",
       "title": "2022 Scotland - Argyll and Bute - 6 Cowal",
-      "output_sha256": "7fb869853467396c6a96827de947fe303b72f65696c871f40e1d02f17be99d48"
+      "output_sha256": "654cc8baf994c744a23fb68125c77a88632c391710e226b49a24a28d4b3fe6e4"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/7_Dunoon.dat",
@@ -722,7 +722,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/dunoon",
       "file_name": "00078-00000049.soi",
       "title": "2022 Scotland - Argyll and Bute - 7 Dunoon",
-      "output_sha256": "4beaa8811dc6fff37ce38fee66c7e52eaa09f013d68da1dd19c2437780e7e33f"
+      "output_sha256": "fbed43004326d60d71503ecc9b5930a13b829f9c48f72ebbcd0249511f4038f8"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/8_Isle_of_Bute.dat",
@@ -735,7 +735,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/isle-of-bute",
       "file_name": "00078-00000050.soi",
       "title": "2022 Scotland - Argyll and Bute - 8 Isle of Bute",
-      "output_sha256": "63e2a7d4d57fee0b5600a77d3ce8016b9b8e8918014a2e183a110af545d82d83"
+      "output_sha256": "ee08f0aaaf3c0b9b691a59d0e7f41157cce8f6750d4718eb9a071c2f75fdc7f4"
     },
     {
       "source_path": "SC2022_ballot_format/Argyll_and_Bute/9_Lomond_North.dat",
@@ -748,7 +748,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/argyll-and-bute/2022/05/lomond-north",
       "file_name": "00078-00000051.soi",
       "title": "2022 Scotland - Argyll and Bute - 9 Lomond North",
-      "output_sha256": "a755e5501b7fc0903722fe15699a86d09102669a646de6ebae82284cb54dac09"
+      "output_sha256": "97344866cf83b61364670a1c53b754bcb2c89b737a6155155eebe5b9fc373d93"
     },
     {
       "source_path": "SC2022_ballot_format/Clackmannanshire/1_Clackmannanshire_West.dat",
@@ -761,7 +761,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/clackmannanshire/2022/05/clackmannanshire-west",
       "file_name": "00078-00000052.soi",
       "title": "2022 Scotland - Clackmannanshire - 1 Clackmannanshire West",
-      "output_sha256": "6f439e44cafcf4d8a389832e746adeae597539f655e3eca7176f99c0ca5f079b"
+      "output_sha256": "3aeae1cf1ef4da8a8ac677275faded141acdc9a17c22ea02dddfdbe4adff7d3a"
     },
     {
       "source_path": "SC2022_ballot_format/Clackmannanshire/2_Clackmannanshire_North.dat",
@@ -774,7 +774,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/clackmannanshire/2022/05/clackmannanshire-north",
       "file_name": "00078-00000053.soi",
       "title": "2022 Scotland - Clackmannanshire - 2 Clackmannanshire North",
-      "output_sha256": "62a2808f2435e25a8305dbaa54316491b7af1d293378a84ddbb804e5af734fd2"
+      "output_sha256": "8107dce2308e6866856a912227183e1734fe3647f26d08dde1b61fc79943f706"
     },
     {
       "source_path": "SC2022_ballot_format/Clackmannanshire/3_Clackmannanshire_Central.dat",
@@ -787,7 +787,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/clackmannanshire/2022/05/clackmannanshire-central",
       "file_name": "00078-00000054.soi",
       "title": "2022 Scotland - Clackmannanshire - 3 Clackmannanshire Central",
-      "output_sha256": "3c7a7cc748478bc1472dff59c116a1db2c409f582ff7570474cd6925e026bfb9"
+      "output_sha256": "0c00c297df602c48aeb8de9d6a3b3ddd4caa6575e7df1f04cbe015c9a393bacd"
     },
     {
       "source_path": "SC2022_ballot_format/Clackmannanshire/4_Clackmannanshire_South.dat",
@@ -800,7 +800,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/clackmannanshire/2022/05/clackmannanshire-south",
       "file_name": "00078-00000055.soi",
       "title": "2022 Scotland - Clackmannanshire - 4 Clackmannanshire South",
-      "output_sha256": "28684e9166fec9b29a8c49bd54db74a583f6897ae821f2c9f7172c8b4b7e4431"
+      "output_sha256": "c12a4e6ec8c53ff25e6fc9f6d77aabaee1ad2822bd9eee1a1cb7622964fcae75"
     },
     {
       "source_path": "SC2022_ballot_format/Clackmannanshire/5_Clackmannanshire_East.dat",
@@ -813,7 +813,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/clackmannanshire/2022/05/clackmannanshire-east",
       "file_name": "00078-00000056.soi",
       "title": "2022 Scotland - Clackmannanshire - 5 Clackmannanshire East",
-      "output_sha256": "b624d2bc15ebb97c8c1ab33180d48c1f5eed0fef676000afc2da70ece73c844d"
+      "output_sha256": "5db4e0d020372f061e9389f87825ac5f026182916bd235aeed92f71533208677"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/10_Annandale_South.dat",
@@ -826,7 +826,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/annandale-south",
       "file_name": "00078-00000057.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 10 Annandale South",
-      "output_sha256": "5487a159041a653202aa8c5372c610c867993f890fc0197fa249d4ee63d5a4da"
+      "output_sha256": "384d88490ea5b17e9645921619d17eff7769cba4ef717e4172e3bc76c527b317"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/11_Annandale_North.dat",
@@ -839,7 +839,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/annandale-north",
       "file_name": "00078-00000058.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 11 Annandale North",
-      "output_sha256": "1ed28722f0bb005eb285f41f8919da110003acb7b6780ed478d2dec35c07c2c5"
+      "output_sha256": "4c103127e44411dcd5e8e593cce4710ef1c0eaf951bbe82829f4c30b3daa9ace"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/12_Annandale_East_and_Eskdale.dat",
@@ -852,7 +852,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/annandale-east-and-eskdale",
       "file_name": "00078-00000059.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 12 Annandale East and Eskdale",
-      "output_sha256": "ddf0dd1de59cadc75e7bd74e331dfb2a3c6850028930acd525d0029ee6c7b670"
+      "output_sha256": "2d88fc4f1dbf2bb7c8ed0e9775030d8c947666eae1330797f5828bbea759691a"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/1_Stranraer_and_the_Rhins.dat",
@@ -865,7 +865,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/stranraer-and-the-rhins",
       "file_name": "00078-00000060.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 1 Stranraer and the Rhins",
-      "output_sha256": "3d4366e7972dfbcb6fc628e9156f232b14633e6de0d93b9f301f8c8d52f9cb67"
+      "output_sha256": "387d9fbed83bbb7c111e467af54d1485fb492331a41e82550a016de97da9be1c"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/2_Mid_Galloway_and_Wigtown_West.dat",
@@ -878,7 +878,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/mid-galloway-and-wigtown-west",
       "file_name": "00078-00000061.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 2 Mid Galloway and Wigtown West",
-      "output_sha256": "7a81af8dfd445ff5d9f93e3a9ee5370ebfb3bcf19effbe9605fc96039e70ab42"
+      "output_sha256": "6a9dc82eb896e098cb1097a37b4a680bbc4d7a2216b6cb637669469ebc754880"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/3_Dee_and_Glenkens.dat",
@@ -891,7 +891,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/dee-and-glenkens",
       "file_name": "00078-00000062.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 3 Dee and Glenkens",
-      "output_sha256": "2b6c9f96eff1f6632a23eb5251e2d6e5326270e96bf34e0cb5ac55526bb86926"
+      "output_sha256": "a8fdeae4351ce7625fb7480cb5db539c485064af95166f65b372cdcd92b11049"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/4_Castle_Douglas_and_Crocketford.dat",
@@ -904,7 +904,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/castle-douglas-and-crocketford",
       "file_name": "00078-00000063.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 4 Castle Douglas and Crocketford",
-      "output_sha256": "4dc4cc22c337450b1519a95c0595c6fa4dafb72b032f8a188a9983a1417fc3ff"
+      "output_sha256": "b636500a185457534b605948440439677514d4984155455170273130996de614"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/5_Abbey.dat",
@@ -917,7 +917,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/abbey",
       "file_name": "00078-00000064.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 5 Abbey",
-      "output_sha256": "ca4edc743711903d63701ce4bed0b8bc48d7abd0fb5d8d9fdbfa41180b589146"
+      "output_sha256": "3fc396f7d9d8667c741e7822bee4e74896b644297cce98aa87f54a3615c63eaa"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/6_North_West_Dumfries.dat",
@@ -930,7 +930,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/north-west-dumfries",
       "file_name": "00078-00000065.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 6 North West Dumfries",
-      "output_sha256": "dfcc823f0a2e1439a4084a02d3f4edf9964d632146ca27faa2369cf8d09fcd62"
+      "output_sha256": "4dd7add676361aea41c22ed7c08119179665692da40b6c37117ea224a3b1de83"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/7_Mid_and_Upper_Nithsdale.dat",
@@ -943,7 +943,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/mid-and-upper-nithsdale",
       "file_name": "00078-00000066.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 7 Mid and Upper Nithsdale",
-      "output_sha256": "b733389c1bc79735b92fd6f591e0b26f07a399bbeb23092c8e4d6d9ee255eb4d"
+      "output_sha256": "7a2989dc0bdc782d3048f97a4316de3661cd29d8bb4b494797ab31601aa42a3e"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/8_Lochar.dat",
@@ -956,7 +956,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/lochar",
       "file_name": "00078-00000067.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 8 Lochar",
-      "output_sha256": "47102b2ddd9db2eb2e247baa24a3fbe1f078d2596e576e3cc4820c41b4a96588"
+      "output_sha256": "2e2e6f49d1f620343ac2695057b4df2b392304ba8750ed92170fba9ca588e41b"
     },
     {
       "source_path": "SC2022_ballot_format/Dumfries_and_Galloway/9_Nith.dat",
@@ -969,7 +969,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dumfries-and-galloway/2022/05/nith",
       "file_name": "00078-00000068.soi",
       "title": "2022 Scotland - Dumfries and Galloway - 9 Nith",
-      "output_sha256": "ae4d6906cf8ef202dae8b84ed4642db5bfcb940def9e501a14243ced0bf36358"
+      "output_sha256": "0c0271694cfcc3d736f0f123961238a093ef00457c70c2b0ef48a70db3339560"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/1_Strathmartine.dat",
@@ -982,7 +982,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/strathmartine",
       "file_name": "00078-00000069.soi",
       "title": "2022 Scotland - Dundee - 1 Strathmartine",
-      "output_sha256": "c8d0ca9dc9e8c1050343b7086ad716d2f0156e2a9f32286ebc006fa2d581db5e"
+      "output_sha256": "7b09627a02f4de44872b58ce19014b2eff6ac43fc9e4f6a01119b126f696d5da"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/2_Lochee.dat",
@@ -995,7 +995,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/lochee",
       "file_name": "00078-00000070.soi",
       "title": "2022 Scotland - Dundee - 2 Lochee",
-      "output_sha256": "b1c1c3f2a0b95daa0011fef8276cabc35e41718ee6a33d3e9c34d3832253f00b"
+      "output_sha256": "1d0e2ec07f3a4b15d4ea0f7b3dacfd18d7ff82f0135c2d98d8cdb34b04891373"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/3_West_End.dat",
@@ -1008,7 +1008,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/west-end",
       "file_name": "00078-00000071.soi",
       "title": "2022 Scotland - Dundee - 3 West End",
-      "output_sha256": "20041e2a6c1ea9bc462db2ca6549c57f87d6ba3b7795267605b0139cc02f6a08"
+      "output_sha256": "548aa24b4203ad7c6b459747169e8204d4fe19083d1ddd74e1d03e16ac8ee5d0"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/4_Coldside.dat",
@@ -1021,7 +1021,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/coldside",
       "file_name": "00078-00000072.soi",
       "title": "2022 Scotland - Dundee - 4 Coldside",
-      "output_sha256": "d4636adb0a827a5ed62639ca3a2f3d9961cbd78951c64099d467d0271c16140f"
+      "output_sha256": "db87def0a24cc6b08cb9fe95120f49054e31be953828d2fcf1e7d00c7b8804e0"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/5_Maryfield.dat",
@@ -1034,7 +1034,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/maryfield",
       "file_name": "00078-00000073.soi",
       "title": "2022 Scotland - Dundee - 5 Maryfield",
-      "output_sha256": "a9e8d7850b336a53359fcf5110fbabfe16cf1de4a0245d8af314a38aa4597538"
+      "output_sha256": "37443b1401a3533c934fb0f3921dcbdc9fbd39e420ebf139f93f2e47137c3ba8"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/6_North_East.dat",
@@ -1047,7 +1047,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/north-east",
       "file_name": "00078-00000074.soi",
       "title": "2022 Scotland - Dundee - 6 North East",
-      "output_sha256": "2b289cf5d0e3be6b4355b29e166e81f3f7c8e17156d45abbbfbbb33b683c9be6"
+      "output_sha256": "62858bd60018223104b7f3c4e42b20ac78a5d6e1a7e099904b94f8276f4dbb2b"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/7_East_End.dat",
@@ -1060,7 +1060,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/east-end",
       "file_name": "00078-00000075.soi",
       "title": "2022 Scotland - Dundee - 7 East End",
-      "output_sha256": "4d67825bc7164ea6d0c67e41cef22166d275b988d9a3b3fadf98015126289c27"
+      "output_sha256": "ba1ba1533fc79d640c775d358e817a4bf8e0f6c497b138c227d862265db5213b"
     },
     {
       "source_path": "SC2022_ballot_format/Dundee/8_The_Ferry.dat",
@@ -1073,7 +1073,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/dundee/2022/05/the-ferry",
       "file_name": "00078-00000076.soi",
       "title": "2022 Scotland - Dundee - 8 The Ferry",
-      "output_sha256": "254eb41cd80cfa0a5057b24a2df3a377a761eb21e26397863c73c0cc971e7774"
+      "output_sha256": "1b0cc873b59f0f600b21b2fdd56ec874c4b82b14e319c7ca172e75edbbd3bc24"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/1_Annick.dat",
@@ -1086,7 +1086,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/annick",
       "file_name": "00078-00000077.soi",
       "title": "2022 Scotland - East Ayrshire - 1 Annick",
-      "output_sha256": "41c82548ff37f4e3d6d0c5e85073c01b630616f66254bb58f5ad9f5f4913f3ac"
+      "output_sha256": "58875605d3d8d77723819300fc73ef8cbb32933ff93e2d8c027d1ab8b67c2714"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/2_Kilmarnock_North.dat",
@@ -1099,7 +1099,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/kilmarnock-north",
       "file_name": "00078-00000078.soi",
       "title": "2022 Scotland - East Ayrshire - 2 Kilmarnock North",
-      "output_sha256": "143ca758954b7340a013dfdcc1334700c57dd49e31f3f428e565e7f746a3f853"
+      "output_sha256": "5d3ec0cf486dafa27ee3062ec827ed057c277799ede8539fef945e1cb19ff34a"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/3_Kilmarnock_West_and_Crosshouse.dat",
@@ -1112,7 +1112,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/kilmarnock-west-and-crosshouse",
       "file_name": "00078-00000079.soi",
       "title": "2022 Scotland - East Ayrshire - 3 Kilmarnock West and Crosshouse",
-      "output_sha256": "72652e467fe82f30252a52928d44309f01cf5a1d34eb04dbaa522ca94b061dd4"
+      "output_sha256": "928c094c476a17ae88c9f17298e4b4a3822d7331791f90a8c6a5fb79c7718313"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/4_Kilmarnock_East_and_Hurlford.dat",
@@ -1125,7 +1125,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/kilmarnock-east-and-hurlford",
       "file_name": "00078-00000080.soi",
       "title": "2022 Scotland - East Ayrshire - 4 Kilmarnock East and Hurlford",
-      "output_sha256": "621dc5016668a892dc5c1486ed0fa23b8e3ec56f28f5496731df607f687a6469"
+      "output_sha256": "43f5499b4b740a5b97d62f857677fed12bac92f3e02ff58373c4ce5baf0c12dc"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/5_Kilmarnock_South.dat",
@@ -1138,7 +1138,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/kilmarnock-south",
       "file_name": "00078-00000081.soi",
       "title": "2022 Scotland - East Ayrshire - 5 Kilmarnock South",
-      "output_sha256": "03bbe51f97854f24538c50b13fd10ea5117ddc3f9a79b120c0ca34c321707c39"
+      "output_sha256": "c00573cd077268071c4a480250bb919e615a39b68d9108de3b89a4f529274eb1"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/6_Irvine_Valley.dat",
@@ -1151,7 +1151,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/irvine-valley",
       "file_name": "00078-00000082.soi",
       "title": "2022 Scotland - East Ayrshire - 6 Irvine Valley",
-      "output_sha256": "74555f82cfa9742a8a3973037a92ee3d0853c752cd368d40c5ce3ea9b14658a3"
+      "output_sha256": "239d155f5533a0176ff0b1a5fe9126c36cf2b88775f7c1b78a1d4d9ad41d7c77"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/7_Ballochmyle.dat",
@@ -1164,7 +1164,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/ballochmyle",
       "file_name": "00078-00000083.soi",
       "title": "2022 Scotland - East Ayrshire - 7 Ballochmyle",
-      "output_sha256": "c7f2971cdba87e34f338656c918059dd563cb83b2726d707154982e2442d72ca"
+      "output_sha256": "d6eeb6b5edc028d69755a66a44d4d293bce60307da298fcb5752d975539dd06d"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/8_Cumnock_and_New_Cumnock.dat",
@@ -1177,7 +1177,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/cumnock-and-new-cumnock",
       "file_name": "00078-00000084.soi",
       "title": "2022 Scotland - East Ayrshire - 8 Cumnock and New Cumnock",
-      "output_sha256": "d8ff7c7b302408fbbe2c6ab71188e13d389193f89d152d7dbaa523caefb76fd7"
+      "output_sha256": "df0e0b51e56dd6703abd02ac6f828bdba8bbb8764b77fbe9c6e795c40ccb8426"
     },
     {
       "source_path": "SC2022_ballot_format/East_Ayrshire/9_Doon_Valley.dat",
@@ -1190,7 +1190,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-ayrshire/2022/05/doon-valley",
       "file_name": "00078-00000085.soi",
       "title": "2022 Scotland - East Ayrshire - 9 Doon Valley",
-      "output_sha256": "314b20d7811c85aae65c50977a9cecddd262c91624cd175ffcd2af37ba3be474"
+      "output_sha256": "05e4b199d749cb6a0d41f524ac805a8af7b970da2a611a532ccac7f6777e0248"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/1_Milngavie.dat",
@@ -1203,7 +1203,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/milngavie",
       "file_name": "00078-00000086.soi",
       "title": "2022 Scotland - East Dunbartonshire - 1 Milngavie",
-      "output_sha256": "46396c65b5eaf87fcaa4800a45b8f9e2ea12e4d55776fafbae6c298569ab46e4"
+      "output_sha256": "3d3c5a488d65c151ac49c216fd4a66077f24af36ce2ece48ab2b10a520a112ff"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/2_Bearsden_North.dat",
@@ -1216,7 +1216,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/bearsden-north",
       "file_name": "00078-00000087.soi",
       "title": "2022 Scotland - East Dunbartonshire - 2 Bearsden North",
-      "output_sha256": "9ee24db48292fe9561246d3536029b8cd4f8cf67b938f129614f98bc5c28922d"
+      "output_sha256": "e94f355615ae90811c9747b042255c4c7ff1938fc249c24a558e648286f9a356"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/3_Bearsden_South.dat",
@@ -1229,7 +1229,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/bearsden-south",
       "file_name": "00078-00000088.soi",
       "title": "2022 Scotland - East Dunbartonshire - 3 Bearsden South",
-      "output_sha256": "13a07622a088b1ea10688f8765bd854cb56855075615405434594b11637bf9ad"
+      "output_sha256": "af2c10af14a3964d0b5cee60d6d5663d74c3be4509a662731ee5f155621f06bd"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/4_Bishopbriggs_North_and_Campsie.dat",
@@ -1242,7 +1242,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/bishopbriggs-north-and-campsie",
       "file_name": "00078-00000089.soi",
       "title": "2022 Scotland - East Dunbartonshire - 4 Bishopbriggs North and Campsie",
-      "output_sha256": "c22d45c81e41e0aea32b4437e64521cb19ea4c666547a3d253a869b3e51f64b7"
+      "output_sha256": "64d2f4b7648d963c5b21b38e5823fec5b2628dd2e66d9e607b3bed7fe94ae2ef"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/5_Bishopbriggs_South.dat",
@@ -1255,7 +1255,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/bishopbriggs-south",
       "file_name": "00078-00000090.soi",
       "title": "2022 Scotland - East Dunbartonshire - 5 Bishopbriggs South",
-      "output_sha256": "5a46faeb8d794d323fc9d70c0d324427b7ab11417898e667d3b00902cb7ee816"
+      "output_sha256": "bd6e55a516eb3d593a40723191b44a9cbec9ccbddd7356cc8866ea08d34278cc"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/6_Lenzie_and_Kirkintilloch_South.dat",
@@ -1268,7 +1268,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/lenzie-and-kirkintilloch-south",
       "file_name": "00078-00000091.soi",
       "title": "2022 Scotland - East Dunbartonshire - 6 Lenzie and Kirkintilloch South",
-      "output_sha256": "0673c0f03f39b29a2245be21f432b2907891b5cfd7c263611e3378fa5cb9e11f"
+      "output_sha256": "e2cd739e485abd0d5b9b2181db9933a47e838dcd3d1472dba59dce846aef6a47"
     },
     {
       "source_path": "SC2022_ballot_format/East_Dunbartonshire/7_Kirkintilloch_East_and_North_and_Twechar.dat",
@@ -1281,7 +1281,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-dunbartonshire/2022/05/kirkintilloch-east-and-north-and-twechar",
       "file_name": "00078-00000092.soi",
       "title": "2022 Scotland - East Dunbartonshire - 7 Kirkintilloch East and North and Twechar",
-      "output_sha256": "cf3f7db25c80b3cf974326cf0994abd838f7338c989a54c4e7c53f7581fb6cb8"
+      "output_sha256": "37bf9e3b558a804ae8ad19155891b6c2eda5fcea276d4db25bcab390669b3038"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/1_Musselburgh.dat",
@@ -1294,7 +1294,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/musselburgh",
       "file_name": "00078-00000093.soi",
       "title": "2022 Scotland - East Lothian - 1 Musselburgh",
-      "output_sha256": "db3e3b8c3b6c8014e0a588b2464fc4d236fc4280008b108661ca4b5b72ba1021"
+      "output_sha256": "8c97a7f4262fe3c7b88025067cc7907ebf010152c2e33864893e5f3205c80e84"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/2_Preston_Seton_and_Gosford.dat",
@@ -1307,7 +1307,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/preston-seton-and-gosford",
       "file_name": "00078-00000094.soi",
       "title": "2022 Scotland - East Lothian - 2 Preston Seton and Gosford",
-      "output_sha256": "e4c1d3eeb5c3063a275991a2b1cd342ee956a33654d0be3f5b064e3f854e17e8"
+      "output_sha256": "9a7e9d2c81437b881a03957193768453da117a2f475d96b562e8b647a06e2222"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/3_Tranent_Wallyford_and_Macmerry.dat",
@@ -1320,7 +1320,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/tranent-wallyford-and-macmerry",
       "file_name": "00078-00000095.soi",
       "title": "2022 Scotland - East Lothian - 3 Tranent Wallyford and Macmerry",
-      "output_sha256": "752f1076b5665ebf85d32ddf7f9b795737afd48076564054473e8f1adb3e9018"
+      "output_sha256": "2d8a6602d627555916d4b17112ebc5dfaa28c8c6953a94bfd103d813805ad424"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/4_North_Berwick_Coastal.dat",
@@ -1333,7 +1333,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/north-berwick-coastal",
       "file_name": "00078-00000096.soi",
       "title": "2022 Scotland - East Lothian - 4 North Berwick Coastal",
-      "output_sha256": "96411f7d792e8bb94ea6cb5b65600e02bcaf55c86a75f83fb0a08f8e6eabcf8d"
+      "output_sha256": "cf8a2e83cd557ccc65605910d7136e7aab22c0144369865ad5acc14e772a5261"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/5_Haddington_and_Lammermuir.dat",
@@ -1346,7 +1346,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/haddington-and-lammermuir",
       "file_name": "00078-00000097.soi",
       "title": "2022 Scotland - East Lothian - 5 Haddington and Lammermuir",
-      "output_sha256": "e2a4b3e60c54ac2188ac3e9cb0ae13725993938af7f7e5041e7247ff2a611713"
+      "output_sha256": "0d6bc7a83c7f58b5a3181fc9c2340942fd19681ed32386c80b614bb162861249"
     },
     {
       "source_path": "SC2022_ballot_format/East_Lothian/6_Dunbar_and_East_Linton.dat",
@@ -1359,7 +1359,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-lothian/2022/05/dunbar-and-east-linton",
       "file_name": "00078-00000098.soi",
       "title": "2022 Scotland - East Lothian - 6 Dunbar and East Linton",
-      "output_sha256": "d14f94d2cd4c529c38d8e79500ad07830398c4d471acc8fcbe9349bb801db530"
+      "output_sha256": "720d2b3ca84a5a7acf5f8652fec6521f3b0cb611434843fc709b469a16b1d67b"
     },
     {
       "source_path": "SC2022_ballot_format/East_Renfrewshire/1_Barrhead_Liboside_and_Uplawmoor.dat",
@@ -1372,7 +1372,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-renfrewshire/2022/05/barrhead-liboside-and-uplawmoor",
       "file_name": "00078-00000099.soi",
       "title": "2022 Scotland - East Renfrewshire - 1 Barrhead Liboside and Uplawmoor",
-      "output_sha256": "03d5c0658d20d3c006e5a2d6bebf33e65711d027895088f71bd2c942bda194ad"
+      "output_sha256": "d475ee3739c7efc3e64f5a5033a38196d0282d670a3e3469d261bf29f97338f6"
     },
     {
       "source_path": "SC2022_ballot_format/East_Renfrewshire/2_Newton_Mearns_North_and_Neilston.dat",
@@ -1385,7 +1385,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-renfrewshire/2022/05/newton-mearns-north-and-neilston",
       "file_name": "00078-00000100.soi",
       "title": "2022 Scotland - East Renfrewshire - 2 Newton Mearns North and Neilston",
-      "output_sha256": "8c5623f056642d4f67810b73cbe84d5279073fe28be9372c02116dcfe0a6d1b4"
+      "output_sha256": "ff73f6a5c51cc7871ee0621bf42a9a8f147e3c658c55c9bc84cdc216b8ae0228"
     },
     {
       "source_path": "SC2022_ballot_format/East_Renfrewshire/3_Giffnock_and_Thornliebank.dat",
@@ -1398,7 +1398,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-renfrewshire/2022/05/giffnock-and-thornliebank",
       "file_name": "00078-00000101.soi",
       "title": "2022 Scotland - East Renfrewshire - 3 Giffnock and Thornliebank",
-      "output_sha256": "f6c150197214eadc1e7d48c690b804daaa26ccaeb7f39b788ba226245344f2b2"
+      "output_sha256": "1fc82174af3022a7b5aaa484ddc973d6836885929f25f715b9648a87aef70c5d"
     },
     {
       "source_path": "SC2022_ballot_format/East_Renfrewshire/4_Clarkston_Netherlee_and_Williamwood.dat",
@@ -1411,7 +1411,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-renfrewshire/2022/05/clarkston-netherlee-and-williamwood",
       "file_name": "00078-00000102.soi",
       "title": "2022 Scotland - East Renfrewshire - 4 Clarkston Netherlee and Williamwood",
-      "output_sha256": "dbe9dd9eb15b2a03baba8d1a2231a714380d50eb9c4cd5216c8ee94019a109b7"
+      "output_sha256": "0193d2fe86a3618d4528e076af199842889f816cffa780d7ac3f0beaa3141cb5"
     },
     {
       "source_path": "SC2022_ballot_format/East_Renfrewshire/5_Newton_Mearns_South_and_Eaglesham.dat",
@@ -1424,7 +1424,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/east-renfrewshire/2022/05/newton-mearns-south-and-eaglesham",
       "file_name": "00078-00000103.soi",
       "title": "2022 Scotland - East Renfrewshire - 5 Newton Mearns South and Eaglesham",
-      "output_sha256": "4d68e670c572e6cb4c56e19cc63fa51193f34170e3320e9bf700c2f091981c57"
+      "output_sha256": "19e13dfef20793af3b98e03ba6542e02e6f1c5292c3c5dbc77669f5d11273294"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/10_Morningside.dat",
@@ -1437,7 +1437,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/morningside",
       "file_name": "00078-00000104.soi",
       "title": "2022 Scotland - Edinburgh - 10 Morningside",
-      "output_sha256": "d4750aac4f7ceeb2c4543b0dd044fd67dc6666106bbf493f6b004c8cb1415e0f"
+      "output_sha256": "3ba0f845a0c46aaa39bd43ad2a6c2a66ef974d02b804ef2a35a16df322b36bfa"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/11_City_Centre.dat",
@@ -1450,7 +1450,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/city-centre",
       "file_name": "00078-00000105.soi",
       "title": "2022 Scotland - Edinburgh - 11 City Centre",
-      "output_sha256": "f9bb686da9a6d178bb742f1077688518d56cf2d88bc5d5eb4750d8e5b6a6e463"
+      "output_sha256": "fdc043d8d54319694abbf9e720413b35dc46d1b134b9389242940f1d049686e6"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/12_Leith_Walk.dat",
@@ -1463,7 +1463,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/leith-walk",
       "file_name": "00078-00000106.soi",
       "title": "2022 Scotland - Edinburgh - 12 Leith Walk",
-      "output_sha256": "1b899c8501fbd7065e2601c2dece5cedf5e3eaee296c41a0567f36812115f6e5"
+      "output_sha256": "f04ec6651e880d19d390f89f054c2f42f12ca7cfa1052746bb266fc77b31394f"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/13_Leith.dat",
@@ -1476,7 +1476,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/leith",
       "file_name": "00078-00000107.soi",
       "title": "2022 Scotland - Edinburgh - 13 Leith",
-      "output_sha256": "4a5f9bcfd76f7a6ba89be136e96113b9d92b278afa96b0240b67d14d64c7715f"
+      "output_sha256": "52cc08d6711ae7d681924e18255d0fca551d84db893ef70cba7ebdfb81399e36"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/14_Craigentinny-Duddingston.dat",
@@ -1489,7 +1489,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/craigentinny-duddingston",
       "file_name": "00078-00000108.soi",
       "title": "2022 Scotland - Edinburgh - 14 Craigentinny-Duddingston",
-      "output_sha256": "d0dc64e2ed25660ccfdc8df937f7dec6b2c9333c08f672a32eb8dea58cc961fc"
+      "output_sha256": "daeae689ad59dc61e816c66b2896b3734efa4702adb5444dc59418840d267fe4"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/15_Southside-Newington.dat",
@@ -1502,7 +1502,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/southside-newington",
       "file_name": "00078-00000109.soi",
       "title": "2022 Scotland - Edinburgh - 15 Southside-Newington",
-      "output_sha256": "87c90b43c6c6f928021cffb9716e09f77ba788ece954761dff8ce4943a5f7877"
+      "output_sha256": "437a1850cda4a5b63d052e00457c70f49e85729631d88a9256d876a0ab257a58"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/16_Liberton-Gilmerton.dat",
@@ -1515,7 +1515,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/liberton-gilmerton",
       "file_name": "00078-00000110.soi",
       "title": "2022 Scotland - Edinburgh - 16 Liberton-Gilmerton",
-      "output_sha256": "04acf79a01d3ce6121a45357d5ded14420e324ab1f9f93174cda7d12986b9730"
+      "output_sha256": "85d10facc42c81a5483859e11d732606271f7691f0d8b30f6cb44ec959ff44cf"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/17_Portobello-Craigmillar.dat",
@@ -1528,7 +1528,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/portobello-craigmillar",
       "file_name": "00078-00000111.soi",
       "title": "2022 Scotland - Edinburgh - 17 Portobello-Craigmillar",
-      "output_sha256": "3646962c63f4496bdec329b32a672285fd2d640a6ca25a3c04aeff3243637768"
+      "output_sha256": "5307406f5d2a927ea47b473f94f5dfb4e2e3110d88a3229a207634e8665b5929"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/1_Almond.dat",
@@ -1541,7 +1541,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/almond",
       "file_name": "00078-00000112.soi",
       "title": "2022 Scotland - Edinburgh - 1 Almond",
-      "output_sha256": "b36bc3189560c1af4fe74457ed8344dadaf00a28371283793ca7b7f6f0464523"
+      "output_sha256": "fb81f9411d8fe7b78d04bff41a1185292dc00da7095fac59451a18047c884aa8"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/2_Pentland_Hills.dat",
@@ -1554,7 +1554,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/pentland-hills",
       "file_name": "00078-00000113.soi",
       "title": "2022 Scotland - Edinburgh - 2 Pentland Hills",
-      "output_sha256": "ad4aae2c212645f6cec454abfbc6783c8ee0a38134c882cbc070537b42880542"
+      "output_sha256": "7b577c4b044abcfb8eb31fd5251a7f91eabd6359018da0c7c63e782b09c72279"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/3_Drum_Brae-Gyle.dat",
@@ -1567,7 +1567,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/drum-brae-gyle",
       "file_name": "00078-00000114.soi",
       "title": "2022 Scotland - Edinburgh - 3 Drum Brae-Gyle",
-      "output_sha256": "13539242a9f2ba33f09dd5151c4abc556d33ecb70592a9299b90857c48317d7b"
+      "output_sha256": "ac589f85377b2f5177b934159115cbfb43e5a5d4053ce0f2b4851bde12184e81"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/4_Forth.dat",
@@ -1580,7 +1580,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/forth",
       "file_name": "00078-00000115.soi",
       "title": "2022 Scotland - Edinburgh - 4 Forth",
-      "output_sha256": "c871dcc66ada8d4937c5a4e1b49c96e13451305041e5739ede6bd3a59751dae0"
+      "output_sha256": "27142daa1a5f1e9c38bf3a52009c1b6adbfb20feb39f04f68e16f6a128c056a9"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/5_Inverleith.dat",
@@ -1593,7 +1593,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/inverleith",
       "file_name": "00078-00000116.soi",
       "title": "2022 Scotland - Edinburgh - 5 Inverleith",
-      "output_sha256": "6c2cec4bea3447d7f495799e367d112efbf3390b9c10e161860db1a6662b15ca"
+      "output_sha256": "12c16f736d042d636cb8150f86574c3a3deaeef4102c23e091bb66e67f319266"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/6_Corstorphine-Murrayfield.dat",
@@ -1606,7 +1606,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/corstorphine-murrayfield",
       "file_name": "00078-00000117.soi",
       "title": "2022 Scotland - Edinburgh - 6 Corstorphine-Murrayfield",
-      "output_sha256": "ef41aa67a4996911b2232e2575ebd7ae3b72900e586434771815126109471bd5"
+      "output_sha256": "5073d3e89721a67a40bfe044d6cf46b72ff4a1f590870611fd02be68b9b9cc1a"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/7_Sighthill-Gorgie.dat",
@@ -1619,7 +1619,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/sighthill-gorgie",
       "file_name": "00078-00000118.soi",
       "title": "2022 Scotland - Edinburgh - 7 Sighthill-Gorgie",
-      "output_sha256": "d73c0927200394909421cd19f02428702e02e5a267bb2f42dc2cdb6cf2592d0d"
+      "output_sha256": "f055a70ca92d6d4d6f71256ee24db328528a6d4d47843dcebc621cebeeae3ab0"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/8_Colinton-Fairmilehead.dat",
@@ -1632,7 +1632,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/colinton-fairmilehead",
       "file_name": "00078-00000119.soi",
       "title": "2022 Scotland - Edinburgh - 8 Colinton-Fairmilehead",
-      "output_sha256": "07e297ed27a27ecd90770e187ee1a0c2bb9ab5ca70c2ad030288d823b10fd50b"
+      "output_sha256": "130c7b18029ff0542717ccf85f0b9cb4902674bfa2063ac87c837838874cc087"
     },
     {
       "source_path": "SC2022_ballot_format/Edinburgh/9_Fountainbridge-Craiglockhart.dat",
@@ -1645,7 +1645,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/edinburgh/2022/05/fountainbridge-craiglockhart",
       "file_name": "00078-00000120.soi",
       "title": "2022 Scotland - Edinburgh - 9 Fountainbridge-Craiglockhart",
-      "output_sha256": "ce07b55555c8f00aa48372afdd12f3e099d1c2170befa813b3d7267c89a2c733"
+      "output_sha256": "04a0a6420f40e3dd9d275639f33bc78690815225a69c49e052b6c4d121eede01"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/10_Steornabhagh_a_Deas.dat",
@@ -1658,7 +1658,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/steornabhagh-a-deas",
       "file_name": "00078-00000121.soi",
       "title": "2022 Scotland - Eilean Siar - 10 Steornabhagh a Deas",
-      "output_sha256": "b53874426236e2f9575d9847ee3d934e9a3f2a90098d6f3c5b60ab4598ebcce7"
+      "output_sha256": "6367e08fdef825d28d1ff496673c652ad1811f1955bad1a469a4628b6db4627c"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/2_Uibhist_a_Deas_Eirisgeigh_agus_Beinn_na_Faoghla.dat",
@@ -1671,7 +1671,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/uibhist-a-deas-eirisgeigh-agus-beinn-na-faoghla",
       "file_name": "00078-00000122.soi",
       "title": "2022 Scotland - Eilean Siar - 2 Uibhist a Deas Eirisgeigh agus Beinn na Faoghla",
-      "output_sha256": "0547514239577d2cb29c4ad35007addfed932b9cf667e775ab776f15f9d8766b"
+      "output_sha256": "31cc74fd5186579819d0d096455bb0cad817631de16e139a8ec5f52c4b80e31c"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/3_Uibhist_a_Tuath.dat",
@@ -1684,7 +1684,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/uibhist-a-tuath",
       "file_name": "00078-00000123.soi",
       "title": "2022 Scotland - Eilean Siar - 3 Uibhist a Tuath",
-      "output_sha256": "98f79a630a781c2bded5b8756230ae0ec79f5728f04cb95150439e2ea62dc1b5"
+      "output_sha256": "998f7c6ab4910056f2cfea429db8077f4cf092984cb62c3b33240a3778e6e55b"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/4_Na_Hearadh.dat",
@@ -1697,7 +1697,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/na-hearadh",
       "file_name": "00078-00000124.soi",
       "title": "2022 Scotland - Eilean Siar - 4 Na Hearadh",
-      "output_sha256": "8f1b6fd29715c767730e2b728c8ceaabcbe67f359752062bba37bca013fd8514"
+      "output_sha256": "31bcf70e26fd791503897dcaa14919aca885c4b343174a43aef33219d954675a"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/5_Sgire_nan_Loch.dat",
@@ -1710,7 +1710,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/sgire-nan-loch",
       "file_name": "00078-00000125.soi",
       "title": "2022 Scotland - Eilean Siar - 5 Sgire nan Loch",
-      "output_sha256": "b8f8778829b401f20466f4751ab8e56e549c247241556e38d9efbc460b4f5598"
+      "output_sha256": "75ff806864a5c6b01b63b554cf890c9cc78098aa1577fe12947fd9cc3bf22ea5"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/7_An_Taobh_Siar_agus_Nis.dat",
@@ -1723,7 +1723,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/an-taobh-siar-agus-nis",
       "file_name": "00078-00000126.soi",
       "title": "2022 Scotland - Eilean Siar - 7 An Taobh Siar agus Nis",
-      "output_sha256": "4b17765476f833c5a1687ea057122937f4e677eaf4f84d9f6ee6a0a581211d9d"
+      "output_sha256": "b4ec696e5e07423f798094da28199b5cb361354a045629af81536ea455b92331"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/8_Loch_a_Tuath.dat",
@@ -1736,7 +1736,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/loch-a-tuath",
       "file_name": "00078-00000127.soi",
       "title": "2022 Scotland - Eilean Siar - 8 Loch a Tuath",
-      "output_sha256": "81707dc0b5930bdf59da339ee9269b6bd9486c59a81e0f4a3394cd23d8ffe4ee"
+      "output_sha256": "7ce5589dc10bedc37e51dcf6b2facc2881ba2313691b4ada69b973e2b10ea413"
     },
     {
       "source_path": "SC2022_ballot_format/Eilean_Siar/9_Steornabhagh_a_Tuath.dat",
@@ -1749,7 +1749,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/eilean-siar/2022/05/steornabhagh-a-tuath",
       "file_name": "00078-00000128.soi",
       "title": "2022 Scotland - Eilean Siar - 9 Steornabhagh a Tuath",
-      "output_sha256": "ffbdafcc5faca4baa006984039da9311e03b4e4bd8c24c65c6faa50918160519"
+      "output_sha256": "078f9ee6a364569f89e684a8c01d5a3285ce731a044dbb05375b40ce75cae245"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/1_Bo'ness_and_Blackness.dat",
@@ -1762,7 +1762,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/bo-ness-and-blackness",
       "file_name": "00078-00000129.soi",
       "title": "2022 Scotland - Falkirk - 1 Bo'ness and Blackness",
-      "output_sha256": "7bc143dae905d9f6e7910904eb7f59bcee807493e15595802516d89565a3058a"
+      "output_sha256": "99bb2f22e9a32d1f2a9496adf00085c9bdb77bb60d69f32c490731c8e66e48bc"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/2_Grangemouth.dat",
@@ -1775,7 +1775,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/grangemouth",
       "file_name": "00078-00000130.soi",
       "title": "2022 Scotland - Falkirk - 2 Grangemouth",
-      "output_sha256": "799c9c388378b587b6febe118575eff570858cb3b529b2fae129fc2ec72e6b32"
+      "output_sha256": "4319d45fce3eaef1b5869a0baa9401f253cb03293a6f3c569c91ad76efa0cef5"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/3_Denny_and_Banknock.dat",
@@ -1788,7 +1788,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/denny-and-banknock",
       "file_name": "00078-00000131.soi",
       "title": "2022 Scotland - Falkirk - 3 Denny and Banknock",
-      "output_sha256": "7a8dae131ada3c3154a89bea8fc6d7e7a4c6e1222b5c8656293a90ce41a5428d"
+      "output_sha256": "2fe41cd6dc4646ac526494a500a0799e5436c85eb60e1135cd8c78654d8b8d02"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/4_Carse_Kinnaird_and_Tryst.dat",
@@ -1801,7 +1801,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/carse-kinnaird-and-tryst",
       "file_name": "00078-00000132.soi",
       "title": "2022 Scotland - Falkirk - 4 Carse Kinnaird and Tryst",
-      "output_sha256": "17a99e04b0e53f1853d71e96567265746e57421a1ade67e170c5d9a3dbd4e5a0"
+      "output_sha256": "c503ae011cf47ae024344f470de69a25bf67387646a2cc52491860b3573556e0"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/5_Bonnybridge_and_Larbert.dat",
@@ -1814,7 +1814,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/bonnybridge-and-larbert",
       "file_name": "00078-00000133.soi",
       "title": "2022 Scotland - Falkirk - 5 Bonnybridge and Larbert",
-      "output_sha256": "d106b7001658a17350c89a53c9cda876b9f9d47b1cf166405ecb3a7334f37a50"
+      "output_sha256": "0094a5d36d1bde2fb5d4c9b70a47c8a20ce4cee4a6fd15fe5926bb09717cec1f"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/6_Falkirk_North.dat",
@@ -1827,7 +1827,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/falkirk-north",
       "file_name": "00078-00000134.soi",
       "title": "2022 Scotland - Falkirk - 6 Falkirk North",
-      "output_sha256": "c6fbee0abfb73f75cea761b0b7b27e6e74fc46f0dc89fa1710082c32e762d9dd"
+      "output_sha256": "7929fe8bb98643ac197f77b04237a9de02b65b88dade64a387d196d08222b225"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/7_Falkirk_South.dat",
@@ -1840,7 +1840,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/falkirk-south",
       "file_name": "00078-00000135.soi",
       "title": "2022 Scotland - Falkirk - 7 Falkirk South",
-      "output_sha256": "3a7e6f8125879a030921021c25d0308d0504e6e6c59916351a8e9f65d8746e58"
+      "output_sha256": "c6726091ef07e4a8fac2f45e15e7f1f8156098669249b9009974e1afa8181d96"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/8_Lower_Braes.dat",
@@ -1853,7 +1853,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/lower-braes",
       "file_name": "00078-00000136.soi",
       "title": "2022 Scotland - Falkirk - 8 Lower Braes",
-      "output_sha256": "8ffe92b6ba2447c0d1c8182a38a64babbde9ca935ee27f99253fe61fa523b395"
+      "output_sha256": "8cd2ddeeef74629f6734fbf3645a8fc6042cad1f183fc0019ba1aad2a4dea793"
     },
     {
       "source_path": "SC2022_ballot_format/Falkirk/9_Upper_Braes.dat",
@@ -1866,7 +1866,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/falkirk/2022/05/upper-braes",
       "file_name": "00078-00000137.soi",
       "title": "2022 Scotland - Falkirk - 9 Upper Braes",
-      "output_sha256": "3015b0db912bbc07e2efcd4542ec45028a970955ff2e5f6cba5f1d18ac2e2add"
+      "output_sha256": "63bf8e6cd68fa8e5b0aeccac8461228e6217ec2448b6c731361cb53a91c22e20"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/10_Kirkcaldy_North.dat",
@@ -1879,7 +1879,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/kirkcaldy-north",
       "file_name": "00078-00000138.soi",
       "title": "2022 Scotland - Fife - 10 Kirkcaldy North",
-      "output_sha256": "e4c2745e8adc96818d47b16f8d217a00afd1e23b0bb82d99c24138ee3a635bd2"
+      "output_sha256": "8ae4528e47b4dd55a6c56e0fbbc3c6a1285a96631ccf2e29c5f38838f1e9ff27"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/11_Kirkcaldy_Central.dat",
@@ -1892,7 +1892,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/kirkcaldy-central",
       "file_name": "00078-00000139.soi",
       "title": "2022 Scotland - Fife - 11 Kirkcaldy Central",
-      "output_sha256": "eae8679ea9792730f5c3eb11f2614dd1e4751273a1a506e9dc864e08863fc04e"
+      "output_sha256": "28b11949d20956143da5101ee2d00dd6b6474f72a84caf366c18d86fd0a4b894"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/12_Kirkcaldy_East.dat",
@@ -1905,7 +1905,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/kirkcaldy-east",
       "file_name": "00078-00000140.soi",
       "title": "2022 Scotland - Fife - 12 Kirkcaldy East",
-      "output_sha256": "ba7546f97b610b595b999f94e8f5e6a46115adb2c6da16d1b7f91ceaf74aa76e"
+      "output_sha256": "795b96545e0f7a7aa7079fa7d3e0231b96efa4c202763f5d5e4e533477e0fb62"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/13_Glenrothes_West_and_Kinglassie.dat",
@@ -1918,7 +1918,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/glenrothes-west-and-kinglassie",
       "file_name": "00078-00000141.soi",
       "title": "2022 Scotland - Fife - 13 Glenrothes West and Kinglassie",
-      "output_sha256": "08435eb810a97506928c31b31b55aecd37786ef2dfa27e6eb091f5ed305d4c54"
+      "output_sha256": "e7cd941cd5174089aa927c49aaa1ca222ba80ade99bcad262b7f179065255947"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/14_Glenrothes_North_Leslie_and_Markinch.dat",
@@ -1931,7 +1931,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/glenrothes-north-leslie-and-markinch",
       "file_name": "00078-00000142.soi",
       "title": "2022 Scotland - Fife - 14 Glenrothes North Leslie and Markinch",
-      "output_sha256": "8b75317a4a3c8fa88d13d3517b902fcb9a808860286e6e0315a5ad8850d51bcf"
+      "output_sha256": "1b125159e90ee038a0982e88a756b2d3a5fc9f4eda4a00f8c8d5c091465978fc"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/15_Glenrothes_Central_and_Thornton.dat",
@@ -1944,7 +1944,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/glenrothes-central-and-thornton",
       "file_name": "00078-00000143.soi",
       "title": "2022 Scotland - Fife - 15 Glenrothes Central and Thornton",
-      "output_sha256": "e800e8e05f65b4c09b399f94a62b2d7587e437b2ba91c8dbce46e714083ce707"
+      "output_sha256": "64dd5cb1f85ccbc254e64bdf6220f22d8e188b9ae7cf8e5a934c1bbaff983a5a"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/16_Howe_of_Fife_and_Tay_Coast.dat",
@@ -1957,7 +1957,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/howe-of-fife-and-tay-coast",
       "file_name": "00078-00000144.soi",
       "title": "2022 Scotland - Fife - 16 Howe of Fife and Tay Coast",
-      "output_sha256": "530333808444a62e2b64658fffd5a7073b97b3014508cfc55f2fd02ed8133fa8"
+      "output_sha256": "42800b1219fb927e477b2a2f40bb692f8897acc5ad6f6adcfb892fd8aa070ad8"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/17_Tay_Bridgehead.dat",
@@ -1970,7 +1970,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/tay-bridgehead",
       "file_name": "00078-00000145.soi",
       "title": "2022 Scotland - Fife - 17 Tay Bridgehead",
-      "output_sha256": "ef5e5bf926ca35cc2fabf3126e00ad61c8fe6a09525a202a9cc121cd2cf3be0c"
+      "output_sha256": "73b437b5838049506268bd3a6a07b386b73e1fb82fd41a0950260c8467a31c6d"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/18_St._Andrews.dat",
@@ -1983,7 +1983,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/st-andrews",
       "file_name": "00078-00000146.soi",
       "title": "2022 Scotland - Fife - 18 St. Andrews",
-      "output_sha256": "e4a9580c2de6dcc397982d0cdd10d6c86fc19a9d42b435712c3cb7c3b3032c45"
+      "output_sha256": "8dafe2ad176bf51f1736e3199053b5934af70ab520ed1ba50f8ebc7cc988c6ee"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/19_East_Neuk_and_Landward.dat",
@@ -1996,7 +1996,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/east-neuk-and-landward",
       "file_name": "00078-00000147.soi",
       "title": "2022 Scotland - Fife - 19 East Neuk and Landward",
-      "output_sha256": "f21f645dc05690abd6faaeeeca9ddfcbe31959a1d70efe0efc948489ce9b7e2e"
+      "output_sha256": "b91599fdd5046cb4024dd41ea7b0153a7d76e6bc4ad2d3e725869825164babfc"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/1_West_Fife_and_Coastal_Villages.dat",
@@ -2009,7 +2009,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/west-fife-and-coastal-villages",
       "file_name": "00078-00000148.soi",
       "title": "2022 Scotland - Fife - 1 West Fife and Coastal Villages",
-      "output_sha256": "4fa2f82cf1d538cf8a4b54e6e50e0ef2ff98b2e958e951cd5e66d919b303b0e8"
+      "output_sha256": "acc265b71f14c51768c701f9aa054a761f6dde0f37b83ee03d94aa07ca9ec86c"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/20_Cupar.dat",
@@ -2022,7 +2022,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/cupar",
       "file_name": "00078-00000149.soi",
       "title": "2022 Scotland - Fife - 20 Cupar",
-      "output_sha256": "3f247dbd7a394de2b5de6e1bc879bd55231710d0f48b4470d659c4d5df1c295f"
+      "output_sha256": "100548be3107ca93e6b99c7761a29b437b988a1f53795b114c3a5361fcd0280e"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/21_Leven_Kennoway_and_Largo.dat",
@@ -2035,7 +2035,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/leven-kennoway-and-largo",
       "file_name": "00078-00000150.soi",
       "title": "2022 Scotland - Fife - 21 Leven Kennoway and Largo",
-      "output_sha256": "78908b85d0e24b8ad6ddca013d96a54b5b9c14613078b8e29db096ea8456921d"
+      "output_sha256": "23049f49650aef9c6008b3cb496bf2e12a10c35082c57d8c4c2ca9f40e4c605b"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/22_Buckhaven_Methil_and_Wemyss_Villages.dat",
@@ -2048,7 +2048,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/buckhaven-methil-and-wemyss-villages",
       "file_name": "00078-00000151.soi",
       "title": "2022 Scotland - Fife - 22 Buckhaven Methil and Wemyss Villages",
-      "output_sha256": "597bd62b57bb3e1e70ae675fefb25adc0e982ff332eef68bb8964c658480264b"
+      "output_sha256": "de4bbb44c519084b46cf020de9a695bf6f8cce4954b23747576248fdfff6c7df"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/2_Dunfermline_North.dat",
@@ -2061,7 +2061,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/dunfermline-north",
       "file_name": "00078-00000152.soi",
       "title": "2022 Scotland - Fife - 2 Dunfermline North",
-      "output_sha256": "9b38ab0094f628f707433c4d08f359742caf683caffdb21f95b8569c29f906c6"
+      "output_sha256": "176d16cfdb67b35fda69d5cf8d97ce54e90e8b721fde79854647eb2aa020cbfb"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/3_Dunfermline_Central.dat",
@@ -2074,7 +2074,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/dunfermline-central",
       "file_name": "00078-00000153.soi",
       "title": "2022 Scotland - Fife - 3 Dunfermline Central",
-      "output_sha256": "1c35d166ad1856a69ab76ae950df7c4be48a1e6c408aaaacb670f59aa2eab4e7"
+      "output_sha256": "380a5b6ce4e4310994a94ebd7305b3d2d78fdc79621799ffd84e5575f53e2a22"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/4_Dunfermline_South.dat",
@@ -2087,7 +2087,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/dunfermline-south",
       "file_name": "00078-00000154.soi",
       "title": "2022 Scotland - Fife - 4 Dunfermline South",
-      "output_sha256": "6fc6571d78c5e5736503a8c9d83474d9c25f0ef7e26a62975f98b080cf58d076"
+      "output_sha256": "8291255a0ecf3755763604cd96c55e965ec96cca2d723554ee9d4dd91304a54d"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/5_Rosyth.dat",
@@ -2100,7 +2100,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/rosyth",
       "file_name": "00078-00000155.soi",
       "title": "2022 Scotland - Fife - 5 Rosyth",
-      "output_sha256": "e7978b2e654376d227aefdd4cffb41e65040f9a5e5adfdaee4cc068a2d785547"
+      "output_sha256": "c00523dc8601d915ba078bfdc5686feb705f7b2ceccda755f6d5a7d6098e320b"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/6_Inverkeithing_and_Dalgety_Bay.dat",
@@ -2113,7 +2113,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/inverkeithing-and-dalgety-bay",
       "file_name": "00078-00000156.soi",
       "title": "2022 Scotland - Fife - 6 Inverkeithing and Dalgety Bay",
-      "output_sha256": "67c8478a91edc6781e39bb437cc0d63353c34fac6e64453ac6bec3551c754b2c"
+      "output_sha256": "c68329f60b19af31c7ed78ef748d89f972bab72e0e485e045802e53e5a79ecbd"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/7_Cowdenbeath.dat",
@@ -2126,7 +2126,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/cowdenbeath",
       "file_name": "00078-00000157.soi",
       "title": "2022 Scotland - Fife - 7 Cowdenbeath",
-      "output_sha256": "58e393269cdb3b39f7f6a5a35c8a8f84b6125151b4cc9bc9faed8a27ba6bd157"
+      "output_sha256": "13db56eb63b24e3e67b82ee269ca942c73a22b1cd7419285b16a0c8b6e0ad584"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/8_Lochgelly_Cardenden_and_Benarty.dat",
@@ -2139,7 +2139,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/lochgelly-cardenden-and-benarty",
       "file_name": "00078-00000158.soi",
       "title": "2022 Scotland - Fife - 8 Lochgelly Cardenden and Benarty",
-      "output_sha256": "6cebb5d885ef50af08baa595faeaab97c65fbc62377970839b18e6c883fad974"
+      "output_sha256": "ad28cb1be8a6ddabb2cf707d2b8e547b0dc8ee5df154bff0e8dd80b7b98ba54f"
     },
     {
       "source_path": "SC2022_ballot_format/Fife/9_Burntisland_Kinghorn_and_Western_Kirkcaldy.dat",
@@ -2152,7 +2152,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/fife/2022/05/burntisland-kinghorn-and-western-kirkcaldy",
       "file_name": "00078-00000159.soi",
       "title": "2022 Scotland - Fife - 9 Burntisland Kinghorn and Western Kirkcaldy",
-      "output_sha256": "bb757ebbec5b9e35ff2705789d03b3e06a895e7f2b37915d84780dfa7ca9d391"
+      "output_sha256": "e23689e94e9ab32b7beb05ceb011523c5a8e2a0d326723cd6818c4ab68f0ecf5"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/10_Anderston-City-Yorkhill.dat",
@@ -2165,7 +2165,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/anderston-city-yorkhill",
       "file_name": "00078-00000160.soi",
       "title": "2022 Scotland - Glasgow - 10 Anderston-City-Yorkhill",
-      "output_sha256": "1f6a32595dd09c0ca175432ffe3c8f893336973bbd768f73192201c222d1d739"
+      "output_sha256": "76bd443900bae03658d5fbdbeb080e6a2ecece04c30009a46b6bb404d7a1610d"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/11_Hillhead.dat",
@@ -2178,7 +2178,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/hillhead",
       "file_name": "00078-00000161.soi",
       "title": "2022 Scotland - Glasgow - 11 Hillhead",
-      "output_sha256": "794cc9e4a38de158905b23ee2e99e68b00a627638a4ba694ba357a0bae002a04"
+      "output_sha256": "243d4c2262d522cb8b3a36f11b1035d1d990d549bfcd24fb8d2a7eebe04743c9"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/12_Victoria_Park.dat",
@@ -2191,7 +2191,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/victoria-park",
       "file_name": "00078-00000162.soi",
       "title": "2022 Scotland - Glasgow - 12 Victoria Park",
-      "output_sha256": "460b867416c8ed100682b3a95ba2c5adce4f367d99fb819cce8eca6bcbe1f773"
+      "output_sha256": "edf6d5fd474a487474e70b027f705b30889c8c2d45b0ea5c6b5d603d4e297872"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/13_Garscadden-Scotstounhill.dat",
@@ -2204,7 +2204,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/garscadden-scotstounhill",
       "file_name": "00078-00000163.soi",
       "title": "2022 Scotland - Glasgow - 13 Garscadden-Scotstounhill",
-      "output_sha256": "ec3f7a782815169e6328daaf997712616f1ac7b2b01fda2aefb2c325c3ba4f99"
+      "output_sha256": "7bd26f6fa41e3f3b4316c9a5379de2e9909cd1e5ce8ae959708420b399f872b9"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/14_Drumchapel-Anniesland.dat",
@@ -2217,7 +2217,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/drumchapel-anniesland",
       "file_name": "00078-00000164.soi",
       "title": "2022 Scotland - Glasgow - 14 Drumchapel-Anniesland",
-      "output_sha256": "61cddab1d48dd52feaed447d4a0856b424c21a7abf5dab8aa6ddb8f9d0a465f1"
+      "output_sha256": "b2282327f63aa5112b39b65fb47a03c7da4ffc298b6d5ef83c44abd555c9e1e2"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/15_Maryhill.dat",
@@ -2230,7 +2230,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/maryhill",
       "file_name": "00078-00000165.soi",
       "title": "2022 Scotland - Glasgow - 15 Maryhill",
-      "output_sha256": "a0ff3cbe8eeb8eb80448b37f67ee88766551dd0a92330d48725c86b954350a23"
+      "output_sha256": "7bf1f02998dea4f953782bede4ec34c6f5c63d1db50dc39fbb64032f9a7e9a9b"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/16_Canal.dat",
@@ -2243,7 +2243,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/canal",
       "file_name": "00078-00000166.soi",
       "title": "2022 Scotland - Glasgow - 16 Canal",
-      "output_sha256": "39919d6c572c7c39da7076a842094adae22149999768155810c7a1ba920ff32f"
+      "output_sha256": "7bc340052d96888299f09a728550c6558b910accc3d2a578af26d400d3cac856"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/17_Springburn-Robroyston.dat",
@@ -2256,7 +2256,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/springburn-robroyston",
       "file_name": "00078-00000167.soi",
       "title": "2022 Scotland - Glasgow - 17 Springburn-Robroyston",
-      "output_sha256": "c6484448ac07791ff8ae556240f8acb2c318b968150d2eb070c04d70ebed0149"
+      "output_sha256": "4bae46065dd5646d854f20ba24d6ae5055dab8123178e1f8b1b7bf363b78849f"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/18_East_Centre.dat",
@@ -2269,7 +2269,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/east-centre",
       "file_name": "00078-00000168.soi",
       "title": "2022 Scotland - Glasgow - 18 East Centre",
-      "output_sha256": "401455d1d555673a2ee1783b9c3a882c1a0bf98c5e78c87a9667ac630761c3cc"
+      "output_sha256": "6e11bfd275209399969ef2f8584f3f2cb387db9253c703d4425c86130625bd07"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/19_Shettleston.dat",
@@ -2282,7 +2282,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/shettleston",
       "file_name": "00078-00000169.soi",
       "title": "2022 Scotland - Glasgow - 19 Shettleston",
-      "output_sha256": "e8044c42f7402f6a27b034200d0e014e6aebf038dde8b32b9afc5e5a8fdae3b2"
+      "output_sha256": "f100292820cc5916b9e020fbf66d35ab1bd93845df9465bc8506e5e1bac51867"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/1_Linn.dat",
@@ -2295,7 +2295,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/linn",
       "file_name": "00078-00000170.soi",
       "title": "2022 Scotland - Glasgow - 1 Linn",
-      "output_sha256": "d046c1758f0173a1d819c8f848212df1e4f92aeb6a0925538f4e43f11f67c000"
+      "output_sha256": "fc17b0221db552af143954ea96a1566fcdc87132bf09275d42b155e67ae1cc93"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/20_Baillieston.dat",
@@ -2308,7 +2308,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/baillieston",
       "file_name": "00078-00000171.soi",
       "title": "2022 Scotland - Glasgow - 20 Baillieston",
-      "output_sha256": "438305381793c032ce085f2d9bfddde9b60651b338b1e2352095fadca7988627"
+      "output_sha256": "b7119d0454748f79104921e1f0ac15d2698c76c7a51a9f92fa2a52eeb4f78eab"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/21_North_East.dat",
@@ -2321,7 +2321,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/north-east",
       "file_name": "00078-00000172.soi",
       "title": "2022 Scotland - Glasgow - 21 North East",
-      "output_sha256": "92fb4ee659f88d350c975b98947d278c6151266431bf9a47a5925b9a04d542eb"
+      "output_sha256": "f259bbc6da27afaf8bf2ae2e737a7aa18111ee1bc9bcade70b46b9983b6605ac"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/22_Dennistoun.dat",
@@ -2334,7 +2334,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/dennistoun",
       "file_name": "00078-00000173.soi",
       "title": "2022 Scotland - Glasgow - 22 Dennistoun",
-      "output_sha256": "8984b5783b5d40fb05b44628a3156ab76b7562385923a0153089ba0bc1af7400"
+      "output_sha256": "dc5bf04dcbc74c3d76e3d14b4ff72094d77de85b2069f9fd187bc877fa22563d"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/23_Partick_East-Kelvindale.dat",
@@ -2347,7 +2347,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/partick-east-kelvindale",
       "file_name": "00078-00000174.soi",
       "title": "2022 Scotland - Glasgow - 23 Partick East-Kelvindale",
-      "output_sha256": "b61f2452e8d86d5633421d7ec7c64fcb756c249c8e8f34413127916c780c7bdb"
+      "output_sha256": "b1b00cbd53adebb8a2093477b9604eb1b97e32bb3e558ce00a758cc761e19652"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/2_Newlands-Auldburn.dat",
@@ -2360,7 +2360,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/newlands-auldburn",
       "file_name": "00078-00000175.soi",
       "title": "2022 Scotland - Glasgow - 2 Newlands-Auldburn",
-      "output_sha256": "e8ff4fc6f5da13366f0425ac6fd4279e69a617f9de78c7ba821acbbffd9f5bf9"
+      "output_sha256": "124780b77bb5d2831747c52439691912309dad2b7ebac9287a9f8d744f285d8e"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/3_Greater_Pollok.dat",
@@ -2373,7 +2373,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/greater-pollok",
       "file_name": "00078-00000176.soi",
       "title": "2022 Scotland - Glasgow - 3 Greater Pollok",
-      "output_sha256": "381d92836d8d922987218d33f174ff8ae83de24b1f9756e25f65e154d8eb22ab"
+      "output_sha256": "d3f64364538e164d0b7f531f07cf162b3f45240a4512f1fe3fc50f1690025809"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/4_Cardonald.dat",
@@ -2386,7 +2386,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/cardonald",
       "file_name": "00078-00000177.soi",
       "title": "2022 Scotland - Glasgow - 4 Cardonald",
-      "output_sha256": "74e33f6eec148ec25a851e82211ba93f41a1c0b2c92066225c95df700a921d51"
+      "output_sha256": "5aefc26da59d755e2087b1d67ebc977b99b9425e5e10275e0a750e6bbaf78922"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/5_Govan.dat",
@@ -2399,7 +2399,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/govan",
       "file_name": "00078-00000178.soi",
       "title": "2022 Scotland - Glasgow - 5 Govan",
-      "output_sha256": "f26e58909a13a0e316332fed546bac3cde03a745d09e1845c12ac1c41cdd9c62"
+      "output_sha256": "c60fcdb116538ae401a7396e6be8f14be661243d7b7338abe0a9607992feac26"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/6_Pollokshields.dat",
@@ -2412,7 +2412,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/pollokshields",
       "file_name": "00078-00000179.soi",
       "title": "2022 Scotland - Glasgow - 6 Pollokshields",
-      "output_sha256": "68c442090b5645ca90228637bfab7d0fe6bb3e0c9632f630565bbc07f052eef0"
+      "output_sha256": "4d7484473261603d0914bb71a2c1ab164d5552572cfe07f91e67e8ce1afd8472"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/7_Langside.dat",
@@ -2425,7 +2425,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/langside",
       "file_name": "00078-00000180.soi",
       "title": "2022 Scotland - Glasgow - 7 Langside",
-      "output_sha256": "a190a8a5826c08ee7dc4495a57f1b10442b15e5084d6ed81825fa95d6cacf193"
+      "output_sha256": "e1a1a80a8c432dd7c07cafcbcb51e3f91c2f7c173e65ac62b2bad73ca37bad1e"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/8_Southside_Central.dat",
@@ -2438,7 +2438,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/southside-central",
       "file_name": "00078-00000181.soi",
       "title": "2022 Scotland - Glasgow - 8 Southside Central",
-      "output_sha256": "063b605a145aab120fdcb7d63e18009a059b0fa648c9da4ce8bbf79f592d3b91"
+      "output_sha256": "d46cf1ac2333f678b95d3790fdeab1ff9636879e258de6c019fb3c59fa9c25bb"
     },
     {
       "source_path": "SC2022_ballot_format/Glasgow/9_Calton.dat",
@@ -2451,7 +2451,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/glasgow/2022/05/calton",
       "file_name": "00078-00000182.soi",
       "title": "2022 Scotland - Glasgow - 9 Calton",
-      "output_sha256": "f6baec5d5f94ca4722cbb946911a8726db18429af5de9514a5af3dd217a6a227"
+      "output_sha256": "5841aeb0888d1b9be732d50a663ef828ed03686da25c884f5b1868b11f172710"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/10_Eilean_a_Cheo.dat",
@@ -2464,7 +2464,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/eilean-a-cheo",
       "file_name": "00078-00000183.soi",
       "title": "2022 Scotland - Highland - 10 Eilean a Cheo",
-      "output_sha256": "a399c077420a7cab84d53f02f3277ce42beacbfa9202979c5cee5910c02be830"
+      "output_sha256": "7f769e02b4c70ddf9993ecc904c7e76d9c420b7fd0d722e81967278b291a507e"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/12_Aird_and_Loch_Ness.dat",
@@ -2477,7 +2477,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/aird-and-loch-ness",
       "file_name": "00078-00000184.soi",
       "title": "2022 Scotland - Highland - 12 Aird and Loch Ness",
-      "output_sha256": "b014e8c9e29f2c2e8c11d7073df5a4414ed2eec22112c73dddd66d664296edd9"
+      "output_sha256": "3f48d0399dcfc9177f24c1ca1478e3663247d5b8912c11daaffd59602e2c0185"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/13_Inverness_West.dat",
@@ -2490,7 +2490,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/inverness-west",
       "file_name": "00078-00000185.soi",
       "title": "2022 Scotland - Highland - 13 Inverness West",
-      "output_sha256": "9b0762f1dd62d5dfe26754f7a1aacda7f42cb666222385605a0f78c1ae875135"
+      "output_sha256": "c04b207a737d60ef177e3f53fa8e09c64a1a891db05bddf417367c7d4adcf963"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/14_Inverness_Central.dat",
@@ -2503,7 +2503,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/inverness-central",
       "file_name": "00078-00000186.soi",
       "title": "2022 Scotland - Highland - 14 Inverness Central",
-      "output_sha256": "c08b6e1656c061d186d593a196e0719c2260f2c8c811d65406b253a97812e091"
+      "output_sha256": "be701746e58fe2332f2cf0f0499a99a928cb3548fc4e11a04ea6efc51b278f53"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/15_Inverness_Ness-side.dat",
@@ -2516,7 +2516,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/inverness-ness-side",
       "file_name": "00078-00000187.soi",
       "title": "2022 Scotland - Highland - 15 Inverness Ness-side",
-      "output_sha256": "b06cc7ab064f0228d49972b0e52a6ee174559bc0cb87c1ef8c3c01cf779f434b"
+      "output_sha256": "f04d14ea62e47837acd83ae440a60cb7960c8bf6646172ba5f1c53d6cc1647f8"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/16_Inverness_Millburn.dat",
@@ -2529,7 +2529,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/inverness-millburn",
       "file_name": "00078-00000188.soi",
       "title": "2022 Scotland - Highland - 16 Inverness Millburn",
-      "output_sha256": "5ca3b1e96c60bc1e88e637d11bbb4df7d45cb8e540997784fdafd91a85ac8a9f"
+      "output_sha256": "63261ad2f0d5d0506e8cd35b474ba60ea920d7cac659cace52c54678ed4dfce5"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/17_Culloden_and_Ardersier.dat",
@@ -2542,7 +2542,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/culloden-and-ardersier",
       "file_name": "00078-00000189.soi",
       "title": "2022 Scotland - Highland - 17 Culloden and Ardersier",
-      "output_sha256": "f049b1edabcc2ce1f547b2fcff1ef7a54365bf157f8d3abafbafc3efab27781f"
+      "output_sha256": "4c69f0fc6211b414a17bfcbd294744ee740e39b671da13af03f36fccc29f028a"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/18_Nairn_and_Cawdor.dat",
@@ -2555,7 +2555,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/nairn-and-cawdor",
       "file_name": "00078-00000190.soi",
       "title": "2022 Scotland - Highland - 18 Nairn and Cawdor",
-      "output_sha256": "5ec03eb334a020b56c70b561d95d5f09dbc031f9c97a65f94b480006ad7289f0"
+      "output_sha256": "bcd1da3010ccf813e6b4efb59b012c30c670e6ddaaa249be088c80170fa6236f"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/19_Inverness_South.dat",
@@ -2568,7 +2568,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/inverness-south",
       "file_name": "00078-00000191.soi",
       "title": "2022 Scotland - Highland - 19 Inverness South",
-      "output_sha256": "ebec23671589b3af791bc07461c75b2a5734be3c889918ff94b521ec1a8c0d69"
+      "output_sha256": "3b8e1cb850a25c5774bbf036fbde2c30999108bcd7376fe08151660b90623faf"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/1_North_West_and_Central_Sutherland.dat",
@@ -2581,7 +2581,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/north-west-and-central-sutherland",
       "file_name": "00078-00000192.soi",
       "title": "2022 Scotland - Highland - 1 North West and Central Sutherland",
-      "output_sha256": "2106e599a661eef4069038a04680f003902bbead98d49f99fbb0b5b31cef8efb"
+      "output_sha256": "785077f85d01a19cf1a6fbb6793167b304dfb02ef034f0f3891659bd71a675d1"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/20_Badenoch_and_Strathspey.dat",
@@ -2594,7 +2594,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/badenoch-and-strathspey",
       "file_name": "00078-00000193.soi",
       "title": "2022 Scotland - Highland - 20 Badenoch and Strathspey",
-      "output_sha256": "8054645781f75eea48c630e1e01384333cc0fc4a6ce32f1fca955a0dfa0b2a60"
+      "output_sha256": "732bdf5035c7b29f4da0061aeb14c12ca258e5cff45365af8ef6548badd4205f"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/21_Fort_William_and_Ardnamurchan.dat",
@@ -2607,7 +2607,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/fort-william-and-ardnamurchan",
       "file_name": "00078-00000194.soi",
       "title": "2022 Scotland - Highland - 21 Fort William and Ardnamurchan",
-      "output_sha256": "230e9a54d54a583d099922aed323fba8a2e276ae8f47fd4961ee4216e20fb6f6"
+      "output_sha256": "cc8f325e875a916f0cdbced40d91375728fc68d7efa718446d85018f3676b633"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/2_Thurso_and_Northwest_Caithness.dat",
@@ -2620,7 +2620,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/thurso-and-northwest-caithness",
       "file_name": "00078-00000195.soi",
       "title": "2022 Scotland - Highland - 2 Thurso and Northwest Caithness",
-      "output_sha256": "7ac0dd1cc2e5b2e81fe2b2f25a30ee54bcf6bbf98614a461a59b87132e3be57c"
+      "output_sha256": "80cb928eb90c4822ea5ec3be080c1ae1accde2cb0218ca421ff4cfef335821fd"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/3_Wick_and_East_Caithness.dat",
@@ -2633,7 +2633,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/wick-and-east-caithness",
       "file_name": "00078-00000196.soi",
       "title": "2022 Scotland - Highland - 3 Wick and East Caithness",
-      "output_sha256": "666cf46f677467fed3db3e2f9fccdd09e7a42a6b789abd64b0b4d9a2f8e6f132"
+      "output_sha256": "2d5bd1aa0592881e7a3625011d090fb998f1520bf5030244d93b0f7d3a64b80b"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/4_East_Sutherland_and_Edderton.dat",
@@ -2646,7 +2646,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/east-sutherland-and-edderton",
       "file_name": "00078-00000197.soi",
       "title": "2022 Scotland - Highland - 4 East Sutherland and Edderton",
-      "output_sha256": "0dd27164f2ab4eed9b74ede16a975bfde530f86c8ef4f8cbfa3f72f3df53c20f"
+      "output_sha256": "8cbc4799cc9c4e4a6fa8930400b3e2b00d4526071aaa9930704c1dce9a0e97de"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/5_Wester_Ross_Strathpeffer_and_Lochalsh.dat",
@@ -2659,7 +2659,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/wester-ross-strathpeffer-and-lochalsh",
       "file_name": "00078-00000198.soi",
       "title": "2022 Scotland - Highland - 5 Wester Ross Strathpeffer and Lochalsh",
-      "output_sha256": "b17ce9573cc9e3c069cba636dfb80df9550d2bc8c299990b938a89ad1ab12f80"
+      "output_sha256": "1fa70d4dec2fecc253437a6526c6fa08d28edb5d976339bf918d38ac7c6a47a5"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/6_Cromarty_Firth.dat",
@@ -2672,7 +2672,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/cromarty-firth",
       "file_name": "00078-00000199.soi",
       "title": "2022 Scotland - Highland - 6 Cromarty Firth",
-      "output_sha256": "07573afc13589a3af70cf8e8bd0e2dc1cb384bb2a120523438bbdc45041abdeb"
+      "output_sha256": "1f0814b54d34258ccd42d64a9cb9e5b88ae763a66f853b8989d895253a4adc08"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/7_Tain_and_Easter_Ross.dat",
@@ -2685,7 +2685,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/tain-and-easter-ross",
       "file_name": "00078-00000200.soi",
       "title": "2022 Scotland - Highland - 7 Tain and Easter Ross",
-      "output_sha256": "622c05a7f04a93dc4d6537ff23be25ac3b88bf41c4c1ddde3dd3476aaa568be8"
+      "output_sha256": "db4e383b9f5b767a289d5aa486f152b8bb1af830db8652f18c675d030b1ebe74"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/8_Dingwall_and_Seaforth.dat",
@@ -2698,7 +2698,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/dingwall-and-seaforth",
       "file_name": "00078-00000201.soi",
       "title": "2022 Scotland - Highland - 8 Dingwall and Seaforth",
-      "output_sha256": "b3fcc18bee48a32d1796910e949df460ca2aa627d04ebeb10331d3a73e2bbb61"
+      "output_sha256": "c2fe086d8fd091085ceb60840441a97e225248ece9930b898781bcc86e8d71d9"
     },
     {
       "source_path": "SC2022_ballot_format/Highland/9_Black_Isle.dat",
@@ -2711,7 +2711,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/highland/2022/05/black-isle",
       "file_name": "00078-00000202.soi",
       "title": "2022 Scotland - Highland - 9 Black Isle",
-      "output_sha256": "bee9d46cf28466f10e7e6265eabe64afbdcccd45b67451991331c0915006a31d"
+      "output_sha256": "10f8ba27d926e2debb0c4bca57bc9bc542159241b77e7c70126253d6008790f5"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/2_Inverclyde_East_Central.dat",
@@ -2724,7 +2724,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-east-central",
       "file_name": "00078-00000203.soi",
       "title": "2022 Scotland - Inverclyde - 2 Inverclyde East Central",
-      "output_sha256": "8a7bd9b2d00b889ac025877730cacbe78012cff0f0a9ff243275ee8350dbf635"
+      "output_sha256": "32dd2475dd139b437b72eab81ecfbeb3de4d69a06662978eb5153b246225a99b"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/3_Inverclyde_Central.dat",
@@ -2737,7 +2737,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-central",
       "file_name": "00078-00000204.soi",
       "title": "2022 Scotland - Inverclyde - 3 Inverclyde Central",
-      "output_sha256": "a5e702d3f7d3742f5c3c51b76b8d8616eea56013022e2202648fab4636b68242"
+      "output_sha256": "d813de3a0f022c757ddb0f09817988e5605a841a9d01a08f513d215cde23c0e2"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/4_Inverclyde_North.dat",
@@ -2750,7 +2750,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-north",
       "file_name": "00078-00000205.soi",
       "title": "2022 Scotland - Inverclyde - 4 Inverclyde North",
-      "output_sha256": "1272b55ae21990340b115618db74435164ae226963262858fee683f21813b7e2"
+      "output_sha256": "14c247be9751fa4172657ef2ae2c5114192e4e0afeff129ee9da90b06bc763ee"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/5_Inverclyde_West.dat",
@@ -2763,7 +2763,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-west",
       "file_name": "00078-00000206.soi",
       "title": "2022 Scotland - Inverclyde - 5 Inverclyde West",
-      "output_sha256": "7825f9b0e9c73d9b71b71a0aa73bc62482eaf5421839c41d9cc5f8b7499959f6"
+      "output_sha256": "380407e95ce2295887f3c5c3ed6496aa7394d71575c6d7ce9014efb6ba266be2"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/6_Inverclyde_South_West.dat",
@@ -2776,7 +2776,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-south-west",
       "file_name": "00078-00000207.soi",
       "title": "2022 Scotland - Inverclyde - 6 Inverclyde South West",
-      "output_sha256": "8edb5ccffbc936173047b825e837a13fe31e06ab7df5a2bf7b22ac9214f1af61"
+      "output_sha256": "f68bef747c0785839a77339aa127d4f7ab510bf0aa495b797fe0aee43b9e6e61"
     },
     {
       "source_path": "SC2022_ballot_format/Inverclyde/7_Inverclyde_South.dat",
@@ -2789,7 +2789,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/inverclyde/2022/05/inverclyde-south",
       "file_name": "00078-00000208.soi",
       "title": "2022 Scotland - Inverclyde - 7 Inverclyde South",
-      "output_sha256": "6ccffd64c2fc39851a22e554bf80732d8040a4a4bff3cdaed970499d7efd8313"
+      "output_sha256": "edb80c7ad36e570c4fc48e1b6fa02406797fe4d55eb529eef0dcf1d9d7ae97fc"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/1_Penicuik.dat",
@@ -2802,7 +2802,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/penicuik",
       "file_name": "00078-00000209.soi",
       "title": "2022 Scotland - Midlothian - 1 Penicuik",
-      "output_sha256": "6fa6b21210d70e09ebc9dc4fb887893823408c41d4f8d4c5739f51b1e456fb16"
+      "output_sha256": "4bcfe86ca9da0343e8a9c6e65a3f573beaccba3637c7d5332b22cf48529a2023"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/2_Bonnyrigg.dat",
@@ -2815,7 +2815,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/bonnyrigg",
       "file_name": "00078-00000210.soi",
       "title": "2022 Scotland - Midlothian - 2 Bonnyrigg",
-      "output_sha256": "808c62e1fba99ff2d489d015e98a23fa4295470c34875f5dd22268784acc9c6b"
+      "output_sha256": "b7af99d8a486eea26edec7c134f8afcf423ac550070ea9ecb17f26eb891fc454"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/3_Dalkeith.dat",
@@ -2828,7 +2828,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/dalkeith",
       "file_name": "00078-00000211.soi",
       "title": "2022 Scotland - Midlothian - 3 Dalkeith",
-      "output_sha256": "7b6fb759b3efae1ce9071ab0b5d3fe5632e858bacd4141a81f14b7215fc0f6e5"
+      "output_sha256": "104bc12109ad8ff5335380a598ba694240ec95400c73c8a107ab0368076f063a"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/4_Midlothian_West.dat",
@@ -2841,7 +2841,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/midlothian-west",
       "file_name": "00078-00000212.soi",
       "title": "2022 Scotland - Midlothian - 4 Midlothian West",
-      "output_sha256": "2f68044e8fff5973b4fa3c01d786c94644b7eeabf8c5d79aa0b64d15f6bec8a1"
+      "output_sha256": "dcd78e3e68d873fa82ad6a6a759e4553900c9881843bb54dbc22f42f75bb3314"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/5_Midlothian_East.dat",
@@ -2854,7 +2854,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/midlothian-east",
       "file_name": "00078-00000213.soi",
       "title": "2022 Scotland - Midlothian - 5 Midlothian East",
-      "output_sha256": "4a705f71f4ef484a54bc66f11471c68ef65b1c26a26a9887ef9818dfc4c9762f"
+      "output_sha256": "fcf0aff34fbb44cac256a3297bc27005a7def45ffc4561d823ca576a9a774432"
     },
     {
       "source_path": "SC2022_ballot_format/Midlothian/6_Midlothian_South.dat",
@@ -2867,7 +2867,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/midlothian/2022/05/midlothian-south",
       "file_name": "00078-00000214.soi",
       "title": "2022 Scotland - Midlothian - 6 Midlothian South",
-      "output_sha256": "59caa46c389972448143c53891df79d0b184ac8e38b5bad6cae1617601c3e870"
+      "output_sha256": "7ee03cf590f74e9ecb44d93acd2602aedd17fba916a3a7bc1e7ca57198a599fb"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/1_Speyside_Glenlivet.dat",
@@ -2880,7 +2880,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/speyside-glenlivet",
       "file_name": "00078-00000215.soi",
       "title": "2022 Scotland - Moray - 1 Speyside Glenlivet",
-      "output_sha256": "32633c9203a42b8ff99aebb7f7e62857c6a960049ce9032321359e236ab6dae5"
+      "output_sha256": "9defb654a7a1006339e73988c4b3598c942e320cae66cabea8f81ac0d6aed823"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/2_Keith_and_Cullen.dat",
@@ -2893,7 +2893,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/keith-and-cullen",
       "file_name": "00078-00000216.soi",
       "title": "2022 Scotland - Moray - 2 Keith and Cullen",
-      "output_sha256": "9919e646474763feadefbeeb1b3cc56e46ca91edb73227b2864549b3cf321946"
+      "output_sha256": "7e58bd1167490ad1086756d0a7bb804ab3978216ed59a487b91a444d802af16c"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/4_Fochabers_Lhanbryde.dat",
@@ -2906,7 +2906,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/fochabers-lhanbryde",
       "file_name": "00078-00000217.soi",
       "title": "2022 Scotland - Moray - 4 Fochabers Lhanbryde",
-      "output_sha256": "5cc3d2494c1024e97a823fe539d29d34e36e73a5036296e304307f3a84a6491c"
+      "output_sha256": "9b4affae0a2992c889cbcad99f9e45fc4ce5dadf07ab99ffa8ab328d2f3244c0"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/5_Heldon_and_Laich.dat",
@@ -2919,7 +2919,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/heldon-and-laich",
       "file_name": "00078-00000218.soi",
       "title": "2022 Scotland - Moray - 5 Heldon and Laich",
-      "output_sha256": "78d6bc9e6376dd67b2ffd1efa972d51e3af33d405728f08ff713fa4a6c94c302"
+      "output_sha256": "93742dd4101428f7f117c0a0a1745fefa4aebcd606c51d7ab3900944360f016c"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/6_Elgin_City_North.dat",
@@ -2932,7 +2932,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/elgin-city-north",
       "file_name": "00078-00000219.soi",
       "title": "2022 Scotland - Moray - 6 Elgin City North",
-      "output_sha256": "756effecc3783e42681a8725a7ed6b56b845335192165d3c3279320bc5bf09a2"
+      "output_sha256": "e34624988152623a5f707123d475f4bf6da3864633d127ec5e68bede09a884e2"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/7_Elgin_City_South.dat",
@@ -2945,7 +2945,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/elgin-city-south",
       "file_name": "00078-00000220.soi",
       "title": "2022 Scotland - Moray - 7 Elgin City South",
-      "output_sha256": "28a382d02dbf51b6cf46af4592aab60af27134258456e4616a6c0e1055df5fab"
+      "output_sha256": "74dbf13073e88b70409b91c7bcef3071c48eca3bbeb81eda790d4f73134b8fc8"
     },
     {
       "source_path": "SC2022_ballot_format/Moray/8_Forres.dat",
@@ -2958,7 +2958,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/moray/2022/05/forres",
       "file_name": "00078-00000221.soi",
       "title": "2022 Scotland - Moray - 8 Forres",
-      "output_sha256": "2a510c94e1c45eebd6027deb2f575953a3874941083ecf6fa04d1f6367849bc8"
+      "output_sha256": "6ae9368258b3788e3a2abb660c3129fa6256c7c6b7ff428b82adff562df12864"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/1_North_Coast.dat",
@@ -2971,7 +2971,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/north-coast",
       "file_name": "00078-00000222.soi",
       "title": "2022 Scotland - North Ayrshire - 1 North Coast",
-      "output_sha256": "4186937ba3f799484974def18d9dcdecf602e52e429fa0030dde08f61e37dd9a"
+      "output_sha256": "dd67980a55cf64863f852a16df53453a4488d71fdee5a5133b430b76727e6763"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/2_Garnock_Valley.dat",
@@ -2984,7 +2984,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/garnock-valley",
       "file_name": "00078-00000223.soi",
       "title": "2022 Scotland - North Ayrshire - 2 Garnock Valley",
-      "output_sha256": "44fd8a2c5023f4ccebb72236946bb1ca9f6cab426bcbc4957f2cfb693f8be299"
+      "output_sha256": "069a50aa86366905023d3f83b6857409e497cbc5135f4971a91dd1e4e77cb24d"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/3_Ardrossan.dat",
@@ -2997,7 +2997,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/ardrossan",
       "file_name": "00078-00000224.soi",
       "title": "2022 Scotland - North Ayrshire - 3 Ardrossan",
-      "output_sha256": "a7f247f814405632adb2fd906ddaae74da9e4adbd03b64a7ea7295160f7141d6"
+      "output_sha256": "4a88227ee0b38a906097f6f935d8e2215ac82389a9e51de3ff6c4d5c9a94d22f"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/4_Arran.dat",
@@ -3010,7 +3010,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/arran",
       "file_name": "00078-00000225.soi",
       "title": "2022 Scotland - North Ayrshire - 4 Arran",
-      "output_sha256": "4a9bf53aca5dd0c3976f8f43e2448d66ac20f8975a8c59242a951ff56363ab0d"
+      "output_sha256": "f8d050c6488e898a4830540473a63585821a3834fd8dd3a47e1e2c248f0ed76d"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/5_Saltcoats_and_Stevenston.dat",
@@ -3023,7 +3023,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/saltcoats-and-stevenston",
       "file_name": "00078-00000226.soi",
       "title": "2022 Scotland - North Ayrshire - 5 Saltcoats and Stevenston",
-      "output_sha256": "15e9bb2253101a7498b0d6a6f8b4022573769d42c708d7589010c76b0825b238"
+      "output_sha256": "37118fb78f9be977ef9224556c0f44e3847164c6a166eb410913b62363fd31da"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/6_Kilwinning.dat",
@@ -3036,7 +3036,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/kilwinning",
       "file_name": "00078-00000227.soi",
       "title": "2022 Scotland - North Ayrshire - 6 Kilwinning",
-      "output_sha256": "b1c9d26edb38d335fa03165752f50cc76839e248a165f7c680e152b25ee2c6f9"
+      "output_sha256": "fc951eb867271f4d9f33973ee6806850ed5796a08193037f282c569c3d9811d1"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/7_Irvine_West.dat",
@@ -3049,7 +3049,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/irvine-west",
       "file_name": "00078-00000228.soi",
       "title": "2022 Scotland - North Ayrshire - 7 Irvine West",
-      "output_sha256": "2b74b21c0360c7435d48c40e2c194c11dd2348c8da1d9f17cfc0e71ecb1aa1e8"
+      "output_sha256": "0487557e467c8880324048397243f666068db5a2efd0966c813076921068cbbe"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/8_Irvine_East.dat",
@@ -3062,7 +3062,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/irvine-east",
       "file_name": "00078-00000229.soi",
       "title": "2022 Scotland - North Ayrshire - 8 Irvine East",
-      "output_sha256": "bc1fd4428d18323f15bd6b221fb3c2ccd71c651a34c82d0b61fa660fb47337ad"
+      "output_sha256": "43fd8eb7496286c29490c3bba09fb6b77405ef1c7ba554516a11bb91df96dfbd"
     },
     {
       "source_path": "SC2022_ballot_format/North_Ayrshire/9_Irvine_South.dat",
@@ -3075,7 +3075,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-ayrshire/2022/05/irvine-south",
       "file_name": "00078-00000230.soi",
       "title": "2022 Scotland - North Ayrshire - 9 Irvine South",
-      "output_sha256": "d000c2f862397b381f9239ef1b7b76b3d9da7f7afa46c29d1736964df7e36cdf"
+      "output_sha256": "260768d803618f9ff3c6b7d489f79f443e18e3d540a9c5a5bc784e7da8ae1ff0"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/10_Coatbridge_West.dat",
@@ -3088,7 +3088,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/coatbridge-west",
       "file_name": "00078-00000231.soi",
       "title": "2022 Scotland - North Lanarkshire - 10 Coatbridge West",
-      "output_sha256": "2780e03749d672c2e34b6439091353d80468287f0a1150c2d81f9dab4f168ddf"
+      "output_sha256": "915595861c95a8cecde52a9e112f02d3c81a614c7ef2a63effe744c2f8881ae5"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/11_Coatbridge_South.dat",
@@ -3101,7 +3101,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/coatbridge-south",
       "file_name": "00078-00000232.soi",
       "title": "2022 Scotland - North Lanarkshire - 11 Coatbridge South",
-      "output_sha256": "d27c32d15533a4abe9e820ada38bd94e0d7ec01da3f55f0a175b19fa17232776"
+      "output_sha256": "085a940dea94fbef18a33525a7a1b70d31e737fdc8af0f460a4b9927965063ae"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/12_Airdrie_South.dat",
@@ -3114,7 +3114,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/airdrie-south",
       "file_name": "00078-00000233.soi",
       "title": "2022 Scotland - North Lanarkshire - 12 Airdrie South",
-      "output_sha256": "938960d5fd5856bde6db835c69c1ffe7a411053d5f830631b44b094d7fc7755d"
+      "output_sha256": "cf8e3784beec474d8afb4392a5020295c6be5e6ef12f9aee10b4bf137c59dd5e"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/13_Fortissat.dat",
@@ -3127,7 +3127,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/fortissat",
       "file_name": "00078-00000234.soi",
       "title": "2022 Scotland - North Lanarkshire - 13 Fortissat",
-      "output_sha256": "9f9e4dea15974ddb9216ff876c5487f5d531abe4f43347c9c293db4454b438d3"
+      "output_sha256": "ff871bc21cf8a856d167a3143e69d1d9a791139736ab759c41b8ab7fae193ea5"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/14_Thorniewood.dat",
@@ -3140,7 +3140,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/thorniewood",
       "file_name": "00078-00000235.soi",
       "title": "2022 Scotland - North Lanarkshire - 14 Thorniewood",
-      "output_sha256": "d3533631375b41a2f500e446cb8c37c43aa611da60a785a7af592ba2c5980eeb"
+      "output_sha256": "6cdcbe8a2fd370779f9db12e2baa442481d78eede58e1f4cf54a905fa8cb01e1"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/15_Bellshill.dat",
@@ -3153,7 +3153,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/bellshill",
       "file_name": "00078-00000236.soi",
       "title": "2022 Scotland - North Lanarkshire - 15 Bellshill",
-      "output_sha256": "a5f97108f3ee70f3a4d74420786d9dc3c40cde51823303f81c7acafd9e154b41"
+      "output_sha256": "42946dad95eb240af455693d80c8a7bdc752671c4af7b15ae456c01026c1d411"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/16_Mossend_and_Holytown.dat",
@@ -3166,7 +3166,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/mossend-and-holytown",
       "file_name": "00078-00000237.soi",
       "title": "2022 Scotland - North Lanarkshire - 16 Mossend and Holytown",
-      "output_sha256": "7c17a1ba1e5d6656767978ded960bcfcbcb854e3fef525a5bf69f960a0015980"
+      "output_sha256": "50df67bdebd234e2d39698efec1f885fb6084efda59e4d05f77b55dc3609d144"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/17_Motherwell_West.dat",
@@ -3179,7 +3179,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/motherwell-west",
       "file_name": "00078-00000238.soi",
       "title": "2022 Scotland - North Lanarkshire - 17 Motherwell West",
-      "output_sha256": "85ba4085b6ac4ad90de7dcd5ab4f192658864b531bc8f5cd33c0831334dc1a3b"
+      "output_sha256": "465e8b18d12ba78d136bd38872613091706b12e44297a2909cddaa7db452639b"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/18_Motherwell_North.dat",
@@ -3192,7 +3192,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/motherwell-north",
       "file_name": "00078-00000239.soi",
       "title": "2022 Scotland - North Lanarkshire - 18 Motherwell North",
-      "output_sha256": "d5364482ed7868ac15af3374490e24e2a43fdf2ca6f3c764e72b735a665257cb"
+      "output_sha256": "b8f97f4fffc9c2789fd852fc794c2d265ebf6c00f67cc6423d1d9a050e8b37b3"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/19_Motherwell_South_East_and_Ravenscraig.dat",
@@ -3205,7 +3205,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/motherwell-south-east-and-ravenscraig",
       "file_name": "00078-00000240.soi",
       "title": "2022 Scotland - North Lanarkshire - 19 Motherwell South East and Ravenscraig",
-      "output_sha256": "bc2f7fdac349b01dd261bfa075253741440ee68dce84b47ba35991f3767b1d19"
+      "output_sha256": "5f35b991c607e9df6ab6ad8e8386fb7ac379afeb0e9e588dd08fabe200768f30"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/1_Kilsyth.dat",
@@ -3218,7 +3218,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/kilsyth",
       "file_name": "00078-00000241.soi",
       "title": "2022 Scotland - North Lanarkshire - 1 Kilsyth",
-      "output_sha256": "69bba5d564ee5c752d6fdcea5bb618ef1ac7bd3f0a06b752726bcd0c0f18eba8"
+      "output_sha256": "806c4919aa9c28f6a6a9346b321d15b59fa647bd98fe36a1c7ddec1c17ef6d5e"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/20_Murdostoun.dat",
@@ -3231,7 +3231,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/murdostoun",
       "file_name": "00078-00000242.soi",
       "title": "2022 Scotland - North Lanarkshire - 20 Murdostoun",
-      "output_sha256": "8d03f4f0a535bce1c182bfbd208a5731d9b130931d235253c8cc1ab53765a47c"
+      "output_sha256": "f83e7bc0d9758d306b4b53a69ad04027768707baea56a194f40c307f0ddf5f03"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/21_Wishaw.dat",
@@ -3244,7 +3244,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/wishaw",
       "file_name": "00078-00000243.soi",
       "title": "2022 Scotland - North Lanarkshire - 21 Wishaw",
-      "output_sha256": "e5825e85c3bdacdb7cc5c11ccc7e3bc5ad8be6c69dac796a19a52cfe615d76e1"
+      "output_sha256": "a88b30a6e33af1f897527aa29c1ffbe37a8c4db21ccb503b0e45347f622e6eae"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/2_Cumbernauld_North.dat",
@@ -3257,7 +3257,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/cumbernauld-north",
       "file_name": "00078-00000244.soi",
       "title": "2022 Scotland - North Lanarkshire - 2 Cumbernauld North",
-      "output_sha256": "5997ddc07c517fe0af2ec4218864e72cb62c23e25244faae39579d3b4dab344e"
+      "output_sha256": "b5662bcd101f544463daaf3c8cbb4cfea3c261dd3b79d2afaf1b0797ca843627"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/3_Cumbernauld_South.dat",
@@ -3270,7 +3270,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/cumbernauld-south",
       "file_name": "00078-00000245.soi",
       "title": "2022 Scotland - North Lanarkshire - 3 Cumbernauld South",
-      "output_sha256": "b6b641db11270109f797d14b473d54606db63bda42739ba7c0b9e908ebda9a1f"
+      "output_sha256": "024a43cb629177dd70e8a2c05b7e683507f6774b07f27dcaa1b60a8a613820c4"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/4_Cumbernauld_East.dat",
@@ -3283,7 +3283,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/cumbernauld-east",
       "file_name": "00078-00000246.soi",
       "title": "2022 Scotland - North Lanarkshire - 4 Cumbernauld East",
-      "output_sha256": "2a5b6cf08ad17228733e89eee4e02919d61a56614aee2d06ab539cf6896c438c"
+      "output_sha256": "ef2d08577c6a62352e6efbe13cf97964785ff4b4a4a1d34f0dbe581cbdb6c7c4"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/5_Stepps_Chryston_and_Muirhead.dat",
@@ -3296,7 +3296,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/stepps-chryston-and-muirhead",
       "file_name": "00078-00000247.soi",
       "title": "2022 Scotland - North Lanarkshire - 5 Stepps Chryston and Muirhead",
-      "output_sha256": "c6f171328f98d35df009b8ff1024431e31ee0145e6b03e46e28f859635bd70bf"
+      "output_sha256": "384ebf326943c95f2230797ded5db061344255f705090bedbca367f71685bc20"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/6_Gartcosh_Glenboig_and_Moodiesburn.dat",
@@ -3309,7 +3309,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/gartcosh-glenboig-and-moodiesburn",
       "file_name": "00078-00000248.soi",
       "title": "2022 Scotland - North Lanarkshire - 6 Gartcosh Glenboig and Moodiesburn",
-      "output_sha256": "a2d86cf8c374199fcbf06ff65e1d85ac11e0fe67b6dda8e234a3e36f0c7d5dae"
+      "output_sha256": "ca293080778a501dbd68746dfab1f2f129f4653c6cc9eb5e52de44abbcc58861"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/7_Coatbridge_North.dat",
@@ -3322,7 +3322,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/coatbridge-north",
       "file_name": "00078-00000249.soi",
       "title": "2022 Scotland - North Lanarkshire - 7 Coatbridge North",
-      "output_sha256": "c81e9d332be8bcfdb2f0dbd94a8abcf102467cb4c80444b972091658edddd066"
+      "output_sha256": "fd1a62abd3a674e460f4d67bf60efa5b0ad9406a9755b6af18dc0da78b5f9eef"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/8_Airdrie_North.dat",
@@ -3335,7 +3335,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/airdrie-north",
       "file_name": "00078-00000250.soi",
       "title": "2022 Scotland - North Lanarkshire - 8 Airdrie North",
-      "output_sha256": "832d6486fee86fe39997ecb44a70f76beb0980d7b83c5b87b78727489498e817"
+      "output_sha256": "5d7ae16fe2112404ca877c295230f2caab8a0a6860f8d44afa3aa58436a31679"
     },
     {
       "source_path": "SC2022_ballot_format/North_Lanarkshire/9_Airdrie_Central.dat",
@@ -3348,7 +3348,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/north-lanarkshire/2022/05/airdrie-central",
       "file_name": "00078-00000251.soi",
       "title": "2022 Scotland - North Lanarkshire - 9 Airdrie Central",
-      "output_sha256": "ef53aec9bbb8fcbfaf2210aa63d1ca8271f36cdf55155dbe079d9c0078828796"
+      "output_sha256": "115cfca4683068e5b6d517289130165511cddb53a830b02c959cbd0a1691efe6"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/1_Kirkwall_East.dat",
@@ -3361,7 +3361,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/kirkwall-east",
       "file_name": "00078-00000252.soi",
       "title": "2022 Scotland - Orkney - 1 Kirkwall East",
-      "output_sha256": "a59a2d26a50cd95d48528e559871f3ebc69dc7c478f551e112c69a697879bdb2"
+      "output_sha256": "abd4e74a258aec0376eead5a2547baae5e444761fb749c3ec7c01765b2a24309"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/2_Kirkwall_West_and_Orphir.dat",
@@ -3374,7 +3374,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/kirkwall-west-and-orphir",
       "file_name": "00078-00000253.soi",
       "title": "2022 Scotland - Orkney - 2 Kirkwall West and Orphir",
-      "output_sha256": "3bc8567cd539f2ad80830e4584733c27e8209ae206826cb6e4fbf43fc879fc8a"
+      "output_sha256": "cf173dcf8052348425289a7cda013fb7bfae2445ecb5811ab19fe3ddbf60bf9f"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/3_Stromness_and_South_Isles.dat",
@@ -3387,7 +3387,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/stromness-and-south-isles",
       "file_name": "00078-00000254.soi",
       "title": "2022 Scotland - Orkney - 3 Stromness and South Isles",
-      "output_sha256": "b354479d76ade42f6facb0d750b4b7f6fc954ffe2f1ac79da8c54e7bdd71c2cc"
+      "output_sha256": "88bcd3e1eaa14e1cba8df72d2a480766e92c8d3a059774f0d37a49c53911302e"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/4_West_Mainland.dat",
@@ -3400,7 +3400,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/west-mainland",
       "file_name": "00078-00000255.soi",
       "title": "2022 Scotland - Orkney - 4 West Mainland",
-      "output_sha256": "90636c51e1f898e38e682e23fbd57b6b88436e73b74f6cddb621c6b125327aaa"
+      "output_sha256": "23433cd650bc06699ba36c97cb63fe0a863397ea64af902ebe34a422af1b7868"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/5_East_Mainland_South_Ronaldsay_and_Burray.dat",
@@ -3413,7 +3413,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/east-mainland-south-ronaldsay-and-burray",
       "file_name": "00078-00000256.soi",
       "title": "2022 Scotland - Orkney - 5 East Mainland South Ronaldsay and Burray",
-      "output_sha256": "3e84bacce52271ccd4b7497ae1ae58a778cedde8f4f870f20be76f464dc03c22"
+      "output_sha256": "d50c2b37adc0f430fc50e1719ddf2e3cd479f8af7acdb399f6cd60a01958fb7e"
     },
     {
       "source_path": "SC2022_ballot_format/Orkney/6_North_Isles.dat",
@@ -3426,7 +3426,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/orkney/2022/05/north-isles",
       "file_name": "00078-00000257.soi",
       "title": "2022 Scotland - Orkney - 6 North Isles",
-      "output_sha256": "799545153af4d59358348f84bdd48efbcfdd5197472bd519558f0f04220fc634"
+      "output_sha256": "2fe431f6e76719fc47b07b2afafd18b48279ecff2d073c20250254138becf325"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/10_Perth_City_South.dat",
@@ -3439,7 +3439,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/perth-city-south",
       "file_name": "00078-00000258.soi",
       "title": "2022 Scotland - Perth and Kinross - 10 Perth City South",
-      "output_sha256": "53b21048b63477ee3452ce3719880df630b890f2598925beb60f4dcabc410be0"
+      "output_sha256": "0d13f6c24f301e8cc79d47b0170bcb3ea4e0c53e8a78fd0f70f1c928d1cda8f1"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/11_Perth_City_North.dat",
@@ -3452,7 +3452,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/perth-city-north",
       "file_name": "00078-00000259.soi",
       "title": "2022 Scotland - Perth and Kinross - 11 Perth City North",
-      "output_sha256": "282f0743b3b4fbf202e6a52622209b61b9e7a5bd365018f92fb4e31e96549180"
+      "output_sha256": "38e996dc54bf16dde5c5db62e78f13770ecb67ea0a22c55097414948d2e0297c"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/12_Perth_City_Centre.dat",
@@ -3465,7 +3465,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/perth-city-centre",
       "file_name": "00078-00000260.soi",
       "title": "2022 Scotland - Perth and Kinross - 12 Perth City Centre",
-      "output_sha256": "f33e287e266dbee7ae837cbd28ffe3e4f31f6bdc14b5bad39716493d3bc2d928"
+      "output_sha256": "04dfabcb9eeaa14a8e227d5f6dbc4a1ca75c8b9a02ee95e12bd22c2120360baf"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/1_Carse_of_Gowrie.dat",
@@ -3478,7 +3478,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/carse-of-gowrie",
       "file_name": "00078-00000261.soi",
       "title": "2022 Scotland - Perth and Kinross - 1 Carse of Gowrie",
-      "output_sha256": "94a1531aa6ada697ed15bb1a39cae994a5c5841be12aa4ae5a78c86523ab38b6"
+      "output_sha256": "a47df10a095df6cc8573d34e8fd3bcc57ee61220c4631a34cbe50dcfd4647e67"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/2_Strathmore.dat",
@@ -3491,7 +3491,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/strathmore",
       "file_name": "00078-00000262.soi",
       "title": "2022 Scotland - Perth and Kinross - 2 Strathmore",
-      "output_sha256": "8c503516f2f7e1b9c4cc3f64de8ce60e0eeb5a976274d14fb48e853a90d040e5"
+      "output_sha256": "4e7255de7e6dad993855351c80d1084cdfffdf7ee31fd9a350a5507a37b1e14c"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/3_Blairgowrie_and_Glens.dat",
@@ -3504,7 +3504,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/blairgowrie-and-glens",
       "file_name": "00078-00000263.soi",
       "title": "2022 Scotland - Perth and Kinross - 3 Blairgowrie and Glens",
-      "output_sha256": "49216d01e11cef565826e49ba4d9fd2140f76d720c88a133233a0d0b66974262"
+      "output_sha256": "0b1262db35ccffe7d8045180a82cbbde93d33f7d4a654205e96e0bd9e1abb4ca"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/4_Highland.dat",
@@ -3517,7 +3517,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/highland",
       "file_name": "00078-00000264.soi",
       "title": "2022 Scotland - Perth and Kinross - 4 Highland",
-      "output_sha256": "5b3691b31536d4f855648c590241fb5fb6105b64f20f23a9addb96ce333ef9cb"
+      "output_sha256": "d25241719fe79aef18ac550e0a046aa9b3cbcaef61c09aa6bf1952e4bd1e2ab9"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/5_Strathtay.dat",
@@ -3530,7 +3530,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/strathtay",
       "file_name": "00078-00000265.soi",
       "title": "2022 Scotland - Perth and Kinross - 5 Strathtay",
-      "output_sha256": "fcd4dc053d2cb5f5cd93a2b9df5873c6de95c2c7ce5b4c6b9206804d680ac0ae"
+      "output_sha256": "6d16ca08c32ec336e532258f3ac1d76fc11e8b5d4699ca1ceeaf25f8229c515c"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/6_Strathearn.dat",
@@ -3543,7 +3543,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/strathearn",
       "file_name": "00078-00000266.soi",
       "title": "2022 Scotland - Perth and Kinross - 6 Strathearn",
-      "output_sha256": "25edccd0764547228d1c29c9cdf23f09d0047033bdcaabb28d0524a21f6ea5c7"
+      "output_sha256": "516bb314ad1ce9844101d5a1a3f09cb5c795ec345c7646dc61f17f9ffec44129"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/7_Strathallan.dat",
@@ -3556,7 +3556,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/strathallan",
       "file_name": "00078-00000267.soi",
       "title": "2022 Scotland - Perth and Kinross - 7 Strathallan",
-      "output_sha256": "1b8dbb4eb657005120e4f5a6cb3135786c19ed6867cda6be77b537be1da39849"
+      "output_sha256": "7377a059043bc1e4e216dbe65ed7226cd53ba98a254fa37f7c854de11e2dfa5d"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/8_Kinross-Shire.dat",
@@ -3569,7 +3569,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/kinross-shire",
       "file_name": "00078-00000268.soi",
       "title": "2022 Scotland - Perth and Kinross - 8 Kinross-Shire",
-      "output_sha256": "4271e76c47dccaa8956f43c9ae4a9b8162ac328e146de22753d8316efadf3d77"
+      "output_sha256": "fd9f8eea073beda868428fd2b3852c366329cf9653b8dd6476cbd3a38e3a24fb"
     },
     {
       "source_path": "SC2022_ballot_format/Perth_and_Kinross/9_Almond_and_Earn.dat",
@@ -3582,7 +3582,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/perth-and-kinross/2022/05/almond-and-earn",
       "file_name": "00078-00000269.soi",
       "title": "2022 Scotland - Perth and Kinross - 9 Almond and Earn",
-      "output_sha256": "068e587c4d24e6109cb5885462afcec3688a1a07f00f5ab3e5f8ff2c00d24fa1"
+      "output_sha256": "3e76545e80b9e2d1728b3a4c72edb5813001036be94dc4f2f8ddaf2af2bb0b33"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/10_Houston_Crosslee_and_Linwood.dat",
@@ -3595,7 +3595,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/houston-crosslee-and-linwood",
       "file_name": "00078-00000270.soi",
       "title": "2022 Scotland - Renfrewshire - 10 Houston Crosslee and Linwood",
-      "output_sha256": "fb473ac05fd0f3dcb19a939dfd4aec1848eb99495c0e59715ded4a48db2b09fb"
+      "output_sha256": "86921cc5289c2fadf2e213239b203013f28dd7705365f92077a510aa0c9c22b0"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/11_Bishopton_Bridge_of_Weir_and_Langbank.dat",
@@ -3608,7 +3608,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/bishopton-bridge-of-weir-and-langbank",
       "file_name": "00078-00000271.soi",
       "title": "2022 Scotland - Renfrewshire - 11 Bishopton Bridge of Weir and Langbank",
-      "output_sha256": "6ae791f57d3510dcb8d08d2289aff8b6c44b4790a2c5b880f4793750fee9caee"
+      "output_sha256": "e8be7edb7864f48866e5a1e294039eddfa28d305e8fd3fbe4dcf1f2a96ce144c"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/12_Erskine_and_Inchinnan.dat",
@@ -3621,7 +3621,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/erskine-and-inchinnan",
       "file_name": "00078-00000272.soi",
       "title": "2022 Scotland - Renfrewshire - 12 Erskine and Inchinnan",
-      "output_sha256": "c643f204396acae614007d98b9101c6ccde3c48f3b5f1109c55a2240aee2a36d"
+      "output_sha256": "9d79424f6bfdb395c8113c6f617b1099f21480a862fb95284ea3e11468d120dd"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/1_Renfrew_North_and_Braehead.dat",
@@ -3634,7 +3634,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/renfrew-north-and-braehead",
       "file_name": "00078-00000273.soi",
       "title": "2022 Scotland - Renfrewshire - 1 Renfrew North and Braehead",
-      "output_sha256": "577e547ab8d9d631ba3e626967c662a64c39ef10165915f5f4444f8513725027"
+      "output_sha256": "a25c96fe58e50c711c5644a14015b2e100b4ee360d59d1845c245916942bc73f"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/2_Renfrew_South_and_Gallowhill.dat",
@@ -3647,7 +3647,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/renfrew-south-and-gallowhill",
       "file_name": "00078-00000274.soi",
       "title": "2022 Scotland - Renfrewshire - 2 Renfrew South and Gallowhill",
-      "output_sha256": "4aae9d2f3e2ef23e454c0555f0c0ace899e33debe53764f383aef3e8e155ecbb"
+      "output_sha256": "1190dd118929b9542351e59524bc53b40ff331b8ddcad4fbf64973ed636637bc"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/3_Paisley_Northeast_and_Ralston.dat",
@@ -3660,7 +3660,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/paisley-northeast-and-ralston",
       "file_name": "00078-00000275.soi",
       "title": "2022 Scotland - Renfrewshire - 3 Paisley Northeast and Ralston",
-      "output_sha256": "a01593ea753a8aeec7b0fe3dce4abc05f49cef5eeba0979cb1f4e7af2f5acb81"
+      "output_sha256": "95fc2f6b3ae618762afdf817f10856a9f74f5b039ab29fc60aeb60f7374ee9a8"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/4_Paisley_Northwest.dat",
@@ -3673,7 +3673,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/paisley-northwest",
       "file_name": "00078-00000276.soi",
       "title": "2022 Scotland - Renfrewshire - 4 Paisley Northwest",
-      "output_sha256": "76d092acf1f756467a746e7df61df4c2588a82524828440fbc05ba6e26335ccb"
+      "output_sha256": "4efd3f6b54880f03abb6beb58e30fec422d7ffc3249ecca3429b13c295557d0b"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/5_Paisley_East_and_Central.dat",
@@ -3686,7 +3686,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/paisley-east-and-central",
       "file_name": "00078-00000277.soi",
       "title": "2022 Scotland - Renfrewshire - 5 Paisley East and Central",
-      "output_sha256": "53a67043b37c9017de7432d26479fa05d5a06508c0a2581cdac29f65c39fdfb3"
+      "output_sha256": "fdab45febcd21fde282452be60e02d3a08617b9c5e168048700bfc812bf03c9e"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/6_Paisley_Southeast.dat",
@@ -3699,7 +3699,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/paisley-southeast",
       "file_name": "00078-00000278.soi",
       "title": "2022 Scotland - Renfrewshire - 6 Paisley Southeast",
-      "output_sha256": "a880869d88f89c494dc078ee42fbe8cf85aa86a971872eb5a8eb010771c543d0"
+      "output_sha256": "649e8b3456e14eae9af59aeced4170be58fdbb1538cae046021b8cbc257772fe"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/7_Paisley_Southwest.dat",
@@ -3712,7 +3712,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/paisley-southwest",
       "file_name": "00078-00000279.soi",
       "title": "2022 Scotland - Renfrewshire - 7 Paisley Southwest",
-      "output_sha256": "0e1082fb48579ea11d941fcd5fad2ec02d6da207ab2ff0874c6775f279028566"
+      "output_sha256": "9ececb9e17f5aaec60e8554a016fee642e6647b5afb03e3156ecdbe9fa0e9bbf"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/8_Johnstone_South_and_Elderslie.dat",
@@ -3725,7 +3725,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/johnstone-south-and-elderslie",
       "file_name": "00078-00000280.soi",
       "title": "2022 Scotland - Renfrewshire - 8 Johnstone South and Elderslie",
-      "output_sha256": "91596342edb8902e3002fcd6004701a4711153f5b1b12db643974e10786bb3f0"
+      "output_sha256": "5e33ec83ed430d91691ce5e3c44ff6cecf461d5734cd50acf76122e1ec1f4c45"
     },
     {
       "source_path": "SC2022_ballot_format/Renfrewshire/9_Johnstone_North_Kilbarchan_Howwood_and_Lochwinnoch.dat",
@@ -3738,7 +3738,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/renfrewshire/2022/05/johnstone-north-kilbarchan-howwood-and-lochwinnoch",
       "file_name": "00078-00000281.soi",
       "title": "2022 Scotland - Renfrewshire - 9 Johnstone North Kilbarchan Howwood and Lochwinnoch",
-      "output_sha256": "848fe616f37076dc7ae2d0b32150857bf440518385c42200e5684e5398e3a98a"
+      "output_sha256": "aaa340cdc1cfd3488013202800346c6ee3fab2c35f08e19a9f7872f5dead85f1"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/10_Hawick_and_Denholm.dat",
@@ -3751,7 +3751,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/hawick-and-denholm",
       "file_name": "00078-00000282.soi",
       "title": "2022 Scotland - Scottish Borders - 10 Hawick and Denholm",
-      "output_sha256": "bc92f5ade4dd2ebe604206755357f9228be8d7f8d7f2987a38085bd1be1ff629"
+      "output_sha256": "bedc05b29e718cd206166eb248298c0051c4703834338f2458f7756c643c2be1"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/11_Hawick_and_Hermitage.dat",
@@ -3764,7 +3764,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/hawick-and-hermitage",
       "file_name": "00078-00000283.soi",
       "title": "2022 Scotland - Scottish Borders - 11 Hawick and Hermitage",
-      "output_sha256": "728a28e64e63345302287cbbfed336074268312494d68e1ebaeab5b08d6f04fd"
+      "output_sha256": "47ac00dbed87e66c6c1ab0e4153987315c2f5425ab48ca75feb5555924b96f54"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/1_Tweeddale_West.dat",
@@ -3777,7 +3777,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/tweeddale-west",
       "file_name": "00078-00000284.soi",
       "title": "2022 Scotland - Scottish Borders - 1 Tweeddale West",
-      "output_sha256": "481837e563f9f82854ae60a9b7c636851560f8bb1c501befb54d69071fb1d34d"
+      "output_sha256": "29ee924a72288ddbc0c36320077a50764d1e10f218d0d3520affa4deac8d8a31"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/2_Tweeddale_East.dat",
@@ -3790,7 +3790,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/tweeddale-east",
       "file_name": "00078-00000285.soi",
       "title": "2022 Scotland - Scottish Borders - 2 Tweeddale East",
-      "output_sha256": "15af411ed86bb7a90f69efd12f81ac81088e479ed168d2c8fb9d5e51a03e38ab"
+      "output_sha256": "2abf9823c1a3345edf4c6e93697919a13328baabe7d0ce49be418d5ac6bbd535"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/3_Galashiels_and_District.dat",
@@ -3803,7 +3803,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/galashiels-and-district",
       "file_name": "00078-00000286.soi",
       "title": "2022 Scotland - Scottish Borders - 3 Galashiels and District",
-      "output_sha256": "902b21c92ae30d6faf561ddc8e422e3f08605af7f3e209c01fa0dda0078fba2b"
+      "output_sha256": "c4f572926a2cd43faf07ad0c9c89bc2c1a85f41376df035c144bfa7ed604318a"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/4_Selkirkshire.dat",
@@ -3816,7 +3816,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/selkirkshire",
       "file_name": "00078-00000287.soi",
       "title": "2022 Scotland - Scottish Borders - 4 Selkirkshire",
-      "output_sha256": "456a99442f28442a966fd6cec9abc7e50324c7836394d32a5e47b2cf2faf2bb3"
+      "output_sha256": "2e9d4cabf742751a264e64f168bf204fc4fe2ef5b945593ca6d316cc2404efd5"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/5_Leaderdale_and_Melrose.dat",
@@ -3829,7 +3829,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/leaderdale-and-melrose",
       "file_name": "00078-00000288.soi",
       "title": "2022 Scotland - Scottish Borders - 5 Leaderdale and Melrose",
-      "output_sha256": "176a249d9d07583cf32cc617f2f04e4f1b76be137ae02ac63619a3ad4478565d"
+      "output_sha256": "c209b8730216fc8d1dbb31fd1659836e5795823ca2c580c18de327de700bf478"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/6_Mid_Berwickshire.dat",
@@ -3842,7 +3842,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/mid-berwickshire",
       "file_name": "00078-00000289.soi",
       "title": "2022 Scotland - Scottish Borders - 6 Mid Berwickshire",
-      "output_sha256": "91eba0e6b775ca476316eff0990f0cd3191c6b790b70b52ff5fc0a19bd6ff583"
+      "output_sha256": "40f5d06071306a75c62c59d1fa51eec364f747c1b9d30726cfb45e4c14ea8889"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/7_East_Berwickshire.dat",
@@ -3855,7 +3855,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/east-berwickshire",
       "file_name": "00078-00000290.soi",
       "title": "2022 Scotland - Scottish Borders - 7 East Berwickshire",
-      "output_sha256": "ec7dc545183b34f2b6d114a48b172d3b9f5f271a36f5c9edbae9de597a645eb2"
+      "output_sha256": "de9274396cc0e1979050ac390715e15c323a989b949d707cf62f33b2a33d4d40"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/8_Kelso_and_District.dat",
@@ -3868,7 +3868,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/kelso-and-district",
       "file_name": "00078-00000291.soi",
       "title": "2022 Scotland - Scottish Borders - 8 Kelso and District",
-      "output_sha256": "f315580dce9dab54f4051463a05688aed6dd97ba5702ed6d1d067f6ff1a85b50"
+      "output_sha256": "30a83dbce892a72f6c53c109d80d17deef06e3518999d5f0b0927f7883a490e3"
     },
     {
       "source_path": "SC2022_ballot_format/Scottish_Borders/9_Jedburgh_and_District.dat",
@@ -3881,7 +3881,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/scottish-borders/2022/05/jedburgh-and-district",
       "file_name": "00078-00000292.soi",
       "title": "2022 Scotland - Scottish Borders - 9 Jedburgh and District",
-      "output_sha256": "24354d43deaed1ff2e2dc6b6275fc165790daa3c6adc74603d07fce5fe56daef"
+      "output_sha256": "2ad92916064053739acbd1866fa0b8dd3dc97ff412d4596e818aa2b33a6e3a34"
     },
     {
       "source_path": "SC2022_ballot_format/Shetland/3_Shetland_West.dat",
@@ -3894,7 +3894,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/shetland/2022/05/shetland-west",
       "file_name": "00078-00000293.soi",
       "title": "2022 Scotland - Shetland - 3 Shetland West",
-      "output_sha256": "1a045968f2d398b85bd7592e0334775aa75ac17c8b91940ffcd22b09876352a9"
+      "output_sha256": "8268ddee4232051d99ea0370858b74127168ca7822562ac863893a6f331d2211"
     },
     {
       "source_path": "SC2022_ballot_format/Shetland/4_Shetland_Central.dat",
@@ -3907,7 +3907,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/shetland/2022/05/shetland-central",
       "file_name": "00078-00000294.soi",
       "title": "2022 Scotland - Shetland - 4 Shetland Central",
-      "output_sha256": "1b9db374f52ca25aac80d006fae03f92507388032f4a7e445fbc478a085673d9"
+      "output_sha256": "73d096341958808b804b295148a529ef5a40bfe719cb020bc9ab5ef7115c25ef"
     },
     {
       "source_path": "SC2022_ballot_format/Shetland/5_Lerwick_North_and_Bressay.dat",
@@ -3920,7 +3920,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/shetland/2022/05/lerwick-north-and-bressay",
       "file_name": "00078-00000295.soi",
       "title": "2022 Scotland - Shetland - 5 Lerwick North and Bressay",
-      "output_sha256": "0d57624966422c186c3735a5aa1fab649dd651ecbbce898fa005739e40a4b3a3"
+      "output_sha256": "a04f0342a639b346214b9f76afcd122cd2408b59b06f6ba690f8bbd39004cc56"
     },
     {
       "source_path": "SC2022_ballot_format/Shetland/6_Lerwick_South.dat",
@@ -3933,7 +3933,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/shetland/2022/05/lerwick-south",
       "file_name": "00078-00000296.soi",
       "title": "2022 Scotland - Shetland - 6 Lerwick South",
-      "output_sha256": "dac87629f6cc373baa5c966c5c430d0b2245ebbd74f2b62d270d4b9bb24e8c3b"
+      "output_sha256": "7e80e6dc4936d3264684eb2f678f10a557a12e2387e7f87c07a5cefa2c0ad820"
     },
     {
       "source_path": "SC2022_ballot_format/Shetland/7_Shetland_South.dat",
@@ -3946,7 +3946,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/shetland/2022/05/shetland-south",
       "file_name": "00078-00000297.soi",
       "title": "2022 Scotland - Shetland - 7 Shetland South",
-      "output_sha256": "64d47cb11e1dcec3be011f55328722063af1c021b9730fb44e6fa58cb6e5824e"
+      "output_sha256": "4c6ee3521e0352c75fb4471bd7764ae420697f2a71bcde7456fb506538872fd1"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/1_Troon.dat",
@@ -3959,7 +3959,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/troon",
       "file_name": "00078-00000298.soi",
       "title": "2022 Scotland - South Ayrshire - 1 Troon",
-      "output_sha256": "6b1fc48c322e2d29ccd79fc73abe1f7b2582882d792e70eae7a561aebe1610a5"
+      "output_sha256": "2b6273e35736691a66f28ca2f8f9eaf561c822431bbbad8025b51e1d0cea0d7a"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/2_Prestwick.dat",
@@ -3972,7 +3972,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/prestwick",
       "file_name": "00078-00000299.soi",
       "title": "2022 Scotland - South Ayrshire - 2 Prestwick",
-      "output_sha256": "c77ff30b777ac92f8b596a0366c383477569fb8de81a2b460cd624ef76a7a420"
+      "output_sha256": "8d528bd76831c0a2244b44190506cc6c750f4ea6dc0ebd1711b3b49e8d459782"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/3_Ayr_North.dat",
@@ -3985,7 +3985,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/ayr-north",
       "file_name": "00078-00000300.soi",
       "title": "2022 Scotland - South Ayrshire - 3 Ayr North",
-      "output_sha256": "fdc00bbe03fabbe99b61df3c2904ff5cd28256e2e594389cf4589feb43ae505f"
+      "output_sha256": "6c9336db45f93e6ff97af7b65a3b4d63677c1ccea8134eaf1eedf414815d18b6"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/4_Ayr_East.dat",
@@ -3998,7 +3998,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/ayr-east",
       "file_name": "00078-00000301.soi",
       "title": "2022 Scotland - South Ayrshire - 4 Ayr East",
-      "output_sha256": "28c70849586da0996b8184c448c6bd51d8b9c90a9d8bf4b09054ab48fd2b7d2c"
+      "output_sha256": "ab665a337a23295baeaed489145fba1053a01ef30cf4d38041e8e4baf3f7a7dc"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/5_Ayr_West.dat",
@@ -4011,7 +4011,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/ayr-west",
       "file_name": "00078-00000302.soi",
       "title": "2022 Scotland - South Ayrshire - 5 Ayr West",
-      "output_sha256": "d52fc1c06188579e7b11c7094531324ddb553da6360b6639e6dfebac3dfddb3f"
+      "output_sha256": "127ccb34e63172357a9fa46810be359fb941e4c50e9b3424152d9775c1d62e35"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/6_Kyle.dat",
@@ -4024,7 +4024,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/kyle",
       "file_name": "00078-00000303.soi",
       "title": "2022 Scotland - South Ayrshire - 6 Kyle",
-      "output_sha256": "3fd451bfb74a6495e01c44f280ca2019626f06625c0d556f96544f9abe5cfb6b"
+      "output_sha256": "e6a061c78c44dbc8029d2aeec683107b616654e8d4fe89276a5bb082a9a3f1b4"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/7_Maybole_North_Carrick_and_Coylton.dat",
@@ -4037,7 +4037,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/maybole-north-carrick-and-coylton",
       "file_name": "00078-00000304.soi",
       "title": "2022 Scotland - South Ayrshire - 7 Maybole North Carrick and Coylton",
-      "output_sha256": "6e5df6ab3962af584a8a44974eae11fe8639c0c3853ccdcc5edfad9ce020a91c"
+      "output_sha256": "333093fe8cfa0f86944fdb42cd55468fd744f368fe81ba8ccdbb62807b722ae0"
     },
     {
       "source_path": "SC2022_ballot_format/South_Ayrshire/8_Girvan_and_South_Carrick.dat",
@@ -4050,7 +4050,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-ayrshire/2022/05/girvan-and-south-carrick",
       "file_name": "00078-00000305.soi",
       "title": "2022 Scotland - South Ayrshire - 8 Girvan and South Carrick",
-      "output_sha256": "d9051daf529857902a2f228b4ac97e2750b79b0f51a79f88959f098bc7bdb3b6"
+      "output_sha256": "f36a74b2284660b123e286109051a3c7cc455ef0d2932194a81b54a98935c916"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/10_East_Kilbride_East.dat",
@@ -4063,7 +4063,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/east-kilbride-east",
       "file_name": "00078-00000306.soi",
       "title": "2022 Scotland - South Lanarkshire - 10 East Kilbride East",
-      "output_sha256": "e624bf161628bf5d2ab5eedae7ccbec9db53549b3c3cc1bcefcdc550ac2a2fd6"
+      "output_sha256": "454f31127d8dab368996865e9134354b64971a1c7e859ecb187d8b525ac6be56"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/11_Rutherglen_South.dat",
@@ -4076,7 +4076,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/rutherglen-south",
       "file_name": "00078-00000307.soi",
       "title": "2022 Scotland - South Lanarkshire - 11 Rutherglen South",
-      "output_sha256": "2396ab3105f1f51487d16608757097efc8fe201621304f7efe8b1dc1c9ea1742"
+      "output_sha256": "2fc45b7db4bd7ba1dae025881b4eeb6b749b54d74fed3605b21ebcb46bd2ed84"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/12_Rutherglen_Central_and_North.dat",
@@ -4089,7 +4089,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/rutherglen-central-and-north",
       "file_name": "00078-00000308.soi",
       "title": "2022 Scotland - South Lanarkshire - 12 Rutherglen Central and North",
-      "output_sha256": "73dca74c2cc6a1a3495821db6b93781dc9bc45dd60df853e64b38633ec274a3e"
+      "output_sha256": "d3b0a42abea2b2e64a279515addbc0e8578d794972603c292d416554b060f071"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/13_Cambuslang_West.dat",
@@ -4102,7 +4102,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/cambuslang-west",
       "file_name": "00078-00000309.soi",
       "title": "2022 Scotland - South Lanarkshire - 13 Cambuslang West",
-      "output_sha256": "daed6b1e603cbe7182bf7ddd3d07593d721d6f3f8ba9033ad13fea20b6128f9c"
+      "output_sha256": "53ccd09a481ca45d4f549aa2b9b2bc6d80b9257476a84b561a0949c9ef29e3bb"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/14_Cambuslang_East.dat",
@@ -4115,7 +4115,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/cambuslang-east",
       "file_name": "00078-00000310.soi",
       "title": "2022 Scotland - South Lanarkshire - 14 Cambuslang East",
-      "output_sha256": "c02960f625af34fd1372c1fd4ded320b6ac20849afb51736da6ba4e257ed2088"
+      "output_sha256": "68a373c9603893330f0d81ba32fcb3b9e3c8b4d44ff51482f7d749d9137a4cce"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/15_Blantyre.dat",
@@ -4128,7 +4128,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/blantyre",
       "file_name": "00078-00000311.soi",
       "title": "2022 Scotland - South Lanarkshire - 15 Blantyre",
-      "output_sha256": "f9c970fb6648d80a50998a0dcf63d0dfe9d2e3b404c908226726451febc0c973"
+      "output_sha256": "f28bb7116bea98991458d12c4cede32ec1aa4aa5a91d661b7d58125108ac3df7"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/16_Bothwell_and_Uddingston.dat",
@@ -4141,7 +4141,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/bothwell-and-uddingston",
       "file_name": "00078-00000312.soi",
       "title": "2022 Scotland - South Lanarkshire - 16 Bothwell and Uddingston",
-      "output_sha256": "5653df64d1da29ff5024a8391ebc7ca3bbf7daebee4004cbf74025eaa68ccdfa"
+      "output_sha256": "4fec35a510e5f39e28cb55eafdbffc17bb092e85c34e561d5d3a6f6b3eaf8cf1"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/17_Hamilton_North_and_East.dat",
@@ -4154,7 +4154,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/hamilton-north-and-east",
       "file_name": "00078-00000313.soi",
       "title": "2022 Scotland - South Lanarkshire - 17 Hamilton North and East",
-      "output_sha256": "31750f7e0857ca911bdd6997e0278f6020ce9d545b42c0c0cf9eaa806774a3fc"
+      "output_sha256": "053d9addc8d26387ed39451f86dfbde291fffdd3813d648fa783e5002178e93e"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/18_Hamilton_West_and_Earnock.dat",
@@ -4167,7 +4167,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/hamilton-west-and-earnock",
       "file_name": "00078-00000314.soi",
       "title": "2022 Scotland - South Lanarkshire - 18 Hamilton West and Earnock",
-      "output_sha256": "b6c29f818ef5d8ca844d49a345c0985b2b79e2b0a8cbc19f8b50a8f8f53d6f96"
+      "output_sha256": "c5104eebcfe09b44667df92326aef11416a0bc4f4e890af472fc11c6e858f86a"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/19_Hamilton_South.dat",
@@ -4180,7 +4180,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/hamilton-south",
       "file_name": "00078-00000315.soi",
       "title": "2022 Scotland - South Lanarkshire - 19 Hamilton South",
-      "output_sha256": "de0ab530dc9f25cb3b322f3ea1bfdd8a6ba654290c3a4cf08f46758aff892aef"
+      "output_sha256": "989056391af48fdb2edd982f234ef073c38c6b1cfea7cd39041dd21248300f9c"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/1_Clydesdale_West.dat",
@@ -4193,7 +4193,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/clydesdale-west",
       "file_name": "00078-00000316.soi",
       "title": "2022 Scotland - South Lanarkshire - 1 Clydesdale West",
-      "output_sha256": "076cfbc40629c74a4631620d0563a87b5a55cdeb0c934ec4c241738badb7fead"
+      "output_sha256": "b2aa3c7f2fd17cddc3aa198d85f34f2df43b69292225ea3e046f37d6f50916ca"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/20_Larkhall.dat",
@@ -4206,7 +4206,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/larkhall",
       "file_name": "00078-00000317.soi",
       "title": "2022 Scotland - South Lanarkshire - 20 Larkhall",
-      "output_sha256": "99703665a070a75f01311ae2fae3ac72f042bd80ee33c46a18eba8b83205fb34"
+      "output_sha256": "86f1b62d6962cbee4c1b1702e7f4ebb15509ab7b9f4829c086d3cf67d1bfeef7"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/2_Clydesdale_North.dat",
@@ -4219,7 +4219,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/clydesdale-north",
       "file_name": "00078-00000318.soi",
       "title": "2022 Scotland - South Lanarkshire - 2 Clydesdale North",
-      "output_sha256": "b7dfa2d5d6ce876858bb1429698c472ff41baef1de0a48f2d2c67a865cad5518"
+      "output_sha256": "2ca87b9869ba25f203d852f516782e0de602cb872ab5c2a6323ce5d4d5c38688"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/3_Clydesdale_East.dat",
@@ -4232,7 +4232,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/clydesdale-east",
       "file_name": "00078-00000319.soi",
       "title": "2022 Scotland - South Lanarkshire - 3 Clydesdale East",
-      "output_sha256": "3be6d1de161e7fc8af4e20fc0e633336541cf67cb4339d600ebceeebe097f3a5"
+      "output_sha256": "2ef3489252f0c19da7b5c9bb5ed5db2862e06674226c060202f33767e1a5145f"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/4_Clydesdale_South.dat",
@@ -4245,7 +4245,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/clydesdale-south",
       "file_name": "00078-00000320.soi",
       "title": "2022 Scotland - South Lanarkshire - 4 Clydesdale South",
-      "output_sha256": "c3444360934e71fc469d1415ad9efce601a15a3a8b77e731be5317040da4a7b1"
+      "output_sha256": "c81e7c0c28c7a5f30306e086c0a7635562e427e2d7809b8d649aa2e5af5aea51"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/5_Avondale_and_Stonehouse.dat",
@@ -4258,7 +4258,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/avondale-and-stonehouse",
       "file_name": "00078-00000321.soi",
       "title": "2022 Scotland - South Lanarkshire - 5 Avondale and Stonehouse",
-      "output_sha256": "5706a8b18c3647d9d6cd8c53813d59c33b0006a3cddb3077356052cc7f5cab28"
+      "output_sha256": "b547d5dc8ee99f548871fcc185e6e58ab0e032dff8f957690a0354fa6804f5bb"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/6_East_Kilbride_South.dat",
@@ -4271,7 +4271,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/east-kilbride-south",
       "file_name": "00078-00000322.soi",
       "title": "2022 Scotland - South Lanarkshire - 6 East Kilbride South",
-      "output_sha256": "c3a96ca48bf48cf6e0558e0f0c36e85505f77fb8bd126c63074ce598b732c827"
+      "output_sha256": "97e53c85eeaadce5658271becc5e0c69549864fe104de00cbbfcd40a5fd18894"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/7_East_Kilbride_Central_South.dat",
@@ -4284,7 +4284,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/east-kilbride-central-south",
       "file_name": "00078-00000323.soi",
       "title": "2022 Scotland - South Lanarkshire - 7 East Kilbride Central South",
-      "output_sha256": "11e2fae6c659dbfeadbe54106364f2b218dd52c551b3620f673264a210fb7949"
+      "output_sha256": "b47f224fb6286ef19b820f8783e9f0facca60992cbe57cfc281e4e23df2d925c"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/8_East_Kilbride_Central_North.dat",
@@ -4297,7 +4297,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/east-kilbride-central-north",
       "file_name": "00078-00000324.soi",
       "title": "2022 Scotland - South Lanarkshire - 8 East Kilbride Central North",
-      "output_sha256": "99cd3bd8c08ed6c0c5f1f67b68e90f5f0408dc71f49d4f7c18e930f3536ed545"
+      "output_sha256": "57811bceb2cca5a692c49cade708cf5f0657774a6b81934652f61e41e6481514"
     },
     {
       "source_path": "SC2022_ballot_format/South_Lanarkshire/9_East_Kilbride_West.dat",
@@ -4310,7 +4310,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/south-lanarkshire/2022/05/east-kilbride-west",
       "file_name": "00078-00000325.soi",
       "title": "2022 Scotland - South Lanarkshire - 9 East Kilbride West",
-      "output_sha256": "24251be66443dc90212049ce1f73b3190a431214de38d5a998e96616d858933e"
+      "output_sha256": "9d2e57466242ae885f06f2f7f87b7b28402be22cd761faab3cad9c99b8e087e5"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/1_Trossachs_and_Teith.dat",
@@ -4323,7 +4323,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/trossachs-and-teith",
       "file_name": "00078-00000326.soi",
       "title": "2022 Scotland - Stirling - 1 Trossachs and Teith",
-      "output_sha256": "6802d1d7eb4e1d7acc1d371107866cb46ee932ed0853e6f3ff4db873d8c92c4d"
+      "output_sha256": "ed3e38d99f214197f9a663ceb3fb43209c740eeeba51b7d91ab06e678a2629b9"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/2_Forth_and_Endrick.dat",
@@ -4336,7 +4336,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/forth-and-endrick",
       "file_name": "00078-00000327.soi",
       "title": "2022 Scotland - Stirling - 2 Forth and Endrick",
-      "output_sha256": "a7acdbaf92d594d4b44250e20c86d4d51cf78296d5310e14f9270a96326f98c8"
+      "output_sha256": "00e32501ff63383da4eab9c723da1aacde296b9ce0842845f2f18a29bd71ce06"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/3_Dunblane_and_Bridge_of_Allan.dat",
@@ -4349,7 +4349,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/dunblane-and-bridge-of-allan",
       "file_name": "00078-00000328.soi",
       "title": "2022 Scotland - Stirling - 3 Dunblane and Bridge of Allan",
-      "output_sha256": "aef586fdabac1d49b0af48ea012c0853aaa7a9e6d329982a94ba3a1661126df7"
+      "output_sha256": "964fade8dfe678bff257a8c1824daef96bb6890383b165075d57e4b6e673f186"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/4_Stirling_North.dat",
@@ -4362,7 +4362,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/stirling-north",
       "file_name": "00078-00000329.soi",
       "title": "2022 Scotland - Stirling - 4 Stirling North",
-      "output_sha256": "bcccc0a282c155a2e24821e6dee03d2b6461d7f777666edcad2af59a1fa7f5e5"
+      "output_sha256": "53f52d28471b85d6fc7115873a174920945ef3a6f783cb80ecf3bf72ae63af3d"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/5_Stirling_West.dat",
@@ -4375,7 +4375,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/stirling-west",
       "file_name": "00078-00000330.soi",
       "title": "2022 Scotland - Stirling - 5 Stirling West",
-      "output_sha256": "78b2ab2a0c614c69b6033547a2f96c8d3f64f4ac76b7e63856d584fd34aafd1b"
+      "output_sha256": "878ce3a231859fe02b217298e2f4286d62e92faa85eba88a4afccb03423ad2fd"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/6_Stirling_East.dat",
@@ -4388,7 +4388,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/stirling-east",
       "file_name": "00078-00000331.soi",
       "title": "2022 Scotland - Stirling - 6 Stirling East",
-      "output_sha256": "edc3a0224afadd26a68830a71ab5686a98ac3871c721050daddfbb61951981d7"
+      "output_sha256": "45ad9ee0a2a3e7817a346dac7889a507b24777f8fa783ced6571e6e7c4335007"
     },
     {
       "source_path": "SC2022_ballot_format/Stirling/7_Bannockburn.dat",
@@ -4401,7 +4401,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/stirling/2022/05/bannockburn",
       "file_name": "00078-00000332.soi",
       "title": "2022 Scotland - Stirling - 7 Bannockburn",
-      "output_sha256": "a8b1f86da47c7db34c3686c0514b459d7f00e9e3ed1f32b828e3920f727e7afe"
+      "output_sha256": "a497f219b694801b6cb3a9217d35d41ab3357fc29bed43c34563bbb6ba1d85e5"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/1_Lomond.dat",
@@ -4414,7 +4414,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/lomond",
       "file_name": "00078-00000333.soi",
       "title": "2022 Scotland - West Dunbartonshire - 1 Lomond",
-      "output_sha256": "477343d87de8d0b345fa018cf1c9139c07322aa01c506212ddbee0ca067b3604"
+      "output_sha256": "01f2b868c0229d00b163804f7881db1fa5ddd9a682c6feacf0cc5362b1a8e714"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/2_Leven.dat",
@@ -4427,7 +4427,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/leven",
       "file_name": "00078-00000334.soi",
       "title": "2022 Scotland - West Dunbartonshire - 2 Leven",
-      "output_sha256": "1f58deb5e88a20d73c6ff35a61214845c0300294077df6f4b012ff631c458b56"
+      "output_sha256": "6933b6518cb0bc913fb9e2f93807113df83140855a28cb5eed29b24711b58a97"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/3_Dumbarton.dat",
@@ -4440,7 +4440,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/dumbarton",
       "file_name": "00078-00000335.soi",
       "title": "2022 Scotland - West Dunbartonshire - 3 Dumbarton",
-      "output_sha256": "46109548a20fa3605705405be613615f8abc0ea409c98fc82f99572927734d7b"
+      "output_sha256": "01d3f26e4cd8f961e494598c5f36da8ffde205a33bd4aa364e60083bfb4ada20"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/4_Kilpatrick.dat",
@@ -4453,7 +4453,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/kilpatrick",
       "file_name": "00078-00000336.soi",
       "title": "2022 Scotland - West Dunbartonshire - 4 Kilpatrick",
-      "output_sha256": "dcdeebe2d225d031bfbc02bc2651be468afbf0fe6a00d8947fedbb631855d43a"
+      "output_sha256": "c2c6fc93317f5d47563af63c3940047b12ef942663e43e19b2ef555f3694e682"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/5_Clydebank_Central.dat",
@@ -4466,7 +4466,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/clydebank-central",
       "file_name": "00078-00000337.soi",
       "title": "2022 Scotland - West Dunbartonshire - 5 Clydebank Central",
-      "output_sha256": "6aaf8f69aa344b755f8d2eb4633701fe2fcae1b55335eaeeaa286a115ef0f333"
+      "output_sha256": "56c238f70e8eb692fc5736e1d513db0fb140aa70567d9594b9ce6c711106830b"
     },
     {
       "source_path": "SC2022_ballot_format/West_Dunbartonshire/6_Clydebank_Waterfront.dat",
@@ -4479,7 +4479,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-dunbartonshire/2022/05/clydebank-waterfront",
       "file_name": "00078-00000338.soi",
       "title": "2022 Scotland - West Dunbartonshire - 6 Clydebank Waterfront",
-      "output_sha256": "a722edfe3cdb17801632a1765b52e3e26d9d804ba8680037e4ac35a4c69965d9"
+      "output_sha256": "894808f8441a6ddfab984a3343cb7c51c468a3bed5e929a2a98a9551b4e492f5"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/1_Linlithgow.dat",
@@ -4492,7 +4492,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/linlithgow",
       "file_name": "00078-00000339.soi",
       "title": "2022 Scotland - West Lothian - 1 Linlithgow",
-      "output_sha256": "57683dde5ec820017fba779008174c22d283a41e89c92573903223cfe5c2006c"
+      "output_sha256": "f4b47162261c69547313c3bb4109d83153238b493e8d4de77f1f4f138cec64ec"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/2_Broxburn_Uphall_and_Winchburgh.dat",
@@ -4505,7 +4505,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/broxburn-uphall-and-winchburgh",
       "file_name": "00078-00000340.soi",
       "title": "2022 Scotland - West Lothian - 2 Broxburn Uphall and Winchburgh",
-      "output_sha256": "94eb37d10a2d2eed65eb078e19da35428a43ee4cee0b15ac4c706880d0769db1"
+      "output_sha256": "448a6a9742930ac188c37fe5ba68d50faa4a8fc1d18271e1f04ce8bf80087f44"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/3_Livingston_North.dat",
@@ -4518,7 +4518,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/livingston-north",
       "file_name": "00078-00000341.soi",
       "title": "2022 Scotland - West Lothian - 3 Livingston North",
-      "output_sha256": "e81fd74c3d184083ccec9ff3852c5697a5e4a072579384de5d277b9b2562ad7e"
+      "output_sha256": "e4408d6e77fb3722ae28057e096d0af41da7845f6d2834c875e5f1179ec69dc8"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/4_Livingston_South.dat",
@@ -4531,7 +4531,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/livingston-south",
       "file_name": "00078-00000342.soi",
       "title": "2022 Scotland - West Lothian - 4 Livingston South",
-      "output_sha256": "5fdede8ce4bc036c7492e85794a7ebe245471fd57e328a737ee797058845c6e5"
+      "output_sha256": "7361c9f10783370af5fe8614cd264de1dae480c16acaf96a374b3521f30765cd"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/5_East_Livingston_and_East_Calder.dat",
@@ -4544,7 +4544,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/east-livingston-and-east-calder",
       "file_name": "00078-00000343.soi",
       "title": "2022 Scotland - West Lothian - 5 East Livingston and East Calder",
-      "output_sha256": "8627219e7b413789d2ee737e8864b9215c3b35165ca9b4394b829ca26b22e67f"
+      "output_sha256": "5a3761aa918620238ddcd122108b49a4d60883b062f27bafeff073db2b1be79e"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/6_Fauldhouse_and_the_Breich_Valley.dat",
@@ -4557,7 +4557,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/fauldhouse-and-the-breich-valley",
       "file_name": "00078-00000344.soi",
       "title": "2022 Scotland - West Lothian - 6 Fauldhouse and the Breich Valley",
-      "output_sha256": "5c2cbceea01d008a9cf722ae0b36a2aca70ae4e55a8914c3626a0da0f52a0a01"
+      "output_sha256": "a4c9c90bce102aab0b1a8ca97faffe0831cf86435dac547ffe6b6eff3d85ca32"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/7_Whitburn_and_Blackburn.dat",
@@ -4570,7 +4570,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/whitburn-and-blackburn",
       "file_name": "00078-00000345.soi",
       "title": "2022 Scotland - West Lothian - 7 Whitburn and Blackburn",
-      "output_sha256": "39ad5514f0051ecb17f7f1b925b6ffe5542b7f7ebfbceffa031b3516a0a4fd46"
+      "output_sha256": "080bc17eb891e2702db3bf689102db2cbd09cbf2c5edee8a957f951c41f0a9d9"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/8_Bathgate.dat",
@@ -4583,7 +4583,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/bathgate",
       "file_name": "00078-00000346.soi",
       "title": "2022 Scotland - West Lothian - 8 Bathgate",
-      "output_sha256": "282db75888d50238743bc1d1e51fda2e54148e7eed23f6d2fb28eaa1d31c435d"
+      "output_sha256": "b01af4561828cd3b62b07717704454ae42724dd1b1c292da1ef3bbad112baed0"
     },
     {
       "source_path": "SC2022_ballot_format/West_Lothian/9_Armadale_and_Blackridge.dat",
@@ -4596,7 +4596,7 @@
       "report_url": "https://stv.vote/report/gb/scotland/west-lothian/2022/05/armadale-and-blackridge",
       "file_name": "00078-00000347.soi",
       "title": "2022 Scotland - West Lothian - 9 Armadale and Blackridge",
-      "output_sha256": "474fe0c7171386af34ea28380b2fea53bc3b463a0dd7c3abcdbe3408c71ff2de"
+      "output_sha256": "51eea32d5301bff0a1e0a6b146911728830d419eb3d351fac22d891e55f9e534"
     }
   ]
 }

@@ -82,8 +82,8 @@ def main():
                   "MODIFICATION DATE": args.modification_date,
                   "NUMBER ALTERNATIVES": len(ward["candidates"]), "NUMBER VOTERS": ward["ballots"],
                   "NUMBER UNIQUE ORDERS": len(profile)}
-        text = "".join(f"# {k}: {v}\n" for k, v in header.items())
-        text += "".join(f"# ALTERNATIVE NAME {i}: {name}\n" for i, name in enumerate(ward["candidates"], 1))
+        text = "".join(f"# {k}: {v}".rstrip() + "\n" for k, v in header.items())
+        text += "".join(f"# ALTERNATIVE NAME {i}: {name}".rstrip() + "\n" for i, name in enumerate(ward["candidates"], 1))
         text += "".join(f"{count}: {', '.join(map(str, order))}\n" for order, count in sorted(profile.items(), key=lambda x: (-x[1], x[0])))
         (dest / filename).write_text(text, encoding="utf-8")
         meta.update(file_name=filename, title=title)
@@ -93,7 +93,7 @@ def main():
     companion = f"{args.series}-00000348.dat"
     columns = ["file_name", "council", "ward", "seats", "ballots", "source_rows", "source_path", "source_sha256", "report_url"]
     with (dest / companion).open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, columns, extrasaction="ignore")
+        writer = csv.DictWriter(f, columns, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         writer.writerows(records)
     description = ('<p>Ranked ballot profiles from the Scottish council elections of 5 May 2022: '
@@ -120,7 +120,7 @@ def main():
     for r in records:
         write_info_row([r["file_name"], "original", "", r["title"], f"{r['seats']} seats; {r['ballots']} recorded ballots", args.publication_date])
     write_info_row([companion, "original", "", "Scotland 2022 ward crosswalk", "CSV metadata and report links", args.publication_date])
-    (dest / "info.txt").write_text(text + buf.getvalue(), encoding="utf-8")
+    (dest / "info.txt").write_text("\n".join(line.rstrip() for line in (text + buf.getvalue()).splitlines()) + "\n", encoding="utf-8")
     summary = dict(source_url=SOURCE_URL, source_sha256=SOURCE_SHA256,
                    wards=len(records), councils=len(set(r["council"] for r in records)),
                    ballots=sum(r["ballots"] for r in records), excluded_wards=excluded, files=manifest)
