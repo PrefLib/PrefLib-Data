@@ -1,8 +1,11 @@
 import csv
+import shutil
+import sys
 import zipfile
 import os
 
-from preflibtools.instances import get_parsed_instance
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from datafiles import logical_name, open_data_file, stored_path  # noqa: E402
 
 IN_DIR = os.path.join("..", "datasets")
 OUT_DIR = os.path.join("..", "zip")
@@ -30,9 +33,10 @@ def zip_all():
 
         for datafile_name in sorted(os.listdir(os.path.join(IN_DIR, dataset_dir))):
             print(f"\t.. {datafile_name}")
-            file_path = os.path.join(IN_DIR, dataset_dir, datafile_name)
+            # Compressed data files (x.soi.gz) are handled, and zipped, under their plain names (x.soi).
+            file_path = os.path.join(IN_DIR, dataset_dir, logical_name(datafile_name))
             ds_files.append(file_path)
-            data_type = datafile_name[-3:]
+            data_type = file_path[-3:]
             if data_type in relevant_data_types:
                 type_to_files[data_type].append(file_path)
                 metadata = file_to_metadatas[os.path.basename(file_path)]
@@ -50,7 +54,14 @@ def zip_all():
         print(f"Zipping {dataset}")
         with zipfile.ZipFile(os.path.join(OUT_DIR, dataset.replace(" - ", "_") + ".zip"), "w", zipfile.ZIP_DEFLATED) as zip_file:
             for file_path in all_files:
-                zip_file.write(file_path, os.path.basename(file_path))
+                stored = stored_path(file_path)
+                if stored == file_path:
+                    zip_file.write(file_path, os.path.basename(file_path))
+                else:
+                    zip_info = zipfile.ZipInfo.from_file(stored, os.path.basename(file_path))
+                    zip_info.compress_type = zipfile.ZIP_DEFLATED
+                    with open_data_file(file_path) as src, zip_file.open(zip_info, "w") as dst:
+                        shutil.copyfileobj(src, dst)
     #
     # for modif_type, all_files in modif_to_files.items():
     #     print(f"Zipping {modif_type}")

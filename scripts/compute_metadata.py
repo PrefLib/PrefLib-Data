@@ -2,9 +2,9 @@ from __future__ import annotations
 
 import argparse
 import csv
-import hashlib
 import os
 import pathlib
+import sys
 from collections.abc import Iterable, Callable, Collection
 from datetime import datetime
 from enum import IntEnum
@@ -14,13 +14,18 @@ from multiprocessing import Pool
 import dateutil.parser
 import pandas as pd
 
-from preflibtools.instances import get_parsed_instance, PrefLibInstance
+from preflibtools.instances import PrefLibInstance
 from preflibtools.instances.dataset import read_info_file
 from preflibtools.properties import num_alternatives, num_voters, num_different_preferences, \
     is_approval, has_condorcet, is_strict, is_complete
 from preflibtools.properties.subdomains.ordinal import is_single_peaked, is_single_peaked_pq_tree, \
     is_single_crossing
 from preflibtools.properties.subdomains.ordinal.singlepeaked import is_single_peaked_on_tree
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)
+# Data files may be stored compressed (x.soi.gz); they are always addressed by their plain path (x.soi).
+from datafiles import md5 as data_file_md5, parse_instance, stored_path  # noqa: E402
 
 
 class SPEED(IntEnum):
@@ -105,7 +110,7 @@ class Property:
             if self.is_file_property:
                 return self.compute(file_path, os.path.splitext(file_path)[1][1:])
             if pre_parsed_instance is None:
-                pre_parsed_instance = get_parsed_instance(file_path)
+                pre_parsed_instance = parse_instance(file_path)
             return self.compute_instance(pre_parsed_instance, speed)
 
     def __str__(self):
@@ -143,7 +148,7 @@ def compute_file_properties(file_path_and_property_list: Collection[str, Iterabl
     file_name = os.path.basename(file_path)
     print(f"\tComputing on {file_name} - {tuple(p.name for p in property_list)}")
     results = {}
-    instance = get_parsed_instance(file_path)
+    instance = parse_instance(file_path)
     for prop in property_list:
         res = prop.compute_file(file_path, speed, pre_parsed_instance=instance)
         if res is not None:
@@ -265,15 +270,11 @@ def get_file_number(file_path):
 
 
 def get_last_modif_time(file_path):
-    return datetime.fromtimestamp(pathlib.Path(file_path).stat().st_mtime)
+    return datetime.fromtimestamp(pathlib.Path(stored_path(file_path)).stat().st_mtime)
 
 
 def get_md5(file_path):
-    hash_md5 = hashlib.md5()
-    with open(file_path, 'rb') as f:
-        for chunk in iter(lambda: f.read(4096), b""):
-            hash_md5.update(chunk)
-    return str(hash_md5.hexdigest())
+    return str(data_file_md5(file_path))
 
 
 def get_modification_type(file_path):
@@ -332,7 +333,6 @@ ALL_PROPERTIES_LIST = [
 ]
 ALL_PROPERTIES_BY_NAME = {p.name: p for p in ALL_PROPERTIES_LIST}
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATASET_FOLDER = os.path.join(SCRIPT_DIR, "..", "datasets")
 
 

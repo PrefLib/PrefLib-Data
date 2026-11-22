@@ -1,13 +1,16 @@
 import argparse
 import warnings
 
-from preflibtools.instances.preflibinstance import get_parsed_instance
 from preflibtools.instances.dataset import read_info_file
 import preflibtools.instances.sanity as sanity
 
 import os
+import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)
+from datafiles import logical_name, parse_instance  # noqa: E402
+
 DATASET_FOLDER = os.path.join(SCRIPT_DIR, "..", "datasets")
 
 
@@ -15,7 +18,8 @@ def check_dataset(ds_dir, escalate_warnings):
     """Run sanity checks on a dataset directory and escalate warnings if specified."""
     print(f"Checking {ds_dir}")
     info_file_path = os.path.join(DATASET_FOLDER, ds_dir, "info.txt")
-    dataset_files = sorted(os.listdir(os.path.join(DATASET_FOLDER, ds_dir)))
+    # Compressed data files (x.soi.gz) are checked under their plain names (x.soi).
+    dataset_files = sorted(logical_name(f) for f in os.listdir(os.path.join(DATASET_FOLDER, ds_dir)))
 
     # Check info.txt file if it exists
     if "info.txt" in dataset_files:
@@ -69,7 +73,7 @@ def check_file(ds_dir, file, escalate_warnings):
     extension = os.path.splitext(file)[1][1:]
 
     if extension in ["soc", "toc", "soi", "toi", "cat"]:
-        instance = get_parsed_instance(file_path)
+        instance = parse_instance(file_path)
 
         # Metadata check
         metadata_errors = sanity.metadata(instance)
