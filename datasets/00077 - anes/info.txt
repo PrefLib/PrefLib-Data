@@ -1,0 +1,55 @@
+Name: American National Election Studies Data
+
+Abbreviation: anes
+
+Tags: Election
+
+Series Number: 00077
+
+Publication Date: 2026-11-22
+
+Description: <p>This dataset contains the results of the <a href="http://www.electionstudies.org/">American National Election Studies</a> thermometer polls taken between 1970 and 2008 (not including 2006).  The data presented here was derived by datasets assembled by <a href="http://www.econ.vt.edu/faculty/facultybios/tidemanbio.htm">Nicolaus Tideman</a> and <a href="http://www2.binghamton.edu/economics/people/plassmann.html">Florenz Plassmann</a>.</p> <p>Respondents (voters) were asked to give a numerical ranking between 0 and 97 for each of a number of candidates running each year.  Respondents were allowed to state that they did not know or would not respond to ranking certain candidates.  Therefore these are incomplete partial orders and have been converted to <b>toi</b> datasets.  Additionally we have extended these into <b>toc</b> files by placing all unranked candidates tied, at the end of the order.  There are between 3 and 12 candidates in the various datafiles and between 1,208 and 2,648 voters.</p><p>Restored to PrefLib in 2026 from the archived files of the previous website, where it had been omitted from the initial data migration (see <a href="https://github.com/PrefLib/PrefLib-Data/issues/32">PrefLib-Data#32</a>). The legacy induced <code>.pwg</code>, <code>.tog</code> and <code>.wmg</code> files are not distributed here as they are derivable from the <code>.toc</code> files.</p>
+
+Required Citations: None
+
+Selected Studies: Modeling the outcomes of vote-casting in actual elections; N. Tideman and F. Plassmann; In: Dan Felsenthal and Mose Machover (eds.) Electoral systems: Paradoxes, assumptions, and procedures. Springer, 217 - 251; 2012 | Which Voting Rule is Most Likely to Choose the Best Option?; N. Tideman and F. Plassmann; Public Choice; 2013 | How frequently do different voting rules encounter voting paradoxes in three-candidate elections?; N. Tideman and F. Plassmann; Social Choice and Welfare; 2013
+
+file_name, modification_type, relates_to, title, description, publication_date
+00077-00000001.toi, original, , ANES-1970, , 2026-11-22
+00077-00000001.toc, imbued, 00077-00000001.toi, ANES-1970, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000002.toi, original, , ANES-1972, , 2026-11-22
+00077-00000002.toc, imbued, 00077-00000002.toi, ANES-1972, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000003.toi, original, , ANES-1974, , 2026-11-22
+00077-00000003.toc, imbued, 00077-00000003.toi, ANES-1974, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000004.toi, original, , ANES-1976, , 2026-11-22
+00077-00000004.toc, imbued, 00077-00000004.toi, ANES-1976, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000005.toi, original, , ANES-1978, , 2026-11-22
+00077-00000005.toc, imbued, 00077-00000005.toi, ANES-1978, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000006.toi, original, , ANES-1980, , 2026-11-22
+00077-00000006.toc, imbued, 00077-00000006.toi, ANES-1980, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000007.toi, original, , ANES-1982, , 2026-11-22
+00077-00000007.toc, imbued, 00077-00000007.toi, ANES-1982, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000008.toi, original, , ANES-1984, , 2026-11-22
+00077-00000008.toc, imbued, 00077-00000008.toi, ANES-1984, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000009.toi, original, , ANES-1986, , 2026-11-22
+00077-00000009.toc, imbued, 00077-00000009.toi, ANES-1986, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000010.toi, original, , ANES-1988, , 2026-11-22
+00077-00000010.toc, imbued, 00077-00000010.toi, ANES-1988, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000011.toi, original, , ANES-1990, , 2026-11-22
+00077-00000011.toc, imbued, 00077-00000011.toi, ANES-1990, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000012.toi, original, , ANES-1992, , 2026-11-22
+00077-00000012.toc, imbued, 00077-00000012.toi, ANES-1992, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000013.toi, original, , ANES-1994, , 2026-11-22
+00077-00000013.toc, imbued, 00077-00000013.toi, ANES-1994, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000014.toi, original, , ANES-1996, , 2026-11-22
+00077-00000014.toc, imbued, 00077-00000014.toi, ANES-1996, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000015.toi, original, , ANES-1998, , 2026-11-22
+00077-00000015.toc, imbued, 00077-00000015.toi, ANES-1998, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000016.toi, original, , ANES-2000, , 2026-11-22
+00077-00000016.toc, imbued, 00077-00000016.toi, ANES-2000, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000017.toi, original, , ANES-2002, , 2026-11-22
+00077-00000017.toc, imbued, 00077-00000017.toi, ANES-2002, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000018.toi, original, , ANES-2004, , 2026-11-22
+00077-00000018.toc, imbued, 00077-00000018.toi, ANES-2004, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
+00077-00000019.toi, original, , ANES-2008, , 2026-11-22
+00077-00000019.toc, imbued, 00077-00000019.toi, ANES-2008, Obtained from the toi by adding the unranked alternatives at the bottom, 2026-11-22
